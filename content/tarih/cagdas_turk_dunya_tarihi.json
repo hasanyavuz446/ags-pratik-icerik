@@ -5,13 +5,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "1917 Ekim Devrimi'ni gerçekleştirerek Rusya'da Bolşevik yönetimi kuran lider aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Stalin",
-      "B": "Gorbaçov",
-      "C": "Kerenski",
-      "D": "Troçki",
-      "E": "Lenin"
+      "A": "Lenin",
+      "B": "Stalin",
+      "C": "Gorbaçov",
+      "D": "Kerenski",
+      "E": "Troçki"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Lenin önderliğindeki Bolşevikler 1917'de iktidarı ele geçirmiş, 1922'de SSCB kurulmuştur.",
     "source": {
       "kind": "generated",
@@ -28,13 +28,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "I. Dünya Savaşı'nın sonunda Almanya ile imzalanan ve Almanya'ya ağır yükümlülükler getiren antlaşma aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Neuilly Antlaşması",
-      "B": "Sevr Antlaşması",
-      "C": "Versay Antlaşması",
+      "A": "Versay Antlaşması",
+      "B": "Neuilly Antlaşması",
+      "C": "Sevr Antlaşması",
       "D": "Saint-Germain Antlaşması",
       "E": "Trianon Antlaşması"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "1919 Versay Antlaşması Almanya'nın silahsızlandırılmasını, toprak kaybını ve tazminat ödemesini öngörmüştür.",
     "source": {
       "kind": "generated",
@@ -77,10 +77,10 @@
       "A": "Japonya'da ihracatın azalmasıyla",
       "B": "Almanya'da bankaların iflas etmesiyle",
       "C": "İngiltere'de sömürge ticaretinin durmasıyla",
-      "D": "ABD'de New York Borsası'nın çökmesiyle",
-      "E": "Fransa'da altın stokunun erimesiyle"
+      "D": "Fransa'da altın stokunun erimesiyle",
+      "E": "ABD'de New York Borsası'nın çökmesiyle"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Bunalım, Ekim 1929'da New York Borsası'ndaki çöküşle başlamış ve tüm dünyaya yayılmıştır.",
     "source": {
       "kind": "generated",
@@ -98,12 +98,12 @@
     "stem": "1929 bunalımına karşı ABD'de devletin ekonomiye müdahalesini öngören 'Yeni Düzen' (New Deal) politikasını uygulayan başkan aşağıdakilerden hangisidir?",
     "options": {
       "A": "Woodrow Wilson",
-      "B": "F. D. Roosevelt",
-      "C": "Harry Truman",
-      "D": "Herbert Hoover",
+      "B": "Harry Truman",
+      "C": "Herbert Hoover",
+      "D": "F. D. Roosevelt",
       "E": "Calvin Coolidge"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Roosevelt 1933'ten itibaren New Deal ile işsizliği ve bankacılık sorunlarını gidermeye çalışmıştır.",
     "source": {
       "kind": "generated",
@@ -146,10 +146,10 @@
       "A": "Weimar Cumhuriyeti'nin siyasi istikrarsızlığı",
       "B": "Versay Antlaşması'nın ağır koşulları",
       "C": "Komünizm korkusunun yaygınlaşması",
-      "D": "Versay'ın Alman halkınca adil bulunması",
-      "E": "Ekonomik bunalım ve yaygın işsizlik"
+      "D": "Ekonomik bunalım ve yaygın işsizlik",
+      "E": "Versay'ın Alman halkınca adil bulunması"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Alman halkı Versay'ı haksız bulmuş, bu hoşnutsuzluk Hitler'in propagandasına zemin hazırlamıştır.",
     "source": {
       "kind": "generated",
@@ -166,13 +166,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Japonya'nın 1931'de işgal ederek Milletler Cemiyeti'nin etkisizliğini gösteren Çin bölgesi aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Mançurya",
-      "B": "Tayvan",
-      "C": "Kore",
-      "D": "Tibet",
-      "E": "Moğolistan"
+      "A": "Tayvan",
+      "B": "Kore",
+      "C": "Tibet",
+      "D": "Moğolistan",
+      "E": "Mançurya"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Japonya'nın Mançurya'yı işgali karşısında Milletler Cemiyeti yaptırım uygulayamamıştır.",
     "source": {
       "kind": "generated",
@@ -215,10 +215,10 @@
       "A": "Brejnev",
       "B": "Troçki",
       "C": "Kruşçev",
-      "D": "Gorbaçov",
-      "E": "Stalin"
+      "D": "Stalin",
+      "E": "Gorbaçov"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Stalin 1920'lerin sonundan itibaren planlı ekonomiyi ve sert bir tek parti rejimini uygulamıştır.",
     "source": {
       "kind": "generated",
@@ -259,12 +259,12 @@
     "stem": "Berlin-Roma-Tokyo Üçlü Paktı'nı imzalayan Eksen devletleri aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": {
       "A": "Almanya, Japonya ve SSCB",
-      "B": "İtalya, Japonya ve Macaristan",
-      "C": "Almanya, İtalya ve Japonya",
+      "B": "Almanya, İtalya ve Japonya",
+      "C": "İtalya, Japonya ve Macaristan",
       "D": "Almanya, İtalya ve Bulgaristan",
       "E": "Almanya, Avusturya ve İtalya"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Üçlü Pakt 1940'ta Almanya, İtalya ve Japonya arasında imzalanmıştır.",
     "source": {
       "kind": "generated",
@@ -328,12 +328,12 @@
     "stem": "Doğu Cephesi'nde Alman ilerleyişini durduran ve savaşın dönüm noktalarından sayılan muharebe aşağıdakilerden hangisidir?",
     "options": {
       "A": "Verdun Muharebesi",
-      "B": "Stalingrad Muharebesi",
-      "C": "Dunkirk Tahliyesi",
-      "D": "Sarıkamış Muharebesi",
+      "B": "Dunkirk Tahliyesi",
+      "C": "Sarıkamış Muharebesi",
+      "D": "Stalingrad Muharebesi",
       "E": "Pearl Harbor Saldırısı"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Stalingrad'da (1942-1943) Alman 6. Ordusu yenilmiş ve inisiyatif SSCB'ye geçmiştir.",
     "source": {
       "kind": "generated",
@@ -351,12 +351,12 @@
     "stem": "ABD'nin 1945'te Japonya'ya atom bombası attığı iki şehir aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": {
       "A": "Kyoto ve Yokohama",
-      "B": "Hiroşima ve Nagazaki",
-      "C": "Tokyo ve Osaka",
-      "D": "Nagoya ve Kobe",
-      "E": "Hiroşima ve Tokyo"
+      "B": "Tokyo ve Osaka",
+      "C": "Nagoya ve Kobe",
+      "D": "Hiroşima ve Tokyo",
+      "E": "Hiroşima ve Nagazaki"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "6 ve 9 Ağustos 1945'te Hiroşima ve Nagazaki'ye atılan bombalar Japonya'yı teslim olmaya götürmüştür.",
     "source": {
       "kind": "generated",
@@ -376,10 +376,10 @@
       "A": "Çin",
       "B": "ABD",
       "C": "İngiltere",
-      "D": "Fransa",
-      "E": "Almanya"
+      "D": "Almanya",
+      "E": "Fransa"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Daimi üyeler ABD, SSCB (Rusya), İngiltere, Fransa ve Çin'dir; Almanya daimi üye değildir.",
     "source": {
       "kind": "generated",
@@ -465,13 +465,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "II. Dünya Savaşı sonrası Avrupa'nın ekonomik olarak yeniden kalkınması için ABD'nin 1947'de başlattığı yardım programı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "New Deal",
-      "B": "Dawes Planı",
-      "C": "Truman Doktrini",
-      "D": "Marshall Planı",
+      "A": "Marshall Planı",
+      "B": "New Deal",
+      "C": "Dawes Planı",
+      "D": "Truman Doktrini",
       "E": "Young Planı"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Marshall Planı, Avrupa ülkelerini ekonomik olarak ABD etkisine yaklaştırmıştır.",
     "source": {
       "kind": "generated",
@@ -488,13 +488,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Varşova Paktı (1955) aşağıdaki gelişmelerden hangisine karşılık olarak kurulmuştur?",
     "options": {
-      "A": "Federal Almanya'nın NATO'ya alınmasına",
-      "B": "Berlin Duvarı'nın yapılmasına",
-      "C": "Marshall Planı'nın uygulanmaya başlanmasına",
+      "A": "Berlin Duvarı'nın yapılmasına",
+      "B": "Marshall Planı'nın uygulanmaya başlanmasına",
+      "C": "Federal Almanya'nın NATO'ya alınmasına",
       "D": "Truman Doktrini'nin ilan edilmesine",
       "E": "Küba Füze Krizi'nin çıkmasına"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "SSCB önderliğindeki Doğu Bloku, Batı Almanya'nın NATO'ya katılması üzerine Varşova Paktı'nı kurmuştur.",
     "source": {
       "kind": "generated",
@@ -514,10 +514,10 @@
       "A": "Kore Savaşı",
       "B": "Süveyş Krizi",
       "C": "Macaristan Ayaklanması",
-      "D": "Küba Füze Krizi",
-      "E": "Berlin Ablukası"
+      "D": "Berlin Ablukası",
+      "E": "Küba Füze Krizi"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Berlin Ablukası (1948-1949), Almanya'nın bölünmesini kalıcılaştırmıştır.",
     "source": {
       "kind": "generated",
@@ -534,13 +534,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Küba Füze Krizi'nin (1962) çözümü sırasında ABD'nin Türkiye'den çektiği füzeler aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Jüpiter füzeleri",
-      "B": "Polaris füzeleri",
-      "C": "Pershing füzeleri",
+      "A": "Polaris füzeleri",
+      "B": "Pershing füzeleri",
+      "C": "Jüpiter füzeleri",
       "D": "Nike füzeleri",
       "E": "Patriot füzeleri"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "SSCB, Küba'daki füzeleri çekerken ABD'nin Türkiye'deki Jüpiter füzelerini kaldırması da uzlaşmanın parçası olmuştur.",
     "source": {
       "kind": "generated",
@@ -557,13 +557,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Berlin Duvarı hangi yılda yıkılmıştır?",
     "options": {
-      "A": "1961",
-      "B": "1991",
-      "C": "1989",
+      "A": "1989",
+      "B": "1961",
+      "C": "1991",
       "D": "1979",
       "E": "1949"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Berlin Duvarı 1961'de örülmüş, 1989'da yıkılmış ve Almanya 1990'da birleşmiştir.",
     "source": {
       "kind": "generated",
@@ -580,13 +580,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "SSCB'de glasnost (açıklık) ve perestroyka (yeniden yapılanma) politikalarını uygulayan lider aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Kruşçev",
-      "B": "Brejnev",
-      "C": "Gorbaçov",
+      "A": "Gorbaçov",
+      "B": "Kruşçev",
+      "C": "Brejnev",
       "D": "Stalin",
       "E": "Yeltsin"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Gorbaçov'un reformları SSCB'nin 1991'de dağılma sürecini hızlandırmıştır.",
     "source": {
       "kind": "generated",
@@ -606,10 +606,10 @@
       "A": "Afganistan Savaşı",
       "B": "Körfez Savaşı",
       "C": "Kore Savaşı",
-      "D": "Vietnam Savaşı",
-      "E": "Irak Savaşı"
+      "D": "Irak Savaşı",
+      "E": "Vietnam Savaşı"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "ABD, Vietnam'da yıpratıcı bir savaştan sonra 1973'te askerini çekmeye başlamış, 1975'te Saygon düşmüştür.",
     "source": {
       "kind": "generated",
@@ -627,12 +627,12 @@
     "stem": "Soğuk Savaş döneminde iki bloğa da katılmayan 'Bağlantısızlar' hareketinin öncüleri aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": {
       "A": "Mao, Nehru ve Sukarno",
-      "B": "Tito, Mao ve Franco",
-      "C": "Nasır, Nehru ve Tito",
+      "B": "Nasır, Nehru ve Tito",
+      "C": "Tito, Mao ve Franco",
       "D": "Nasır, Castro ve Salazar",
       "E": "Nehru, Kruşçev ve Castro"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Mısır'dan Nasır, Hindistan'dan Nehru ve Yugoslavya'dan Tito Bağlantısızlar hareketinin öncüleri sayılır.",
     "source": {
       "kind": "generated",
@@ -650,12 +650,12 @@
     "stem": "Avrupa Birliği'nin kuruluşunu sağlayan ve adını Hollanda'daki bir kentten alan 1992 tarihli antlaşma aşağıdakilerden hangisidir?",
     "options": {
       "A": "Roma Antlaşması",
-      "B": "Paris Antlaşması",
-      "C": "Amsterdam Antlaşması",
-      "D": "Lizbon Antlaşması",
-      "E": "Maastricht Antlaşması"
+      "B": "Maastricht Antlaşması",
+      "C": "Paris Antlaşması",
+      "D": "Amsterdam Antlaşması",
+      "E": "Lizbon Antlaşması"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Maastricht Antlaşması (1992) ile Avrupa Topluluğu'ndan Avrupa Birliği'ne geçilmiştir.",
     "source": {
       "kind": "generated",
@@ -697,11 +697,11 @@
     "options": {
       "A": "Yemen",
       "B": "Libya",
-      "C": "Suriye",
-      "D": "Mısır",
-      "E": "Tunus"
+      "C": "Tunus",
+      "D": "Suriye",
+      "E": "Mısır"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Arap Baharı, Aralık 2010'da Tunus'ta başlayıp diğer Arap ülkelerine yayılmıştır.",
     "source": {
       "kind": "generated",
@@ -719,12 +719,12 @@
     "stem": "Türkiye'nin Birleşmiş Milletler'in kurucu üyesi olabilmek için 1945'te savaş ilan ettiği devletler aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": {
       "A": "Almanya ve İtalya",
-      "B": "Almanya ve SSCB",
-      "C": "Bulgaristan ve Macaristan",
-      "D": "Almanya ve Japonya",
+      "B": "Almanya ve Japonya",
+      "C": "Almanya ve SSCB",
+      "D": "Bulgaristan ve Macaristan",
       "E": "İtalya ve Japonya"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "BM'ye kurucu üye olmak için 1 Mart 1945'ten önce Eksen'e savaş ilan etmek şartı vardı; Türkiye Şubat 1945'te Almanya ve Japonya'ya savaş ilan etmiştir.",
     "source": {
       "kind": "generated",
@@ -742,12 +742,12 @@
     "stem": "SSCB'nin II. Dünya Savaşı sonrasında Boğazlarda üs isteğinin yanı sıra Türkiye'den bırakılmasını istediği iller aşağıdakilerden hangisidir?",
     "options": {
       "A": "Trabzon ve Rize",
-      "B": "Kars ve Ardahan",
-      "C": "Van ve Hakkâri",
+      "B": "Van ve Hakkâri",
+      "C": "Kars ve Ardahan",
       "D": "Hatay ve Mersin",
       "E": "Edirne ve Kırklareli"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "SSCB 1945'te Türk-Sovyet Dostluk Antlaşması'nı feshetmiş ve Kars-Ardahan ile Boğazlarda üs talebinde bulunmuştur.",
     "source": {
       "kind": "generated",
@@ -766,11 +766,11 @@
     "options": {
       "A": "Serbest Cumhuriyet Fırkası",
       "B": "Millet Partisi",
-      "C": "Millî Kalkınma Partisi",
-      "D": "Demokrat Parti",
-      "E": "Terakkiperver Cumhuriyet Fırkası"
+      "C": "Demokrat Parti",
+      "D": "Terakkiperver Cumhuriyet Fırkası",
+      "E": "Millî Kalkınma Partisi"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Millî Kalkınma Partisi (1945) çok partili dönemin ilk muhalefet partisi sayılır; Demokrat Parti 1946'da kurulmuştur.",
     "source": {
       "kind": "generated",
@@ -788,12 +788,12 @@
     "stem": "14 Mayıs 1950 seçimlerinden sonra Başbakanlık görevine gelen Demokrat Parti lideri aşağıdakilerden hangisidir?",
     "options": {
       "A": "Fuat Köprülü",
-      "B": "Celal Bayar",
-      "C": "Refik Koraltan",
-      "D": "İsmet İnönü",
-      "E": "Adnan Menderes"
+      "B": "Adnan Menderes",
+      "C": "Celal Bayar",
+      "D": "Refik Koraltan",
+      "E": "İsmet İnönü"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "1950'de Demokrat Parti iktidara gelmiş; Celal Bayar Cumhurbaşkanı, Adnan Menderes Başbakan olmuştur.",
     "source": {
       "kind": "generated",
@@ -812,11 +812,11 @@
     "options": {
       "A": "Halifeliğin kaldırılarak hanedanın sürülmesi",
       "B": "Soyadı Kanunu'nun çıkarılarak soyadı alınması",
-      "C": "Latin harflerinin kabul edilerek kullanılması",
-      "D": "Ezanın Arapça okunmasına izin verilmesi",
+      "C": "Ezanın Arapça okunmasına izin verilmesi",
+      "D": "Latin harflerinin kabul edilerek kullanılması",
       "E": "Medreselerin kapatılarak Tevhid-i Tedrisat'ın çıkarılması"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "DP, 1950'de ezanın Arapça okunmasını serbest bırakmıştır; öteki düzenlemeler Atatürk dönemindedir.",
     "source": {
       "kind": "generated",
@@ -833,13 +833,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Kore Savaşı'na asker gönderen Türkiye'nin 1952'de üye olduğu askerî ittifak aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Balkan Antantı",
-      "B": "Avrupa Birliği",
-      "C": "Bağdat Paktı",
-      "D": "Varşova Paktı",
-      "E": "NATO"
+      "A": "NATO",
+      "B": "Balkan Antantı",
+      "C": "Avrupa Birliği",
+      "D": "Bağdat Paktı",
+      "E": "Varşova Paktı"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Türkiye, Kore'deki katkısının ardından 1952'de NATO'ya kabul edilmiştir.",
     "source": {
       "kind": "generated",
@@ -859,10 +859,10 @@
       "A": "Dumlupınar Meydan Muharebesi",
       "B": "Pusan Çemberi",
       "C": "Sarıkamış Harekâtı",
-      "D": "Kunuri Muharebesi",
-      "E": "İnchon Çıkarması"
+      "D": "İnchon Çıkarması",
+      "E": "Kunuri Muharebesi"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Türk Tugayı, 1950 Kunuri Muharebesi'nde BM kuvvetlerinin geri çekilişini koruyarak ün kazanmıştır.",
     "source": {
       "kind": "generated",
@@ -879,13 +879,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "1955'te Türkiye, Irak, İran, Pakistan ve İngiltere arasında kurulan ve 1959'da Irak'ın ayrılmasıyla adı CENTO olan pakt aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Bağdat Paktı",
-      "B": "Sadabat Paktı",
-      "C": "Balkan Antantı",
-      "D": "Varşova Paktı",
+      "A": "Sadabat Paktı",
+      "B": "Balkan Antantı",
+      "C": "Varşova Paktı",
+      "D": "Bağdat Paktı",
       "E": "Atlantik Paktı"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Bağdat Paktı, Ortadoğu'da Sovyet etkisini sınırlamak amacıyla Batı bloğunun desteğiyle kurulmuştur.",
     "source": {
       "kind": "generated",
@@ -905,10 +905,10 @@
       "A": "Türkiye, İngiltere ve Fransa",
       "B": "Yunanistan, İngiltere ve SSCB",
       "C": "Türkiye, Yunanistan ve Fransa",
-      "D": "Türkiye, Yunanistan ve ABD",
-      "E": "Türkiye, Yunanistan ve İngiltere"
+      "D": "Türkiye, Yunanistan ve İngiltere",
+      "E": "Türkiye, Yunanistan ve ABD"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "1959 Zürih ve Londra Antlaşmaları ile Kıbrıs bağımsız kılınmış, Türkiye, Yunanistan ve İngiltere garantör olmuştur.",
     "source": {
       "kind": "generated",
@@ -948,13 +948,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Aşağıdakilerden hangisi 1961 Anayasası ile getirilen düzenlemelerden biri değildir?",
     "options": {
-      "A": "Cumhurbaşkanının halk tarafından seçilmesi",
-      "B": "Millî Güvenlik Kurulu'nun oluşturulması",
-      "C": "TBMM ve Cumhuriyet Senatosu'ndan oluşan iki meclisli yapının getirilmesi",
-      "D": "Sendika, grev ve toplu sözleşme haklarının tanınması",
+      "A": "Millî Güvenlik Kurulu'nun oluşturulması",
+      "B": "TBMM ve Cumhuriyet Senatosu'ndan oluşan iki meclisli yapının getirilmesi",
+      "C": "Sendika, grev ve toplu sözleşme haklarının tanınması",
+      "D": "Cumhurbaşkanının halk tarafından seçilmesi",
       "E": "Anayasa Mahkemesi'nin kurulması"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "1961 Anayasası'nda Cumhurbaşkanını TBMM seçiyordu; halk tarafından seçim 2007 değişikliğiyle gelmiştir.",
     "source": {
       "kind": "generated",
@@ -994,13 +994,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Kıbrıs'a müdahale hazırlığındaki Türkiye'yi engelleyen 1964 tarihli ABD Başkanı Johnson mektubu hangi başbakana yazılmıştır?",
     "options": {
-      "A": "Adnan Menderes",
-      "B": "Süleyman Demirel",
-      "C": "Nihat Erim",
-      "D": "İsmet İnönü",
+      "A": "İsmet İnönü",
+      "B": "Adnan Menderes",
+      "C": "Süleyman Demirel",
+      "D": "Nihat Erim",
       "E": "Bülent Ecevit"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Johnson, 1964'te Başbakan İsmet İnönü'ye yazdığı mektupta Türkiye'nin Kıbrıs'a müdahalesine ABD desteğinin olmayacağını bildirmiştir.",
     "source": {
       "kind": "generated",
@@ -1017,13 +1017,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Türkiye ile Avrupa Ekonomik Topluluğu arasında 1963'te imzalanan ortaklık antlaşması aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Ankara Antlaşması",
-      "B": "Roma Antlaşması",
-      "C": "Maastricht Antlaşması",
+      "A": "Roma Antlaşması",
+      "B": "Maastricht Antlaşması",
+      "C": "Ankara Antlaşması",
       "D": "Lozan Antlaşması",
       "E": "Katma Protokol"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Ankara Antlaşması (1963), Türkiye'yi AET'ye ortak üye yapmış ve tam üyeliği hedeflemiştir.",
     "source": {
       "kind": "generated",
@@ -1066,10 +1066,10 @@
       "A": "Londra ve Zürih Antlaşmalarının imzalanması ve onaylanması",
       "B": "Kıbrıs Cumhuriyeti'nin garantörlük rejimiyle kurulması",
       "C": "Kıbrıs Türk Federe Devleti'nin ilan edilmesi",
-      "D": "ABD'nin Türkiye'ye silah ambargosu uygulaması kararı",
-      "E": "Yunan cuntası destekli grubun Makarios'u devirmesi"
+      "D": "Yunan cuntası destekli grubun Makarios'u devirmesi",
+      "E": "ABD'nin Türkiye'ye silah ambargosu uygulaması kararı"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Temmuz 1974'te Makarios'un devrilmesi ve Enosis tehlikesi üzerine Türkiye garantörlük hakkına dayanarak adaya çıkmıştır.",
     "source": {
       "kind": "generated",
@@ -1086,13 +1086,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "15 Kasım 1983'te ilan edilen Kuzey Kıbrıs Türk Cumhuriyeti'nin ilk Cumhurbaşkanı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Rauf Denktaş",
-      "B": "Makarios",
-      "C": "Turgut Özal",
-      "D": "Bülent Ecevit",
+      "A": "Makarios",
+      "B": "Turgut Özal",
+      "C": "Bülent Ecevit",
+      "D": "Rauf Denktaş",
       "E": "Fazıl Küçük"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Rauf Denktaş, KKTC'nin ilk Cumhurbaşkanı olmuştur.",
     "source": {
       "kind": "generated",
@@ -1109,13 +1109,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "12 Eylül 1980 askerî müdahalesinin ardından Millî Güvenlik Konseyi Başkanı olan ve 1982'de Cumhurbaşkanı seçilen general aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Turgut Özal",
-      "B": "Kenan Evren",
+      "A": "Kenan Evren",
+      "B": "Turgut Özal",
       "C": "Cevdet Sunay",
       "D": "Fahri Korutürk",
       "E": "Cemal Gürsel"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Orgeneral Kenan Evren, 1982 Anayasası'nın halk oylamasıyla kabul edilmesiyle birlikte Cumhurbaşkanı olmuştur.",
     "source": {
       "kind": "generated",
@@ -1157,11 +1157,11 @@
     "options": {
       "A": "1995",
       "B": "1963",
-      "C": "1981",
-      "D": "1987",
+      "C": "1987",
+      "D": "1981",
       "E": "1970"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Özal hükûmeti 1987'de tam üyelik başvurusunda bulunmuş, başvuru 1989'da 'şimdilik uygun değil' diye yanıtlanmıştır.",
     "source": {
       "kind": "generated",
@@ -1180,11 +1180,11 @@
     "options": {
       "A": "Amsterdam",
       "B": "Nice",
-      "C": "Lüksemburg",
-      "D": "Helsinki",
+      "C": "Helsinki",
+      "D": "Lüksemburg",
       "E": "Kopenhag"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Helsinki Zirvesi'nde (1999) Türkiye'nin adaylığı resmen kabul edilmiştir.",
     "source": {
       "kind": "generated",
@@ -1201,13 +1201,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Türkiye ile Avrupa Birliği arasında tam üyelik müzakereleri hangi yılda başlamıştır?",
     "options": {
-      "A": "2005",
-      "B": "1999",
+      "A": "1999",
+      "B": "2005",
       "C": "1987",
       "D": "2010",
       "E": "2002"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Katılım müzakereleri 3 Ekim 2005'te başlamıştır.",
     "source": {
       "kind": "generated",
@@ -1224,13 +1224,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Aşağıdakilerden hangisi SSCB'nin dağılmasıyla 1991'de bağımsızlığını kazanan Türk cumhuriyetlerinden biri değildir?",
     "options": {
-      "A": "Gürcistan",
-      "B": "Özbekistan",
-      "C": "Kazakistan",
-      "D": "Azerbaycan",
-      "E": "Türkmenistan"
+      "A": "Özbekistan",
+      "B": "Kazakistan",
+      "C": "Azerbaycan",
+      "D": "Türkmenistan",
+      "E": "Gürcistan"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Gürcistan Türk cumhuriyeti değildir; öteki dört ülke 1991'de bağımsızlığını ilan eden Türk cumhuriyetleridir.",
     "source": {
       "kind": "generated",
@@ -1248,12 +1248,12 @@
     "stem": "Türkiye'nin Orta Asya ve Kafkasya'daki Türk cumhuriyetleriyle işbirliğini geliştirmek amacıyla 1992'de kurduğu kurum aşağıdakilerden hangisidir?",
     "options": {
       "A": "Yunus Emre Enstitüsü",
-      "B": "TİKA",
-      "C": "TÜRKSOY",
-      "D": "YTB",
+      "B": "TÜRKSOY",
+      "C": "YTB",
+      "D": "TİKA",
       "E": "DPT"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Türk İşbirliği ve Koordinasyon Ajansı (TİKA), Sovyetler sonrası Türk dünyasıyla ilişkileri geliştirmek için kurulmuştur.",
     "source": {
       "kind": "generated",
@@ -1386,12 +1386,12 @@
     "stem": "1962'de Sovyetler Birliği'nin Küba'ya nükleer füze yerleştirmesi üzerine ABD ile SSCB arasında nükleer savaş tehlikesinin ortaya çıktığı olay aşağıdakilerden hangisidir?",
     "options": {
       "A": "Vietnam Savaşı",
-      "B": "Macaristan Ayaklanması",
-      "C": "Kore Savaşı",
-      "D": "Küba Füze Krizi",
+      "B": "Küba Füze Krizi",
+      "C": "Macaristan Ayaklanması",
+      "D": "Kore Savaşı",
       "E": "Berlin Krizi"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Ekim 1962'de SSCB'nin Küba'ya füze yerleştirmesi, ABD'nin Küba'ya deniz ablukası uygulamasına ve iki devletin nükleer savaşın eşiğine gelmesine yol açmıştır.",
     "source": {
       "kind": "generated",
@@ -1410,11 +1410,11 @@
     "options": {
       "A": "İran",
       "B": "Suudi Arabistan",
-      "C": "Kuveyt",
-      "D": "Suriye",
-      "E": "Ürdün"
+      "C": "Suriye",
+      "D": "Ürdün",
+      "E": "Kuveyt"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Ağustos 1990'da Irak'ın Kuveyt'i işgali, Birleşmiş Milletler kararlarına ve 1991'de koalisyon güçlerinin Irak'a karşı Körfez Savaşı'na girişmesine neden olmuştur.",
     "source": {
       "kind": "generated",
@@ -1525,11 +1525,11 @@
     "options": {
       "A": "12 Eylül 1980 askerî müdahalesi",
       "B": "27 Mayıs 1960 askerî müdahalesi",
-      "C": "12 Mart 1971 askerî muhtırası",
-      "D": "28 Şubat 1997 MGK kararları",
-      "E": "15 Temmuz 2016 tarihli darbe girişimi"
+      "C": "15 Temmuz 2016 tarihli darbe girişimi",
+      "D": "12 Mart 1971 askerî muhtırası",
+      "E": "28 Şubat 1997 MGK kararları"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Boğaziçi Köprüsü'nün kapatılması, TBMM ve Cumhurbaşkanlığı çevresinin bombalanması, TRT'de “Yurtta Sulh Konseyi” adına bildiri okutulması ve halkın sokaklara çıkması 15 Temmuz 2016 darbe girişimine (FETÖ'nün kalkışması) ait gelişmelerdir.",
     "source": {
       "kind": "generated",
@@ -1570,12 +1570,12 @@
     "stem": "15 Temmuz 2016 darbe girişiminin hemen ardından, 20 Temmuz 2016'da üç ay süreyle ilan edilen ve birçok kez uzatılarak 2018 yazına kadar süren yönetim biçimi aşağıdakilerden hangisidir?",
     "options": {
       "A": "Savaş hâli",
-      "B": "Genel af",
-      "C": "Olağanüstü hâl",
+      "B": "Olağanüstü hâl",
+      "C": "Genel af",
       "D": "Sıkıyönetim",
       "E": "Genel seferberlik"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Darbe girişiminden sonra 20 Temmuz 2016'da olağanüstü hâl (OHAL) ilan edilmiş, defalarca uzatılan OHAL Temmuz 2018'de sona ermiştir.",
     "source": {
       "kind": "generated",
@@ -1594,11 +1594,11 @@
     "options": {
       "A": "Yeni anayasanın doğrudan yürürlüğe girmesi",
       "B": "Cumhuriyet'in yeniden ilan edilmesi",
-      "C": "Halk direnişiyle ve TBMM'nin ortak tavrıyla başarısız olması",
-      "D": "Yalnızca sivil örgütlerce yürütülmesi",
-      "E": "Kısa sürede iktidarı ele geçirmesi"
+      "C": "Yalnızca sivil örgütlerce yürütülmesi",
+      "D": "Kısa sürede iktidarı ele geçirmesi",
+      "E": "Halk direnişiyle ve TBMM'nin ortak tavrıyla başarısız olması"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "1960 ve 1980 müdahaleleri iktidarı ele geçirmiştir; 15 Temmuz 2016 girişimi ise halkın sokaklara çıkması ve TBMM'deki partilerin ortak tavrıyla başarısız olmuştur.",
     "source": {
       "kind": "generated",
@@ -1638,13 +1638,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Bir tarih kitabında bir iç savaşla ilgili şu açıklama yer almaktadır:\n\n“1936'da bir Avrupa ülkesinde seçimle kurulan cumhuriyet hükümetine karşı subaylar ayaklanmış, üç yıl süren çatışmalarda ayaklananlara Almanya ve İtalya, hükûmete ise Sovyetler Birliği ve gönüllü uluslararası tugaylar destek vermiştir. Savaşı ayaklananların lideri Franco kazanmıştır.”\n\nBu savaşın II. Dünya Savaşı'nın “provası” sayılmasının temel nedeni aşağıdakilerden hangisidir?",
     "options": {
-      "A": "BM'nin savaşa askerî müdahalesi",
-      "B": "Karşıt blokların iki tarafı silahla desteklemesi",
+      "A": "Karşıt blokların iki tarafı silahla desteklemesi",
+      "B": "BM'nin savaşa askerî müdahalesi",
       "C": "İlk kez nükleer silah kullanılması",
       "D": "Savaşın Asya sömürgelerinde yapılması",
       "E": "Milletler Cemiyeti'nin savaş sonunda kurulması"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "İspanya İç Savaşı (1936–1939), Almanya ve İtalya'nın Franco'yu, SSCB'nin ise cumhuriyetçileri desteklediği, yeni silah ve taktiklerin denendiği bir çatışmadır; bu yönüyle II. Dünya Savaşı'nın habercisi sayılır. Milletler Cemiyeti 1920'de kurulmuştur.",
     "source": {
       "kind": "generated",
@@ -1662,12 +1662,12 @@
     "stem": "1925'te imzalanan bir antlaşma dizisiyle Almanya, Fransa ve Belçika ile kendi batı sınırlarını tanımış, aynı yıl Almanya'nın Milletler Cemiyeti'ne girmesinin yolu açılmıştır. Bu gelişmeler Avrupa'da bir barış havasının doğduğunu düşündürmüştür.\n\nBu bilgilerin ilişkin olduğu antlaşma aşağıdakilerden hangisidir?",
     "options": {
       "A": "Brest-Litovsk Antlaşması",
-      "B": "Locarno Antlaşmaları",
-      "C": "Münih Antlaşması",
+      "B": "Münih Antlaşması",
+      "C": "Locarno Antlaşmaları",
       "D": "Sevr Antlaşması",
       "E": "Versay Antlaşması"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Locarno Antlaşmaları (1925) Almanya'nın batı sınırlarını güvence altına almış ve Almanya'nın Milletler Cemiyeti'ne girmesinin (1926) önünü açmıştır.",
     "source": {
       "kind": "generated",
@@ -1708,12 +1708,12 @@
     "stem": "1979'da bir ülkede monarşi yıkılıp İslam Cumhuriyeti kurulmuştur. Bir yıl sonra komşu ülke, Şattülarap su yolu ve sınır sorunları nedeniyle bu ülkeye saldırmış, savaş sekiz yıl sürmüş ve 1988'de BM'nin arabuluculuğuyla sona ermiştir.\n\nBu savaş sırasında Türkiye'nin izlediği politika aşağıdakilerden hangisidir?",
     "options": {
       "A": "İki ülkeyle ilişkilerini kesmesi",
-      "B": "Bölgeye askerî kuvvet göndermesi",
-      "C": "Her iki ülkeye karşı tarafsız kalması",
+      "B": "Her iki ülkeye karşı tarafsız kalması",
+      "C": "Bölgeye askerî kuvvet göndermesi",
       "D": "Irak'ın yanında savaşa katılması",
       "E": "İran'ın yanında savaşa katılması"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "İran–Irak Savaşı (1980–1988) sırasında Türkiye tarafsızlık politikası izlemiştir.",
     "source": {
       "kind": "generated",
@@ -1730,13 +1730,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "1955'te Endonezya'da toplanan konferansa 29 Asya ve Afrika ülkesi katılmış; konferansta sömürgeciliğin sona erdirilmesi, barış içinde bir arada yaşama ve işbirliği ilkeleri üzerinde durulmuştur. Türkiye de bu toplantıya katılmıştır.\n\nBu bilgilerin ilişkin olduğu toplantı ve sonraki gelişim aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Yalta Konferansı; BM'nin kurulması",
-      "B": "Bandung Konferansı; Bağlantısızlar Hareketi'nin temeli",
+      "A": "Bandung Konferansı; Bağlantısızlar Hareketi'nin temeli",
+      "B": "Yalta Konferansı; BM'nin kurulması",
       "C": "Potsdam Konferansı; Almanya'nın bölünmesi",
       "D": "Helsinki Konferansı; Varşova Paktı'nın kurulması",
       "E": "Cenevre Konferansı; NATO'nun kurulması"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Bandung Konferansı (1955), sömürgecilik karşıtı Asya–Afrika ülkelerini bir araya getirmiş ve 1961'de kurulan Bağlantısızlar Hareketi'nin zeminini hazırlamıştır.",
     "source": {
       "kind": "generated",
@@ -1753,13 +1753,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Bir tarihçi Soğuk Savaş'ın başlangıcında Batı bloğunun oluşumunu şöyle anlatmıştır:\n\n“1947'de ABD, Türkiye ve Yunanistan'a askerî ve ekonomik yardım öngören bir politika açıkladı. 1948'de Avrupa'nın ekonomik olarak toparlanması için bir yardım planı uygulamaya konuldu; bu yardımın Avrupa ülkeleri arasında paylaştırılması için bir ekonomik işbirliği örgütü kuruldu. 1949'da ise Batılı devletler ortak bir savunma ittifakı oluşturdu.”\n\nBu bilgilerde aşağıdakilerden hangisi hakkında bilgi verilmemiştir?",
     "options": {
-      "A": "OEEC (Avrupa Ekonomik İşbirliği Teşkilatı)",
-      "B": "Marshall Planı",
-      "C": "Truman Doktrini",
-      "D": "NATO",
-      "E": "Avrupa Konseyi"
+      "A": "Avrupa Konseyi",
+      "B": "OEEC (Avrupa Ekonomik İşbirliği Teşkilatı)",
+      "C": "Marshall Planı",
+      "D": "Truman Doktrini",
+      "E": "NATO"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Metinde Truman Doktrini (1947), Marshall Planı (1948), OEEC (1948) ve NATO (1949) anlatılmıştır; Avrupa Konseyi'nden (1949) söz edilmemiştir.",
     "source": {
       "kind": "generated",
@@ -1800,12 +1800,12 @@
     "stem": "Bir ders kitabında bir dönem şöyle özetlenmiştir:\n\n“Çok partili hayata geçişten sonra on yıl iktidarda kalan parti ile muhalefet arasındaki gerilim arttı. Meclis'te kurulan bir soruşturma komisyonu ve basın üzerindeki baskılar tartışma konusu oldu. Ordu bir sabah yönetime el koydu; dönemin başbakanı, cumhurbaşkanı ve bakanlar Yassıada'da yargılandı. Bu müdahaleyi izleyen dönemde yeni bir anayasa hazırlandı ve Anayasa Mahkemesi kuruldu.”\n\nBu bilgiler aşağıdakilerden hangisiyle ilgilidir?",
     "options": {
       "A": "12 Eylül 1980 askerî müdahalesi",
-      "B": "27 Mayıs 1960 askerî müdahalesi",
-      "C": "28 Şubat 1997 MGK kararları",
-      "D": "15 Temmuz 2016 darbe girişimi",
-      "E": "12 Mart 1971 askerî muhtırası"
+      "B": "28 Şubat 1997 MGK kararları",
+      "C": "15 Temmuz 2016 darbe girişimi",
+      "D": "12 Mart 1971 askerî muhtırası",
+      "E": "27 Mayıs 1960 askerî müdahalesi"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "27 Mayıs 1960 müdahalesinin ardından DP'liler Yassıada'da yargılanmış, 1961 Anayasası hazırlanmış ve Anayasa Mahkemesi ile Senato kurulmuştur.",
     "source": {
       "kind": "generated",
@@ -1825,10 +1825,10 @@
       "A": "Wilson İlkeleri",
       "B": "Truman Doktrini",
       "C": "Eisenhower Doktrini",
-      "D": "Monroe Doktrini",
-      "E": "Marshall Planı"
+      "D": "Marshall Planı",
+      "E": "Monroe Doktrini"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Monroe Doktrini (1823), ABD'nin 'Amerika Amerikalılarındır' anlayışıyla Avrupa'nın Amerika kıtasına müdahalesini reddeden politikadır; Truman Doktrini (1947) ise Türkiye ve Yunanistan'a yardım öngörür.",
     "source": {
       "kind": "generated",
@@ -1846,12 +1846,12 @@
     "stem": "Bir ders notunda bir ülkedeki dönüşüm şöyle özetlenmiştir:\n\n“1868'de askerî ve siyasi gücünü yitiren şogunluk yönetimi sona ermiş, imparatorun yetkileri yeniden kurulmuştur. Batı'dan öğretmen ve mühendisler getirilmiş, modern ordu, okullar, demiryolu ve fabrikalar kurulmuştur. 1889'da bir anayasa kabul edilmiştir. Bu gelişmeler ülkeyi kısa sürede güçlü bir sanayi ve askerî devlete dönüştürmüştür.”\n\nBu bilgiler aşağıdaki gelişmelerden hangisine aittir?",
     "options": {
       "A": "Taiping İsyanı",
-      "B": "Boksör Ayaklanması",
-      "C": "Sun Yat-sen Devrimi",
-      "D": "Meiji Restorasyonu",
+      "B": "Meiji Restorasyonu",
+      "C": "Boksör Ayaklanması",
+      "D": "Sun Yat-sen Devrimi",
       "E": "Tanzimat Dönemi"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Meiji Restorasyonu (1868), Japonya'da şogunluğun sona ermesi ve Batı modelinde ordu, eğitim, sanayi ve anayasa (1889) reformlarıyla ülkenin modernleşmesidir.",
     "source": {
       "kind": "generated",
@@ -1869,12 +1869,12 @@
     "stem": "Bir haber arşivinde bir olayla ilgili şu notlar yer almaktadır:\n\n• Haziran 1948'de Sovyetler, Almanya'nın batı bölgelerinden Batı Berlin'e giden kara ve demiryolu bağlantılarını kesmiştir.\n• ABD ve İngiltere, şehri günlerce hava yoluyla besleyerek kentin ayakta kalmasını sağlamıştır.\n• Ablukanın ardından Batılı devletler ortak savunma ittifakını kurmuştur.\n\nBu notlar aşağıdaki olaylardan hangisine aittir?",
     "options": {
       "A": "Macaristan Ayaklanması",
-      "B": "Berlin Ablukası",
-      "C": "Kore Savaşı",
+      "B": "Kore Savaşı",
+      "C": "Berlin Ablukası",
       "D": "Küba Füze Krizi",
       "E": "Berlin Duvarı'nın inşası"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Berlin Ablukası (1948–1949) Soğuk Savaş'ın ilk büyük krizlerindendir; Batılı devletler Batı Berlin'i hava köprüsüyle beslemiş, ardından NATO (1949) kurulmuştur. Berlin Duvarı 1961'de örülmüştür.",
     "source": {
       "kind": "generated",
@@ -1891,13 +1891,13 @@
     "konu": "cagdas_turk_dunya_tarihi",
     "stem": "Bir ders kitabında 1955'te kurulan bir örgütle ilgili şu bilgi yer almaktadır:\n\n“Örgütün merkezi Bağdat'tı. Türkiye, Irak, İngiltere, Pakistan ve İran üyeydi. Amaç, Sovyetlerin Orta Doğu'ya yayılmasını durdurmaktı. 1958'deki bir rejim değişikliği sonrasında üyelerden biri örgütten ayrılmış ve merkez Ankara'ya taşınmıştır.”\n\nBu bilgiler aşağıdaki örgütlerden hangisine aittir?",
     "options": {
-      "A": "Bağdat Paktı (CENTO)",
-      "B": "SEATO",
-      "C": "Balkan Antantı",
-      "D": "Varşova Paktı",
+      "A": "SEATO",
+      "B": "Balkan Antantı",
+      "C": "Varşova Paktı",
+      "D": "Bağdat Paktı (CENTO)",
       "E": "Sadabat Paktı"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Bağdat Paktı (1955), Irak'ta 1958 devriminden sonra Irak'ın 1959'da ayrılmasıyla CENTO adını almış ve merkezi Ankara'ya taşınmıştır; SEATO Güneydoğu Asya'da kurulmuştur.",
     "source": {
       "kind": "generated",
@@ -1906,6 +1906,167 @@
     },
     "validYear": 2026,
     "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-cag-084",
+    "ders": "tarih",
+    "konu": "cagdas_turk_dunya_tarihi",
+    "stem": "Bir tarih notunda bir belge şöyle tanıtılmıştır:\n\n“Eylül 1978'de ABD Başkanı'nın arabuluculuğunda, ABD'deki bir dinlenme köşkünde Mısır ve İsrail liderleri bir araya gelmiştir. Görüşmeler sonunda bir çerçeve oluşturulmuş, ertesi yıl iki ülke arasında barış antlaşması imzalanmıştır. İsrail Sina Yarımadası'ndan çekilmiş, Mısır ise İsrail'i tanıyan ilk Arap ülkesi olmuştur.”\n\nBu bilgiler aşağıdakilerden hangisine aittir?",
+    "options": {
+      "A": "Oslo Anlaşmaları",
+      "B": "Cenevre Konferansı",
+      "C": "Madrid Barış Konferansı",
+      "D": "Sykes-Picot Antlaşması",
+      "E": "Camp David Anlaşmaları"
+    },
+    "answer": "E",
+    "solution": "Camp David Anlaşmaları (1978) ve Mısır–İsrail Barış Antlaşması (1979), Sina'nın Mısır'a dönmesi ve Mısır'ın İsrail'i tanımasıyla sonuçlanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş Türk ve dünya tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-cag-085",
+    "ders": "tarih",
+    "konu": "cagdas_turk_dunya_tarihi",
+    "stem": "Bir ders kitabında 1925 tarihli bir düzenleme şöyle anlatılmıştır:\n\n“Birinci Dünya Savaşı'ndan sonra Avrupa'da gerginliği azaltmak amacıyla yapılan bu görüşmelerde Almanya, Fransa ve Belçika sınırlarının değişmezliğini kabul etmiştir. Bu sayede Almanya, bir yıl sonra Milletler Cemiyeti'ne üye olmuştur. Düzenleme, Avrupa'da barış umutlarını güçlendirmiştir.”\n\nBu bilgiler aşağıdakilerden hangisine aittir?",
+    "options": {
+      "A": "Trianon Antlaşması",
+      "B": "Locarno Antlaşmaları",
+      "C": "Saint-Germain Antlaşması",
+      "D": "Neuilly Antlaşması",
+      "E": "Versay Antlaşması"
+    },
+    "answer": "B",
+    "solution": "Locarno Antlaşmaları (1925) Almanya'nın batı sınırlarını güvence altına almış, Almanya'nın 1926'da Milletler Cemiyeti'ne girmesini sağlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş Türk ve dünya tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-cag-086",
+    "ders": "tarih",
+    "konu": "cagdas_turk_dunya_tarihi",
+    "stem": "Bir tarih dersinde bir toplantı şöyle tanıtılmıştır:\n\n“1955'te Endonezya'da toplanan bu konferansa Asya ve Afrika'dan yirmi dokuz ülke katılmıştır. Toplantıda sömürgeciliğe karşı ortak tutum benimsenmiş, barış içinde bir arada yaşama ilkeleri kabul edilmiştir. Türkiye de bu toplantıya katılmıştır.”\n\nBu bilgiler aşağıdaki toplantılardan hangisine aittir?",
+    "options": {
+      "A": "San Francisco Konferansı",
+      "B": "Potsdam Konferansı",
+      "C": "Bandung Konferansı",
+      "D": "Yalta Konferansı",
+      "E": "Bretton Woods Konferansı"
+    },
+    "answer": "C",
+    "solution": "Bandung Afrika-Asya Konferansı (1955) sömürgecilik karşıtı bir ortak tutum belirlemiş; Bağlantısızlar Hareketi'nin zeminini hazırlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş Türk ve dünya tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-cag-087",
+    "ders": "tarih",
+    "konu": "cagdas_turk_dunya_tarihi",
+    "stem": "Bir tarih notunda bir olay şöyle özetlenmiştir:\n\n“1936'da bir general, seçimle gelen cumhuriyet yönetimine karşı ayaklanmıştır. Savaşta Almanya ve İtalya ayaklananları desteklerken Sovyetler Birliği cumhuriyetçilere yardım etmiştir. Guernica kentinin bombalanması bu savaşın simge olaylarındandır. Savaş 1939'da ayaklananların zaferiyle sona ermiştir.”\n\nBu bilgiler aşağıdaki gelişmelerden hangisine aittir?",
+    "options": {
+      "A": "Habeşistan'ın İşgali",
+      "B": "İspanya İç Savaşı",
+      "C": "Çin-Japon Savaşı",
+      "D": "Polonya'nın İşgali",
+      "E": "Rus İç Savaşı"
+    },
+    "answer": "B",
+    "solution": "İspanya İç Savaşı (1936–1939) Franco'nun zaferiyle sonuçlanmış; Almanya ve İtalya Franco'yu, Sovyetler cumhuriyetçileri desteklemiş, savaş II. Dünya Savaşı'nın provası sayılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş Türk ve dünya tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-cag-088",
+    "ders": "tarih",
+    "konu": "cagdas_turk_dunya_tarihi",
+    "stem": "Bir ders notunda Orta Asya'daki bir direnişle ilgili şu bilgiler yer almaktadır:\n\n“Sovyet yönetimine karşı Türkistan'da başlayan bu direniş, Buhara ve Fergana çevresinde yayılmıştır. Osmanlı'nın eski Harbiye Nazırı bir paşa, 1921'de bölgeye giderek direnişe katılmış; 1922'de çıkan bir çatışmada hayatını kaybetmiştir. Hareket 1920'lerin sonlarına doğru zayıflamıştır.”\n\nBu bilgiler aşağıdakilerden hangisine aittir?",
+    "options": {
+      "A": "Hive Hanlığı",
+      "B": "Kokand Muhtariyeti",
+      "C": "Alaş Orda hareketi",
+      "D": "Basmacı Hareketi",
+      "E": "Ceditçilik hareketi"
+    },
+    "answer": "D",
+    "solution": "Basmacı Hareketi, Türkistan'da Sovyet yönetimine karşı direniştir; Enver Paşa 1921'de direnişe katılmış, 1922'de şehit düşmüştür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş Türk ve dünya tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-cag-089",
+    "ders": "tarih",
+    "konu": "cagdas_turk_dunya_tarihi",
+    "stem": "Bir tarih kitabında I. Dünya Savaşı sırasında yayımlanan bir belge şöyle anlatılmıştır:\n\n“1917'de bir İngiliz bakan tarafından bir Yahudi liderine yazılan mektupta, İngiltere hükümetinin Filistin'de Yahudiler için bir ulusal yurt kurulmasına olumlu baktığı bildirilmiştir. Bu belge, sonraki yıllarda Filistin sorununun doğmasında etkili olmuştur.”\n\nBu bilgiler aşağıdakilerden hangisine aittir?",
+    "options": {
+      "A": "Hüseyin-McMahon Yazışmaları",
+      "B": "San Remo Konferansı",
+      "C": "Wilson İlkeleri",
+      "D": "Balfour Bildirgesi",
+      "E": "Sykes-Picot Antlaşması"
+    },
+    "answer": "D",
+    "solution": "Balfour Bildirgesi (1917), İngiltere'nin Filistin'de Yahudi ulusal yurdunu desteklediğini açıklamıştır; Sykes-Picot ise Arap topraklarının paylaşımına ilişkin gizli anlaşmadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş Türk ve dünya tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-cag-090",
+    "ders": "tarih",
+    "konu": "cagdas_turk_dunya_tarihi",
+    "stem": "Soğuk Savaş döneminde ABD'nin Batı Avrupa ve çevresindeki ülkelere yönelik izlediği politikalarla ilgili aşağıdakilerden hangileri doğrudur?\n\nI. Truman Doktrini ile Türkiye ve Yunanistan'a yardım yapılmıştır.\n\nII. Marshall Planı ile Avrupa'nın ekonomik olarak yeniden kalkınması desteklenmiştir.\n\nIII. Varşova Paktı ile Batı Avrupa ülkeleri ortak savunma örgütü kurmuştur.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Truman Doktrini (1947) ve Marshall Planı (1947-48) ABD politikalarıdır; Varşova Paktı (1955) Sovyetler öncülüğündeki Doğu Bloku örgütüdür, Batı'nın örgütü NATO'dur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş Türk ve dünya tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
     "mockExamId": null
   }
 ]
