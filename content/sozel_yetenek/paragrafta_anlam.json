@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "ags-soz-par-001",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Çoğumuz zamanı akıp giden bir ırmağa benzetiriz; geçer, geri dönmez. Oysa zaman, sadece akan bir şey değil, nasıl kullandığımıza göre biçim kazanan bir malzemedir. Aynı iki saati biri ekran başında tüketirken bir başkası bir enstrüman çalışarak değerlendirebilir. Demek ki asıl mesele zamanın miktarı değil, ona yüklediğimiz anlamdır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bir enstrüman çalmak, ekran başında vakit geçirmekten çok daha yararlı bir uğraştır.",
+      "B": "Herkesin elindeki zaman miktarı farklı olduğu için başarı da kişiden kişiye değişir.",
+      "C": "Zamanı doğru ölçmek, onu verimli kullanmanın en önemli ilk koşulu sayılmalıdır.",
+      "D": "Zamanın değeri, onu nasıl kullandığımıza ve ona verdiğimiz anlama bağlıdır.",
+      "E": "Zaman geri dönmediği için her dakikanın mutlaka bir işe harcanması gerekir."
+    },
+    "answer": "D",
+    "solution": "Sonuç cümlesi (“asıl mesele … ona yüklediğimiz anlamdır”) ana düşünceyi verir; çeldiriciler bir ayrıntıyı, abartılı bir çıkarımı veya parçada olmayan bir görüşü anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-002",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kitap okumak, bir ülkeye gitmeden onun sokaklarında dolaşmak gibidir. Okuyan kişi, görmediği insanların kaygılarını, sevinçlerini ve alışkanlıklarını tanır. Bu tanışıklık, başkalarını yargılamadan önce anlamaya çalışma alışkanlığını da beraberinde getirir. Bu yüzden okuma, bilgi kazandırmanın ötesinde insana hoşgörü öğretir.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Okuma alışkanlığı, ancak yabancı yazarların eserleriyle kazanılabilen bir beceridir.",
+      "B": "Kitaplar, insanları yargılamadan önce tanıma alışkanlığını zayıflatan kaynaklardır.",
+      "C": "Okuyan kişi, başka ülkelerin sokaklarını gezmeden de en ince ayrıntısına kadar tanıyabilir.",
+      "D": "Başkalarının kaygılarını tanımak, kişinin kendi kaygılarını da giderir.",
+      "E": "Okumak, bilgi kazandırmanın yanında insana hoşgörü ve anlayış da öğretir."
+    },
+    "answer": "E",
+    "solution": "Son cümle okumanın hoşgörü öğrettiğini söyler; diğer şıklar ya benzetmeyi aşırı yorumlar ya da parçayla çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-003",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Takım sporlarında başarı, genellikle en yetenekli oyuncuyla ölçülür. Oysa tribünden bakıldığında fark edilmeyen bir ayrıntı vardır: En parlak oyuncunun bile topu doğru yere ulaştıran arkadaşlara ihtiyacı olur. Sahadaki her görev, görünür olsun olmasın, sonucun bir parçasıdır. Bu nedenle bir takımın zaferi, bireylerin değil, bütünün başarısı sayılmalıdır.\n\nParçanın ana fikri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Takım sporlarında en yetenekli oyuncunun değeri çoğu zaman gereğinden fazla abartılır.",
+      "B": "Tribündeki seyirciler, sahadaki görevleri genellikle yanlış değerlendirir ve haksız eleştirir.",
+      "C": "Topu doğru yere ulaştıran oyuncular, takımın en değerli üyeleri sayılmalıdır.",
+      "D": "Sahadaki bütün oyuncular, aynı görevi yerine getirecek biçimde eğitilmelidir.",
+      "E": "Bir takımın zaferi, tek tek oyuncuların değil, takımın bütününün başarısıdır."
+    },
+    "answer": "E",
+    "solution": "“Bu nedenle” ile başlayan son cümle ana düşüncedir: başarı bütüne aittir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-004",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kentlerin gökdelenlerle büyümesi çoğu zaman gelişmişliğin göstergesi sayılır. Ancak yeşil alanları azalan bir şehirde nefes almak da, komşusuyla selamlaşmak da zorlaşır. Parklar sadece süs değil; çocukların oynadığı, yaşlıların buluştuğu ortak yaşam alanlarıdır. Gerçek gelişmişlik, binaların yüksekliğiyle değil, insanların yaşam kalitesiyle ölçülmelidir.\n\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yeşil alanlar azaldıkça komşuluk ilişkileri de ortadan kalkmakta ve şehir yaşamı bozulmaktadır.",
+      "B": "Bir kentin gelişmişliği, yapıların yüksekliğiyle değil, yaşam kalitesiyle ölçülmelidir.",
+      "C": "Gelişmişliğin en açık göstergesi, kentte yaşayan insan sayısındaki hızlı artıştır.",
+      "D": "Parklar, çocuklar ve yaşlılar için tasarlanmış tek yaşam alanlarını oluşturmaktadır.",
+      "E": "Kentlerde gökdelen yapımı, yeşil alanların korunabilmesi için mutlaka sınırlandırılmalıdır."
+    },
+    "answer": "B",
+    "solution": "Son cümle gelişmişliğin ölçütünü yaşam kalitesi olarak belirler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-005",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Hata yapmaktan korkan insan, denemekten de kaçınır. Oysa öğrenmenin yolu deneme yanılmadan geçer. Bir bebek yürümeyi düşe kalka öğrenir; kimse ona ilk düşüşünde vazgeçmesini söylemez. Yetişkinler ise hatayı utanç verici bulduğu için yeni bir şey öğrenme fırsatlarını çoğu zaman kaçırır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Hata yapma korkusu insanı denemekten alıkoyar; oysa öğrenme deneme yanılmayla olur.",
+      "B": "Öğrenme sürecinde başkalarının tecrübelerinden yararlanmak, kendi denemelerimize yeter.",
+      "C": "Bebekler yürümeyi öğrenirken yetişkinlerin yeni bir şey öğrenmesinden daha az hata yapar.",
+      "D": "Her hata, kişiye mutlaka yeni bir şey öğreten ve gelişimini hızlandıran bir deneyimdir.",
+      "E": "Yetişkinlerin hatalarından utanması, onların öğrenme sürecini hızlandıran bir etkendir."
+    },
+    "answer": "A",
+    "solution": "Parça, hata korkusunun öğrenmeyi engellediğini; öğrenmenin denemeyle olduğunu söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-006",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bilimsel keşiflerin çoğu, büyük laboratuvarlarda değil, bir çocuğun 'Neden?' sorusuyla başlar. Merak, cevabı bilinen sorularla yetinmemeyi, görünenin ardında başka bir şey olabileceğini düşünmeyi sağlar. Soru sormayı bastıran bir ortamda ise bilim değil, ezber gelişir. Bu nedenle bir toplumun bilimdeki başarısı, soru sorma cesaretini ne ölçüde desteklediğine bağlıdır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Büyük keşifler genellikle çocukların sorduğu sorulardan doğmuş ve bu yolla ilerlemiştir.",
+      "B": "Cevabı bilinen sorular, bilimsel çalışmaların yönünü belirleyen asıl etken olmalıdır.",
+      "C": "Laboratuvarlar olmadan hiçbir bilimsel keşif gerçekleştirilemez ve geliştirilemez.",
+      "D": "Bilimsel gelişme, merakı ve soru sormayı cesaretlendiren bir ortamın varlığına bağlıdır.",
+      "E": "Ezber, bilimsel düşüncenin gelişmesi için gerekli olan bir ön koşul sayılmalıdır."
+    },
+    "answer": "D",
+    "solution": "Son cümle başarıyı soru sorma cesaretini destekleme düzeyine bağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-007",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir dilin zenginliği, sözcük sayısıyla ölçülmez. Aynı duyguyu on farklı biçimde anlatabilen bir konuşmacı, yüz sözcüğü ezbere sıralayandan daha zengin bir dile sahiptir. Çünkü zenginlik, sözcüklerin sayısında değil, onları yerinde ve ince anlam farklarıyla kullanabilmededir.\n\nParçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Aynı duyguyu farklı biçimlerde anlatmak, dilin kurallarını bozan bir alışkanlıktır.",
+      "B": "Dilin zenginliği, sözcük sayısına değil, sözcükleri yerinde kullanabilmeye bağlıdır.",
+      "C": "Konuşmacıların sözcük dağarcığı, yaşlarına göre değişiklik gösteren bir özelliktir.",
+      "D": "Bir kişinin bilgisi arttıkça konuşurken kullandığı sözcüklerin sayısı da giderek çoğalır.",
+      "E": "Ezbere bilinen sözcükler, zengin bir dil için gerekli olan birikimi sağlar."
+    },
+    "answer": "B",
+    "solution": "Son cümle zenginliği sözcük sayısına değil, yerinde kullanıma bağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-008",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Akıllı telefonlar, bilgiye ulaşmayı kolaylaştırdı; ancak aynı kolaylık dikkatimizi bölen bir bedel getirdi. Bir işe başlarken bildirim sesiyle yarıda kalmak artık olağan sayılıyor. Oysa derin düşünme, kesintisiz bir zamana ihtiyaç duyar. Teknolojiyi bırakmak değil, onu ne zaman ve ne kadar kullanacağımıza karar vermek, dikkatimizi geri kazanmanın yoludur.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Derin düşünme, ancak teknolojinin sunduğu kolaylıklarla geliştirilebilen bir beceridir.",
+      "B": "Dikkat dağınıklığını gidermenin tek yolu, telefonları tamamen terk etmektir.",
+      "C": "Teknolojiyi bırakmak yerine kullanım zamanını ve sınırını kendimiz belirlemeliyiz.",
+      "D": "Bildirim sesleri, derin düşünmeyi kolaylaştırdığı için bir araç olarak kullanılmalıdır.",
+      "E": "Akıllı telefonlar, bilgiye ulaşmayı kolaylaştırdığı için insanların dikkatini de artırmıştır."
+    },
+    "answer": "C",
+    "solution": "Son cümle çözümü “kullanıma karar vermek” olarak sunar; bırakmayı açıkça reddeder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-009",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Sanat eseri, sadece sanatçıya ait değildir; izleyicisiyle birlikte tamamlanır. Aynı resme bakan iki kişi, farklı duygulara kapılabilir. Çünkü eser, izleyenin yaşantılarıyla buluştuğunda yeni anlamlar kazanır. Bu bakımdan bir sanat yapıtının değeri, tek bir doğru yoruma sığdırılamaz.\n\nBu parçanın ana fikri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İzleyicinin eğitim düzeyi yükseldikçe bir sanat eserinin değeri de aynı oranda artar.",
+      "B": "Bir eserin değerini, ancak uzman sanat eleştirmenleri belirleyebilir ve açıklayabilir.",
+      "C": "Aynı resme bakan insanlar, genellikle birbirine çok benzer duygulara kapılır ve aynı sonuca varır.",
+      "D": "Sanatçının eserine yüklediği anlam, izleyiciler için tek ölçüt olarak kabul edilmelidir.",
+      "E": "Bir sanat eseri, izleyicinin yorumuyla anlam kazanır ve tek bir doğru yoruma sığdırılamaz."
+    },
+    "answer": "E",
+    "solution": "“Bu bakımdan” ile başlayan son cümle değerin tek yoruma sığdırılamayacağını söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-010",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Sağlıklı yaşam denince akla çoğunlukla yoğun sporlar ve katı diyetler gelir. Oysa günde yarım saat tempolu yürümek, merdiveni asansöre tercih etmek gibi küçük alışkanlıklar da bedeni canlı tutar. Önemli olan, kısa süreli büyük çabalar değil, yıllar boyu sürdürülen küçük adımlardır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sağlığı korumada küçük ama kalıcı alışkanlıklar, büyük ve kısa çabalardan üstündür.",
+      "B": "Yoğun sporlar ve katı diyetler, sağlıklı yaşamın vazgeçilmez bir koşulu sayılmalıdır.",
+      "C": "Bedeni canlı tutmak için günde yarım saat dinlenmeye vakit ayırmak gerekir.",
+      "D": "Sağlıklı yaşam, ancak genç yaşlarda başlandığında kalıcı bir sonuç verebilir.",
+      "E": "Merdiven çıkmak, yarım saatlik yürüyüşten çok daha yararlı bir hareket biçimidir."
+    },
+    "answer": "A",
+    "solution": "Son cümle sürdürülen küçük adımları kısa süreli büyük çabalara üstün tutar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-011",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Geçmişi bilmeyen toplumlar, aynı hataları tekrar etmeye yatkındır. Ancak tarih, sadece tarihlerin ve savaşların ezberlenmesi değildir. Bir olayın nedenlerini ve sonuçlarını anlamak, bugünü yorumlamaya yarar. Bu yüzden tarih öğretiminde amaç, ezber değil, geçmişten ders çıkarma becerisi kazandırmak olmalıdır.\n\nParçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Savaşların nedenlerini incelemek, tarih derslerinin tek amacı olarak görülmelidir.",
+      "B": "Bugünü anlamak için geçmişten çok geleceğe bakmak daha doğru bir yoldur.",
+      "C": "Tarih öğretimi, geçmişi ezberletmekten çok ondan ders çıkarmayı kazandırmalıdır.",
+      "D": "Geçmişi bilmeyen toplumlar, aynı hataları tekrar etmeye mahkûm olan topluluklardır.",
+      "E": "Tarihin önemli olayları, öğrenciler tarafından tarihleriyle birlikte ezberlenmelidir."
+    },
+    "answer": "C",
+    "solution": "“Bu yüzden” ile başlayan son cümle amacı belirler: ezber değil, ders çıkarma.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-012",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir köprü, iki yakayı birleştirdiği için değerlidir; ama onu ayakta tutan, görünmeyen binlerce bağlantı noktasıdır. İnsan ilişkileri de böyledir. Büyük başarılar çoğu zaman, birbirini sessizce destekleyen küçük emeklerin toplamıdır. Bu nedenle başarıyı sadece öne çıkanlara mal etmek, yapıyı taşıyanların hakkını yemektir.\n\nBu parçada vurgulanmak istenen temel düşünce aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Köprüler, iki yakayı birleştirdiği için değer taşıyan ve önemsenmesi gereken yapılardır.",
+      "B": "Başarı, çoğu zaman görünmeyen küçük emeklerin toplamıdır ve bu emekler değer görmelidir.",
+      "C": "İnsan ilişkilerinde en önemli unsur, doğru kişilerle bağlantı kurabilmektir.",
+      "D": "Başarıya ulaşanlar, arka plandaki emekçilerden çok daha fazla takdiri hak eder.",
+      "E": "Büyük yapılar, küçük bağlantıların ihmal edilmesi sayesinde ayakta kalabilir."
+    },
+    "answer": "B",
+    "solution": "Son cümle başarıyı öne çıkanlara mal etmeyi eleştirir; ana düşünce görünmeyen emeğin değeridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-013",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Nezaket, büyük fedakârlıklar gerektirmeyen bir erdemdir: bir selam, bir teşekkür, bir kapıyı tutmak. Buna karşın küçük görüldüğü için çoğu zaman ihmal edilir. Oysa günlük yaşamda karşılaştığımız gerilimlerin birçoğu, bu küçük jestlerin eksikliğinden doğar. Nezaket, görünüşte basit ama etkisi derin bir toplumsal bağdır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Günlük yaşamdaki gerilimlerin çoğu, insanların bilerek kaba davranmasından kaynaklanır.",
+      "B": "Selam vermek ve teşekkür etmek, çocuklara en erken yaşta öğretilmesi gereken davranıştır.",
+      "C": "Toplumsal bağları güçlendirmek için büyük kampanyalar ve organizasyonlar düzenlenmelidir.",
+      "D": "Küçük görülen nezaket davranışları, günlük gerilimleri azaltan güçlü bir toplumsal bağdır.",
+      "E": "Nezaket göstermek, büyük fedakârlıklar yapmayı gerektiren ve zor kazanılan bir erdemdir."
+    },
+    "answer": "D",
+    "solution": "Son cümle nezaketi “görünüşte basit ama etkisi derin bir toplumsal bağ” olarak niteler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-014",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Oyun, çocuğun sadece eğlence aracı değildir; dünyayı tanıma biçimidir. Çocuk oynarken kuralları öğrenir, paylaşmayı dener, kaybetmeyi tecrübe eder. Bu yüzden oyuna ayrılan zamanı boşa harcanmış saymak büyük yanılgıdır. Çocuğun gelişimi, kitap başında olduğu kadar oyun alanında da şekillenir.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Çocukların gelişimi için kitap okumak, oyun oynamaktan daha önemli bir etkinliktir.",
+      "B": "Oyun, çocuk için eğlencenin ötesinde, gelişimini sağlayan öğretici bir etkinliktir.",
+      "C": "Çocuk, kaybetmeyi ancak yetişkinlerle oyun oynayarak öğrenebilen bir varlıktır.",
+      "D": "Oyun alanları, her yaştaki çocuğun ortak ihtiyaçlarını karşılayacak biçimde düzenlenmelidir.",
+      "E": "Oyun sırasında çocuklar kuralları öğrenir, paylaşmayı dener ve kaybetmeyi tecrübe eder."
+    },
+    "answer": "B",
+    "solution": "Parça oyunu eğlenceden öte bir öğrenme biçimi olarak sunar; ikinci şık yalnız bir ayrıntıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: ana düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-015",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Göçmen kuşlar binlerce kilometre öteye ulaşırken yollarını kaybetmezler. Gündüzleri güneşin konumundan, geceleri ise yıldız kümelerinden yararlanırlar. Bazı türlerin ise yerküremizin manyetik alanını hissettiği, bu sayede bulutlu havalarda bile yönünü şaşırmadığı anlaşılmıştır.\n\nBu parçanın konusu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kuşların göç sırasında karşılaştığı tehlikeler",
+      "B": "Kuşların mevsimlere göre değişen beslenme düzeni",
+      "C": "Göçmen kuşların yön bulmada yararlandığı doğal işaretler",
+      "D": "Manyetik alanın canlılar üzerindeki zararlı etkileri",
+      "E": "Gece ve gündüz yaşayan kuşların birbirinden farkları"
+    },
+    "answer": "C",
+    "solution": "Parça baştan sona kuşların yön bulma araçlarını (güneş, yıldız, manyetik alan) anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: konu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-016",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kâğıt, odun hamurundan elde edilir. Önce kütükler küçük parçalara ayrılır, ardından kaynatılarak lif hâline getirilir. Elde edilen lifler suyla karıştırılıp ince tabakalar hâlinde yayılır ve kurutulur. Son aşamada ise silindirler arasından geçirilerek düzgün bir yüzey kazanır.\n\nBu parçanın konusu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kâğıdın odundan elde edilme aşamaları",
+      "B": "Odun hamurunun başka kullanım alanları",
+      "C": "Kâğıdın geri dönüştürülmesi",
+      "D": "Kâğıt türlerinin birbirinden farkları",
+      "E": "Ormanların korunmasının önemi"
+    },
+    "answer": "A",
+    "solution": "Parça, kâğıdın odundan çıkarılıp yüzey kazanmasına kadar olan adımları sıralar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: konu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-017",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Hamamlar, sadece temizlik için gidilen yerler değildi. Mahalle sakinleri burada buluşur, haberleşir, bayramlarda ve düğünlerde birlikte vakit geçirirdi. Gelin hamamı, lohusa hamamı gibi gelenekler, bu mekânların toplumsal yaşamın ayrılmaz bir parçası olduğunu gösterir.\n\nBu parçanın konusu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Hamam mimarisinin gelişim süreci",
+      "B": "Düğün geleneklerinin köklerinin tarihi",
+      "C": "Geleneksel hamamların toplumsal işlevi",
+      "D": "Hamamlarda kullanılan temizlik malzemeleri",
+      "E": "Mahalle yaşamında bakkalların yeri"
+    },
+    "answer": "C",
+    "solution": "Parça, hamamların temizlik dışında buluşma ve gelenek mekânı olarak toplumsal rolünü anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: konu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-018",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Gözlük, on üçüncü yüzyılda İtalya'da cam ustalarının mercek denemeleriyle ortaya çıktı. İlk gözlükler yakını görmekte güçlük çekenlere yardım ediyordu; uzağı görmeyi kolaylaştıran camlar ise daha sonra geliştirildi. Matbaanın yaygınlaşmasıyla birlikte gözlüğe duyulan ihtiyaç hızla arttı.\n\nBu parçanın konusu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İtalya'da cam sanatının gelişimi",
+      "B": "Mercek türlerinin fizik kuralları",
+      "C": "Gözlüğün icadı ve yaygınlaşması",
+      "D": "Göz hastalıklarının tedavi yöntemleri",
+      "E": "Matbaanın icadının toplumsal sonuçları"
+    },
+    "answer": "C",
+    "solution": "Parça gözlüğün nasıl doğduğunu ve neden yaygınlaştığını anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: konu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-019",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kentin sürekli gürültüsü, uykunun kalitesinden çalışma verimine kadar pek çok alanı etkiler. Uzun süre yüksek sese maruz kalan insanlarda sinirlilik ve dikkat dağınıklığı sık görülür. Bu nedenle bazı belediyeler, yoğun bölgelerde ses yalıtımlı çevre düzenlemeleri yapmaktadır.\n\nBu parçanın konusu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gürültünün insan yaşamına etkileri",
+      "B": "Uykusuzluğun tedavi edilme yolları",
+      "C": "Şehirlerde ulaşım sorununun nedenleri",
+      "D": "Belediyelerin bütçe planlaması",
+      "E": "Ses yalıtım malzemelerinin üretimi"
+    },
+    "answer": "A",
+    "solution": "Parçanın merkezinde gürültünün uyku, verim ve ruh hâli üzerindeki etkileri vardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: konu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-020",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir bilginin doğru olup olmadığını anlamak için kaynağına bakmak gerekir. Kaynağı belli olmayan, tarihi bulunmayan veya duygusal bir dille yazılmış haberlerden kuşku duymak yerinde olur. Aynı bilgiyi başka güvenilir kaynaklarda aramak da yanlış bilgiye kapılmayı önler.\n\nBu parçanın konusu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gazetecilik mesleğinin etik kuralları",
+      "B": "Dijital kaynakların kullanım maliyetleri",
+      "C": "Bilginin doğruluğunu sınamanın yolları",
+      "D": "Yanlış haberlerin toplumsal sonuçları",
+      "E": "Haberlerin sosyal medyada yayılma hızı"
+    },
+    "answer": "C",
+    "solution": "Parça, doğruluğu sınamak için kaynağa bakma ve karşılaştırma yollarını anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: konu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-021",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Köy okullarında birleştirilmiş sınıflar, bir öğretmenin aynı anda birkaç sınıf düzeyiyle ilgilenmesi anlamına gelir. Bu durum öğretmeni zorlasa da öğrencilere beklenmedik bir fırsat sunar: Büyük çocuklar küçüklere yardım ederken kendi bilgilerini pekiştirir, küçükler ise büyüklerden öğrenmeye alışır.\n\nBu parçaya en uygun başlık aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "Birleştirilmiş Sınıfların Beklenmedik Yararı",
+      "B": "Köy Okullarında Yaşanan Öğretmen Eksikliği",
+      "C": "Öğretmenlerin Karşılaştığı Mesleki Güçlükler",
+      "D": "Eğitimde Teknolojinin Yeri ve Önemi",
+      "E": "Büyük Çocukların Sorumluluk Duygusu"
+    },
+    "answer": "A",
+    "solution": "Parça birleştirilmiş sınıfın öğrenciye sağladığı beklenmedik yararı anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: başlık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-022",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Mavi gözlü bir kedi ile yeşil gözlü bir köpeğin dostluğu, mahalle sakinleri tarafından yıllardır merakla izleniyor. Sabahları aynı kapının önünde buluşuyor, akşamları aynı çatının altında uyuyorlar. Birbirlerine gösterdikleri bu özen, yaşadıkları sokağın en sevilen hikâyesi hâline geldi.\n\nBu parçaya en uygun başlık aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "Mahallenin Sevilen Dostları",
+      "B": "Evcil Hayvanların Bakım Kuralları",
+      "C": "Kedilerin ve Köpeklerin Düşmanlığı",
+      "D": "Hayvanların Göz Renkleri",
+      "E": "Sokak Hayvanlarının Sorunları"
+    },
+    "answer": "A",
+    "solution": "Parça, kedi ile köpeğin dostluğunu ve mahallenin buna ilgisini anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: başlık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-023",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Karınca kolonileri, işbölümünün en etkili örneklerinden biridir. Bir kısmı yiyecek arar, bir kısmı yuvayı korur, bir kısmı da yavruların bakımıyla ilgilenir. Hiçbir karıncanın bütün işleri tek başına yapmaması, kolonide düzenin sürmesini sağlar.\n\nBu parçaya en uygun başlık aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "Karıncaların Beslenme Alışkanlıkları",
+      "B": "Yuva Yapan Böcekler",
+      "C": "Karıncalarda İşbölümü",
+      "D": "Doğada Düzen Arayışı",
+      "E": "Yavru Bakımının Önemi"
+    },
+    "answer": "C",
+    "solution": "Parçanın bütünü, koloni üyeleri arasındaki görev paylaşımını anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: başlık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-024",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir şehrin kimliğini sadece tarihî yapıları oluşturmaz. Sokak aralarından yükselen simit kokusu, vapur düdüğü, pazarcının bağırışı da o kimliğin parçasıdır. Bu küçük ayrıntılar kaybolduğunda, şehir bir müze gibi güzel ama cansız kalır.\n\nBu parçaya en uygun başlık aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "Simit ve Çay Kültürünün Yayılması",
+      "B": "Pazar Yerlerinin Kent Yaşamındaki Önemi",
+      "C": "Şehri Şehir Yapan Küçük Ayrıntılar",
+      "D": "Tarihî Yapıların Korunması ve Bakımı",
+      "E": "Vapurla Yolculuğun Tadı ve Keyfi"
+    },
+    "answer": "C",
+    "solution": "Parça, şehir kimliğinin günlük küçük ayrıntılarla oluştuğunu söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: başlık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-025",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Uzmanlar, çocukların ekran karşısında geçirdiği sürenin günde iki saati aşmamasını öneriyor. Aşırı ekran süresi uyku düzenini bozuyor, hareketsizliği artırıyor ve sosyal becerilerin gelişimini yavaşlatabiliyor. Ailelerin bu sınırı konuşarak, birlikte belirlemesi daha kalıcı sonuç veriyor.\n\nBu parçaya en uygun başlık aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "Teknolojinin Eğitime Katkıları",
+      "B": "Çocuklar ve Ekran Süresinin Sınırı",
+      "C": "Uykunun Çocuk Gelişimindeki Yeri",
+      "D": "Oyuncak Seçiminde Dikkat Edilecekler",
+      "E": "Ailelerde Disiplin Sorunları"
+    },
+    "answer": "B",
+    "solution": "Parçanın bütünü çocukların ekran süresi ve bunun sınırlandırılmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: başlık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-026",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bazı bitkiler, ağır kış koşullarına karşı tohumlarını toprağın altında bekletir. Tohum, ancak sıcaklık ve nem uygun hâle geldiğinde filizlenir. Bu bekleme, bitkinin yaşamını sürdürmek için geliştirdiği akıllıca bir stratejidir.\n\nBu parçaya en uygun başlık aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "Kışın Toprak Altındaki Yaşam",
+      "B": "Tohumların Sabırlı Bekleyişi",
+      "C": "Bitkilerin Sulanma Düzeni",
+      "D": "Doğada Mevsim Değişimleri",
+      "E": "Filizlenmenin Hızlandırılması"
+    },
+    "answer": "B",
+    "solution": "Parça tohumun uygun koşulu bekleyerek filizlenmesini anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: başlık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-027",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Sessizlik, çoğu insan için rahatsız edici bir boşluktur. Oysa sessizlik, düşüncelerimizi düzene sokmamız için gereken zemindir. Sürekli bir ses akışıyla çevrili olan zihin, kendi içinden gelen sesi duyamaz. Bu yüzden bazı sessiz anları kendimize ayırmak, zihinsel sağlığın bir gereğidir.\n\nBu parçada ana düşünceyi destekleyen yardımcı düşünce aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Müzik dinlemek, düşüncelerin düzene girmesine yardımcı olan bir alışkanlıktır.",
+      "B": "Sessiz ortamlar, çoğu insanı mutlu eden ve rahatlatan yerlerdir.",
+      "C": "Zihin dinlenirken yeni sesleri daha kolay ayırt edebilen bir yapıya kavuşur.",
+      "D": "Sessizlik, insanların birbirleriyle iletişimini güçlendiren bir ortam sağlar.",
+      "E": "Sürekli bir ses akışı içindeki zihin, kendi iç sesini duyamaz hâle gelir."
+    },
+    "answer": "E",
+    "solution": "Üçüncü cümle, ana düşünceyi (sessizliğin zihinsel sağlık için gerekliliği) gerekçelendiren yardımcı düşüncedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yardımcı düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-028",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Çocuklara küçük yaşta harçlık vermek, para yönetimini öğrenmelerine fırsat tanır. Harçlığını bir haftada bitiren çocuk, bir sonraki hafta daha dikkatli davranmayı kendi tecrübesiyle öğrenir. Kendi parasını seçerek harcayan çocuklar, ihtiyaç ile istek arasındaki farkı daha erken kavrar. Bu nedenle harçlık, çocuk için bir eğitim aracıdır.\n\nBu parçada ana düşünceyi destekleyen yardımcı düşünce aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Para kazanmayı bilen çocuk, ileride daha başarılı bir yetişkin olur.",
+      "B": "Harçlığını erken bitiren çocuk, yaşadığı sıkıntıdan kendi başına ders çıkarır.",
+      "C": "Aileler, çocukların harcamalarını sıkı biçimde denetleyerek yönlendirmelidir.",
+      "D": "Harçlık miktarı, çocuğun yaşına göre düzenli olarak artırılmalıdır.",
+      "E": "İhtiyaçlarını belirleyen çocuklar, tasarruf konusunda isteksiz davranır."
+    },
+    "answer": "B",
+    "solution": "İkinci cümle, harçlığın eğitici olduğu düşüncesini örnek bir sonuçla destekler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yardımcı düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-029",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Mimar Sinan'ın camileri, sadece ibadet yeri olarak düşünülmemiştir. Külliyeler içinde medrese, aşevi ve hamam gibi yapılar bulunur; böylece cami çevresinde bir yaşam alanı oluşur. Örneğin Süleymaniye Külliyesi'nde hem eğitim hem sağlık hizmeti verilirdi. Sinan'ın mimarisi bu nedenle toplumsal ihtiyaçlara cevap veren bütüncül bir anlayışı yansıtır.\n\nBu parçada ana düşünceyi destekleyen yardımcı düşünce aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sinan'ın yaptığı yapıların çoğu, hamam olarak kullanılmak üzere inşa edilmiştir.",
+      "B": "Medreseler, camilerden bağımsız olarak şehrin farklı yerlerinde planlanmıştır.",
+      "C": "Külliyelerin asıl amacı, şehirlerin güvenliğini sağlamaktır.",
+      "D": "Süleymaniye Külliyesi'nde eğitim ve sağlık hizmeti birlikte sunulurdu.",
+      "E": "Cami mimarisi, Osmanlı döneminde en yüksek noktasına ulaşmıştır."
+    },
+    "answer": "D",
+    "solution": "“Örneğin” ile verilen Süleymaniye örneği, ana düşünceyi destekleyen yardımcı düşüncedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yardımcı düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-030",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Uyku sırasında beynimiz gün içinde edindiği bilgileri düzenler. Derin uykuda anılar kalıcı belleğe aktarılır, gereksiz ayrıntılar ise silinir. Uykudan yoksun kalan kişi, öğrendiklerini daha kolay unutur. Dolayısıyla öğrenmenin kalıcı olması için yeterli uyku şarttır.\n\nBu parçada ana düşünceyi destekleyen yardımcı düşünce aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gün içinde edinilen bilgilerin çoğu, belleğe aktarılmaya değmeyecek kadar gereksizdir.",
+      "B": "Derin uykuda anılar kalıcı belleğe aktarılırken gereksiz ayrıntılar silinir.",
+      "C": "Uyku süresi arttıkça bellek kapasitesi de aynı oranda büyür.",
+      "D": "Uykusuz kalan kişiler, daha hızlı öğrenme eğilimi gösterir.",
+      "E": "Beyin, uyku sırasında yeni bilgi edinmeye devam eden bir organdır."
+    },
+    "answer": "B",
+    "solution": "İkinci cümle, uykunun öğrenmeyi kalıcı kıldığı düşüncesine mekanizmayı açıklayarak destek verir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yardımcı düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-031",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Ormanlar, sadece ağaç topluluklarından ibaret değildir. Toprağı erozyondan korur, yağmuru süzerek yer altı sularını besler, birçok canlıya yuva olur. Orman yangınlarının ardından bu işlevlerin kaybolması, sellere ve kuraklığa yol açar. Bu yüzden ormanları korumak, ağaçları değil yaşamın dengesini korumaktır.\n\nBu parçada ana düşünceyi destekleyen yardımcı düşünce aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ormanlar toprağı erozyondan korur ve yer altı sularını besler.",
+      "B": "Kuraklık, ormanların büyümesini hızlandıran bir etkendir.",
+      "C": "Ağaç dikmek, sel felaketlerini önlemenin kesin çözümüdür.",
+      "D": "Orman yangınlarının çoğu insan ihmalinden kaynaklanmaktadır.",
+      "E": "Ormanlar, yağış miktarını artırmak için yapay olarak çoğaltılabilir."
+    },
+    "answer": "A",
+    "solution": "İkinci cümle, ormanların yaşam dengesindeki işlevini sayarak ana düşünceyi destekler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yardımcı düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-032",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Dürüstlük, uzun vadede kazandıran bir davranıştır. Yalan söyleyen kişi, her söylediğini hatırlamak ve çelişkiye düşmemek zorundadır. Dürüst biri ise doğruyu söylediği için zihinsel yük taşımaz. Üstelik çevresindeki insanlar ona güvenir ve bu güven, ilerideki ilişkilerinde değerli bir sermayeye dönüşür.\n\nBu parçada ana düşünceyi destekleyen yardımcı düşünce aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Güvenilir kişiler, iş hayatında kolayca üst görevlere getirilir.",
+      "B": "Dürüst kişi, söylediklerini hatırlama ve çelişmeme yükünden kurtulur.",
+      "C": "Doğruyu söylemek, bazen çevreyle çatışmaya neden olabilir.",
+      "D": "Yalan söylemek, kişiye çoğu durumda hızlı ve kolay bir çıkar sağlar.",
+      "E": "Dürüstlüğün asıl karşılığı, kısa vadede elde edilen maddi kazançtır."
+    },
+    "answer": "B",
+    "solution": "Üçüncü cümle, dürüstlüğün kazandırdığı rahatlığı belirten yardımcı düşüncedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yardımcı düşünce"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-033",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir gölün suyu, yazın ısınınca yüzeyden buharlaşır; kışın ise yüzeyi donarken altındaki su canlıların yaşamasına imkân tanır. Çünkü su, donarken hacmi artan ender maddelerden biridir ve buz suyun üzerinde yüzer.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Buharlaşma, ancak yaz aylarında gerçekleşen bir olaydır.",
+      "B": "Yaz mevsiminde göldeki canlılar yaşamını sürdürmekte zorlanır.",
+      "C": "Göllerin suyu, kış mevsiminde yüzeyden dibe kadar buza dönüşür.",
+      "D": "Suyun donması sırasında hacmi küçülür ve madde sıkışır.",
+      "E": "Buzun yoğunluğu, sıvı hâlindeki suyun yoğunluğundan daha azdır."
+    },
+    "answer": "E",
+    "solution": "Buz suyun üzerinde yüzüyorsa buzun yoğunluğu suyunkinden azdır; bu, parçanın verdiği bilgiden çıkarılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-034",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir ülkede okuma oranı yükseldikçe suç oranının düştüğü sık dile getirilir. Ancak iki olgu arasındaki ilişki sadece okumaya bağlanamaz; eğitim düzeyi, gelir ve toplumsal destek gibi etkenler de işin içindedir.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Okuma ile suç oranı arasındaki ilişkiyi birden çok etken belirler.",
+      "B": "Gelir düzeyi yükselen toplumlarda okuma oranı mutlaka artar.",
+      "C": "Okuma alışkanlığı, suç oranını belirleyen en önemli etkendir.",
+      "D": "Eğitim düzeyi, suç oranını etkileyen etkenler arasında sayılmamaktadır.",
+      "E": "Suç oranı düşük olan ülkelerde herkes düzenli olarak kitap okur."
+    },
+    "answer": "A",
+    "solution": "Parça, ilişkinin tek etkene bağlanamayacağını söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-035",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Dil bilgisi kurallarını bilmek, iyi konuşmak için gerekli olsa da yeterli değildir. Kuralları kusursuz bilen bir kişi, karşısındakini dinlemeyi ve ses tonunu ayarlamayı bilmiyorsa anlatım gücünü kazanamaz.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Dil bilgisi kurallarını bilmek, iyi konuşmak için gerekmeyen bir birikimdir.",
+      "B": "Karşısındakini dinleyen kişiler, dil bilgisi kurallarını daha çabuk öğrenir.",
+      "C": "İyi konuşanların çoğu, dil bilgisi kurallarını bilmeden konuşma yeteneği kazanır.",
+      "D": "İyi konuşmak, kural bilgisinin yanında dinleme ve ses tonunu kullanma becerisi ister.",
+      "E": "Ses tonunu ayarlayabilen kişi, kuralları bilmese de iyi bir konuşmacıdır."
+    },
+    "answer": "D",
+    "solution": "Parça, kuralları bilmeyi gerekli ama yetersiz sayar; ek beceriler gerektiğini söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-036",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Eski evlerde kullanılan kerpiç duvarlar, yazın serinliği kışın sıcaklığı korur. Betonarme yapılarda ise bu denge yalıtım malzemeleriyle sağlanır; yalıtımsız betonarme binalar yazın kızgın, kışın soğuk olur.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Kerpiç yapılar, depreme karşı betonarme yapılardan daha dayanıklıdır.",
+      "B": "Kerpiç, ek yalıtım gerektirmeden iç sıcaklığı dengeleyen bir yapı malzemesidir.",
+      "C": "Betonarme binalar, yalıtım yapılsa bile yazın serin kalmayan yapılardır.",
+      "D": "Yalıtım malzemeleri, kerpiç duvarların yerini almak amacıyla geliştirilmiştir.",
+      "E": "Eski evlerin tamamı kerpiç malzemeyle inşa edilmiş yapılardan oluşmaktadır."
+    },
+    "answer": "B",
+    "solution": "Parça kerpiçte denge kendiliğinden korunurken betonarmede yalıtım gerektiğini söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-037",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Ağaçların yaprakları, sonbaharda dökülmeden önce renk değiştirir; çünkü yeşil rengi veren klorofil parçalanınca sarı ve turuncu pigmentler ortaya çıkar. Bu pigmentler yazın da yapraktadır, ancak klorofilin gölgesinde kalır.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Yeşil yapraklı ağaçların bütünü sonbaharda yapraklarını döker.",
+      "B": "Klorofil, sonbaharda sarı ve turuncu pigmentlere dönüşerek yaprağın rengini değiştirir.",
+      "C": "Yapraklar, yalnızca soğuk havalar nedeniyle renk değiştirir.",
+      "D": "Pigmentlerin miktarı, yaz mevsiminde azalarak yok olur.",
+      "E": "Sarı ve turuncu pigmentler sonbaharda yeni oluşmaz; yazın da yaprakta bulunur."
+    },
+    "answer": "E",
+    "solution": "Parça pigmentlerin yazın da yaprakta bulunduğunu ve klorofil parçalanınca göründüğünü söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-038",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Matbaanın yaygınlaşmasından önce kitaplar elle çoğaltılıyordu ve bu işi yapan hattatların emeği, kitapları pahalı ve nadir kılıyordu. Basım teknolojisi, aynı metni kısa sürede çok sayıda kopyalayabildiği için kitabın fiyatını düşürdü.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Elle çoğaltılan kitaplar, basılı kitaplardan daha nitelikli sayılmıştır.",
+      "B": "Matbaa, yazı sanatlarına duyulan ilgiyi artırmıştır.",
+      "C": "Kitabın fiyatı, hattatların ücretine bakılarak belirlenirdi.",
+      "D": "Matbaa, kitaba ulaşmayı kolaylaştıran etkenlerden biri olmuştur.",
+      "E": "Hattatlık mesleği, matbaanın yaygınlaşmasıyla kısa sürede yok olmuştur."
+    },
+    "answer": "D",
+    "solution": "Fiyatın düşmesi, kitaba ulaşmanın kolaylaşması anlamına gelir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-039",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bazı kuşların yuvalarını yere yapması, onları avcı hayvanlara karşı savunmasız bırakır. Buna karşın bu kuşlar, yumurtalarının rengini toprağa benzeterek veya yuvalarını sık otların içine gizleyerek korunma yolları geliştirmiştir.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Avcı hayvanlar, yumurta rengine bakarak avlanma yöntemini değiştirir.",
+      "B": "Yerde yuva yapan kuşlar, ağaçta yuva yapanlardan daha uzun yaşar.",
+      "C": "Yumurta rengi, kuş türlerinin ayırt edilmesinde tek ölçüttür.",
+      "D": "Yuvalarını otlara gizleyen kuşlar, en güvenli korunma yoluna sahiptir.",
+      "E": "Yerde yuva yapan kuşlar doğal yollarla avcılardan korunmaya çalışır."
+    },
+    "answer": "E",
+    "solution": "Parça, yer yuvalarının riskini ve kuşların renk benzetme ile gizlenme gibi korunma yollarını anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-040",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir mühendis için binanın dayanıklılığı, güzelliğinden daha önemlidir; bir mimar için ise yapının insan yaşamına uyumu en az dayanıklılığı kadar değerlidir. İki meslek birlikte çalıştığında hem sağlam hem yaşanabilir yapılar ortaya çıkar.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Mühendisler, binaların estetik yönüyle ilgilenmeyen kişilerdir.",
+      "B": "Yaşanabilir yapılar, mimarın tek başına gösterdiği çabayla ortaya çıkar.",
+      "C": "Mimarlar, dayanıklılığı yapının ikinci planında tutan kişilerdir.",
+      "D": "Mimarlık mesleği, mühendislikten daha eski bir meslektir.",
+      "E": "Mimarlık ve mühendislik, birbirini tamamlayan iki meslektir."
+    },
+    "answer": "E",
+    "solution": "İki mesleğin birlikte çalışınca hem sağlam hem yaşanabilir yapı çıkması, birbirini tamamladıklarını gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-041",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "İlaç prospektüsleri, ilacın olası yan etkilerini açıkça belirtir. Bunun nedeni ilacın zararlı olması değil, kullanıcıyı bilgilendirme gerekliliğidir. Yan etkilerin pek çoğu çok seyrek görülür ve çoğu hastada hiç ortaya çıkmaz.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "İlaç prospektüsleri, ilacın zararlı olduğunu göstermek amacıyla hazırlanır.",
+      "B": "Yan etkisi seyrek görülen ilaçların prospektüsünde bu bilgi belirtilmez.",
+      "C": "Prospektüsler, ilacı yazan hekimlere yönelik bir kaynak olarak hazırlanır.",
+      "D": "Prospektüste sıralanan yan etkilerin birçoğu seyrek olarak görülmektedir.",
+      "E": "Yan etki bildirimi, ilaç firmalarının isteğine bağlı bir uygulamadır."
+    },
+    "answer": "D",
+    "solution": "Parça “yan etkilerin pek çoğu çok seyrek görülür” der.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-042",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kuzey yarım kürede kısa günler, uzun gecelerle birlikte kışı getirir. Güneş ışınlarının daha eğik gelmesi, aynı yüzey alanına düşen enerjiyi azaltır ve hava soğur.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Güneş ışınları dik geldiğinde yüzeye düşen enerji azalır.",
+      "B": "Güneş ışınlarının eğik gelmesi, birim alana düşen enerjiyi azaltır.",
+      "C": "Gündüzlerin uzaması, hava sıcaklığını doğrudan düşüren bir etkendir.",
+      "D": "Kışın Güneş, Dünya'ya daha uzak olduğu için hava soğur.",
+      "E": "Kış mevsimi, Dünya'nın her yerinde aynı sürede yaşanır."
+    },
+    "answer": "B",
+    "solution": "Parçada ışınların eğik gelmesi birim alana düşen enerjiyi azaltan neden olarak verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-043",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Çocuk gelişimi uzmanları, bebeklerin ilk yıllarda kurduğu güvenli bağların, ilerleyen yaşlarda kurduğu ilişkilerin temelini oluşturduğunu söylüyor. Bebeğin ağlamasına yanıt verilmesi, ona dünyanın güvenilir bir yer olduğunu öğretiyor.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Bebeklerin ağlaması, bakım veren kişinin hatalı davrandığını gösteren bir işarettir.",
+      "B": "İlk yıllarda güven duygusu kazanamayan çocuklar, sosyal ilişki kuramayan yetişkinlere dönüşür.",
+      "C": "Bebeğin ihtiyaçlarına karşılık verilmesi, ileriki ilişkilerini olumlu etkileyebilir.",
+      "D": "Bağlanma biçimi, yetişkinlikte artık değiştirilemeyen sabit bir kişilik özelliğidir.",
+      "E": "Bebeklere hemen yanıt vermek, onları şımartarak bakım verene bağımlı hâle getirir."
+    },
+    "answer": "C",
+    "solution": "Güvenli bağ ilişkinin temelini oluşturuyorsa, ihtiyaçlara karşılık vermek ileriki ilişkileri olumlu etkileyebilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-044",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Eski çağlarda denizciler yıldızlardan yararlanarak yön buluyordu. Pusulanın icadı bu bağımlılığı azalttı, çünkü artık bulutlu gecelerde de yön bulmak mümkündü. Yine de pusula, gemilerde yıldız bilgisinin yerini büsbütün almadı; denizciler iki yöntemi birlikte kullandı.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Eski çağlarda denizciler yönlerini bulmak için pusulayı kullanıyordu.",
+      "B": "Pusulanın icadıyla yıldız bilgisi denizcilikte önemini büsbütün yitirmiştir.",
+      "C": "Yıldızlara bakarak yön bulmak, pusuladan daha doğru sonuç verir.",
+      "D": "Pusula, ancak bulutlu gecelerde işe yarayan bir araçtır.",
+      "E": "Pusula, bulutlu havalarda yön bulmayı kolaylaştırmıştır."
+    },
+    "answer": "E",
+    "solution": "Parçada pusulanın bulutlu gecelerde yön bulmayı mümkün kıldığı açıkça söylenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-045",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Balıkçılar, balığın nerede olduğunu çoğu zaman martıların davranışına bakarak anlar. Martılar kalabalık hâlde suya dalıyorsa orada bir balık sürüsü vardır. Bu gözlem, doğadaki canlıların birbirine ipucu sunduğunu gösterir.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Balıkların en yoğun olduğu yerde martı bulunmaz.",
+      "B": "Doğadaki canlılar, birbirinden korkarak uzak durmayı tercih eder.",
+      "C": "Balıkçılar, martıları avlamak için balık sürüsünü kullanır.",
+      "D": "Martılar, balık sürülerini insanlardan daha iyi bulur.",
+      "E": "Bir canlının davranışı, başkası için bilgi kaynağı olabilir."
+    },
+    "answer": "E",
+    "solution": "Balıkçıların martı davranışından ipucu alması, bir canlının davranışının başkası için bilgi olduğunu gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-046",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bazı şirketler çalışanlarına esnek mesai seçeneği sunuyor. Bu uygulamayı benimseyen kurumlarda çalışan memnuniyetinin arttığı, işten ayrılma oranlarının ise düştüğü gözlenmiş. Ancak esnek çalışma, işlerin takibini zorlaştırdığı için her kurum bu modele uygun değil.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "options": {
+      "A": "Esnek çalışma modeli, geleneksel mesai düzeninden vazgeçmeyi gerektirir.",
+      "B": "İşten ayrılma oranlarındaki düşüş, esnek mesainin tek sonucudur.",
+      "C": "Esnek mesai uygulayan kurumların tamamı verimliliğini artırmıştır.",
+      "D": "Esnek mesai modeli, her kurum için uygun bir çözüm değildir.",
+      "E": "Çalışan memnuniyeti arttığında işlerin takibi de kolaylaşır."
+    },
+    "answer": "D",
+    "solution": "Parçanın son cümlesi esnek mesainin her kuruma uygun olmadığını söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-047",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Mısır'daki piramitler, binlerce yıl önce yapılmış olmalarına rağmen hâlâ ayaktadır. İnşaatta kullanılan kireçtaşı bloklar çok hassas biçimde kesilmiş ve birbirine kusursuz oturtulmuştur. Bu işçilik, yapıların zamana ve depremlere karşı dayanıklı olmasını sağlamış olabilir.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "options": {
+      "A": "Piramitlerin inşası birkaç yıl gibi kısa bir sürede tamamlanmıştır.",
+      "B": "Piramitler binlerce yıldır ayakta kalabilmiştir.",
+      "C": "Hassas işçilik, yapıların dayanıklılığına katkıda bulunmuş olabilir.",
+      "D": "Piramitlerde kullanılan bloklar titizlikle işlenmiştir.",
+      "E": "Piramitler çok eski yapılardır."
+    },
+    "answer": "A",
+    "solution": "İnşa süresi parçada hiç belirtilmemiştir; diğer dört ifade parçadan çıkarılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarılamaz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-048",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kediler, sütü ve süt ürünlerini severler; ancak yetişkin kedilerin çoğu laktozu sindirmekte zorlanır. Bu yüzden inek sütü içen kedilerde karın ağrısı ve ishal görülebilir. Kedilere süt yerine temiz su vermek daha sağlıklı bir tercihtir.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "options": {
+      "A": "Yavru kediler sütü, yetişkin kedilere göre daha iyi sindirir.",
+      "B": "Kediler için temiz su, süte göre daha sağlıklı bir seçenektir.",
+      "C": "Yetişkin kedilerin birçoğu laktozu zor sindirir.",
+      "D": "İnek sütü, kedilerde sindirim sorunlarına yol açabilir.",
+      "E": "Kediler süt ürünlerinden hoşlanır."
+    },
+    "answer": "A",
+    "solution": "Yavru kedilerin sindirimi parçada hiç anlatılmamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarılamaz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-049",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kış uykusuna yatan hayvanlar, yazdan topladıkları yağ depolarıyla soğuk mevsimi geçirir. Bu sırada vücut sıcaklıkları ve kalp atış hızları belirgin biçimde düşer. Böylece çok az enerji harcayarak yiyecek bulunmayan aylarda hayatta kalırlar.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "options": {
+      "A": "Kış uykusu sırasında kalp atışı yavaşlar ve vücut sıcaklığı düşer.",
+      "B": "Kış uykusundaki hayvanlar, aralıklarla avlanarak beslenir.",
+      "C": "Bu hayvanlar, yiyeceğin azaldığı mevsimde bile hayatta kalabilir.",
+      "D": "Kış uykusu, enerji tasarrufu sağlayan bir yaşam biçimidir.",
+      "E": "Kış uykusuna yatan hayvanlar, yazın yağ depolayarak kışa hazırlanır."
+    },
+    "answer": "B",
+    "solution": "Uyku sırasında avlanma parçada belirtilmemiş, tersine az enerji harcama vurgulanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarılamaz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-050",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Okullarda yapılan bir araştırmaya göre öğrencilerin kahvaltı yapma alışkanlığı arttıkça derse katılım düzeyleri de yükselmiştir. Kahvaltı yapmayan öğrencilerde ise öğle saatlerine doğru dikkat dağınıklığı daha sık görülmüştür.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "options": {
+      "A": "Araştırma, okul öğrencileri üzerinde yapılmıştır.",
+      "B": "Kahvaltı yapan öğrencilerin sınav notları, yapmayanlardan yüksektir.",
+      "C": "Kahvaltı yapmayan öğrencilerde dikkat dağınıklığı daha sık görülmüştür.",
+      "D": "Dikkat dağınıklığı, öğle saatlerine doğru belirginleşmiştir.",
+      "E": "Kahvaltı alışkanlığı arttıkça derse katılım düzeyi artmıştır."
+    },
+    "answer": "B",
+    "solution": "Parçada sınav notlarından söz edilmez; yalnız derse katılım ve dikkat anlatılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarılamaz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-051",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kâşgarlı Mahmud, on birinci yüzyılda Türk lehçelerini bir arada ele alan Divanü Lügati't-Türk'ü yazmıştır. Eserde sözcükler, örnek dörtlük ve atasözleriyle birlikte verilir. Bu yönüyle sözlük, hem dil bilgisi hem kültür tarihi açısından zengin bir kaynaktır.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "options": {
+      "A": "Sözlük, kültür tarihi araştırmaları açısından da değerli bir kaynaktır.",
+      "B": "Eserde farklı Türk lehçeleri bir arada incelenmiştir.",
+      "C": "Eserin ilk basımı, Kâşgarlı Mahmud'un sağlığında yapılmıştır.",
+      "D": "Sözcükler, atasözü ve dörtlük örnekleriyle birlikte verilmiştir.",
+      "E": "Divanü Lügati't-Türk, on birinci yüzyılda kaleme alınmıştır."
+    },
+    "answer": "C",
+    "solution": "Basım ve sağlık bilgisi parçada yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarılamaz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-052",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bisiklet, kısa mesafelerde otomobile göre hem daha ekonomik hem de çevre dostu bir ulaşım aracıdır. Kentlerde bisiklet yollarının artması, trafik yoğunluğunu da azaltır. Ne var ki güvenli yolların bulunmadığı yerlerde bisiklet kullanmak tehlikeli olabilir.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "options": {
+      "A": "Bisiklet yolları arttıkça kent trafiği hafifleyebilir.",
+      "B": "Bisiklet, otomobile kıyasla çevreye daha az zarar verir.",
+      "C": "Bisiklet, uzun yolculuklar için de en uygun ulaşım aracıdır.",
+      "D": "Güvenli yol bulunmayan yerlerde bisiklet sürmek risk taşıyabilir.",
+      "E": "Kısa mesafelerde bisiklet, otomobile göre daha ekonomiktir."
+    },
+    "answer": "C",
+    "solution": "Parça bisikleti kısa mesafelerde uygun görür; uzun yolculuklar hakkında bilgi vermez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarılamaz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-053",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Öğretmenler, öğrencilerin sorulara verdiği yanıtlardan çok soru sorma biçimlerine dikkat ediyor. Nitelikli bir soru, konunun özüne inmeye çalıştığını gösteriyor. Bu nedenle bazı öğretmenler, sınıfta soru sormayı teşvik edici etkinlikler düzenliyor.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "options": {
+      "A": "Bazı öğretmenler, yanıtlardan çok soruların niteliğine önem veriyor.",
+      "B": "Soru soran öğrenciler, yanıt veren öğrencilerden daha başarılıdır.",
+      "C": "Sınıfta soru sormayı özendiren etkinlikler düzenlenebilir.",
+      "D": "İyi bir soru, konunun temelini kavramaya çalışıldığını gösterir.",
+      "E": "Nitelikli soru sorma, öğrencinin konuya ilgisini yansıtan bir işarettir."
+    },
+    "answer": "B",
+    "solution": "Parça iki grup öğrenciyi başarı bakımından karşılaştırmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarılamaz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-054",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Tuz, yiyecekleri uzun süre saklamanın en eski yöntemlerinden biridir. Etin ve balığın tuzlanması, mikropların üremesi için gerekli suyu çekerek bozulmayı geciktirir. Soğutucuların yaygınlaşmasından önce bu yöntem, kış için yiyecek biriktirmenin temel yoluydu.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "options": {
+      "A": "Et ve balık, tuzlanarak daha geç bozulur.",
+      "B": "Buzdolabı yaygınlaşmadan önce kışlık yiyecek tuzla saklanırdı.",
+      "C": "Tuz, mikropların ihtiyaç duyduğu suyu azaltır.",
+      "D": "Soğutucular, tuzla saklamaktan daha sağlıklı sonuç verir.",
+      "E": "Tuzlama, çok eski bir saklama yöntemidir."
+    },
+    "answer": "D",
+    "solution": "Soğutucuların sağlığa etkisi karşılaştırılmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: çıkarılamaz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-055",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Hepimiz telefonlarımıza öyle gömülmüşüz ki, yan yana oturup birbirimizin yüzüne bakmayı unuttuk. Bir kahvehane masasında dört kişi, dört ekrana dönük konuşuyor. Birbirimizi duyamayacak kadar yakın, birbirimize ulaşamayacak kadar uzağız.\n\nYazarın bu parçadaki tutumu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ekran bağımlılığının ilişkilere zarar vermesini eleştirmektedir.",
+      "B": "Telefon üreticilerinin sorumluluğunu savunup onları desteklemektedir.",
+      "C": "Kahvehane kültürünün yok olmasına duyduğu üzüntüyü dile getirmektedir.",
+      "D": "Gençlerin arkadaşlığa verdiği değeri örnek göstermektedir.",
+      "E": "Teknolojik gelişmelerin sağladığı kolaylıkları takdir etmektedir."
+    },
+    "answer": "A",
+    "solution": "Parçadaki “unuttuk”, “ulaşamayacak kadar uzağız” gibi ifadeler eleştirel bir tutum gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yazarın tutumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-056",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Sınavdan önceki gece sabaha kadar çalışmak, çoğu öğrenciye cazip gelir. Oysa uykusuz bir zihin, öğrendiklerini doğru hatırlayamaz. Yarın için bugün erkenden yatmak, belki sizi birkaç konudan alıkoyar ama kalan konuları gerçekten kazandırır.\n\nYazar bu parçada okuyucuya ne yapmaktadır?",
+    "options": {
+      "A": "Sınav kaygısını azaltan yöntemleri tanıtmaktadır.",
+      "B": "Ders çalışma programlarının yetersizliğini eleştirmektedir.",
+      "C": "Öğrencilerin başarısızlık nedenlerini sıralamaktadır.",
+      "D": "Uykusuzluğun hastalıklara yol açtığını kanıtlamaya çalışmaktadır.",
+      "E": "Sınav öncesi uykunun önemini hatırlatıp öğüt vermektedir."
+    },
+    "answer": "E",
+    "solution": "“Erkenden yatmak … kazandırır” diyerek okuyucuya öğüt verir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yazarın tutumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-057",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Anadolu'nun köy düğünleri, bir toplumun dayanışmasını en güzel gösteren törenlerdir. Herkes yemeği, çalgıyı, evi birlikte hazırlar; kimse bir şey beklemeden emek verir. Bu sıcaklık, en gösterişli salonlarda bile bulunamaz.\n\nYazarın köy düğünlerine karşı tutumu için aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Köy düğünlerindeki dayanışmayı takdir etmektedir.",
+      "B": "Düğün geleneklerinin değişmesini istemektedir.",
+      "C": "Köy yaşamının zorluklarından yakınmaktadır.",
+      "D": "Modern düğünlerin köy düğünlerine üstün olduğunu savunmaktadır.",
+      "E": "Düğün masraflarının azaltılmasını önermektedir."
+    },
+    "answer": "A",
+    "solution": "“En güzel gösteren”, “bu sıcaklık … bulunamaz” ifadeleri övgü taşır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yazarın tutumu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-058",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Mercanlar, birçok kişinin bildiğinin aksine bitki değil hayvandır. Yumuşak vücutlu küçük canlılar kalsiyum karbonattan sert iskeletler örerek resifleri oluşturur. Resifler, deniz canlılarının yaklaşık dörtte birine yuva olur.\n\nBu parçada yazarın temel amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bitkilerle hayvanlar arasındaki farkı tartışmak.",
+      "B": "Deniz kirliliğine karşı uyarmak.",
+      "C": "Resiflerin yok olmasından yakınmak.",
+      "D": "Okuyucuyu dalış sporuna yöneltmek.",
+      "E": "Mercanlar hakkında bilgi vermek."
+    },
+    "answer": "E",
+    "solution": "Parça nesnel biçimde bilgi aktarır; uyarı, yönlendirme ya da yakınma içermez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yazarın tutumu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-059",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Şehirlerde herkes aceleci: asansörde bile düğmeye üç kez basanlar var; sanki bu asansörü daha çabuk getirecek. Kırmızı ışıkta saniyeleri sayan sürücüler, sonunda hangi önemli işe yetişiyorlar bilinmez. Bu telaş, yaşamak yerine yetişmeyi seçmişlerin ortak hastalığı.\n\nYazar bu parçada neyi hedef almaktadır?",
+    "options": {
+      "A": "Günlük yaşamdaki gereksiz acelecilik ve telaşı.",
+      "B": "Şehirdeki yaşam maliyetlerinin yüksekliğini.",
+      "C": "Asansör tasarımlarındaki yetersizliği.",
+      "D": "İş yaşamındaki ağır çalışma koşullarını.",
+      "E": "Trafik kurallarının sertliğini."
+    },
+    "answer": "A",
+    "solution": "Örnekler (asansör düğmesi, kırmızı ışık) acelecilik eleştirisine hizmet eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yazarın tutumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-060",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kütüphaneler artık gereksiz mi? Her şeye internetten ulaşılabiliyorsa elbette birçoğu böyle düşünüyor. Ancak internette bilgi çok, süzgeç yok. Bir kütüphaneci, aradığınız kaynağı değil, aradığınız kaynağın doğrusunu bulmanıza yardım eder. Bu yüzden kütüphaneler eskimedi; tam tersine, bilgi kirliliği çağında her zamankinden daha gerekli.\n\nYazar bu parçada neyi savunmaktadır?",
+    "options": {
+      "A": "Kütüphanecilerin sayısının azaltılması gerektiğini.",
+      "B": "Bilgiye ulaşmanın giderek zorlaştığını.",
+      "C": "Kaynakların basılı olması gerektiğini.",
+      "D": "Kütüphanelerin günümüzde de önemini koruduğunu.",
+      "E": "İnternetin kütüphanelerin yerini aldığını."
+    },
+    "answer": "D",
+    "solution": "“Kütüphaneler eskimedi … daha gerekli” ifadesi kütüphanelerin önemini savunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: yazarın tutumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-061",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kış aylarında bitkileri soğuktan korumanın birkaç yolu vardır. Bunların en kolayı, saksıdaki bitkileri donmayacak bir mekâna almaktır. Şimdi bu yöntemin uygulanmasında dikkat edilmesi gereken noktaları sırasıyla ele alalım.\n\nBu parçanın hemen ardından aşağıdakilerden hangisinin anlatılması beklenir?",
+    "options": {
+      "A": "Sulama sıklığının belirlenmesine ilişkin yöntemler",
+      "B": "Toprağın üstünü örtmenin yararlarının sıralanması",
+      "C": "Donmaya dayanıklı bitki türlerinin tanıtılması",
+      "D": "Bitkilerin yaz aylarındaki bakım ve sulama düzeni",
+      "E": "Saksıların içeri alınmasında dikkat edilecek noktalar"
+    },
+    "answer": "E",
+    "solution": "Son cümle, anlatılan yöntemin ayrıntılarına geçileceğini bildirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın devamı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-062",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Uzay yolculuklarında astronotlar, ağırlıksız ortamda kasları zayıflamasın diye her gün egzersiz yapar. Ancak kemikleri etkileyen bir başka sorun daha vardır ve bu sorunun nedenleri hâlâ tam bilinmemektedir.\n\nBu parçanın hemen ardından aşağıdakilerden hangisinin anlatılması beklenir?",
+    "options": {
+      "A": "Kas zayıflığını önleyen cihazların geliştirilme tarihçesi",
+      "B": "Astronotların günlük egzersiz programlarının ayrıntıları",
+      "C": "Ağırlıksızlığın kemikler üzerindeki etkisinin anlatılması",
+      "D": "Uzayda beslenme sorunlarının çözümüne ilişkin öneriler",
+      "E": "Uzay araçlarında kullanılan yakıt türlerinin tanıtılması"
+    },
+    "answer": "C",
+    "solution": "“Kemikleri etkileyen bir başka sorun” bir sonraki bölümün konusunu gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın devamı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-063",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Birçok insan, uykusuzluğun sadece yorgunluğa yol açtığını düşünür. Oysa uykusuzluğun bağışıklık, bellek ve duygu durumu üzerinde de olumsuz etkileri vardır. Bu etkilerin ilkini bağışıklık sistemi üzerinden açıklayalım.\n\nBu parçanın hemen ardından aşağıdakilerden hangisinin anlatılması beklenir?",
+    "options": {
+      "A": "Uykusuzluğun bağışıklık sistemine etkisinin açıklanması",
+      "B": "Düzenli uyku alışkanlığı kazanma yöntemlerinin sıralanması",
+      "C": "Yorgunluğun giderilmesine ilişkin önerilerin verilmesi",
+      "D": "Duygu durumunu olumlu etkileyen besinlerin tanıtılması",
+      "E": "Uykusuzluğun bellek ve öğrenme üzerindeki etkisinin açıklanması"
+    },
+    "answer": "A",
+    "solution": "Son cümle sıradaki konunun bağışıklık sistemi olduğunu açıkça belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın devamı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-064",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Osmanlı'da loncalar, esnafı bir arada tutan örgütlerdi. Üyelerinin eğitimi, fiyatların belirlenmesi, mal kalitesinin denetimi loncaların görevleri arasındaydı. Bu görevlerden ilki olan çıraklık eğitimi ise ayrı bir düzene bağlanmıştı.\n\nBu parçanın hemen ardından aşağıdakilerden hangisinin anlatılması beklenir?",
+    "options": {
+      "A": "Esnafın vergi ödeme biçiminin ele alınması",
+      "B": "Loncaların ortadan kalkış nedenlerinin sıralanması",
+      "C": "Fiyatların nasıl belirlendiğinin açıklanması",
+      "D": "Çıraklık eğitiminin nasıl işlediğinin anlatılması",
+      "E": "Mal kalitesinin denetim yönteminin anlatılması"
+    },
+    "answer": "D",
+    "solution": "Son cümle çıraklık eğitiminin ayrı bir düzenle ele alınacağını ima eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın devamı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-065",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir araştırmanın güvenilirliği, örneklem büyüklüğüne ve seçilme biçimine bağlıdır. Çok küçük bir gruptan elde edilen sonuçlar tüm topluma genellenemez. Peki örneklem nasıl seçilmelidir?\n\nBu parçanın hemen ardından aşağıdakilerden hangisinin anlatılması beklenir?",
+    "options": {
+      "A": "Örneklemin nasıl seçileceğine ilişkin yöntemlerin anlatılması",
+      "B": "Araştırmacının tarafsızlığını koruma yollarının sıralanması",
+      "C": "Küçük gruplardan elde edilen sonuçlara ilişkin örnekler verilmesi",
+      "D": "Örneklem büyüklüğünün araştırma maliyetine etkisinin tartışılması",
+      "E": "Araştırma sonuçlarının nasıl yayımlandığının açıklanması"
+    },
+    "answer": "A",
+    "solution": "Parça, “örneklem nasıl seçilmelidir?” sorusuyla biter; cevap bir sonraki bölümde verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın devamı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-066",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Dünya'daki canlıların çoğu, Güneş'ten gelen enerjiye bağımlıdır. Bitkiler bu enerjiyi besine çevirir, hayvanlar bitkileri yer, yırtıcılar da otoburları avlar. Bu zincirin en alt halkası bozulursa ne olur?\n\nBu parçanın hemen ardından aşağıdakilerden hangisinin anlatılması beklenir?",
+    "options": {
+      "A": "Hayvanların beslenme türlerine göre sınıflandırılması",
+      "B": "Bitkilerin fotosentez yaparken izlediği aşamalar",
+      "C": "Yırtıcı hayvanların av yöntemlerinin ayrıntılı tanıtılması",
+      "D": "Alt halkanın bozulmasının zincire etkisinin açıklanması",
+      "E": "Güneş enerjisinin yenilenebilir kaynak olarak kullanımı"
+    },
+    "answer": "D",
+    "solution": "Soru cümlesi, devamda zincirin alt halkasının bozulmasının sonuçlarının anlatılacağını gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın devamı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-067",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Hastalığın ikinci belirtisi ise ciltte görülen kızarıklıklardır. Bu kızarıklıklar genellikle birkaç gün içinde yayılır ve kaşıntıya yol açar.\n\nBu parçadan önceki paragrafta aşağıdakilerden hangisinin anlatılmış olması beklenir?",
+    "options": {
+      "A": "Hastalığın ilk belirtisinin anlatılması",
+      "B": "Hastalığın tarihçesinin verilmesi",
+      "C": "Hastalığın tedavi yöntemlerinin açıklanması",
+      "D": "Hastalığın bulaşma biçimlerinin açıklanması",
+      "E": "Hastalıktan korunma yollarının sıralanması"
+    },
+    "answer": "A",
+    "solution": "“İkinci belirti ise” ifadesi, öncesinde ilk belirtinin anlatıldığını gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın öncesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-068",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bu yüzden tarım arazilerinin amaç dışı kullanımı, sadece bugünü değil geleceği de ilgilendirir. Verimli toprak bir kez yok olunca onu geri kazanmak onlarca yıl sürebilir.\n\nBu parçadan önceki paragrafta aşağıdakilerden hangisinin anlatılmış olması beklenir?",
+    "options": {
+      "A": "Verimli toprak elde etmeye yarayan tekniklerin ayrıntılı tanıtılması",
+      "B": "Yeni tohum çeşitlerinin geliştirilme çalışmaları",
+      "C": "Tarımda makine kullanımının sağladığı yararların sıralanması",
+      "D": "Köylerden kentlere yaşanan göçün nedenlerinin açıklanması",
+      "E": "Tarım arazilerinin amaç dışı kullanımının doğurduğu sakıncalar"
+    },
+    "answer": "E",
+    "solution": "“Bu yüzden” bağlacı, öncesinde bir sorun ve onun olumsuz sonuçlarının anlatıldığını gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın öncesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-069",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Aynı durum, diğer sanat dalları için de geçerlidir. Resim de müzik gibi, yaşanmışlıkları sözcüklere gerek duymadan aktarır.\n\nBu parçadan önceki paragrafta aşağıdakilerden hangisinin anlatılmış olması beklenir?",
+    "options": {
+      "A": "Resim sanatının tarihsel gelişim süreci ve dönemleri",
+      "B": "Sanatçının toplum içindeki yeri ve sorumluluğu",
+      "C": "Edebiyatın duyguları anlatmadaki başarısı ve gücü",
+      "D": "Müziğin sözcük kullanmadan duygu aktarabildiği",
+      "E": "Müzik eğitiminin çocuklar için önemi ve yararları"
+    },
+    "answer": "D",
+    "solution": "“Aynı durum” ve “müzik gibi” ifadeleri, öncesinde müzik için söylenen bir yargıya bağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın öncesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-070",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Neyse ki bu olumsuz tablo, yeni uygulamalarla değişmeye başladı. Okullarda kurulan kitap kulüpleri, öğrencileri yeniden okumaya yönlendiriyor.\n\nBu parçadan önceki paragrafta aşağıdakilerden hangisinin anlatılmış olması beklenir?",
+    "options": {
+      "A": "Öğretmenlerin meslek içi eğitiminin önemi ve gerekliliği",
+      "B": "Öğrencilerin okuma alışkanlığındaki düşüşün anlatılması",
+      "C": "Dijital kitapların yaygınlaşmasının getirdiği sonuçlar",
+      "D": "Okullardaki kitap kulüplerinin kuruluş amacının açıklanması",
+      "E": "Okul kütüphanelerinin yetersizliğinin ayrıntılı anlatılması"
+    },
+    "answer": "B",
+    "solution": "“Bu olumsuz tablo” ifadesi, öncesinde olumsuz bir durumun (okumadaki gerileme) anlatıldığını gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: paragrafın öncesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-071",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Sabah erkenden yola çıktık. Köy yolunda traktörün lastiği patlayınca bir süre bekledik, ardından yürümeye karar verdik. Öğleye doğru vardığımızda annem bizi kapıda karşıladı.\n\nBu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "options": {
+      "A": "Tartışmacı anlatım",
+      "B": "Betimleyici anlatım",
+      "C": "Diyalog ağırlıklı anlatım",
+      "D": "Öyküleyici anlatım",
+      "E": "Açıklayıcı anlatım"
+    },
+    "answer": "D",
+    "solution": "Parça olayları zaman sırasıyla aktarır (yola çıkma, bekleme, varış).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: anlatım biçimi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-072",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Dar sokağın iki yanında sıralanan taş evlerin pencereleri, mavi boyalı kepenklerle çevriliydi. Duvarlara tırmanan mor sarmaşıklar, eski taşların griliğini yumuşatıyordu. Havada kekik ve taze ekmek kokusu asılı kalmıştı.\n\nBu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "options": {
+      "A": "Betimleyici anlatım",
+      "B": "Öyküleyici anlatım",
+      "C": "Tartışmacı anlatım",
+      "D": "Açıklayıcı anlatım",
+      "E": "Diyalog ağırlıklı anlatım"
+    },
+    "answer": "A",
+    "solution": "Parça bir mekânı görme ve koku duyularıyla tasvir eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: anlatım biçimi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-073",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Fotosentez, bitkilerin ışık enerjisini kullanarak karbondioksit ve sudan besin üretmesi sürecidir. İşlem yeşil bitkilerin klorofil taşıyan hücrelerinde gerçekleşir. Sonuçta glikoz ve oksijen oluşur.\n\nBu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "options": {
+      "A": "Öyküleyici anlatım",
+      "B": "Betimleyici anlatım",
+      "C": "Tartışmacı anlatım",
+      "D": "Diyalog ağırlıklı anlatım",
+      "E": "Açıklayıcı anlatım"
+    },
+    "answer": "E",
+    "solution": "Parça bir kavramı bilgi vererek açıklar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: anlatım biçimi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-074",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bazıları, sınavların öğrenciyi stresle baskıladığını söylüyor. Ben bu görüşe katılmıyorum; çünkü sınavsız bir sistemde öğrenmenin ölçülmesi mümkün değil. Elbette sınav sistemi geliştirilmeli, ama ortadan kaldırılması çözüm olmaz.\n\nBu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "options": {
+      "A": "Açıklayıcı anlatım",
+      "B": "Tartışmacı anlatım",
+      "C": "Diyalog ağırlıklı anlatım",
+      "D": "Betimleyici anlatım",
+      "E": "Öyküleyici anlatım"
+    },
+    "answer": "B",
+    "solution": "Yazar karşı görüşü anıp çürütür ve kendi görüşünü savunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: anlatım biçimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-075",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Ali, kapıyı çaldı ama cevap gelmedi. Bir kez daha vurdu, sonra komşunun penceresinden seslenen kadını fark etti. Kadın, onların o sabah taşındığını söyledi. Ali, elindeki çiçeği ne yapacağını bilemeden merdivenlerde kaldı.\n\nBu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "options": {
+      "A": "Açıklayıcı anlatım",
+      "B": "Betimleyici anlatım",
+      "C": "Diyalog ağırlıklı anlatım",
+      "D": "Tartışmacı anlatım",
+      "E": "Öyküleyici anlatım"
+    },
+    "answer": "E",
+    "solution": "Parça bir olay akışını zaman sırasıyla anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: anlatım biçimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-076",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kırmızı çatılı küçük ev, çam ağaçlarının gölgesinde sessizce duruyordu. Bahçesindeki eski salıncak rüzgârda hafifçe sallanıyor, kapının yanındaki saksılarda sardunyalar ışıl ışıl açıyordu.\n\nBu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "options": {
+      "A": "Diyalog ağırlıklı anlatım",
+      "B": "Öyküleyici anlatım",
+      "C": "Açıklayıcı anlatım",
+      "D": "Betimleyici anlatım",
+      "E": "Tartışmacı anlatım"
+    },
+    "answer": "D",
+    "solution": "Parça bir mekânı ayrıntılarıyla gözler önüne serer.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: anlatım biçimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-077",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Hayat, uzun bir tren yolculuğuna benzer: Kimi istasyonlarda yeni yolcular biner, kimi istasyonlarda eski yol arkadaşları ayrılır. Pencereden manzarayı seyretmek de, kompartımanda sohbet etmek de bu yolculuğun tadıdır.\n\nBu parçada düşünceyi geliştirmek için başvurulan yol aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Örnek vererek açıklama",
+      "B": "Tanımlama yoluyla açıklama",
+      "C": "Benzetmeden yararlanma",
+      "D": "Tanık gösterme yoluyla destekleme",
+      "E": "Karşılaştırma yaparak açıklama"
+    },
+    "answer": "C",
+    "solution": "Hayat, bir tren yolculuğuna benzetilerek anlatılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: düşünceyi geliştirme yolu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-078",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Atasözü, uzun deneyimlerin sonucunda ortaya çıkan, genellikle öğüt veren kalıplaşmış sözlerdir. Kısa ve özlü olmaları, kolay akılda kalmalarını sağlar.\n\nBu parçada düşünceyi geliştirmek için başvurulan yol aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Örnek vererek açıklama",
+      "B": "Benzetmeden yararlanma",
+      "C": "Tanımlama yoluyla açıklama",
+      "D": "Karşılaştırma yaparak açıklama",
+      "E": "Tanık gösterme yoluyla destekleme"
+    },
+    "answer": "C",
+    "solution": "Parça atasözünün ne olduğunu belirleyerek tanımlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: düşünceyi geliştirme yolu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-079",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Yazlık evlerin sessiz bahçelerine karşılık kent apartmanları gürültülüdür. Yazlıklarda komşu sayısı azdır ama ilişkiler yakındır; apartmanlarda ise komşular kalabalıktır ancak çoğu birbirini tanımaz.\n\nBu parçada düşünceyi geliştirmek için başvurulan yol aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tanık gösterme yoluyla destekleme",
+      "B": "Örnek vererek açıklama",
+      "C": "Tanımlama yoluyla açıklama",
+      "D": "Benzetmeden yararlanma",
+      "E": "Karşılaştırma yaparak açıklama"
+    },
+    "answer": "E",
+    "solution": "İki yaşam biçimi benzerlik ve farklılıklarıyla karşılaştırılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: düşünceyi geliştirme yolu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-080",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir belediyenin verilerine göre günlük su tüketimi kişi başına 220 litreyi buluyor; bunun 60 litresi sadece banyo ve duşta harcanıyor. Yani tüketimin yaklaşık dörtte biri tek bir alışkanlıktan kaynaklanıyor.\n\nBu parçada düşünceyi geliştirmek için başvurulan yol aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Örnek vererek açıklama",
+      "B": "Sayısal verilerden yararlanma",
+      "C": "Karşılaştırma yaparak açıklama",
+      "D": "Benzetmeden yararlanma",
+      "E": "Tanımlama yoluyla açıklama"
+    },
+    "answer": "B",
+    "solution": "Düşünce, litre ve oran gibi sayısal verilerle desteklenmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: düşünceyi geliştirme yolu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-081",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Atatürk'ün 'Yurtta sulh, cihanda sulh.' sözü, barışın hem ülke içinde hem dünyada aranması gerektiğini ifade eder. Bu söz günümüzde de dış politikanın temel yönlendiricisidir.\n\nBu parçada düşünceyi geliştirmek için başvurulan yol aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tanımlama yoluyla açıklama",
+      "B": "Örnek vererek açıklama",
+      "C": "Tanık gösterme yoluyla destekleme",
+      "D": "Benzetmeden yararlanma",
+      "E": "Karşılaştırma yaparak açıklama"
+    },
+    "answer": "C",
+    "solution": "Düşünce, Atatürk'ün bir sözüne dayanılarak güçlendirilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: düşünceyi geliştirme yolu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-082",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bazı bitkiler kuraklığa özel yöntemlerle dayanır. Örneğin kaktüsler gövdelerinde su depolar, zeytin yaprakları ise yüzeylerindeki mumsu tabaka sayesinde su kaybını azaltır.\n\nBu parçada düşünceyi geliştirmek için başvurulan yol aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Karşılaştırma yaparak açıklama",
+      "B": "Benzetmeden yararlanma",
+      "C": "Tanık gösterme yoluyla destekleme",
+      "D": "Örnek vererek açıklama",
+      "E": "Tanımlama yoluyla açıklama"
+    },
+    "answer": "D",
+    "solution": "Genel yargı, kaktüs ve zeytin örnekleriyle somutlaştırılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: düşünceyi geliştirme yolu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-083",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "(I) Dil, sadece iletişim aracı değil, aynı zamanda düşünme biçimimizi de şekillendirir. (II) Çünkü ifade edemediğimiz bir kavramı düşünmekte de zorlanırız. (III) Örneğin renk adı bulunmayan bir toplumda o renkleri ayırt etmek güçleşebilir. (IV) Bu yüzden dilimizi zenginleştirmek, düşüncemizi zenginleştirmektir.\n\nParçadaki (III). cümlenin işlevi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bir kavramın tanımını vererek konuyu açıklamak.",
+      "B": "Konuyu ilk kez ortaya koyarak parçaya giriş yapmak.",
+      "C": "Önceki cümledeki düşünceyi örnekle desteklemek.",
+      "D": "Önceki düşünceye karşı çıkarak yeni bir görüş sunmak.",
+      "E": "Parçanın sonucunu bildirerek anlatımı tamamlamak."
+    },
+    "answer": "C",
+    "solution": "“Örneğin” ile başlayan cümle, önceki yargıyı somutlaştırır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: cümlenin işlevi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-084",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "(I) Sağlıklı beslenme herkesin bildiği ama az uyguladığı bir konudur. (II) Pek çok kişi, bunun pahalı ve zahmetli olduğunu düşünür. (III) Ancak mevsiminde alınan sebze ve meyveler, hem ucuzdur hem de besleyicidir. (IV) Dolayısıyla sağlıklı beslenmek, düşünüldüğü kadar zor değildir.\n\nParçadaki (III). cümle, aşağıdaki işlevlerden hangisini görmektedir?",
+    "options": {
+      "A": "Okuyucuya bir soru yönelterek merak uyandırmak.",
+      "B": "Konuyu bir tanım vererek başlatmak ve açıklamak.",
+      "C": "Bir olayın nedenini ayrıntılı biçimde açıklamak.",
+      "D": "Önceki cümlenin söylediğini başka sözcüklerle yinelemek.",
+      "E": "Önceki düşünceye karşı bir görüş ileri sürmek."
+    },
+    "answer": "E",
+    "solution": "“Ancak” bağlacı önceki yargıya karşıt bir görüş getirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: cümlenin işlevi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-085",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "(I) Sanayi devrimi, üretimin biçimini kökten değiştirdi. (II) El emeğine dayanan atölyelerin yerini makineli fabrikalar aldı. (III) Bu dönüşüm, şehirlerin hızla büyümesine yol açtı. (IV) Köylerden kentlere göç eden işçiler, yeni bir toplumsal sınıf oluşturdu.\n\nParçadaki (III). cümle için aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Önceki cümleyle çelişen bir bilgi verir.",
+      "B": "Bir görüşün kaynağını gösterir.",
+      "C": "Konuyla ilgili bir tanım yapar.",
+      "D": "Önceki gelişmenin bir sonucunu bildirir.",
+      "E": "Okuyucuya bir öneri sunar."
+    },
+    "answer": "D",
+    "solution": "“Bu dönüşüm … yol açtı” ifadesi önceki gelişmenin sonucunu bildirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: cümlenin işlevi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-086",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "(I) Yaratıcılık, bir sorunu alışılmışın dışında bir yoldan çözebilme becerisidir. (II) Bu beceri, doğuştan gelen bir yetenek kadar, alıştırmayla da geliştirilebilir. (III) Merak eden, farklı denemeler yapan ve hatalarından korkmayan kişiler bu alanda öne çıkar.\n\nParçadaki (I). cümlenin işlevi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Önceki bir görüşe karşı çıkarak itiraz etmek.",
+      "B": "Bir olayın zamanını ve yerini belirtmek.",
+      "C": "Bir kavramı tanımlayarak konuyu başlatmak.",
+      "D": "Bir örnek vererek önceki düşünceyi açıklamak.",
+      "E": "Parçayı bir sonuca bağlayarak bitirmek."
+    },
+    "answer": "C",
+    "solution": "İlk cümle yaratıcılığı tanımlar ve konuyu açar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: cümlenin işlevi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-087",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Yunuslar, ses dalgalarını kullanarak çevrelerini algılar. Bu yönteme ekolokasyon denir. Yunus, ürettiği sesin nesnelere çarpıp geri dönmesini dinleyerek nesnenin uzaklığını ve boyutunu anlar. Karanlık ve bulanık sularda bile bu sayede avını bulabilir.\n\nBu parçaya göre aşağıdakilerden hangileri söylenebilir?\n\nI. Yunuslar yönlerini sadece görme duyusuyla bulur.\n\nII. Ekolokasyon, nesnelerin uzaklığı ve boyutu hakkında bilgi verir.\n\nIII. Bulanık sularda yunusların avlanması zorlaşır.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "II doğrudan parçada vardır; I ve III parçayla çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: öncüllü çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-088",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Kâğıt para ilk kez Çin'de kullanılmıştır. Daha önce madeni paraların taşınması zor olduğundan tüccarlar kâğıt senetleri tercih etmeye başlamıştır. Zamanla devletler bu senetlerin basımını kendi denetimine almıştır.\n\nBu parçaya göre aşağıdakilerden hangileri söylenebilir?\n\nI. Madeni paraların taşınması güçtü.\n\nII. Kâğıt senetleri, devletler basmaya başlamadan önce tüccarlar kullanmıştır.\n\nIII. Çin'de madeni para hiç kullanılmamıştır.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "I ve II parçada vardır; III parçada geçmez ve “daha önce madeni paralar” ifadesiyle çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: öncüllü çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-089",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir bitkinin yaprakları güneşe döndüğünde fotosentezi artırır. Ancak aşırı sıcak, yaprakların su kaybını hızlandırır ve bitki gözeneklerini kapatarak kendini korur. Gözenekler kapanınca karbondioksit girişi de azalır.\n\nBu parçaya göre aşağıdakilerden hangileri söylenebilir?\n\nI. Yapraklar su kaybını hızlandırmak için gözeneklerini açar.\n\nII. Gözeneklerin kapanması karbondioksit alımını azaltır.\n\nIII. Güneşe dönen yapraklarda fotosentez artar.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "II ve III parçada doğrudan vardır; I tersini söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: öncüllü çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-par-090",
+    "ders": "sozel_yetenek",
+    "konu": "paragrafta_anlam",
+    "stem": "Bir müzik aletinin sesi, titreşen parçanın uzunluğuna göre değişir. Kısa tel yüksek, uzun tel ise alçak ses çıkarır. Kemanın dört teli bu nedenle farklı kalınlıklarda yapılır.\n\nBu parçaya göre aşağıdakilerden hangileri söylenebilir?\n\nI. Kısa tel, uzun tele göre daha yüksek ses üretir.\n\nII. Kemanın dört teli aynı kalınlıktadır.\n\nIII. Titreşen parçanın uzunluğu, sesin tonunu etkilemez.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Yalnız I parçada vardır; II ve III parçayla çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Paragrafta anlam: öncüllü çıkarım"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  }
+]

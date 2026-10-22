@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "ags-tar-osm-001",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osman Bey'in Bizans'a karşı kazandığı ilk büyük zafer olan 1302 tarihli savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Koyunhisar Savaşı",
+      "B": "Niğbolu Savaşı",
+      "C": "Kosova Savaşı",
+      "D": "Sırpsındığı Savaşı",
+      "E": "Pelekanon Savaşı"
+    },
+    "answer": "A",
+    "solution": "Osman Bey, 1302'de Koyunhisar'da Bizans ordusunu yenerek beyliğin bağımsız bir güç olduğunu göstermiştir; Pelekanon Savaşı (1329) ise Orhan Bey dönemindedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: Koyunhisar Savaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-002",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı Devleti'nin başkentleri kuruluştan İstanbul'un fethine kadar hangi sırayla değişmiştir?",
+    "options": {
+      "A": "Bursa – Söğüt – Edirne – İstanbul",
+      "B": "Söğüt – Bursa – Edirne – İstanbul",
+      "C": "Söğüt – Bursa – İstanbul – Edirne",
+      "D": "Bursa – Edirne – Söğüt – İstanbul",
+      "E": "Söğüt – Edirne – Bursa – İstanbul"
+    },
+    "answer": "B",
+    "solution": "Başkent önce Söğüt, Orhan Bey ile (1326) Bursa, I. Murad ile Edirne ve II. Mehmed ile (1453) İstanbul olmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: başkentler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-003",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdakilerden hangisi Orhan Bey döneminde gerçekleşmiştir?",
+    "options": {
+      "A": "Yeniçeri Ocağı'nın düzenli ordu olarak kurulması",
+      "B": "İznik'te ilk Osmanlı medresesinin kurdurulması",
+      "C": "Sırpsındığı Savaşı'nda Balkan beylerinin yenilmesi",
+      "D": "İstanbul'un fethiyle Bizans'a son verilmesi",
+      "E": "Edirne'nin başkent yapılarak Rumeli'ye taşınılması"
+    },
+    "answer": "B",
+    "solution": "İlk Osmanlı medresesi Orhan Bey zamanında İznik'te açılmıştır; diğerleri I. Murad ve II. Mehmed dönemlerine aittir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: Orhan Bey dönemi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-004",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Rumeli'ye geçişi başlatan Çimpe Kalesi'nin alınmasında görev alan, Orhan Bey'in oğlu olan komutan aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gazi Evrenos",
+      "B": "Hacı İlbey",
+      "C": "Timurtaş Paşa",
+      "D": "Lala Şahin Paşa",
+      "E": "Süleyman Paşa"
+    },
+    "answer": "E",
+    "solution": "Rumeli'ye ilk kalıcı geçiş, Orhan Bey'in oğlu Süleyman Paşa komutasında Çimpe Kalesi'nin alınmasıyla gerçekleşmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: Rumeli'ye geçiş"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-005",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Devşirme çocuklardan oluşan Yeniçeri Ocağı hangi padişah döneminde kurulmuştur?",
+    "options": {
+      "A": "I. Murad",
+      "B": "II. Murad",
+      "C": "Orhan Bey",
+      "D": "Fatih Sultan Mehmed",
+      "E": "Yıldırım Bayezid"
+    },
+    "answer": "A",
+    "solution": "Yeniçeri Ocağı'nın kuruluşu ders kitaplarında I. Murad dönemine bağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: Yeniçeri Ocağı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-006",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Yıldırım Bayezid'in 1396'da Haçlı ordusunu yendiği savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kosova Savaşı",
+      "B": "Mohaç Savaşı",
+      "C": "Niğbolu Savaşı",
+      "D": "Ankara Savaşı",
+      "E": "Varna Savaşı"
+    },
+    "answer": "C",
+    "solution": "Niğbolu Savaşı (1396), Macar Kralı Sigismund önderliğindeki Haçlı ordusuna karşı kazanılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: Niğbolu Savaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-007",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Ankara Savaşı'ndan (1402) sonra Yıldırım Bayezid'in oğulları arasında taht mücadelelerinin sürdüğü döneme ne ad verilir?",
+    "options": {
+      "A": "Duraklama Dönemi",
+      "B": "Lale Devri",
+      "C": "Celali İsyanları Dönemi",
+      "D": "Kafes Devri",
+      "E": "Fetret Devri"
+    },
+    "answer": "E",
+    "solution": "1402-1413 yılları arasındaki taht kavgaları dönemine Fetret Devri denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: Fetret Devri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-008",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Fetret Devri'ni sona erdirerek Osmanlı'da siyasi birliği yeniden sağlayan padişah kimdir?",
+    "options": {
+      "A": "İsa Çelebi",
+      "B": "Süleyman Çelebi",
+      "C": "Çelebi Mehmed",
+      "D": "II. Murad",
+      "E": "Musa Çelebi"
+    },
+    "answer": "C",
+    "solution": "Kardeşlerini yenen Çelebi Mehmed, 1413'te tek hükümdar olarak devleti yeniden birleştirmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: Fetret Devri'nin sonu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-009",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdaki savaşların kronolojik sıralaması hangisidir?\n\nI. Niğbolu\n\nII. Ankara\n\nIII. Varna\n\nIV. Koyunhisar",
+    "options": {
+      "A": "I - II - III - IV",
+      "B": "IV - I - II - III",
+      "C": "IV - II - I - III",
+      "D": "I - IV - II - III",
+      "E": "IV - I - III - II"
+    },
+    "answer": "B",
+    "solution": "Koyunhisar 1302, Niğbolu 1396, Ankara 1402, Varna 1444'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: savaşların kronolojisi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-010",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "İstanbul kuşatmasında kullanılan büyük topları döken Macar usta aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Urban (Orban)",
+      "B": "Akşemseddin",
+      "C": "Zağanos Paşa",
+      "D": "Çandarlı Halil Paşa",
+      "E": "Giustiniani"
+    },
+    "answer": "A",
+    "solution": "Şahi toplarını döken usta Macar kökenli Urban'dır; Giustiniani ise şehri savunan Cenevizli komutandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kuruluş: İstanbul'un fethi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-011",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdakilerden hangisi İstanbul'un fethinin sonuçlarından biri değildir?",
+    "options": {
+      "A": "Karadeniz ticaretinin Osmanlı denetimine girmesi",
+      "B": "Osmanlı'nın İslam dünyasındaki itibarının artması",
+      "C": "Balkanlardaki Osmanlı üstünlüğünün pekişmesi",
+      "D": "Bizans İmparatorluğu'nun sona ermesi",
+      "E": "Halifelik unvanının Osmanlı hanedanına geçmesi"
+    },
+    "answer": "E",
+    "solution": "Halifelik, Mısır'ın fethiyle (1517) Osmanlılara geçmiştir; öteki şıklar İstanbul'un fethinin sonuçlarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: İstanbul'un fethinin sonuçları (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-012",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Fatih Sultan Mehmed'in Akkoyunlu hükümdarı Uzun Hasan'ı yendiği 1473 tarihli savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mohaç Savaşı",
+      "B": "Otlukbeli Savaşı",
+      "C": "Çaldıran Savaşı",
+      "D": "Malazgirt Savaşı",
+      "E": "Mercidabık Savaşı"
+    },
+    "answer": "B",
+    "solution": "Fatih, Otlukbeli Savaşı'nda (1473) Akkoyunlu Devleti'ni yenerek Doğu Anadolu'daki üstünlüğü sağlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Otlukbeli Savaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-013",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Kırım Hanlığı aşağıdaki yıllardan hangisinde Osmanlı himayesine girmiştir?",
+    "options": {
+      "A": "1480",
+      "B": "1475",
+      "C": "1514",
+      "D": "1526",
+      "E": "1453"
+    },
+    "answer": "B",
+    "solution": "Fatih döneminde, 1475'te Kırım Hanlığı Osmanlı himayesini kabul etmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Kırım Hanlığı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-014",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Fatih döneminde devlet teşkilatını düzenleyen ve kardeş katlini hukuki dayanağa kavuşturan kanunname aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mecelle",
+      "B": "Sened-i İttifak",
+      "C": "Islahat Fermanı",
+      "D": "Kanunname-i Âli Osman",
+      "E": "Tanzimat Fermanı"
+    },
+    "answer": "D",
+    "solution": "Fatih'in kanunnamesi devlet teşkilatını düzenlemiş ve kardeş katlini hukuki dayanağa kavuşturmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Fatih Kanunnamesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-015",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Yavuz Selim'in Safevi Devleti'ni yenerek Doğu Anadolu'nun Osmanlı topraklarına katılmasını sağladığı 1514 tarihli savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mohaç Savaşı",
+      "B": "Otlukbeli Savaşı",
+      "C": "Mercidabık Savaşı",
+      "D": "Çaldıran Savaşı",
+      "E": "Ridaniye Savaşı"
+    },
+    "answer": "D",
+    "solution": "1514'teki Çaldıran Savaşı Safevilere karşı kazanılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Çaldıran Savaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-016",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Mısır'ın fethinin (1517) sonuçlarından hangileri söylenebilir?\n\nI. Kutsal emanetlerin İstanbul'a getirilmesi\n\nII. Baharat yolunun denetiminin Osmanlıların eline geçmesi\n\nIII. Safevi tehdidinin ortadan kalkması",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Mısır'ın fethiyle kutsal emanetler İstanbul'a getirilmiş ve baharat yolu denetlenmiştir; Safevi tehdidi ise Çaldıran'la ilgilidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Mısır'ın fethi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-017",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Kanuni Sultan Süleyman döneminde Macaristan'ın Osmanlı hâkimiyetine girmesini sağlayan 1526 tarihli savaş hangisidir?",
+    "options": {
+      "A": "Zigetvar Seferi",
+      "B": "Cerbe Deniz Savaşı",
+      "C": "Preveze Deniz Savaşı",
+      "D": "Mohaç Meydan Muharebesi",
+      "E": "Rodos Kuşatması"
+    },
+    "answer": "D",
+    "solution": "Mohaç'ta Macar Kralı II. Lajos yenilmiş ve Macaristan'ın büyük bölümü Osmanlı denetimine girmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Mohaç Meydan Muharebesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-018",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "1538 Preveze Deniz Savaşı'nı kazanan Osmanlı komutanı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Pargalı İbrahim Paşa",
+      "B": "Piyale Paşa",
+      "C": "Turgut Reis",
+      "D": "Barbaros Hayreddin",
+      "E": "Kılıç Ali Paşa"
+    },
+    "answer": "D",
+    "solution": "Preveze'de Barbaros Hayreddin Paşa, Haçlı donanmasını yenmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Preveze Deniz Savaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-019",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Preveze Deniz Savaşı'nın (1538) sonuçlarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Karadeniz'in yabancı gemilere kapatılması",
+      "B": "Osmanlı donanmasının büyük ölçüde yok olması",
+      "C": "Hint Okyanusu'nun denetim altına alınması",
+      "D": "Kıbrıs'ın Osmanlı topraklarına katılması",
+      "E": "Akdeniz'de Osmanlı üstünlüğünün sağlanması"
+    },
+    "answer": "E",
+    "solution": "Preveze, Osmanlı'nın Akdeniz'deki deniz üstünlüğünü yaklaşık otuz yıl sağlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Preveze'nin sonuçları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-020",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Fransa'ya tanınan ve sonradan kapitülasyonların başlangıcı sayılan ayrıcalıklar hangi yılda verilmiştir?",
+    "options": {
+      "A": "1526",
+      "B": "1521",
+      "C": "1453",
+      "D": "1517",
+      "E": "1535"
+    },
+    "answer": "E",
+    "solution": "Kanuni Sultan Süleyman, 1535'te Fransa'ya ticari ayrıcalıklar tanımıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: 1535 ahidnamesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-021",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Kanuni Sultan Süleyman hangi seferde vefat etmiştir?",
+    "options": {
+      "A": "Viyana Seferi",
+      "B": "Mohaç Seferi",
+      "C": "Zigetvar Seferi",
+      "D": "Irakeyn Seferi",
+      "E": "Rodos Seferi"
+    },
+    "answer": "C",
+    "solution": "Kanuni, 1566'da Zigetvar Seferi sırasında ölmüştür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Kanuni'nin vefatı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-022",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Mimar Sinan'ın kendi ustalık eseri olarak nitelediği yapı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İstanbul'daki Şehzade Camii",
+      "B": "İstanbul'daki Sultanahmet Camii",
+      "C": "İstanbul'daki Süleymaniye Camii",
+      "D": "İstanbul'daki Ayasofya Camii",
+      "E": "Edirne'deki Selimiye Camii"
+    },
+    "answer": "E",
+    "solution": "Sinan, çıraklık eseri olarak Şehzade, kalfalık eseri olarak Süleymaniye, ustalık eseri olarak Selimiye'yi anar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükselme: Mimar Sinan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-023",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Padişahın başkanlığında toplanıp yürütme ve yargı işlerini görüşen Osmanlı'daki en yüksek devlet kurulu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Meclis-i Vâlâ",
+      "B": "Şûra-yı Devlet",
+      "C": "Meclis-i Mebusan",
+      "D": "Divan-ı Hümayun",
+      "E": "Âyan Meclisi"
+    },
+    "answer": "D",
+    "solution": "Divan-ı Hümayun, Osmanlı merkez teşkilatında devlet işlerinin görüşüldüğü kuruldur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: Divan-ı Hümayun"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-024",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Tımar sistemiyle Osmanlı Devleti'nin başlıca amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Vergi toplama işini ihale yoluyla özel girişimcilere devretmek",
+      "B": "Esnafın fiyat ve kalite denetimini loncalar aracılığıyla yapmak",
+      "C": "Devşirme çocukları toplayarak saray okullarında yetiştirmek",
+      "D": "Atlı askeri ve taşra hizmetlerini maaş ödemeden karşılamak",
+      "E": "Merkezî hazineye düzenli ve yüksek miktarda nakit gelir sağlamak"
+    },
+    "answer": "D",
+    "solution": "Tımar sahibi sipahi, kendisine verilen gelirle atlı asker besler ve bölgesinin düzenini sağlardı.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: tımar sistemi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-025",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Devşirme yoluyla toplanan çocuklardan yetenekli olanların yönetici olarak yetiştirildiği saray okulu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mekteb-i Fünun-ı Harbiye",
+      "B": "Enderun Mektebi",
+      "C": "Acemi Ocağı",
+      "D": "Sahn-ı Seman Medresesi",
+      "E": "Darülfünun"
+    },
+    "answer": "B",
+    "solution": "Enderun, saray hizmetlerine ve devlet yönetimine eleman yetiştiren saray okuludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: Enderun"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-026",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı millet sisteminde topluluklar neye göre ayrılmıştır?",
+    "options": {
+      "A": "Ekonomik güç düzeyine göre",
+      "B": "Dil ve edebiyat farkına göre",
+      "C": "Yaşadıkları bölgeye göre",
+      "D": "Irk ve soy farkına göre",
+      "E": "Din ve mezhep ayrımına göre"
+    },
+    "answer": "E",
+    "solution": "Millet sisteminde cemaatler din ve mezhebe göre ayrılmış, kendi iç işlerinde özerk bırakılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: millet sistemi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-027",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdakilerden hangisi Osmanlı'da askerî sınıfa dâhildir?\n\nI. Yeniçeriler\n\nII. Esnaf\n\nIII. Çiftçi köylüler",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Yeniçeriler kapıkulu askeridir; esnaf ve çiftçi köylüler reaya sınıfındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: askerî sınıf"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-028",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Vergi toplama hakkının belirli bir bedel karşılığında, çoğunlukla açık artırmayla özel kişilere verilmesi uygulamasına ne ad verilir?",
+    "options": {
+      "A": "Tımar",
+      "B": "Zeamet",
+      "C": "İltizam",
+      "D": "Ayan",
+      "E": "Vakıf"
+    },
+    "answer": "C",
+    "solution": "İltizam, devlet gelirlerinin bedel karşılığı mültezimlere devredilmesidir ve duraklama döneminde yaygınlaşmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: iltizam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-029",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı ekonomi anlayışının temel ilkeleri aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "Fizyokrasi, liberalizm ve reformizm",
+      "B": "Kolbertizm, sömürgecilik ve serbest ticaret",
+      "C": "Merkantilizm, liberalizm ve korumacılık",
+      "D": "Provizyonizm, fiskalizm ve gelenekçilik",
+      "E": "Kapitalizm, sosyalizm ve devletçilik"
+    },
+    "answer": "D",
+    "solution": "Osmanlı ekonomisi halkın ihtiyaçlarının bol ve ucuz karşılanmasına (provizyonizm), hazine gelirinin artırılmasına (fiskalizm) ve geleneğe dayanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: ekonomik anlayış"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-030",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "XVIII. yüzyılda taşrada güçlenen, merkezî yönetimle halk arasında aracılık yapan yerel güç sahiplerine ne ad verilir?",
+    "options": {
+      "A": "Derebey",
+      "B": "Sipahi",
+      "C": "Voyvoda",
+      "D": "Ayan",
+      "E": "Mütesellim"
+    },
+    "answer": "D",
+    "solution": "XVIII. yüzyılda taşrada güçlenen ayanlar, merkezi otoritenin zayıflamasında rol oynamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: ayan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-031",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı Devleti'nde padişahtan sonra gelen en yüksek devlet görevlisi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Nişancı",
+      "B": "Kazasker",
+      "C": "Kaptan-ı Derya",
+      "D": "Şeyhülislam",
+      "E": "Sadrazam"
+    },
+    "answer": "E",
+    "solution": "Padişahın mutlak vekili olan sadrazam, devlet işlerinin başı sayılırdı.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Teşkilat: sadrazam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-032",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "1606 tarihli Zitvatorok Antlaşması'nın sonuçlarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kıbrıs'ın Venedik'e geri verilerek adanın boşaltılması",
+      "B": "Osmanlı'nın Avusturya'ya her yıl belirli miktarda vergi ödemeye başlaması",
+      "C": "Macaristan'ın tamamının Osmanlı topraklarına katılması",
+      "D": "Girit'in Venedik'e devredilerek kuşatmaya son verilmesi",
+      "E": "Avusturya'nın Osmanlı'ya ödediği yıllık verginin kaldırılması"
+    },
+    "answer": "E",
+    "solution": "Zitvatorok'ta Avusturya'nın ödediği yıllık vergi kaldırılmış, Avusturya imparatoru ilk kez padişahla eşit sayılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Duraklama: Zitvatorok"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-033",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdakilerden hangisi Celali isyanlarının nedenlerinden biri değildir?",
+    "options": {
+      "A": "Yeniçeri Ocağı'nın kaldırılması",
+      "B": "Tımar sisteminin bozulması",
+      "C": "Orduda işsiz kalan sekban sayısının artması",
+      "D": "Nüfus artışı ve topraksızlık sorunu",
+      "E": "Vergilerin ağırlaşması"
+    },
+    "answer": "A",
+    "solution": "Yeniçeri Ocağı 1826'da kaldırılmıştır; Celali isyanları XVI-XVII. yüzyıllarda çıkmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Duraklama: Celali isyanlarının nedenleri (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-034",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "IV. Murad'ın Revan ve Bağdat seferlerini yaptığı devlet aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Venedik Cumhuriyeti",
+      "B": "Safevi Devleti",
+      "C": "Rusya",
+      "D": "Lehistan",
+      "E": "Avusturya"
+    },
+    "answer": "B",
+    "solution": "IV. Murad, Revan (1635) ve Bağdat'ı (1638) Safevilerden geri almıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Duraklama: IV. Murad"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-035",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "1683'teki II. Viyana Kuşatması'nı yapan sadrazam aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sokullu Mehmed Paşa",
+      "B": "Fazıl Ahmed Paşa",
+      "C": "Köprülü Mehmed Paşa",
+      "D": "Kara Mustafa Paşa",
+      "E": "Damat İbrahim Paşa"
+    },
+    "answer": "D",
+    "solution": "II. Viyana Kuşatması'nın başarısızlığı Osmanlı'nın Avrupa'daki gerilemesini hızlandırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Duraklama: II. Viyana Kuşatması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-036",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "II. Viyana Kuşatması'ndaki başarısızlığın ardından Osmanlı'ya karşı kurulan Avrupa ittifakı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Üçlü İtilaf",
+      "B": "Kutsal Alyans",
+      "C": "Kutsal İttifak",
+      "D": "Üçlü İttifak",
+      "E": "Balkan Antantı"
+    },
+    "answer": "C",
+    "solution": "1684'te Avusturya, Lehistan ve Venedik'in oluşturduğu Kutsal İttifak, Osmanlı'ya karşı uzun bir savaş yürütmüştür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Duraklama: Kutsal İttifak"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-037",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Fazıl Ahmed Paşa döneminde 1669'da fethedilen ada aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kıbrıs",
+      "B": "Malta",
+      "C": "Sakız",
+      "D": "Rodos",
+      "E": "Girit"
+    },
+    "answer": "E",
+    "solution": "Girit'in fethi uzun bir kuşatmanın ardından Fazıl Ahmed Paşa zamanında tamamlanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Duraklama: Girit'in fethi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-038",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı Devleti'nin ilk büyük toprak kaybına yol açan ve gerileme dönemini başlatan sayılan antlaşma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Karlofça Antlaşması",
+      "B": "Pasarofça Antlaşması",
+      "C": "Yaş Antlaşması",
+      "D": "Küçük Kaynarca Antlaşması",
+      "E": "Prut Antlaşması"
+    },
+    "answer": "A",
+    "solution": "1699 Karlofça Antlaşması ile Osmanlı Macaristan, Mora ve Podolya'yı kaybetmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gerileme: Karlofça"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-039",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdakilerden hangisi Lale Devri'nde gerçekleşmiş bir gelişme değildir?",
+    "options": {
+      "A": "Nizam-ı Cedid ordusunun kurulması",
+      "B": "Sadabat Sarayı'nın inşa edilmesi",
+      "C": "Patrona Halil isyanının çıkması",
+      "D": "Fransa'ya elçi gönderilmesi",
+      "E": "İlk Türk matbaasının açılması"
+    },
+    "answer": "A",
+    "solution": "Nizam-ı Cedid ordusu III. Selim döneminde kurulmuştur; Lale Devri III. Ahmed devridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gerileme: Lale Devri (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-040",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "1711 Prut Antlaşması'yla Osmanlı Devleti aşağıdaki kalelerden hangisini Rusya'dan geri almıştır?",
+    "options": {
+      "A": "Mora",
+      "B": "Azak",
+      "C": "Kırım",
+      "D": "Hotin",
+      "E": "Belgrad"
+    },
+    "answer": "B",
+    "solution": "Prut Savaşı'nda Baltacı Mehmed Paşa, Rusya'yı kuşatmış ve Azak Kalesi geri alınmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gerileme: Prut Antlaşması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-041",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Lale Devri'nde Fransa'ya gönderilen ve Paris'teki gözlemlerini sefaretnamesinde anlatan elçi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mustafa Reşit Paşa",
+      "B": "Yirmisekiz Çelebi",
+      "C": "Ebubekir Ratıb Efendi",
+      "D": "Yusuf Agâh Efendi",
+      "E": "Ahmed Resmi Efendi"
+    },
+    "answer": "B",
+    "solution": "Yirmisekiz Çelebi Mehmed Efendi'nin sefaretnamesi Fransız yaşamı hakkında bilgi verir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gerileme: Lale Devri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-042",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı'da ilk matbaayı kuran ve ilk kitap olan Vankulu Lügati'ni bastıran kişi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İbrahim Müteferrika",
+      "B": "Ahmet Cevdet Paşa",
+      "C": "Yirmisekiz Çelebi Mehmed Efendi",
+      "D": "Damat İbrahim Paşa",
+      "E": "Katip Çelebi"
+    },
+    "answer": "A",
+    "solution": "İbrahim Müteferrika, 1727'de matbaa kurmak için izin almış, ilk eser olarak Vankulu Lügati basılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gerileme: ilk matbaa"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-043",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Lale Devri'nin sona ermesine yol açan 1730 isyanı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Şah Kulu İsyanı",
+      "B": "Kabakçı Mustafa İsyanı",
+      "C": "Patrona Halil İsyanı",
+      "D": "Celali İsyanı",
+      "E": "Şeyh Bedreddin İsyanı"
+    },
+    "answer": "C",
+    "solution": "Patrona Halil İsyanı Damat İbrahim Paşa'nın ölümüne ve III. Ahmed'in tahttan inmesine yol açmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gerileme: Patrona Halil İsyanı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-044",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Küçük Kaynarca Antlaşması'nın (1774) sonuçlarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Rusya'nın savaş tazminatı ödemesi",
+      "B": "Kırım'ın Osmanlı'ya doğrudan bağlanması",
+      "C": "Kırım Hanlığı'nın bağımsız ilan edilmesi",
+      "D": "Eflak ve Boğdan'ın Rusya'ya katılması",
+      "E": "Karadeniz'in Osmanlı'ya ait iç deniz olduğunun yeniden tescili"
+    },
+    "answer": "C",
+    "solution": "Küçük Kaynarca'da Kırım bağımsız sayılmış, Osmanlı savaş tazminatı ödemiş ve Rus ticaret gemileri Karadeniz'de serbestlik kazanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gerileme: Küçük Kaynarca"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-045",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Fransa'ya verilen kapitülasyonlar, aşağıdaki yıllardan hangisinde süresiz hâle getirilmiştir?",
+    "options": {
+      "A": "1838",
+      "B": "1774",
+      "C": "1535",
+      "D": "1740",
+      "E": "1699"
+    },
+    "answer": "D",
+    "solution": "1740 ahidnamesi ile Fransa'ya verilen ayrıcalıklar süresiz hâle gelmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gerileme: 1740 ahidnamesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-046",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "III. Selim'in kurduğu, Avrupa usulünde eğitilmiş yeni ordu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Humbaracı Ocağı",
+      "B": "Nizam-ı Cedid Ordusu",
+      "C": "Asakir-i Mansure-i Muhammediye",
+      "D": "Redif Teşkilatı",
+      "E": "Yeniçeri Ocağı"
+    },
+    "answer": "B",
+    "solution": "III. Selim, Yeniçeri Ocağı'nın yetersizliği karşısında Nizam-ı Cedid adıyla yeni bir ordu kurmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Nizam-ı Cedid"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-047",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı Devleti'nin Avrupa başkentlerinde ilk daimi elçiliği açtığı dönemin padişahı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "III. Selim",
+      "B": "Abdülmecid",
+      "C": "III. Ahmed",
+      "D": "I. Mahmud",
+      "E": "II. Abdülhamid"
+    },
+    "answer": "A",
+    "solution": "III. Selim zamanında (1793) Londra'da ilk daimi elçilik açılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: daimi elçilikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-048",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "1808 tarihli Sened-i İttifak ile aşağıdakilerden hangisi gerçekleştirilmiştir?",
+    "options": {
+      "A": "Gayrimüslimlere meclise katılma gibi siyasi haklar verilmiştir",
+      "B": "Padişah ile ayanlar arasında karşılıklı yükümlülükler belirlenmiştir",
+      "C": "Yeniçeri Ocağı kaldırılarak yerine yeni bir ordu kurulmuştur",
+      "D": "Padişahın yetkilerinin bir kısmı seçilmiş meclise devredilmiştir",
+      "E": "Kanun önünde bütün tebaanın eşit olduğu ilke olarak ilan edilmiştir"
+    },
+    "answer": "B",
+    "solution": "Sened-i İttifak, padişah ile ayanlar arasında yapılmış, padişahın yetkilerini kısıtlayan ilk belge sayılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Sened-i İttifak"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-049",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "1826'daki Vaka-i Hayriye ile aşağıdakilerden hangisi gerçekleşmiştir?",
+    "options": {
+      "A": "Tımar sisteminin kaldırılması",
+      "B": "Sened-i İttifak'ın imzalanması",
+      "C": "Meclis-i Mebusan'ın açılması",
+      "D": "Nizam-ı Cedid Ordusu'nun kurulması",
+      "E": "Yeniçeri Ocağı'nın kaldırılması"
+    },
+    "answer": "E",
+    "solution": "II. Mahmud, Vaka-i Hayriye ile Yeniçeri Ocağı'nı kaldırmış ve yerine Asakir-i Mansure-i Muhammediye'yi kurmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Vaka-i Hayriye"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-050",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Yunan bağımsızlığının tanınmasına yol açan 1829 tarihli antlaşma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Berlin Antlaşması",
+      "B": "Balta Limanı Antlaşması",
+      "C": "Hünkâr İskelesi Antlaşması",
+      "D": "Paris Antlaşması",
+      "E": "Edirne Antlaşması"
+    },
+    "answer": "E",
+    "solution": "Osmanlı-Rus Savaşı'ndan sonra imzalanan Edirne Antlaşması Yunanistan'ın bağımsızlığına yol açmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Edirne Antlaşması"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-051",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "1839'da Tanzimat Fermanı'nı hazırlayan ve Gülhane Parkı'nda okutan devlet adamı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Âli Paşa",
+      "B": "Fuat Paşa",
+      "C": "Mustafa Reşit Paşa",
+      "D": "Ahmet Cevdet Paşa",
+      "E": "Mithat Paşa"
+    },
+    "answer": "C",
+    "solution": "Tanzimat Fermanı, Mustafa Reşit Paşa tarafından hazırlanmış ve Abdülmecid döneminde ilan edilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Tanzimat Fermanı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-052",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdakilerden hangisi Tanzimat dönemi yeniliklerinden biri değildir?",
+    "options": {
+      "A": "Vilayet Nizamnamesi'nin yürürlüğe girmesi",
+      "B": "Yeniçeri Ocağı'nın kaldırılması",
+      "C": "Ticaret Kanunu'nun çıkarılması",
+      "D": "Posta teşkilatının kurulması",
+      "E": "Galatasaray Mekteb-i Sultanisi'nin açılması"
+    },
+    "answer": "B",
+    "solution": "Yeniçeri Ocağı Tanzimat'tan önce, 1826'da kaldırılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Tanzimat yenilikleri (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-053",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Tanzimat Fermanı'nda yer alan hükümlerden hangileri söylenebilir?\n\nI. Can, mal ve namus güvenliğinin sağlanması\n\nII. Vergilerin gelire göre alınması\n\nIII. Padişahın yetkilerinin anayasayla sınırlanması",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "I ve II fermanda vardır; padişahın yetkilerini anayasayla sınırlama Kanun-ı Esasi'de gerçekleşmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Tanzimat'ın hükümleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-054",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Islahat Fermanı hangi savaşın ardından ilan edilmiştir?",
+    "options": {
+      "A": "Yunan İsyanı",
+      "B": "Balkan Savaşları",
+      "C": "93 Harbi",
+      "D": "Trablusgarp Savaşı",
+      "E": "Kırım Savaşı"
+    },
+    "answer": "E",
+    "solution": "1856'da Kırım Savaşı'nın sonunda, Paris Konferansı öncesinde Islahat Fermanı ilan edilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Islahat Fermanı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-055",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Islahat Fermanı'nı Tanzimat Fermanı'ndan ayıran en önemli özellik aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Padişahın yetkilerinin anayasayla sınırlandırılması",
+      "B": "Yeniçeri Ocağı'nın kaldırılarak yeni ordunun kurulması",
+      "C": "Gayrimüslimlere tanınan eşit hakların ayrıntılı düzenlenmesi",
+      "D": "Halkın seçtiği temsilcilerden oluşan bir meclisin kurulması",
+      "E": "Medeni hukuk kurallarını toplayan Mecelle'nin hazırlanması"
+    },
+    "answer": "C",
+    "solution": "Islahat Fermanı, Müslüman-gayrimüslim eşitliğini daha ayrıntılı düzenlemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Islahat Fermanı'nın özelliği"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-056",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı Devleti'nin ilk anayasası olan Kanun-ı Esasi hangi padişah döneminde ilan edilmiştir?",
+    "options": {
+      "A": "V. Mehmed Reşad",
+      "B": "II. Abdülhamid",
+      "C": "Abdülmecid",
+      "D": "V. Murad",
+      "E": "Abdülaziz"
+    },
+    "answer": "B",
+    "solution": "Kanun-ı Esasi, Mithat Paşa'nın çabasıyla 1876'da II. Abdülhamid tahta çıkarken ilan edilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Kanun-ı Esasi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-057",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "I. Meşrutiyet Meclisi, aşağıdaki savaşlardan hangisinin yaşandığı ortamda kapatılmıştır?",
+    "options": {
+      "A": "93 Harbi (Osmanlı-Rus Savaşı)",
+      "B": "Kırım Savaşı",
+      "C": "Balkan Savaşları",
+      "D": "Yunan İsyanı",
+      "E": "Trablusgarp Savaşı"
+    },
+    "answer": "A",
+    "solution": "II. Abdülhamid, 1878'de 93 Harbi'nin yarattığı ortamı gerekçe göstererek Meclisi kapatmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: I. Meşrutiyet'in sonu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-058",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı borçlarının tahsili için Düyun-ı Umumiye İdaresi'nin kurulmasını sağlayan 1881 tarihli düzenleme aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kanunname-i Âli Osman",
+      "B": "Sened-i İttifak",
+      "C": "Islahat Fermanı",
+      "D": "Mecelle",
+      "E": "Muharrem Kararnamesi"
+    },
+    "answer": "E",
+    "solution": "1881 Muharrem Kararnamesi ile Düyun-ı Umumiye İdaresi kurulmuş, bazı devlet gelirleri alacaklılara bırakılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: Düyun-ı Umumiye"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-059",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "II. Meşrutiyet'in ilanıyla (1908) yeniden yürürlüğe giren belge aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kanun-ı Esasi",
+      "B": "Tanzimat Fermanı",
+      "C": "Islahat Fermanı",
+      "D": "Misak-ı Millî",
+      "E": "Sened-i İttifak"
+    },
+    "answer": "A",
+    "solution": "1908'de Kanun-ı Esasi tekrar yürürlüğe girmiş ve Meclis-i Mebusan toplanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: II. Meşrutiyet"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-060",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "31 Mart Olayı'nı (1909) bastıran ordu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Hareket Ordusu",
+      "B": "Mısır Ordusu",
+      "C": "Asakir-i Mansure-i Muhammediye",
+      "D": "Nizam-ı Cedid Ordusu",
+      "E": "Kuvayı Milliye"
+    },
+    "answer": "A",
+    "solution": "Mahmut Şevket Paşa komutasındaki Hareket Ordusu İstanbul'a gelerek olayı bastırmış, II. Abdülhamid tahttan indirilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yenileşme: 31 Mart Olayı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-061",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı taşra teşkilatında eyalet, sancak ve kaza birimlerinin yöneticileri sırasıyla aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "Sancakbeyi - Beylerbeyi - Kadı",
+      "B": "Subaşı - Sancakbeyi - Beylerbeyi",
+      "C": "Beylerbeyi - Sancakbeyi - Kadı",
+      "D": "Beylerbeyi - Kadı - Sancakbeyi",
+      "E": "Kadı - Sancakbeyi - Beylerbeyi"
+    },
+    "answer": "C",
+    "solution": "Eyalet beylerbeyi, sancak sancakbeyi, kaza ise kadı tarafından yönetilirdi.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı taşra teşkilatı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-062",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Fatih Sultan Mehmet'in koyduğu kurallar uyarınca Divan-ı Hümayun toplantılarına, padişahın yerine aşağıdakilerden hangisi başkanlık etmeye başlamıştır?",
+    "options": {
+      "A": "Sadrazam",
+      "B": "Şeyhülislam",
+      "C": "Defterdar",
+      "D": "Kazasker",
+      "E": "Nişancı"
+    },
+    "answer": "A",
+    "solution": "Fatih döneminden itibaren padişah divan toplantılarına katılmamış, divana sadrazam başkanlık etmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı merkez teşkilatı: Divan-ı Hümayun"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-063",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Osmanlı padişahı I. Murat'ın şehit düştüğü, Balkanlar'daki Osmanlı üstünlüğünü pekiştiren ve 1389'da yapılan savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Niğbolu Savaşı",
+      "B": "Mohaç Savaşı",
+      "C": "Çaldıran Savaşı",
+      "D": "I. Kosova Savaşı",
+      "E": "Varna Savaşı"
+    },
+    "answer": "D",
+    "solution": "1389'daki I. Kosova Savaşı'nda Osmanlı ordusu Sırp ve müttefiklerini yenmiş, I. Murat savaş sırasında şehit edilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı'nın kuruluşu ve yükselişi: Kosova"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-064",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "1856 tarihli Islahat Fermanı ile Osmanlı Devleti'nin başlıca amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yeniçeri Ocağı'nı kaldırmak",
+      "B": "Padişahın yetkilerini sınırlayan anayasa hazırlamak",
+      "C": "Gayrimüslim tebaaya Müslümanlarla eşit haklar tanımak",
+      "D": "Devlet bütçesini ilk kez hazırlamak",
+      "E": "Ayanlara yerel yönetim hakkı tanımak"
+    },
+    "answer": "C",
+    "solution": "Kırım Savaşı sonrasında ilan edilen Islahat Fermanı, Osmanlı'daki gayrimüslim tebaanın Müslümanlarla eşit haklara sahip olmasını güvence altına almayı amaçlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tanzimat dönemi: Islahat Fermanı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-065",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Bir tarihçi, XVI. yüzyılda bir kazanın nüfusunu, köylerin sayısını ve bu köylerden alınan vergi gelirlerini araştırırken hane sayılarını ve tımar sahiplerine ayrılan gelirleri gösteren bir defterden yararlanmıştır. Defter, bölgenin devlete bağlandığı dönemde devlet görevlilerince yapılan sayımla hazırlanmıştır.\n\nBu defter aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mühimme defteri",
+      "B": "Ruus defteri",
+      "C": "Şer'iyye sicili",
+      "D": "Tahrir defteri",
+      "E": "Ahkâm defteri"
+    },
+    "answer": "D",
+    "solution": "Tahrir defterleri, Osmanlı'da yapılan nüfus ve gelir sayımlarının kaydıdır (hane, köy, vergi ve dirlik gelirleri). Mühimme defteri divan kararlarını, şer'iyye sicili kadıların mahkeme kayıtlarını içerir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-066",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdaki Osmanlı belge türleri ve içerikleriyle ilgili eşleştirmelerden hangileri doğrudur?\n\nI. Mühimme defteri – Divan-ı Hümayun'da alınan ve taşraya gönderilen önemli kararlar\n\nII. Şer'iyye sicili – Kadıların tuttuğu evlilik, miras, alım-satım gibi mahkeme kayıtları\n\nIII. Tahrir defteri – Padişahın şahsi mal varlığı ve saray harcamaları",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "C",
+    "solution": "Mühimme defterleri divan kararlarını, şer'iyye sicilleri kadı mahkemesi kayıtlarını içerir; tahrir defterleri ise nüfus ve vergi gelirleri sayımıdır, padişahın şahsi harcamalarıyla ilgili değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-067",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Bir tarih kitabında şu açıklama yer almaktadır:\n\n“II. Mahmut, 1826'da çıkan bir ayaklanmayı bastırarak ordunun bozulmuş eski bir kolunu ortadan kaldırmış, yerine Avrupa usulünde eğitilen yeni bir ordu kurmuştur. Bu olay, eski askerî düzenin sona ermesi bakımından bir dönüm noktasıdır. Aynı süreçte bu askerî teşkilatla bağlantılı bir tarikatın tekkeleri de kapatılmıştır.”\n\nBu açıklama aşağıdaki gelişmelerden hangisine aittir?",
+    "options": {
+      "A": "Tanzimat Fermanı",
+      "B": "Kanun-ı Esasi",
+      "C": "Nizam-ı Cedid",
+      "D": "Vaka-i Hayriye",
+      "E": "Sened-i İttifak"
+    },
+    "answer": "D",
+    "solution": "1826'da II. Mahmut Yeniçeri Ocağı'nı kaldırmış (Vaka-i Hayriye), yerine Asakir-i Mansure-i Muhammediye'yi kurmuştur; ocakla ilişkili Bektaşi tekkeleri de kapatılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-068",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdaki metin XIX. yüzyılın sonlarında alınan bir kararla ilgilidir:\n\n“Osmanlı Devleti'nin dış borçlarının ödenemez duruma gelmesi üzerine 1881'de alacaklı devletlerle bir anlaşmaya varılmış; tuz, tütün, damga pulu, balık ve ipek gibi bazı devlet gelirleri alacaklılardan oluşan bir kurula bırakılmıştır.”\n\nBu uygulamanın sonucu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gelirlerin padişah hazinesine aktarılması",
+      "B": "Kapitülasyonların kaldırılması",
+      "C": "Dış borçların tamamen silinmesi",
+      "D": "Devletin mali bağımsızlığının sınırlanması",
+      "E": "Dış borçlanmaya son verilmesi"
+    },
+    "answer": "D",
+    "solution": "1881 Muharrem Kararnamesi ile kurulan Düyun-ı Umumiye İdaresi, bazı gelir kaynaklarını alacaklılara bırakmış ve devletin mali bağımsızlığını sınırlamıştır; kapitülasyonlar 1923'te Lozan'da kaldırılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-069",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aralık 1914'ün sonu ile Ocak 1915 arasında Doğu Anadolu'da, şiddetli kış koşullarında yürütülen bir harekâtta Osmanlı ordusu dağlık arazide ve karlı havada ilerlemeye çalışmış, birçok asker donarak ve çarpışmalarda hayatını kaybetmiştir. Harekâtın ardından Ruslar bölgede ilerleyişe geçmiştir.\n\nBu bilgiler aşağıdaki harekâtlardan hangisine aittir?",
+    "options": {
+      "A": "Sarıkamış Harekâtı",
+      "B": "Çanakkale Savaşları",
+      "C": "Kanal Harekâtı",
+      "D": "Galiçya Cephesi'ndeki harekât",
+      "E": "Kut'ül-Amare Kuşatması"
+    },
+    "answer": "A",
+    "solution": "Sarıkamış Harekâtı (Kafkas Cephesi, Aralık 1914–Ocak 1915) Osmanlı ordusunun kış koşullarında büyük kayıp verdiği bir yenilgidir; ardından Ruslar Doğu Anadolu'da ilerlemiş, 1915'te Tehcir Kanunu çıkarılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-070",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Bir araştırmacı, Osmanlı şehirlerindeki bazı yapıları şöyle tanıtmıştır:\n\n“Yol güzergâhlarında tüccarların ve yolcuların konakladığı, hayvanlarının bakıldığı yapılar şehirler arası ticareti kolaylaştırmıştır. Şehir merkezlerindeki, değerli kumaş ve mücevherlerin satıldığı kapalı ve korunaklı çarşılar ticaretin kalbi olmuştur. Yoksullara ve medrese öğrencilerine yemek dağıtan hayır kurumları ile hastaların tedavi edildiği, tıp eğitiminin de verildiği kurumlar toplumsal dayanışmayı güçlendirmiştir.”\n\nBu metinde aşağıdakilerden hangisine değinilmemiştir?",
+    "options": {
+      "A": "Darüşşifa",
+      "B": "İmaret",
+      "C": "Kervansaray",
+      "D": "Külliye",
+      "E": "Bedesten"
+    },
+    "answer": "D",
+    "solution": "Metinde kervansaray, bedesten, imaret ve darüşşifa anlatılmıştır; cami, medrese, imaret gibi yapıların bir arada bulunduğu külliyeden söz edilmemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-071",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Bir akademisyen, 1839'da ilan edilen bir fermanı şöyle özetlemiştir:\n\n“Ferman, devlet yönetiminde bir dönüm noktasıdır. Bütün tebaanın can, mal ve ırz güvenliği güvence altına alınmış; vergilerin kişilerin gücüne göre alınacağı, askerliğin süreli ve adil olacağı belirtilmiş; kimsenin yargılanmadan cezalandırılamayacağı kabul edilmiştir. Ferman, padişahın iradesiyle Gülhane'de halka ve yabancı elçilere okunarak duyurulmuştur.”\n\nBu özete göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Hukuk güvencesinin amaçlandığına",
+      "B": "Padişahın yetkilerinin kaldırıldığına",
+      "C": "Yönetimin hukuka bağlanmak istendiğine",
+      "D": "Askerlikte düzenleme yapıldığına",
+      "E": "Vergide adaletin hedeflendiğine"
+    },
+    "answer": "B",
+    "solution": "Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu, 1839) can-mal-ırz güvenliği, vergide adalet, askerlikte düzen ve yargısız ceza verilmemesi ilkelerini getirmiş, padişahın yetkilerini kaldırmamıştır; ferman padişahın iradesiyle Gülhane'de okunmuştur. Padişahın yetkilerini sınırlayan ilk anayasa 1876 Kanun-ı Esasi'dir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-072",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "XVII. yüzyılda Osmanlı Devleti'nde savaşların uzaması ve nakit ihtiyacının artması üzerine tımar sistemi bozulmuş, devlet vergi gelirlerini toplama işini açık artırmayla en yüksek parayı verenlere devretmeye başlamıştır.\n\nBu durumun;\n\nI. Tımar sisteminin işlevini yitirmesine,\n\nII. Merkezî otoritenin taşrada zayıflamasına,\n\nIII. Köylünün vergi yükünün azalmasına\n\ngelişmelerinden hangilerine ortam hazırlaması beklenebilir?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "İltizam ve malikâne uygulamaları tımar sisteminin bozulmasını hızlandırmış, taşrada ayan ve mültezimlerin gücünü artırarak merkezî otoriteyi zayıflatmış, köylünün vergi yükünü ise artırmıştır; köylünün yükünün azalması beklenemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-073",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Bir tarih kitabında bir dönem şöyle anlatılmıştır:\n\n“1718'de imzalanan bir antlaşmadan sonra uzun süren savaşlardan yorgun düşen devlette barış ve gösteriş ortamı doğdu. Sadrazam Nevşehirli Damat İbrahim Paşa döneminde Fransa'ya elçi gönderilerek Batı'nın yenilikleri incelendi; Müteferrika'nın kurduğu matbaada ilk kitaplar basıldı. Saray çevresinde eğlence ve çiçek yetiştirme merakı arttı. Dönem, 1730'daki bir halk ve esnaf ayaklanmasıyla sona erdi.”\n\nBu bilgiler Osmanlı tarihinin aşağıdaki dönemlerinden hangisine aittir?",
+    "options": {
+      "A": "Lale Devri",
+      "B": "I. Meşrutiyet Dönemi",
+      "C": "Nizam-ı Cedid Dönemi",
+      "D": "Tanzimat Dönemi",
+      "E": "Kanuni Dönemi"
+    },
+    "answer": "A",
+    "solution": "Pasarofça Antlaşması (1718) sonrası Damat İbrahim Paşa'nın sadrazamlığındaki barış dönemi Lale Devri'dir: Yirmisekiz Mehmed Çelebi Fransa'ya gönderilmiş, İbrahim Müteferrika'nın matbaası (1727) kurulmuş, dönem Patrona Halil İsyanı (1730) ile sona ermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-074",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Bir tarih notunda bir kurum şöyle tanıtılmıştır:\n\n“Bir kişi, mal veya mülkünü hayır amacıyla kalıcı olarak toplumun yararına bağışlar. Bu mal varlığının gelirleri medrese, imaret, çeşme, hastane gibi kurumların giderlerine harcanır. Bağışçının koyduğu şartlar bozulamaz. Bu kurum, Osmanlı'da eğitim, sağlık ve sosyal yardım hizmetlerinin büyük bölümünü yürütmüştür.”\n\nBu bilgiler aşağıdakilerden hangisine aittir?",
+    "options": {
+      "A": "Lonca",
+      "B": "Malikâne",
+      "C": "Ahilik",
+      "D": "İltizam",
+      "E": "Vakıf"
+    },
+    "answer": "E",
+    "solution": "Vakıf, hayır amacıyla kalıcı olarak bağışlanan mal varlığıdır; Osmanlı'da eğitim, sağlık ve sosyal yardım hizmetlerinin önemli bölümünü vakıflar yürütmüştür. Lonca esnaf, ahilik ahlaki-ekonomik teşkilattır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-osm-075",
+    "ders": "tarih",
+    "konu": "osmanli_tarihi",
+    "stem": "Aşağıdaki gelişmeler eskiden yeniye doğru sıralandığında hangisi doğru olur?\n\nI. Bursa'nın alınması\n\nII. İznik'in alınması\n\nIII. Edirne'nin alınması\n\nIV. Koyunhisar Savaşı",
+    "options": {
+      "A": "I - II - III - IV",
+      "B": "IV - I - II - III",
+      "C": "IV - II - I - III",
+      "D": "I - IV - II - III",
+      "E": "II - I - IV - III"
+    },
+    "answer": "B",
+    "solution": "Koyunhisar Savaşı (1302), Bursa'nın alınması (1326), İznik'in alınması (1331) ve Edirne'nin alınması (1361) sırasıyla gerçekleşmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

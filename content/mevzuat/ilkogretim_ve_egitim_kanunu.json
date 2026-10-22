@@ -1,0 +1,1681 @@
+[
+  {
+    "id": "ags-mev-222-001",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı İlköğretim ve Eğitim Kanununa göre ilköğretim aşağıdakilerden hangisi olarak tanımlanmıştır?",
+    "options": {
+      "A": "Okuma-yazma ve temel hesap becerilerini kazandırarak çocukları ortaöğretime hazırlayan zorunlu eğitim ve öğretim",
+      "B": "Millî birlik ve bütünlük içinde yurttaşlık bilincini geliştiren, devlet okullarında verilen parasız eğitim ve öğretim",
+      "C": "Mecburi öğrenim çağındaki çocukların ilgi ve kabiliyetlerine göre çeşitli programlara yöneltilmesini sağlayan eğitim ve öğretim",
+      "D": "Çocukların toplumsal hayata uyumunu kolaylaştıran ve onları mesleğe hazırlayan ilk kademe eğitim ve öğretim",
+      "E": "Kadın erkek bütün Türklerin millî gayelere uygun olarak bedeni, zihni ve ahlaki gelişmelerine ve yetişmelerine hizmet eden temel eğitim ve öğretim"
+    },
+    "answer": "E",
+    "solution": "Madde 1'e göre ilköğretim, kadın erkek bütün Türklerin millî gayelere uygun olarak bedeni, zihni ve ahlaki gelişmelerine ve yetişmelerine hizmet eden temel eğitim ve öğretimdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-002",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 2. maddesine göre ilköğretim, öğrenim çağında bulunan çocuklar için nasıl bir niteliktedir?",
+    "options": {
+      "A": "İsteğe bağlıdır ve Devlet okullarında parasızdır",
+      "B": "Mecburidir ancak kırsal yerleşimlerdeki Devlet okullarında parasızdır",
+      "C": "Kız çocuklar için mecburi, erkek çocuklar için isteğe bağlıdır",
+      "D": "Mecburidir ancak Devlet okullarında kayıt ücreti alınır",
+      "E": "Mecburidir ve Devlet okullarında parasızdır"
+    },
+    "answer": "E",
+    "solution": "Madde 2'ye göre ilköğretim, ilköğrenim kurumlarında verilir; öğrenim çağında bulunan kız ve erkek çocuklar için mecburidir ve Devlet okullarında parasızdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-003",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlkokula başlama yaşına gelen bir çocuğun gelişim durumuna bağlı olarak okula erken başlaması veya kaydının ertelenmesi ile ilgili hususlar 222 sayılı Kanuna göre nasıl düzenlenir?",
+    "options": {
+      "A": "Okul öğretmenler kurulunun görüşüne göre",
+      "B": "Valilik kararıyla",
+      "C": "Sağlık kurulu raporuyla",
+      "D": "Yönetmelikle",
+      "E": "Millî Eğitim Bakanlığının genelgesiyle"
+    },
+    "answer": "D",
+    "solution": "Madde 3'ün (7180 sayılı Kanunla değişik) son cümlesine göre çocuğun gelişim durumuna bağlı olarak okula erken başlaması veya kaydının ertelenmesi ile ilgili hususlar yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-004",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 4. maddesine göre Türk vatandaşı kız ve erkek çocuklar ilköğrenimlerini nerede yapmakla mükelleftir?",
+    "options": {
+      "A": "Resmî okullarda veya yabancı okulların Türk bölümlerinde",
+      "B": "Türkiye'de açılmış herhangi bir eğitim kurumunda",
+      "C": "Resmî veya özel Türk ilköğretim okullarında",
+      "D": "Millî Eğitim Bakanlığınca onaylanan her türlü eğitim kurumunda",
+      "E": "Devlet tarafından açılan ilköğretim okullarında"
+    },
+    "answer": "C",
+    "solution": "Madde 4'e göre Türk vatandaşı kız ve erkek çocuklar ilköğrenimlerini resmî veya özel Türk ilköğretim okullarında yapmakla mükelleftir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 4"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-005",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Mecburi öğretim çağında olup memleket dışında bulunmak, oturduğu yerde okul bulunmamak veya sağlık durumu nedeniyle ilköğretim okuluna devam edemeyen vatandaşlardan özel olarak öğretim görenler 222 sayılı Kanuna göre nasıl bir işleme tabi tutulur?",
+    "options": {
+      "A": "Okul müdürünün kararıyla bir önceki sınıfa kaydedilerek öğretimlerine okulda devam ederler ve yıl sonunda başarı belgesi alırlar",
+      "B": "Yetiştirici sınıflara yönlendirilir ve sınıf geçme hakkı ancak başarı belgesi ibraz edildiğinde tanınır",
+      "C": "İmtihanla ve yaşlarına göre layık oldukları ilköğretim okulu sınıflarına veya mezuniyet imtihanlarına alınırlar",
+      "D": "İlçe eğitim müdürlüğünün düzenlediği kurslara katılarak kayıtları yeniden yapılır ve öğrenim durumları yeniden belirlenir",
+      "E": "Mülki amirin onayıyla doğrudan mezuniyet belgesi verilir ve ilköğretim yükümlülükleri bu belgeyle sona erer"
+    },
+    "answer": "C",
+    "solution": "Madde 5'e göre memleket dışında olmak, oturduğu yerde okul bulunmamak veya sağlık durumu dolayısıyla ilköğretim okuluna devam edemeyen vatandaşlardan özel olarak öğretim görenler, imtihanla ve yaşlarına göre layık oldukları ilköğretim okulu sınıflarına veya mezuniyet imtihanlarına alınırlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 5"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-006",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Aşağıdakilerden hangisi 222 sayılı Kanunun 6. maddesine göre mecburi ilköğretim kurumları arasında yer alır?",
+    "options": {
+      "A": "Halk eğitim merkezleri ile özel eğitim uygulama merkezleri",
+      "B": "Çıraklık eğitim merkezleri ile mesleki eğitim merkezlerinin ilköğretim sınıfları",
+      "C": "Tamamlayıcı sınıflar ve kurslar ile halk eğitimi merkezlerinde açılan kurslar",
+      "D": "Okul öncesi eğitim kurumları ile ilköğretim okullarına bağlı anasınıfları",
+      "E": "Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar"
+    },
+    "answer": "E",
+    "solution": "Madde 6'ya göre mecburi ilköğretim kurumları ilköğretim okulları, yetiştirici ve tamamlayıcı sınıflar ve kurslardan yetiştirici olanlar ile özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflardır. Okul öncesi eğitim kurumları ile tamamlayıcı sınıflar ve kurslar isteğe bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 6/a"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-007",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 6. maddesine göre aşağıdaki ilköğretim kurumlarından hangileri isteğe bağlıdır?\n\nI. Okul öncesi eğitim kurumları\n\nII. Tamamlayıcı sınıflar ve kurslar\n\nIII. Yetiştirici sınıflar ve kurslar",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "C",
+    "solution": "Madde 6'nın (b) bendi, isteğe bağlı ilköğretim kurumlarını okul öncesi eğitim kurumları ve tamamlayıcı sınıflar ve kurslar olarak sayar. Yetiştirici sınıflar ve kurslar ise mecburi olanlar arasındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 6/b"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-008",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Aşağıdakilerden hangisi 222 sayılı Kanunda ilköğretim okulları arasında sayılmıştır?",
+    "options": {
+      "A": "Eğitim kampüsleri",
+      "B": "Karma çok programlı okullar",
+      "C": "Gezici okullar",
+      "D": "Uygulama okulları",
+      "E": "Mesleki ortaokullar"
+    },
+    "answer": "C",
+    "solution": "Madde 6'ya göre ilköğretim okulları gündüzlü, pansiyonlu, yatılı ilköğretim okulları ve gezici okullardan oluşur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 6/a-(2)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-009",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 9. maddesine göre nüfusun az veya dağınık olduğu yerlerde köy gruplaştırmasının mümkün olmadığı durumda aşağıdakilerden hangisi açılabilir?",
+    "options": {
+      "A": "Taşımalı ilköğretim okulları veya mobil sınıflar",
+      "B": "İlköğretim bölge okulları ve bunlara bağlı pansiyonlar",
+      "C": "Birleştirilmiş sınıflı köy okulları veya açık öğretim sınıfları",
+      "D": "Yatılı ilköğretim bölge okulları veya gezici okullar",
+      "E": "Okul öncesi eğitim kurumları veya tamamlayıcı kurslar"
+    },
+    "answer": "D",
+    "solution": "Madde 9'a göre nüfusun az veya dağınık olduğu yerlerde köyler gruplaştırılarak merkezî durumdaki köylerde ilköğretim bölge okulları ve bunlara bağlı pansiyonlar, gruplaştırmanın mümkün olmadığı yerlerde ise yatılı ilköğretim bölge okulları veya gezici okullar açılabilir; gezici okullarda gezici öğretmenler görevlendirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 9/3"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-010",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Gezici okullarda 222 sayılı Kanuna göre hangi öğretmenler görevlendirilir?",
+    "options": {
+      "A": "Vekil öğretmenler",
+      "B": "Gezici öğretmenler",
+      "C": "Usta öğreticiler",
+      "D": "Sözleşmeli eğitim gönüllüleri",
+      "E": "Ücretli öğretmenler"
+    },
+    "answer": "B",
+    "solution": "Madde 9'a göre gezici okullarda gezici öğretmenler görevlendirilir. Usta öğreticiler ise 14. maddede sayılan öğretmen türlerinden biridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 9/3"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-011",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Bir köy halkı iş ve üretim hayatının gereği olarak yayla gibi yerlere taşındığında köy okulunun durumu 222 sayılı Kanunun 10. maddesine göre nasıl olmalıdır?",
+    "options": {
+      "A": "Kapatılarak öğrencileri en yakın bölge okuluna nakledilmeli, öğretmeni başka okula atanmalıdır",
+      "B": "Köy halkıyla birlikte göçecek şekilde düzenlenmiş olmalı ve gidilen yerde hemen günlük çalışmasını sürdürmelidir",
+      "C": "Köy halkı dönünceye kadar öğretime ara verilmeli, bina ve eşyalar muhtarlığın gözetiminde korunmalıdır",
+      "D": "Taşınılan yerde gezici okul olarak yeniden kurulmalı, gezici öğretmen görevlendirilerek öğretime başlanmalıdır",
+      "E": "Yayla okulu olarak ilçe eğitim müdürünün izniyle yeniden açılmalı ve yeni kayıt işlemleri yapılmalıdır"
+    },
+    "answer": "B",
+    "solution": "Madde 10'a göre bir köy halkı, iş ve üretim hayatının gereği olarak veya olağanüstü sebeplerle yayla, otlak ve bağ gibi yerlere taşındığında köy okulu da köy halkıyla birlikte göçecek şekilde düzenlenmiş olmalı ve gidilen yerde hemen günlük çalışmasını ve görevini devam ettirmelidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 10"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-012",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Yetiştirici ve tamamlayıcı sınıflar ve kurslar 222 sayılı Kanunun 11. maddesine göre kimler tarafından açılabilir?",
+    "options": {
+      "A": "Belediyeler ve valilikler tarafından, Millî Eğitim Bakanlığının onayı alınarak ve yönetmelikte belirtilen şartlarda",
+      "B": "Devlet ve gerçek kişiler tarafından açılabilir; belediyeler ve tüzel kişilerce açılamaz",
+      "C": "Özel idareler ve köy tüzel kişilikleri tarafından, ilçe eğitim müdürlüğünün izniyle ve bölge müfettişinin denetiminde",
+      "D": "Gerçek ve tüzel kişilerle, belediyeler, özel idareler ve Devlet tarafından",
+      "E": "Millî Eğitim Bakanlığı ve Yükseköğretim Kurulu tarafından, ortak bir yönetmelik çerçevesinde"
+    },
+    "answer": "D",
+    "solution": "Madde 11'e göre bu sınıf ve kurslar gerçek ve tüzel kişilerle, belediyeler, özel idareler ve Devlet tarafından açılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 11"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-013",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 11. maddesine göre yetiştirici ve tamamlayıcı sınıflar ve kursların amaçlarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Üstün yetenekli çocukları ayrı programlarla yetiştirerek akranlarından önce mezun etmek",
+      "B": "Ortaöğretim kurumlarına geçiş sınavlarına hazırlık yapmak ve öğrencileri puan sıralamasına göre yöneltmek",
+      "C": "Okulu bitirmiş yetişkinlerin yükseköğretime hazırlanmasını sağlamak",
+      "D": "Özel eğitime muhtaç çocuklar için kaynaştırma programları ve bireysel destek hizmetleri uygulamak",
+      "E": "Öğrenimlerini yaşıtlarıyla birlikte zamanında yapmamış çocuklara kısa yoldan ilköğrenim vermek"
+    },
+    "answer": "E",
+    "solution": "Madde 11'e göre bu sınıflar ve kurslar, mecburi ilköğrenim çağında olduğu hâlde öğrenimlerini yaşıtlarıyla birlikte zamanında yapmamış çocuklara kısa yoldan ilköğrenim vermek, yetişmelerine lüzum görülen çocukları ilköğretim okuluna hazırlamak veya çağda bulunup üst öğrenim kurumlarına gidemeyecek olanların genel bilgilerini artırıp iş ve üretim hayatında faydalı bilgi ve maharetleri kazandırmak için açılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 11"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-014",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İsteğe bağlı tamamlayıcı sınıflarda ve kurslarda 222 sayılı Kanunun 13. maddesine göre kimlere öğretim yapılır?",
+    "options": {
+      "A": "İlköğrenim çağı dışına çıkmış olup üst dereceli öğrenim kurumlarına gidememiş yurttaşlara",
+      "B": "Üst dereceli öğrenim kurumlarını bitirmiş ve iş hayatında ilerlemek için yeni bir meslek edinmek isteyen yetişkinlere",
+      "C": "İlköğrenim çağında olup okula devam edemeyen çocuklara",
+      "D": "Öğrenimini yaşıtlarıyla birlikte yapmamış ilköğretim çağındaki çocuklara",
+      "E": "Okul öncesi dönemde olup anaokuluna gidemeyen çocuklara"
+    },
+    "answer": "A",
+    "solution": "Madde 13'ün ikinci fıkrasına göre isteğe bağlı tamamlayıcı sınıflarda ve kurslarda, ilköğrenim çağı dışına çıkmış olup üst dereceli öğrenim kurumlarına gidememiş yurttaşlardan genel bilgilerini artırmak ve daha iyi bir iş ve üretim unsuru olarak yetiştirilmelerini sağlamak amacıyla öğretim yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 13/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-015",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Aşağıdakilerden hangisi 222 sayılı Kanunun 14. maddesine göre ilköğretim kurumlarında bulunacak görevliler arasında sayılmıştır?",
+    "options": {
+      "A": "Okul aile birliği yöneticileri",
+      "B": "Rehberlik uzmanları",
+      "C": "Okul kolluk görevlileri",
+      "D": "Eğitim denetmenleri",
+      "E": "Okul psikologları"
+    },
+    "answer": "B",
+    "solution": "Madde 14'e göre ilköğretim kurumlarında müdür ve müdür yardımcıları, öğretmenler (sınıf, branş, okul öncesi, özel eğitim öğretmenleri ile gezici öğretmenler ve usta öğreticiler), rehberlik uzmanları ile sağlık, teknik, genel idare ve yardımcı hizmetler sınıfındaki personel ve gereken diğer personel bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 14/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-016",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlköğretim kurumlarındaki görevlilerin nitelikleri, görev ve yetkileri ile atanma usul ve esasları 222 sayılı Kanuna göre nasıl belirlenir?",
+    "options": {
+      "A": "Kanunla düzenlenir",
+      "B": "Talim ve Terbiye Kurulu kararıyla belirlenir",
+      "C": "Cumhurbaşkanlığı kararnamesiyle belirlenir",
+      "D": "Yönetmelikle tespit edilir",
+      "E": "Valiliklerce çıkarılan yönergelerle düzenlenir"
+    },
+    "answer": "D",
+    "solution": "Madde 14'ün son fıkrasına göre ilköğretim kurumlarındaki görevlilerin nitelikleri, görev ve yetkileri ile atanma usul ve esasları yönetmelikle tespit edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 14/son"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-017",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlköğretim kurumlarının açılma, kapanma ve öğretime ara verme zamanları 222 sayılı Kanuna göre nasıl düzenlenir?",
+    "options": {
+      "A": "Millî Eğitim Bakanlığınca çıkarılacak yönetmelikle",
+      "B": "Talim ve Terbiye Kurulu kararıyla",
+      "C": "Valiliklerce hazırlanan yönergelerle",
+      "D": "Cumhurbaşkanı kararıyla",
+      "E": "İl millî eğitim müdürlüklerince her yıl yayımlanan çalışma takvimiyle"
+    },
+    "answer": "A",
+    "solution": "Madde 42'ye (2917 sayılı Kanunla değişik) göre ilköğretim kurumlarının açılma, kapanma ve öğretime ara verme zamanları Millî Eğitim Bakanlığınca çıkarılacak yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 42"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-018",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlköğretim okullarında yaz tatili 222 sayılı Kanunun 43. maddesine göre hangi süre için geçerlidir?",
+    "options": {
+      "A": "Sınavların bitimi tarihinden yeni öğretim yılının başına kadar",
+      "B": "Haziranın üçüncü haftasından Eylülün ilk haftasına kadar",
+      "C": "Ders yılının sona ermesinden iki ay sonrasına kadar",
+      "D": "Resmî tatilin ilanından yeni dönem kayıtlarının bitimine kadar",
+      "E": "Karne verilmesinden öğretmenler kurulunun toplandığı güne kadar"
+    },
+    "answer": "A",
+    "solution": "Madde 43'e göre ilköğretim okullarının yaz tatili, sınavların bitimi tarihinden yeni öğretim yılının başına kadar sürer.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 43"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-019",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Tek öğretmenli okullarda görevli öğretmenlerin yaz tatili izinleri 222 sayılı Kanunun 43. maddesine göre nasıl ayarlanır?",
+    "options": {
+      "A": "İl millî eğitim müdürünün onayıyla, okul ve kurumların korunması gözetilerek öğretmenler kurulunca belirlenir",
+      "B": "Bölge ilköğretim müfettişleriyle ilçe eğitim müdürü tarafından, okulun korunması da gözetilerek ayarlanır",
+      "C": "Valilik tarafından köydeki öğretmen sayısına ve kıdemlerine göre sıra esasıyla belirlenir",
+      "D": "Okul-aile birliği başkanıyla muhtar tarafından, köyün ihtiyaçlarına göre ayarlanır ve ilçe eğitim müdürlüğüne bilgi verilir",
+      "E": "Öğretmenin kendi isteğine göre belirlenir, okulun kapalı kalması durumunda valiliğe bildirilir"
+    },
+    "answer": "B",
+    "solution": "Madde 43'ün (b) bendine göre tek öğretmenli okullarda görevli öğretmenlerin yaz tatili izinleri bölge ilköğretim müfettişleriyle ilçe eğitim müdürü tarafından, okul ve kurumların korunması da gözönünde tutularak ayarlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 43/b"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-020",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Öğretmenler, 222 sayılı Kanunun 44. maddesine göre kanunlarla veya Cumhurbaşkanlığı kararnameleriyle kendilerine verilen işlerden başka hangi görevle yükümlü tutulamaz?",
+    "options": {
+      "A": "Kurul ve komisyon çalışmalarıyla",
+      "B": "Okul nöbeti görevleriyle",
+      "C": "Ders dışı eğitim faaliyetlerinin yürütülmesiyle",
+      "D": "Meslek dışı herhangi bir görevle",
+      "E": "Okul dışı sosyal etkinliklere katılımla"
+    },
+    "answer": "D",
+    "solution": "Madde 44'e göre öğretmenler kanunlarla veya Cumhurbaşkanlığı kararnameleriyle kendilerine verilen işlerden başka, meslek dışı herhangi bir görevle yükümlü tutulamazlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 44"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-021",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretim okulunu bitiremeyen çocukların ilköğrenimlerini tamamlamaları için 222 sayılı Kanuna göre en çok kaç öğretim yılı daha okula devamlarına izin verilir?",
+    "options": {
+      "A": "İki öğretim yılı",
+      "B": "Bir öğretim yılı",
+      "C": "Üç öğretim yılı",
+      "D": "Dört öğretim yılı",
+      "E": "Beş öğretim yılı"
+    },
+    "answer": "A",
+    "solution": "Madde 46'nın üçüncü fıkrasına göre mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretim okulunu bitiremeyen çocukların ilköğrenimlerini tamamlamak üzere en çok iki öğretim yılı daha okula devamlarına izin verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 46/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-022",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlköğretim okulunu mecburi öğrenim çağı bitiminden sonra tanınan iki yıllık uzatma süresinde de bitiremeyen çocuklar için 222 sayılı Kanunda aşağıdakilerden hangisi öngörülmüştür?",
+    "options": {
+      "A": "Açık öğretim programına nakledilmeleri",
+      "B": "Yetiştirici sınıf ve kurslara yönlendirilmeleri",
+      "C": "Mezun belgesi verilerek okuldan ilişiklerinin kesilmesi",
+      "D": "Tasdikname verilerek kayıtlarının silinmesi",
+      "E": "Bir yıl daha devam etmeleri için ilçe eğitim müdürlüğüne başvurmaları"
+    },
+    "answer": "D",
+    "solution": "Madde 46'nın son fıkrasına göre iki yıllık uzatma sonunda da okulu bitiremeyen çocuklara tasdikname verilerek kayıtları silinir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 46/son"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-023",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Yakınlarının çocuğu olmayan ve veli ya da vasi sıfatı taşımayan Ahmet, mecburi ilköğretim çağındaki bir çocuğu sürekli olarak yanında çalıştırmaktadır. Ahmet, 222 sayılı Kanunun kayıt ve kabule ilişkin hükümleri bakımından nasıl nitelendirilir?",
+    "options": {
+      "A": "Çocuğun velisi sayılır ve çocuğu yazdırmakla yükümlü tutulmaz",
+      "B": "Çocuğu sürekli olarak yanında çalıştıran kişi olarak “aile başkanı” sayılır",
+      "C": "Çocuğun vasisi sayılır ve mahkeme kararıyla sorumlu olur",
+      "D": "Kanunda tanımlı bir sorumluluğu bulunmadığından yaptırıma tabi değildir",
+      "E": "İş yeri sahibi olarak okul yönetimine bildirim yapmakla yükümlüdür"
+    },
+    "answer": "B",
+    "solution": "Madde 46'ya göre kanunda geçen “aile başkanı” deyimi, veli veya vasi durumunda bulunmadığı hâlde ilköğretime devama mecbur olan çocukları sürekli olarak yanında bulunduran veya barındıran, yahut da çalıştırandır. Her veli yahut vasi veya aile başkanı çocuğunu zamanında okula yazdırmakla yükümlüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 46/1-2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-024",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 47. maddesine göre bir öğretim yılı, okulda hangi süredir?",
+    "options": {
+      "A": "Kayıtların başladığı günden yaz tatilinin başladığı güne kadar geçen ve kayıt dönemini de içeren süre",
+      "B": "Derslerin başlamasından bir hafta önceki tarihten, son sınıf sınavlarının bittiği güne kadarki süre",
+      "C": "Öğretmenlerin göreve başladığı günden öğrencilerin karne aldığı güne kadar öğretmenler kurulu toplantılarını da içeren süre",
+      "D": "Eylül ayının ilk iş gününden Haziran ayının son iş gününe kadar sürekli işleyen eğitim süresi",
+      "E": "Derslerin başladığı günden karnelerin verildiği güne kadar geçen, tatil dönemlerini de kapsayan süre"
+    },
+    "answer": "B",
+    "solution": "Madde 47'ye göre bir öğretim yılı, okulda derslerin başlamasından bir hafta önceki tarihten son sınıf sınavlarının bittiği güne kadarki süredir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 47"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-025",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Muhtarlar, okul müdürüyle iş birliği yaparak köy ve mahallelerindeki mecburi öğrenim çağında bulunan çocukların künyelerini gösterir çizelgeyi, 222 sayılı Kanuna göre her yıl derslere başlamadan en az kaç gün önce hazırlar?",
+    "options": {
+      "A": "10 gün",
+      "B": "30 gün",
+      "C": "15 gün",
+      "D": "45 gün",
+      "E": "20 gün"
+    },
+    "answer": "C",
+    "solution": "Madde 48'e göre her yıl derslere başlamadan en az 15 gün önce muhtarlar okul müdürüyle iş birliği yaparak köy ve mahallelerindeki mecburi öğrenim çağındaki çocukların künyelerini gösterir üç nüsha çizelge hazırlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 48/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-026",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Muhtarların hazırladığı üç nüsha çizelgenin nüshaları 222 sayılı Kanuna göre nasıl değerlendirilir?",
+    "options": {
+      "A": "Birer nüshası valiliğe ve nüfus müdürlüğüne verilir, diğer nüsha okulda saklanır",
+      "B": "Birer nüshası okul idarecilerine ve ilçe eğitim müdürlüğüne verilir, diğer nüsha muhtarda saklanır",
+      "C": "Üç nüshası da okul idaresine teslim edilir ve okul arşivinde saklanır",
+      "D": "Birer nüshası okul-aile birliğine ve belediyeye verilir, diğer nüsha muhtarda saklanır",
+      "E": "Birer nüshası mülki amire ve il millî eğitim müdürlüğüne verilir, diğer nüsha ilçe eğitim müdürlüğünde saklanır"
+    },
+    "answer": "B",
+    "solution": "Madde 48'e göre muhtarlar hazırladıkları üç nüsha çizelgenin birer nüshasını okul idarecilerine ve ilçe eğitim müdürlüğüne verir, diğer nüshayı yanlarında saklar; çocuklarını zamanında okula yazdırmalarını veli yahut vasi veya aile başkanlarına bildirir ve ilan ederler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 48/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-027",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Mecburi öğrenim çağında olup belirli zaman içinde okula yazdırılmayan çocuklar için okul müdürleri 222 sayılı Kanuna göre ne yapar?",
+    "options": {
+      "A": "İlçe eğitim müdürlüğünün iznini alarak çocuğu yaşına uygun yetiştirici sınıfa kaydeder ve veliye bildirir",
+      "B": "Mülki amire bildirerek kaydın yapılmasını ister ve veliye idarî para cezası uygulanmasını talep eder",
+      "C": "Çocuğu okula kaydetmeden önce ailesine iki kez tebligat gönderir ve sonuç alınamazsa kaydı yapar",
+      "D": "Muhtarlığa bildirir, veli işlemlerini tamamlayıncaya kadar çocuğu okula kaydetmeden idarî para cezası uygulanmasını bekler",
+      "E": "Çocukları kendiliklerinden okula kaydeder ve devam ettirilmesini veli yahut vasi veya aile başkanlarına bildirir"
+    },
+    "answer": "E",
+    "solution": "Madde 48'in ikinci fıkrasına göre mecburi öğrenim çağında olup belirli zaman içinde okula yazdırılmayan çocukları okul müdürleri kendiliklerinden okula kaydeder ve devam ettirilmesini veli yahut vasi veya aile başkanlarına bildirir. Bu çocuklar yine de okula gelmezse haklarında devamsız öğrenciler gibi işlem yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 48/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-028",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Nüfus hüviyet cüzdanı bulunmayan veya henüz nüfus kaydı yaptırılmamış çocukların yaşları 222 sayılı Kanunun 49. maddesine göre nasıl belirlenir?",
+    "options": {
+      "A": "Sağlık kuruluşlarında yapılan kemik yaşı tetkikiyle ve doktor raporuyla belirlenir",
+      "B": "Veli beyanı esas alınarak okul müdürlüğünce belirlenir ve ilçe eğitim müdürlüğüne bildirilir",
+      "C": "Muhtarın tuttuğu tutanakla ve iki tanığın beyanıyla belirlenir",
+      "D": "Çocuklar görülmek suretiyle ihtiyar kurullarınca tayin ve tespit olunur",
+      "E": "Aile mahkemesi kararıyla tespit edilir ve nüfus müdürlüğüne bildirilir"
+    },
+    "answer": "D",
+    "solution": "Madde 49'a göre nüfus hüviyet cüzdanı bulunmayan veya henüz nüfus kaydı yaptırılmamış çocukların yaşları, çocuklar görülmek suretiyle ihtiyar kurullarınca tayin ve tespit olunur ve bunlar da mecburi öğrenim çağında olanlar çizelgesine yazılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 49"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-029",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Birleştirilmiş sınıflar da dahil olmak üzere bir öğretmene düşen öğrenci sayısı, 222 sayılı Kanunun 50. maddesine göre kaçtan fazla olamaz?",
+    "options": {
+      "A": "60",
+      "B": "50",
+      "C": "45",
+      "D": "40",
+      "E": "30"
+    },
+    "answer": "D",
+    "solution": "Madde 50'ye göre birleştirilmiş sınıflar da dahil olmak üzere bir öğretmene düşen öğrenci sayısı 40'tan fazla olamaz. Geçici 4. madde bu hükmün on yıl içinde tedricen uygulanmasını öngörmüştür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 50"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-030",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 51. maddesine göre “İlköğretim haftası” ne zaman kutlanır?",
+    "options": {
+      "A": "Her yıl Eylül ayının ilk haftası",
+      "B": "Derslerin başladığı hafta",
+      "C": "Her yıl Ekim ayının ilk haftası",
+      "D": "Her yıl Mart ayının üçüncü haftası",
+      "E": "Her yıl Eylül ayının üçüncü haftası"
+    },
+    "answer": "E",
+    "solution": "Madde 51'e göre her yıl Eylül ayının üçüncü haftası “İlköğretim haftası”dır; Millî Eğitim Bakanlığınca hazırlanacak programa göre hafta içinde türlü yollarla ilköğretimin önemi belirtilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 51"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-031",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Özrü yüzünden okula gidemeyen çocuğun durumunu veli yahut vasi veya aile başkanı, 222 sayılı Kanunun 52. maddesine göre en geç kaç gün içinde okul idaresine bildirmekle yükümlüdür?",
+    "options": {
+      "A": "Yedi gün",
+      "B": "Üç gün",
+      "C": "Beş gün",
+      "D": "Bir gün",
+      "E": "On beş gün"
+    },
+    "answer": "B",
+    "solution": "Madde 52'ye göre her öğrenci velisi yahut vasisi veya aile başkanı, çocuğunun mecburi ilköğretim kurumuna muntazaman devamını sağlamakla ve özrü yüzünden okula gidemeyen çocuğun durumunu en geç üç gün içinde okul idaresine bildirmekle yükümlüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 52/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-032",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamakla ve her türlü tedbiri almakla 222 sayılı Kanunun 52. maddesine göre kimler vazifelidir?",
+    "options": {
+      "A": "Muhtarlar, imamlar ve okul-aile birlikleri",
+      "B": "Çocuk mahkemeleri, sosyal hizmet uzmanları ve zabıta",
+      "C": "Okul müdürleri, rehber öğretmenler ve muhtarlar",
+      "D": "Mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı",
+      "E": "Valiler, belediye başkanları ve kolluk kuvvetleri"
+    },
+    "answer": "D",
+    "solution": "Madde 52'nin ikinci fıkrasına göre mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı ilköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamakla, veli yahut vasi veya aile başkanlarına ve okul idarelerine yardımla ve her türlü tedbiri almakla vazifelidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 52/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-033",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Okula devam etmeyen öğrencilerin devamsızlık sebeplerinin giderilmesi mümkün olmadığı takdirde durum, 222 sayılı Kanunun 53. maddesine göre kime bildirilir?",
+    "options": {
+      "A": "Köylerde ve şehirlerde aile mahkemesine",
+      "B": "Köylerde mülki amire, şehirlerde belediye başkanına",
+      "C": "Köylerde muhtara, diğer yerlerde mülki amirlere",
+      "D": "Köylerde okul-aile birliğine, diğer yerlerde müftülüğe",
+      "E": "Köylerde ve şehirlerde ilçe millî eğitim müdürlüğüne"
+    },
+    "answer": "C",
+    "solution": "Madde 53'e göre devamsızlık sebepleri okul idarelerince ve ilköğretim müfettişlerince araştırılarak devama engel olan maddi ve manevi sebeplerin giderilmesine çalışılır; bu mümkün olmazsa durum köylerde muhtara, diğer yerlerde mülki amirlere bildirilir ve bu makamlarca gerekli tedbirler alınır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 53"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-034",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Ailede ölüm, yaralanma, düğün, askere gitme, tarım ve hastalık savaşı yapılması gibi sebeplerle öğrencilere 222 sayılı Kanunun 54. maddesine göre okul idarelerince bir yıl içinde kaç günü geçmemek üzere izin verilir?",
+    "options": {
+      "A": "30 gün",
+      "B": "45 gün",
+      "C": "15 gün",
+      "D": "10 gün",
+      "E": "20 gün"
+    },
+    "answer": "C",
+    "solution": "Madde 54'e göre çocuğun ailesi yanında kalmasını gerektiren ailede ölüm, yaralanma, düğün, askere gitme, bağ, bahçe, tarla ve sürüde tarım ve hastalık savaşı yapılması gibi sebeplerle öğrencilere bir yıl içinde 15 günü geçmemek üzere okul idarelerince izin verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 54"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-035",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Muhtarlar ve mülki amirlerin, devamsız öğrencinin velisine yaptıkları tebliğde 222 sayılı Kanunun 55. maddesine göre aşağıdakilerden hangisi bildirilir?",
+    "options": {
+      "A": "Veli hakkında doğrudan adlî kovuşturma başlatılacağı ve çocuğun koruma altına alınmasının talep edileceği",
+      "B": "Çocuğun okul kaydının silineceği ve ailesinin başka bir okula yönlendirileceği",
+      "C": "Çocuğun devamsızlığın sürmesi hâlinde açık öğretime aktarılacağı ve okul kaydının dondurulacağı",
+      "D": "Okulca kabul edilecek geçerli sebepler dışında çocuğun okula gönderilmemesi hâlinde idarî para cezasıyla cezalandırılacağı",
+      "E": "Velinin, devamsızlık sürdüğü takdirde sosyal yardımlardan yararlandırılmayacağı ve durumun belediyeye bildirileceği"
+    },
+    "answer": "D",
+    "solution": "Madde 55'e (4854 sayılı Kanunla değişik) göre yapılan tebliğde, okulca kabul edilecek geçerli sebepler dışında çocuğun okula gönderilmemesi hâlinde idarî para cezasıyla cezalandırılacağı bildirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 55/son"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-036",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Okul idaresince köylerde muhtarlığa, diğer yerlerde mülki amirliğe bildirilen devamsızlık durumunda muhtarlar ve mülki amirler, durumun veli veya vasi veya aile başkanlarına tebliğini 222 sayılı Kanuna göre en geç kaç gün içinde sağlar?",
+    "options": {
+      "A": "Bir gün",
+      "B": "On beş gün",
+      "C": "On gün",
+      "D": "Beş gün",
+      "E": "Üç gün"
+    },
+    "answer": "E",
+    "solution": "Madde 55'e göre muhtarlar ve mülki amirler, okul idaresince kendilerine bildirilen durumun veli veya vasi veya aile başkanlarına tebliğini en geç üç gün içinde sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 55/son"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-037",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Muhtarlıkça veya mülkî amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye, 222 sayılı Kanunun 56. maddesindeki asıl tutara göre çocuğun okula devam etmediği beher gün için kaç Türk Lirası idarî para cezası verilir?",
+    "options": {
+      "A": "10 Türk Lirası",
+      "B": "25 Türk Lirası",
+      "C": "100 Türk Lirası",
+      "D": "50 Türk Lirası",
+      "E": "15 Türk Lirası"
+    },
+    "answer": "E",
+    "solution": "Madde 56'ya (5728 sayılı Kanunla değişik) göre tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye okul idaresince tespit edilen devamsızlığın beher günü için onbeş Türk Lirası idarî para cezası verilir. Kanunda yazılı asıl tutardır; idarî para cezaları Kabahatler Kanunu uyarınca her yıl yeniden değerleme oranında artırılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 56/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-038",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Beher gün için verilen idarî para cezasına rağmen çocuğunu okula göndermeyen veya göndermeme sebeplerini okul idaresine bildirmeyen veli veya vasiye, 222 sayılı Kanunun 56. maddesindeki asıl tutara göre ayrıca kaç Türk Lirası idarî para cezası verilir?",
+    "options": {
+      "A": "250 Türk Lirası",
+      "B": "750 Türk Lirası",
+      "C": "1.500 Türk Lirası",
+      "D": "500 Türk Lirası",
+      "E": "1.000 Türk Lirası"
+    },
+    "answer": "D",
+    "solution": "Madde 56'nın ikinci cümlesine göre beher gün için verilen para cezasına rağmen çocuğunu okula göndermeyen veya göndermeme sebeplerini okul idaresine bildirmeyen veli veya vasiye beşyüz Türk Lirası idarî para cezası verilir. Kanunda yazılı asıl tutardır; her yıl yeniden değerleme oranında artırılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 56/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-039",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Okul idareleri ve mülkî amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara, 222 sayılı Kanunun 57. maddesindeki asıl tutara göre kaç Türk Lirası idarî para cezası verilir?",
+    "options": {
+      "A": "500 Türk Lirası",
+      "B": "50 Türk Lirası",
+      "C": "100 Türk Lirası",
+      "D": "400 Türk Lirası",
+      "E": "200 Türk Lirası"
+    },
+    "answer": "C",
+    "solution": "Madde 57'ye (5728 sayılı Kanunla değişik) göre okul idareleri ve mülkî amirliklerce usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara yüz Türk Lirası idarî para cezası verilir. Tutar kanundaki asıl tutardır; her yıl yeniden değerleme oranında artırılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 57"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-040",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Mecburi ilköğretim kurumlarına devam ettiklerini belgeleyen çocukların çalıştırılması 222 sayılı Kanunun 59. maddesine göre hangi koşulla mümkündür?",
+    "options": {
+      "A": "Çocukların çalıştırılmasını düzenleyen kanun hükümleri uygulanmak şartıyla ders zamanları dışında",
+      "B": "Mülki amirin izniyle ve tarım işlerinde sınırlı sürelerle, ders yılı boyunca kısmi olarak",
+      "C": "Öğretmenler kurulunun kararıyla ve ilçe eğitim müdürlüğünün bilgisi dahilinde, ders saatleri içinde de olmak üzere",
+      "D": "Velinin yazılı muvafakatiyle ders saatleri içinde de, okul idaresinin bilgisi dahilinde",
+      "E": "Okul müdürünün yazılı izniyle hafta sonları ve gece saatlerinde, haftalık çalışma süresini aşmamak şartıyla"
+    },
+    "answer": "A",
+    "solution": "Madde 59'a göre mecburi ilköğretim kurumlarına devam etmeyenler çalıştırılamaz. Devam ettiklerini belgeleyenler ise çocukların çalıştırılmasını düzenleyen kanun hükümleri uygulanmak şartıyla ancak ders zamanları dışında çalıştırılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 59/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-041",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlköğretim çağında bulunan ve mecburi ilköğretim kurumlarına devam eden çocukların özel kurs ve dersanelere kabulü 222 sayılı Kanunun 59. maddesine göre nasıl düzenlenmiştir?",
+    "options": {
+      "A": "Kanunda gösterilen ve Millî Eğitim Bakanlığınca açılmasına izin verilmiş olanlar dışındakilere kabulü yasaktır",
+      "B": "Hafta sonu faaliyet gösteren ve Bakanlıkça izin verilmemiş kurs ve dersanelere kabulü yasaktır, diğerlerine kabul edilebilir",
+      "C": "Velinin yazılı onayı hâlinde okul müdürlüğünün bilgisi dahilinde bütün kurs ve dersanelere kabulü mümkündür",
+      "D": "Kabulü, okul başarısı düşük olan öğrenciler için destek amacıyla zorunlu tutulmuş ve ücretsiz kılınmıştır",
+      "E": "Kabulü, ilçe eğitim müdürlüğünün izin vermesi ve velinin yazılı başvurusu koşuluna bağlıdır"
+    },
+    "answer": "A",
+    "solution": "Madde 59'un üçüncü fıkrasına göre ilköğretim çağında bulunan ve mecburi ilköğretim kurumlarına devam eden çocukların, bu kanunda gösterilen ve Millî Eğitim Bakanlığınca açılmasına izin verilmiş olanlar dışında, her ne ad altında kurulmuş olursa olsun özel kurs ve dersanelere kabulü yasaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 59/3"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-042",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunda yazılı olan idarî para cezalarını kim verir?",
+    "options": {
+      "A": "İlçe millî eğitim müdürü",
+      "B": "Sulh ceza hâkimi",
+      "C": "Muhtar",
+      "D": "Mahallî mülkî amir",
+      "E": "Okul müdürü"
+    },
+    "answer": "D",
+    "solution": "Madde 59'un son fıkrasına (4854 ve 5728 sayılı Kanunlarla değişik) göre bu Kanunda yazılı olan idarî para cezaları mahallî mülkî amir tarafından verilir. Okul idaresi yalnızca devamsızlık gününü tespit eder (m. 56).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 59/son"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-043",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Şehir, kasaba ve köy okulları arsaları ile köy okullarına gelir sağlayacak arazi için gerekli toprakları seçen komisyon, 222 sayılı Kanunun 60. maddesine göre nasıl oluşur?",
+    "options": {
+      "A": "Bölge ilköğretim müfettişinin başkanlığında Sağlık, Tapu ve Maliye dairelerinden birer eleman ile belediye başkanından",
+      "B": "Bölge ilköğretim müfettişi veya ilçe eğitim müdürünün başkanlığında Tarım, Tapu, Maliye dairelerinden birer eleman ile mahalle veya köy muhtarından",
+      "C": "Valinin başkanlığında Çevre, Tapu ve Belediye dairelerinden birer eleman ile köy ihtiyar heyetinden",
+      "D": "İl millî eğitim müdürünün başkanlığında Bayındırlık, Tapu ve Tarım dairelerinden birer eleman ile okul-aile birliği temsilcisinden",
+      "E": "Kaymakamın başkanlığında Tarım, Orman ve Maliye dairelerinden birer eleman ile okul müdüründen"
+    },
+    "answer": "B",
+    "solution": "Madde 60'a göre arsa ve topraklar, il ve ilçelerde bölge ilköğretim müfettişlerinin veya ilçe eğitim müdürünün başkanlığında Tarım, Tapu, Maliye dairelerinden görevlendirilecek birer eleman ile mahalle veya köy muhtarından oluşan komisyon tarafından seçilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 60"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-044",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az kaç metre uzaklıkta bulunması 222 sayılı Kanunun 61. maddesine göre zorunludur?",
+    "options": {
+      "A": "100 metre",
+      "B": "200 metre",
+      "C": "500 metre",
+      "D": "150 metre",
+      "E": "50 metre"
+    },
+    "answer": "A",
+    "solution": "Madde 61'e (5002 sayılı Kanunla değişik) göre bu tür umuma açık yerlerin ve alkollü içki satılan yerlerin okul binalarından kapıdan kapıya en az 100 metre uzaklıkta bulunması zorunludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 61/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-045",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Turizmin yoğun olduğu yörelerdeki okulların tatil olduğu dönemlerde, umuma açık yerlerle okullar arasında 222 sayılı Kanunun 61. maddesine göre ne uygulanır?",
+    "options": {
+      "A": "İşyerlerine geçici ruhsat verilir",
+      "B": "Uzaklık şartı 50 metreye indirilir",
+      "C": "Uzaklık şartı 200 metreye çıkarılır",
+      "D": "100 metre şartı aranmaz",
+      "E": "Valiliğin izni aranır"
+    },
+    "answer": "D",
+    "solution": "Madde 61'e göre turizmin yoğun olduğu yörelerdeki okulların tatil olduğu dönemlerde umuma açık yerler ile okullar arasında 100 metre şartı aranmaz; esaslar İçişleri, Millî Eğitim, Sağlık, Kültür ve Turizm bakanlıklarının müştereken hazırlayacağı yönetmelikle belirlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 61/3-4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-046",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Okula gelir sağlamak maksadıyla seçilen topraklar, 222 sayılı Kanunun 62. maddesine göre kaç dekardan fazla olamaz?",
+    "options": {
+      "A": "75 dekar",
+      "B": "100 dekar",
+      "C": "50 dekar",
+      "D": "20 dekar",
+      "E": "150 dekar"
+    },
+    "answer": "C",
+    "solution": "Madde 62'nin ikinci fıkrasına göre okula gelir sağlamak maksadıyla seçilen topraklar 50 dekardan fazla olamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 62/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-047",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Her köy okulunun bitişiğinde veya yakınında bulunacak uygulama bahçesinin büyüklüğü 222 sayılı Kanunun 64. maddesine göre ne olmalıdır?",
+    "options": {
+      "A": "2 dekardan az ve 10 dekardan çok olmamak üzere",
+      "B": "10 dekardan az ve 50 dekardan çok olmamak üzere",
+      "C": "1 dekardan az ve 5 dekardan çok olmamak üzere",
+      "D": "2 dekardan az ve 50 dekardan çok olmamak üzere",
+      "E": "5 dekardan az ve 20 dekardan çok olmamak üzere"
+    },
+    "answer": "A",
+    "solution": "Madde 64'e göre her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere bir uygulama bahçesi bulunur. Okula gelir sağlamak için seçilen toprakların sınırı ise ayrıca 50 dekardır (m. 62).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 64"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-048",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Okullar için sağlanan topraklar üzerindeki bina ve tesislerin daimi bakım ve onarım giderleri, 222 sayılı Kanunun 65. maddesine göre nereden karşılanır?",
+    "options": {
+      "A": "Bulundukları yerlere göre özel idare veya köy bütçelerinden",
+      "B": "Millî Eğitim Bakanlığı bütçesinde bu amaçla açılan özel fasıldan",
+      "C": "Belediye bütçelerinden ve belediyelerin ayırdığı özel ödeneklerden",
+      "D": "Okul-aile birliklerinin gelirleri ile bağış ve yardımlardan",
+      "E": "Valilik özel hesabında toplanan gelirlerden"
+    },
+    "answer": "A",
+    "solution": "Madde 65'e göre okullar için sağlanan topraklar ve bunlar üzerindeki bina veya tesisler köy veya özel idareler adına tapuya tescil edilir; bunların daimi bakım ve onarım giderleri bulundukları yerlere göre özel idare veya köy bütçelerinden karşılanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 65/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-049",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Paralı veya parasız olarak ilköğretim hizmetlerine tahsis, temlik ve tescil edilen gayrimenkullerin ferağ ve intikal işlemleri ile bu işlemlere ilişkin belge ve senetler için 222 sayılı Kanunun 66. maddesine göre nasıl bir uygulama yapılır?",
+    "options": {
+      "A": "Vergi ve harçlar yarı oranında tahsil edilir",
+      "B": "Damga vergisi alınmaz, tapu harcı alınır",
+      "C": "Köylerde alınmaz, şehir ve kasabalarda alınır",
+      "D": "Hiçbir vergi, harç ve resim alınmaz",
+      "E": "Tapu harcı alınmaz, damga vergisi alınır"
+    },
+    "answer": "D",
+    "solution": "Madde 66'nın ikinci fıkrasına göre ilköğretim hizmetlerine tahsis, temlik ve tescil edilen bütün gayrimenkullerin ferağ ve intikal işlemleriyle bu işlemlerle ilgili olarak düzenlenecek belgelerden ve senetlerden hiçbir vergi, harç ve resim alınmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 66/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-050",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Köy okullarına bitişik veya müstakil öğretmen lojmanlarının dolayında her ev için ayrılan öğretmen bahçesinden öğretmenlerin yararlanma biçimi 222 sayılı Kanunun 67. maddesine göre nasıldır?",
+    "options": {
+      "A": "Kiraya verebilirler, ancak ortaklığa veremezler",
+      "B": "Okul-aile birliğinin izniyle kiraya verebilirler",
+      "C": "Parasız faydalanırlar, ancak kiraya veya ortaklığa veremezler",
+      "D": "Köy ihtiyar heyetine kira ödeyerek faydalanırlar",
+      "E": "Gelirin yarısını okula bırakmak şartıyla faydalanırlar"
+    },
+    "answer": "C",
+    "solution": "Madde 67'ye göre köy okullarına bitişik öğretmen lojmanlarıyla müstakil lojmanların dolayında her ev için 500 ila 1000 metre karelik bir arazi öğretmen bahçesi olarak ayrılır; öğretmenler bu bahçelerden parasız faydalanırlar fakat kiraya veya ortaklığa veremezler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 67"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-051",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Öğretmen lojmanlarının dolayında her ev için ayrılacak öğretmen bahçesinin büyüklüğü 222 sayılı Kanunun 67. maddesine göre ne kadardır?",
+    "options": {
+      "A": "200 ila 500 metrekare",
+      "B": "500 ila 1000 metrekare",
+      "C": "1000 ila 2000 metrekare",
+      "D": "2000 ila 5000 metrekare",
+      "E": "5000 ila 10000 metrekare"
+    },
+    "answer": "B",
+    "solution": "Madde 67'ye göre her ev için 500 ila 1000 metre karelik bir arazi, öğretmen bahçesi olmak üzere okul arsasından, uygulama bahçesinden yahut okula gelir sağlayacak araziden ayrılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 67"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-052",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Okulların uygulama bahçelerinden elde edilen gelir veya ürünler 222 sayılı Kanunun 68. maddesine göre hangi amaçla sarfedilmek üzere köy bütçelerine gelir kaydedilir?",
+    "options": {
+      "A": "Köy ihtiyar heyetinin giderlerine",
+      "B": "Öğretmen lojmanlarının onarımına ve öğretmenlerin ek ödemelerine",
+      "C": "Okul ihtiyaçlarına ve öğrenci beslenmesine",
+      "D": "İlçe eğitim müdürlüğünün ödeneğine",
+      "E": "Köyün genel altyapı giderlerine"
+    },
+    "answer": "C",
+    "solution": "Madde 68'e göre uygulama bahçelerinden elde edilen gelir veya ürünler okul ihtiyaçlarına ve öğrenci beslenmesine sarfedilmek üzere köy bütçelerine gelir kaydedilir. Bahçede bölge özelliklerine göre kurulacak tesisleri köy ihtiyar heyeti kararlaştırır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 68/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-053",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 76. maddesine göre ilköğretim gelir kaynaklarında belirtilen asgari oranlar aşağıdaki sırayla hangisidir?\n\nI. Devlet bütçesinden yapılacak yardımların Devlet gelirlerine oranı\n\nII. Özel idare bütçelerine konulacak ödeneklerin yıllık gelirlere oranı\n\nIII. Köy bütçelerine konulacak ödeneklerin genel gelirlere oranı",
+    "options": {
+      "A": "%2 — %20 — %10",
+      "B": "%3 — %20 — %10",
+      "C": "%3 — %10 — %20",
+      "D": "%5 — %20 — %10",
+      "E": "%3 — %20 — %5"
+    },
+    "answer": "B",
+    "solution": "Madde 76'ya göre Devlet bütçesinden her yıl Devlet gelirlerinin yüzde 3'ünden az olmamak üzere, özel idare bütçelerine yıllık gelirlerinin en az yüzde 20'si oranında, köy bütçelerine ise genel gelirlerinin en az yüzde 10'u oranında ödenek konulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 76/a-b-d"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-054",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Aşağıdakilerden hangisi 222 sayılı Kanunun 76. maddesine göre ilköğretime ait gelir kaynaklarından biridir?",
+    "options": {
+      "A": "Millî Eğitim Bakanlığınca basılan ders kitaplarının satış gelirleri",
+      "B": "Okul servis araçlarından alınan ücretler ile kiralama gelirleri",
+      "C": "Öğrenci velilerinden alınan kayıt ücretleri ve katkı payları",
+      "D": "Özel okullardan alınan harçlar ve ruhsat bedelleri",
+      "E": "Mahkemelerce hükmolunanlar da dahil olmak üzere bu Kanuna göre verilecek para cezaları"
+    },
+    "answer": "E",
+    "solution": "Madde 76'nın (e) bendine (2917 sayılı Kanunla değişik) göre mahkemelerce hükmolunanlar da dahil olmak üzere bu Kanuna göre verilecek para cezaları ilköğretime ait gelir kaynaklarındandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 76/e"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-055",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Gelir ve Kurumlar Vergisi yükümlüleri tarafından makbuz karşılığında yapılan ilköğretim bağışları, 222 sayılı Kanunun 76. maddesine göre vergi bakımından nasıl işlem görür?",
+    "options": {
+      "A": "Kurum kazançlarından indirilir, gerçek kişilerin gelirinden indirilmez ve sonraki yıla taşınmaz",
+      "B": "Ödenecek vergiden mahsup edilir ve kalan tutar iade edilir",
+      "C": "Sonraki yıllara devredilir, ancak o yılın vergi matrahından indirim konusu yapılmaz",
+      "D": "Vergi iadesi olarak yükümlüye ödenir ve bağış tutarı vergi matrahına eklenir",
+      "E": "Yıllık bildirimle bildirilecek gelirlerden ve kurum kazançlarından indirilir"
+    },
+    "answer": "E",
+    "solution": "Madde 76'nın (g) bendine göre Gelir ve Kurumlar Vergisi yükümlüleri tarafından makbuz mukabilinde yapılacak para bağışları, yıllık bildirimle bildirilecek gelirlerden ve kurum kazançlarından indirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 76/g"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-056",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 77. maddesine göre Millî Eğitim Bakanlığı bütçesinde açılan özel fasıla konulan ödenek ve diğer giderlerin yüzde kaçı 78. maddenin (a) fıkrasındaki işlere, yüzde kaçı (b) fıkrasındaki ihtiyaçlara sarf edilir?",
+    "options": {
+      "A": "%70 (a) fıkrasına, %30 (b) fıkrasına",
+      "B": "%60 (a) fıkrasına, %40 (b) fıkrasına",
+      "C": "%80 (a) fıkrasına, %20 (b) fıkrasına",
+      "D": "%50 (a) fıkrasına, %50 (b) fıkrasına",
+      "E": "%30 (a) fıkrasına, %70 (b) fıkrasına"
+    },
+    "answer": "A",
+    "solution": "Madde 77'ye göre bu ödeneklerle diğer giderlerin %70'i 78. maddenin (a) fıkrasında yazılı işlere (yapım, esaslı onarım, ilk tesis, okul eşyası, arsa ve arazi istimlaki), %30'u ise (b) fıkrasında gösterilen ihtiyaçlara (küçük onarım, genel giderler, yoksul öğrencilere yardım vb.) sarf edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 77/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-057",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Aşağıdakilerden hangisi 222 sayılı Kanunun 78. maddesinin (b) fıkrasında sayılan giderlerdendir?",
+    "options": {
+      "A": "Arsa ve arazi istimlak masrafları",
+      "B": "Köy, kasaba ve şehir ilköğretim kurumlarının yapım ve esaslı onarım giderleri",
+      "C": "Yoksul öğrencilere parasız olarak verilecek okul kitapları ve ders levazımı bedeli",
+      "D": "Öğretmen lojmanlarının yapım ve tadil giderleri",
+      "E": "Ders aletleri ve ilk tesis masrafları"
+    },
+    "answer": "C",
+    "solution": "Madde 78'in (b) fıkrası küçük onarımlar, okulların genel giderleri, yoksul öğrencilere parasız verilecek okul kitapları ve ders levazımı bedeli, öğrencilerin yiyecek-giyecek noksanlarının telafisi, esaslı hastalıklarının tedavisi ile pansiyonlu okulların ve tamamlayıcı kursların masraflarını sayar. Yapım, esaslı onarım, ilk tesis, ders aletleri ve istimlak giderleri (a) fıkrasındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 78/b"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-058",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlköğretim kurumlarında çalışan genel ve yardımcı hizmetler sınıfındaki personelin aylıkları ve her türlü özlük giderleri, 222 sayılı Kanunun 78. maddesine göre nereden ödenir?",
+    "options": {
+      "A": "Genel bütçeden",
+      "B": "Köy bütçelerinden",
+      "C": "Okul-aile birliklerinin gelirlerinden",
+      "D": "Özel idare bütçesinden",
+      "E": "İlköğretim gelir ve ödeneklerinden"
+    },
+    "answer": "A",
+    "solution": "Madde 78'in son fıkrasına göre ilköğretim müdürlükleri, ilköğretim okulları ve halk eğitimi birimlerinde çalışan genel ve yardımcı hizmetler sınıfı personel ile ilgili bölge doktorları, sağlık memuru, hemşire ve teknik elemanların aylıkları ve her türlü özlük giderleri genel bütçeden ödenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 78/son"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-059",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Millî Eğitim Bakanlığı, 10 yıllık plana göre tamamlanması gereken bütün ilköğretim okulları yapımı hakkında her yıl bütçe kanununa kaç yıllık tafsilatlı bir plan ekler?",
+    "options": {
+      "A": "On yıllık",
+      "B": "Bir yıllık",
+      "C": "Beş yıllık",
+      "D": "Yirmi yıllık",
+      "E": "Üçer yıllık"
+    },
+    "answer": "E",
+    "solution": "Madde 79'a göre Millî Eğitim Bakanlığı 10 yıllık plana göre tamamlanması gereken köy, kasaba ve şehir ilköğretim okulları yapımı hakkında her yıl bütçe kanununa üçer yıllık tafsilatlı bir plan ekler; valilikler de buna paralel olarak üç yıllık plan ve program hazırlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 79/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-060",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "İlköğretimin bina ve tesislerinden halk eğitimi hizmetlerinde ve diğer millî eğitim hizmetlerinde faydalanılabilmesi için 222 sayılı Kanunun 81. maddesine göre hangi koşul aranır?",
+    "options": {
+      "A": "Valiliğin izni ve okul-aile birliğinin onayı",
+      "B": "Köy ihtiyar heyetinin kararı ve mülki amirin izni",
+      "C": "İlçe eğitim müdürünün onayı, Maliye Bakanlığının uygun görüşü ve özel idare meclisinin kararı",
+      "D": "Kullanım bedelinin özel idare hesabına yatırılması, kullanıma ilişkin protokol yapılması ve okul müdürünün izni",
+      "E": "Kurumların esas hizmetlerini aksatmamak ve Millî Eğitim Bakanlığının muvafakatinin alınması"
+    },
+    "answer": "E",
+    "solution": "Madde 81'e göre ilköğretim gelirleriyle sağlanan bina ve tesisler başka bir hizmete devredilemez; ancak bu kurumların esas hizmetlerini aksatmamak ve Millî Eğitim Bakanlığının muvafakati alınmak şartıyla halk eğitimi hizmetlerinde ve diğer millî eğitim hizmetlerinde faydalanmak caizdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 81/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-061",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "78. maddenin (b) fıkrasında gösterilen hizmetler için ayrılacak ödeneklerin en fazla yüzde kaçı, aynı fıkrada belirtilen personel giderlerine ayrılabilir?",
+    "options": {
+      "A": "%30",
+      "B": "%10",
+      "C": "%40",
+      "D": "%50",
+      "E": "%60"
+    },
+    "answer": "A",
+    "solution": "Madde 81'in son fıkrasına göre 78. maddenin (b) fıkrasında gösterilen hizmetler için ayrılacak ödeneklerin yüzde 30'undan fazlası personel giderlerine ayrılamaz; bu personel hizmetlerin dışında kalan bir işte devamlı veya muvakkat olarak kullanılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 81/son"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-062",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Özel idarelerin ilköğretim gelir ve ödeneklerinden mali yıl içinde sarf edilemeyen kısımlar, 222 sayılı Kanunun 82. maddesine göre ne olur?",
+    "options": {
+      "A": "Başka eğitim hizmetlerine aktarılır",
+      "B": "Gelecek mali yıllara devredilir",
+      "C": "İl genel meclisi kararıyla diğer fasıllara dağıtılır",
+      "D": "Hazineye iade edilir",
+      "E": "Genel bütçeye gelir kaydedilir"
+    },
+    "answer": "B",
+    "solution": "Madde 82'ye göre ilköğretim gelir ve ödenekleri özel idarelerce ayrı bir hesaba alınır; mali yıl içinde sarf edilemeyen kısımları gelecek mali yıllara devredilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 82/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-063",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Köylerde 222 sayılı Kanunla ilgili çeşitli hizmetler 85. maddeye göre hangi kanun uyarınca mecburi sayılan işlerdendir?",
+    "options": {
+      "A": "Devlet Memurları Kanunu",
+      "B": "Belediye Kanunu",
+      "C": "Millî Eğitim Temel Kanunu",
+      "D": "Köy Kanunu",
+      "E": "İl Özel İdaresi Kanunu"
+    },
+    "answer": "D",
+    "solution": "Madde 85'e göre köylerde bu kanunla ilgili çeşitli hizmetler, Köy Kanunu ile mecburi sayılan işlerdendir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 85"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-064",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Mecburi ilköğretim kurumlarına kayıt olunacak çocuklarla bu kurumlara devam eden ve mezun olacak öğrencilere verilecek belgeler ve suretleri, 222 sayılı Kanunun 86. maddesine göre damga resmi bakımından nasıl işlem görür?",
+    "options": {
+      "A": "Yarı oranında damga resmine tabidir",
+      "B": "Damga resmine tabi değildir",
+      "C": "Kayıt belgeleri muaf, mezuniyet belgeleri damga resmine tabidir",
+      "D": "Damga resminden muaf olup harca tabidir",
+      "E": "Köylerde muaf, şehirlerde damga resmine tabidir"
+    },
+    "answer": "B",
+    "solution": "Madde 86'ya göre mecburi ilköğretim kurumlarına kayıt olunacak çocuklarla bu kurumlara devam eden ve mezun olacak öğrencilere verilecek ve bu kurumlarda kullanılacak her çeşit belgeler ile bunların suretleri Damga Resmine tabi değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 86"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-065",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "Şehir ve kasabalardaki öğretmen konutlarına ait kira bedelleri 222 sayılı Kanunun 87. maddesine göre kim tarafından kararlaştırılır?",
+    "options": {
+      "A": "İlçe eğitim müdürlükleri",
+      "B": "Okul-aile birlikleri",
+      "C": "İl daimi komisyonları",
+      "D": "Özel idare encümenleri",
+      "E": "Valilikler"
+    },
+    "answer": "C",
+    "solution": "Madde 87'nin son fıkrasına göre şehir ve kasabalardaki konutlara ait kira bedelleri il daimi komisyonlarınca kararlaştırılır. Köylerdeki öğretmen konutları ise öğretmenlere parasız tahsis olunur ve başka iş için kullanılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 87/son"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-066",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunda geçen “ilköğretim müdürü” deyimi, Ek 1. madde ile hangi deyimle değiştirilmiştir?",
+    "options": {
+      "A": "İlçe eğitim müdürü",
+      "B": "İl eğitim müdürü",
+      "C": "Bölge ilköğretim müfettişi",
+      "D": "Eğitim bölge müdürü",
+      "E": "Okul müdürü"
+    },
+    "answer": "A",
+    "solution": "Ek 1. madde (2917 sayılı Kanunla eklenmiştir), kanunda geçen ilköğretim müdürü deyiminin “ilçe eğitim müdürü”, öğretmenevi deyiminin ise “öğretmen lojmanı” olarak değiştirildiğini belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun ek m. 1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-067",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun Ek 3. maddesine göre kanunun yürürlüğe girdiği tarihten itibaren açıktan veya başka görevlerden nakil suretiyle yeniden ne yapılamaz?",
+    "options": {
+      "A": "Sözleşmeli öğretmen atanması",
+      "B": "Rehberlik uzmanı atanması",
+      "C": "Geçici öğretmen atanması",
+      "D": "Usta öğretici görevlendirilmesi",
+      "E": "Gezici öğretmen atanması"
+    },
+    "answer": "C",
+    "solution": "Ek 3. madde (2087 sayılı Kanun hükmü), kanunun yürürlüğe girdiği tarihten itibaren açıktan veya başka görevlerden nakil suretiyle yeniden geçici öğretmen atanması yapılamayacağını belirtir. Gezici öğretmenler ve usta öğreticiler ise 9. ve 14. maddelerde yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun ek m. 3"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-068",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 76. maddesinin birinci fıkrasının (b) bendine göre elde edilen gelirler, Ek 4. madde uyarınca ayrıca hangi amaçla kullanılır?",
+    "options": {
+      "A": "Yaygın eğitim kurumlarının personel giderlerinin ve işletme masraflarının ödenmesi",
+      "B": "Özel eğitim kurumlarının teknolojik donanımının sağlanması ve ilgili personelin eğitilmesi",
+      "C": "Öğretmenlerin hizmet içi eğitim giderlerinin ve eğitim materyali alımlarının karşılanması",
+      "D": "Yükseköğretim kurumlarının öğrenci yurtlarının yapımı ve yurt personelinin giderlerinin karşılanması",
+      "E": "Ortaöğretim kurumlarının arsa temini, binalarının yapım, bakım ve onarımı ile diğer ihtiyaçlarının karşılanması"
+    },
+    "answer": "E",
+    "solution": "Ek 4. madde (6287 sayılı Kanunla eklenmiştir), 76. maddenin birinci fıkrasının (b) bendine göre elde edilen gelirlerin il özel idarelerince ortaöğretim kurumlarının arsa temini, binalarının yapım, bakım ve onarımı ile diğer ihtiyaçlarının karşılanması için de kullanılacağını belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun ek m. 4"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-069",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanunun 90. maddesine göre kanunun hükümleri hangi tarihlerde yürürlüğe girmiştir?",
+    "options": {
+      "A": "Mali hükümleri 1 Ocak 1961, tayinle ilgili işleri 28 Şubat 1961, diğer hükümleri 1 Mart 1961",
+      "B": "Mali hükümleri 1 Mart 1961, tayinle ilgili işleri 28 Şubat 1961, diğer hükümleri 1 Ocak 1961",
+      "C": "Mali hükümleri 28 Şubat 1961, tayinle ilgili işleri 1 Mart 1961, diğer hükümleri 1 Ocak 1961",
+      "D": "Mali hükümleri ve tayinle ilgili işleri 1 Mart 1961, diğer hükümleri 1 Ocak 1961",
+      "E": "Mali hükümleri 1 Mart 1961, tayinle ilgili işleri 1 Ocak 1961, diğer hükümleri 28 Şubat 1961"
+    },
+    "answer": "B",
+    "solution": "Madde 90'a göre kanunun mali hükümleri 1 Mart 1961, tayinle ilgili işleri 28 Şubat 1961, diğer hükümleri 1 Ocak 1961 tarihinde yürürlüğe girer.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 90"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-070",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı İlköğretim ve Eğitim Kanununun 7. maddesine göre ilköğretim, hangi yapıdaki zorunlu kurumlardan oluşur?",
+    "options": {
+      "A": "Dört yıl süreli ilkokul ve dört yıl süreli ortaokul",
+      "B": "Altı yıl süreli ilkokul ve iki yıl süreli ortaokul",
+      "C": "Beş yıl süreli ilkokul ve üç yıl süreli ortaokul",
+      "D": "Sekiz yıl süreli tek kademeli ilköğretim okulu",
+      "E": "Dört yıl süreli ilkokul, dört yıl süreli ortaokul ve dört yıl süreli lise"
+    },
+    "answer": "A",
+    "solution": "7. maddeye göre ilköğretim, dört yıl süreli ve zorunlu ilkokul ile dört yıl süreli ve zorunlu ortaokuldan oluşan bir Millî Eğitim ve Öğretim Kurumudur; lise ilköğretimin parçası değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 7"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-071",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanuna göre ilköğretim kurumlarının kurulmasında esas olan düzenleme aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İlköğretimin özel okullarda verilmesi",
+      "B": "Ortaokulların liselerle birleştirilerek kurulması",
+      "C": "Her köye ayrı bir ortaokul kurulması",
+      "D": "İlkokul ve ortaokulun tek okul olarak birleştirilmesi",
+      "E": "İlkokul ve ortaokul olarak bağımsız okullar hâlinde kurulması"
+    },
+    "answer": "E",
+    "solution": "9. maddenin birinci fıkrasına göre ilkokul ve ortaokulun bağımsız okullar hâlinde kurulması esastır; imkân ve şartlara göre ortaokullar ilkokullarla veya liselerle birlikte de kurulabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 9/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-072",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı İlköğretim ve Eğitim Kanununa göre mecburi ilköğretim çağı hangi yaş grubundaki çocukları kapsar?",
+    "options": {
+      "A": "6-14 yaş grubunu",
+      "B": "5-13 yaş grubunu",
+      "C": "5-14 yaş grubunu",
+      "D": "7-15 yaş grubunu",
+      "E": "6-12 yaş grubunu"
+    },
+    "answer": "A",
+    "solution": "3. maddeye göre mecburi ilköğretim çağı 6-14 yaş grubundaki çocukları kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 3/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-222-073",
+    "ders": "mevzuat",
+    "konu": "ilkogretim_ve_egitim_kanunu",
+    "stem": "222 sayılı Kanuna göre ilkokulların birinci sınıflarına hangi koşulu sağlayan çocukların kaydı yapılır?",
+    "options": {
+      "A": "O yılın 31 Aralık tarihinde 78 ayını dolduran",
+      "B": "O yılın 31 Aralık tarihinde 72 ayını dolduran",
+      "C": "O yılın 31 Aralık tarihinde 60 ayını dolduran",
+      "D": "O yılın 31 Aralık tarihinde 66 ayını dolduran",
+      "E": "O yılın 30 Eylül tarihinde 72 ayını dolduran"
+    },
+    "answer": "B",
+    "solution": "3. maddeye göre ilkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır; erken başlama veya erteleme yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "222 sayılı Kanun m. 3/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

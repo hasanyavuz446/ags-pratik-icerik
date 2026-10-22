@@ -1,0 +1,1497 @@
+[
+  {
+    "id": "ags-egt-gel-001",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir bebek anne ve babasının gösterdiği hiçbir özel çalışma olmadan, kaslarının ve sinir sisteminin yeterli düzeye ulaşması ile birlikte belirli bir yaşta oturmaya, ardından emeklemeye ve daha sonra yürümeye başlamıştır. Ebeveynlerin bu davranışlar için bilinçli bir eğitim vermesine gerek kalmamıştır.\n\nBu gelişim süreci aşağıdakilerden hangisiyle açıklanır?",
+    "options": {
+      "A": "Pekiştirme",
+      "B": "Öğrenme",
+      "C": "Koşullanma",
+      "D": "Olgunlaşma",
+      "E": "Taklit"
+    },
+    "answer": "D",
+    "solution": "Olgunlaşma, bireyin biyolojik yapısının (kas ve sinir sistemi gibi) programlı olarak gelişmesi sonucu, özel bir eğitime gerek kalmadan ortaya çıkan gelişim süreci anlamına gelir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gelişim ilkeleri: olgunlaşma"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-002",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir bebek önce başını dik tutmayı, ardından gövdesini kontrol etmeyi, sonra oturmayı ve en son ayakta durup yürümeyi öğrenmektedir. Anne ve babası, hareket becerilerinin vücudun üst kısmından alt kısmına doğru ilerlediğini gözlemlemektedir. Çocuk doktoru bu sıranın normal gelişim çizgisinde olduğunu belirtmiştir.\n\nBu gelişim yönü aşağıdakilerden hangisiyle adlandırılır?",
+    "options": {
+      "A": "Baştan ayağa gelişim",
+      "B": "Merkezden uca gelişim",
+      "C": "Genelden özele gelişim",
+      "D": "Uçtan merkeze gelişim",
+      "E": "Ayaktan başa gelişim"
+    },
+    "answer": "A",
+    "solution": "Baştan ayağa gelişim ilkesine göre kontrol ve hareket becerileri baştan başlayarak aşağıya (gövde, bacak, ayak) doğru gelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gelişim ilkeleri: baştan ayağa"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-003",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Küçük Ali önce omzunu ve kolunu bir bütün olarak sallayarak nesneleri kavramaya çalışmış, zamanla dirsek, bilek ve en sonunda parmak hareketlerini ayrı ayrı kontrol etmeyi öğrenmiştir. Hareket becerisi vücudun gövdeye yakın bölgelerinden uzak bölgelerine doğru gelişmiştir.\n\nBu gelişim yönü aşağıdakilerden hangisiyle adlandırılır?",
+    "options": {
+      "A": "Uçtan merkeze gelişim",
+      "B": "Genelden özele gelişim",
+      "C": "Merkezden uca gelişim",
+      "D": "Ayaktan başa gelişim",
+      "E": "Baştan ayağa gelişim"
+    },
+    "answer": "C",
+    "solution": "Merkezden uca (proksimodistal) gelişim ilkesinde kontrol, vücudun gövdeye yakın kısımlarından uzak kısımlarına (kol, el, parmak) doğru gelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gelişim ilkeleri: merkezden uca"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-004",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir kaz yavrusu, yumurtadan çıktıktan sonraki ilk saatlerde gördüğü hareketli nesneyi, bu bir insan bile olsa, anne olarak benimsemiş ve onu izlemeye başlamıştır. Yumurtadan çıktıktan sonra bu dönem geçtikten sonra yavruda aynı davranış gözlenmemiştir.\n\nBu bulgu gelişimin hangi ilkesine örnektir?",
+    "options": {
+      "A": "Bireysel farklılık",
+      "B": "Sürekliliğin ilkesi",
+      "C": "Genelden özele gelişim",
+      "D": "Kritik (duyarlı) dönem",
+      "E": "Olgunlaşma"
+    },
+    "answer": "D",
+    "solution": "Lorenz'in damgalama (imprinting) çalışması, belirli davranışların ancak sınırlı bir kritik dönemde kolayca öğrenilebildiğini gösterir; dil edinimi de benzer bir dönemle ilişkilendirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gelişim ilkeleri: kritik dönem"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-005",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Altı aylık bebek Zeynep, annesinin yüzünü kapatan bir battaniye gördüğünde annesinin yok olduğunu sanmakta ve aramamaktadır. Bir yaşına yaklaştığında ise battaniyeyi kaldırarak annesini aramakta, nesnelerin gözünün önünden kaybolsa bile var olmaya devam ettiğini bilmektedir.\n\nZeynep'in bu yaştaki kazanımı Piaget'ye göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tersine çevirme becerisi",
+      "B": "Sınıflama becerisi",
+      "C": "Nesne devamlılığı",
+      "D": "Benmerkezci düşünce",
+      "E": "Korunum becerisi"
+    },
+    "answer": "C",
+    "solution": "Nesne devamlılığı, nesnelerin görülmese bile varlığını sürdürdüğünü kavramaktır; Piaget'ye göre duyusal-motor dönemde gelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: duyusal-motor dönem (nesne devamlılığı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-006",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Üç yaşındaki Efe, boş bir kutuyu araba gibi sürmekte, süpürgeyi at olarak kullanmakta ve bebeğine yemek yedirmeyi taklit etmektedir. Efe henüz mantıksal işlem yapamamakta, ancak nesneleri başka şeyler yerine kullanabilmekte, olayları zihninde sembollerle temsil edebilmektedir.\n\nEfe'nin içinde bulunduğu Piaget dönemi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Biçimsel işlemler öncesi dönem",
+      "B": "İşlem öncesi dönem",
+      "C": "Soyut işlemler dönemi",
+      "D": "Somut işlemler dönemi",
+      "E": "Duyusal-motor dönem"
+    },
+    "answer": "B",
+    "solution": "İşlem öncesi dönemde çocuk sembolik düşünür (hayali oyun, taklit) ancak mantıksal işlem yapamaz; benmerkezcilik, animizm ve merkezileşme bu dönemin özellikleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: işlem öncesi dönem"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-007",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Dört yaşındaki Defne, annesine doğum günü hediyesi olarak kendi çok sevdiği bir oyuncağı almıştır. Annesinin de aynı oyuncağı seveceğini düşünmüş, annesinin bakış açısından bakamamıştır. Defne, herkesin dünyayı kendisiyle aynı biçimde algıladığını varsaymaktadır. Öğretmeni, Defne'nin kendi bakış açısıyla başkasınınkini ayıramadığını gözlemlemiştir.\n\nDefne'nin bu özelliği Piaget'ye göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yapay inanç",
+      "B": "Benmerkezcilik",
+      "C": "Korunumun olmaması",
+      "D": "Merkezileşme",
+      "E": "Animizm"
+    },
+    "answer": "B",
+    "solution": "Benmerkezcilik, çocuğun olayları yalnızca kendi bakış açısından görmesi, başkalarının farklı düşünebileceğini kavrayamamasıdır; işlem öncesi dönemin temel özelliğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: benmerkezcilik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-008",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Beş yaşındaki Kerem, güneşin kendisine gülümsediğini, bulutların kızdığı için yağmur yağdığını ve yere düşen oyuncağının acıdığını söylemektedir. Cansız nesnelerin de canlıymış gibi duygu ve niyet taşıdığına inanmaktadır. Anne ve babası bu konuşmaları eğlenceli bulmakta, çocuğun düşüncelerini sormaktadır.\n\nKerem'in bu düşünce biçimi Piaget'ye göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Benmerkezcilik",
+      "B": "Merkezileşme",
+      "C": "Korunum",
+      "D": "Sınıflama",
+      "E": "Animizm"
+    },
+    "answer": "E",
+    "solution": "Animizm, işlem öncesi dönemde çocukların cansız nesnelere canlı özellikleri ve niyetleri atfetmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: animizm"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-009",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Altı yaşındaki Selin'e aynı miktarda su içeren iki bardak gösterilmiş, bir bardaktaki su daha uzun ve dar bir kaba boşaltılmıştır. Selin, suyun yükseldiğini görünce uzun kaptaki suyun daha çok olduğunu söylemiş, suyun miktarının değişmediğini fark edememiştir.\n\nSelin'in bu yanılgısı Piaget'ye göre aşağıdakilerden hangisinin henüz gelişmediğini gösterir?",
+    "options": {
+      "A": "Korunum",
+      "B": "Nesne devamlılığı",
+      "C": "Benmerkezcilik",
+      "D": "Sembolik oyun",
+      "E": "Hipotetik düşünme"
+    },
+    "answer": "A",
+    "solution": "Korunum, nesnenin görünümü değişse bile miktar, kütle veya sayı gibi özelliklerinin değişmediğini kavramaktır; Piaget'ye göre somut işlemler döneminde gelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: korunum"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-010",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Dokuz yaşındaki Barış, elindeki farklı renkli bilyeleri önce renklerine, sonra büyüklüklerine göre gruplayabilmekte; yirmi çubuğu uzunluğuna göre sıralayabilmekte ve sayıları toplamanın tersinin çıkarma olduğunu kavrayabilmektedir. Bu işlemleri yalnızca somut nesnelerle yapabilmektedir. Barış bu işlemleri soyut sayılarla değil, elindeki gerçek nesnelerle yapabildiğini göstermektedir.\n\nBarış'ın içinde bulunduğu Piaget dönemi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İşlem öncesi dönem",
+      "B": "Sezgisel dönem",
+      "C": "Somut işlemler dönemi",
+      "D": "Duyusal-motor dönem",
+      "E": "Soyut işlemler dönemi"
+    },
+    "answer": "C",
+    "solution": "Somut işlemler döneminde çocuk korunum, sınıflama, serileme ve tersine çevirme gibi mantıksal işlemleri somut nesneler üzerinde yapabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: somut işlemler dönemi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-011",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "On üç yaşındaki Eda, fen derslerinde “Eğer sıcaklık artarsa gazın hacmi nasıl değişir?” gibi varsayımsal durumlar üzerine düşünebilmekte, hiç görmediği sistemler için kurallar oluşturabilmekte ve soyut kavramlarla (adalet, özgürlük) mantıksal akıl yürütebilmektedir. Öğretmeni, Eda'nın hiç görmediği problemleri de zihninde çözebildiğini fark etmiştir.\n\nEda'nın içinde bulunduğu Piaget dönemi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Somut işlemler dönemi",
+      "B": "İşlem öncesi dönem",
+      "C": "Duyusal-motor dönem",
+      "D": "Soyut işlemler dönemi",
+      "E": "Sezgisel dönem"
+    },
+    "answer": "D",
+    "solution": "Soyut işlemler döneminde birey hipotetik-dedüktif akıl yürütme, varsayımlar üretme ve soyut kavramlarla düşünebilme yeteneği kazanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: soyut işlemler dönemi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-012",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Daha önce yalnızca köpekleri tanıyan küçük Ali, ilk kez bir kediyi görünce “köpek” demiştir. Annesi “Bu kedi, köpeğin dört ayağı var ama miyavlar” diyerek açıklamıştır. Ali, ‘dört ayaklı hayvan’ kavramına yeni bir kategori ekleyerek şemasını genişletmiştir.\n\nAli'nin şemasını değiştirmesi Piaget'nin hangi kavramına örnektir?",
+    "options": {
+      "A": "Uyumlaştırma",
+      "B": "Dengeleme",
+      "C": "Özümleme",
+      "D": "Korunum",
+      "E": "Benmerkezcilik"
+    },
+    "answer": "A",
+    "solution": "Uyumlaştırma, mevcut şemanın yeni bilgiye uymayınca değiştirilmesi ya da yeni bir şema oluşturulmasıdır; özümlemede ise yeni bilgi mevcut şemaya uydurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: uyumlaştırma"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-013",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Küçük Mine, yeni gördüğü bir kuşu “uçan hayvan” şemasına uygun bulunca “kuş” olarak adlandırmış; şeması aynı kalmış ve yeni gördüğü hayvanı mevcut şemaya yerleştirmiştir. Şemasında herhangi bir değişikliğe gerek kalmamıştır. Anne bu durumu çocuğunun öğrenme biçimini anlamak için not etmiştir.\n\nMine'nin bu davranışı Piaget'nin hangi kavramına örnektir?",
+    "options": {
+      "A": "Sınıflama",
+      "B": "Özümleme",
+      "C": "Korunum",
+      "D": "Dengeleme",
+      "E": "Uyumlaştırma"
+    },
+    "answer": "B",
+    "solution": "Özümleme, yeni bilginin mevcut şemaya uydurulmasıdır; şema değişmez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: özümleme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-014",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Beş yaşındaki Kaan, mevcut bilgisine uymayan bir durumla karşılaşmış ve bir süre rahatsızlık duymuş, ardından yeni bilgiyi şemasına dahil ederek rahatlamıştır. Bu rahatsızlık hâli, Piaget'ye göre öğrenmenin ilerlemesini sağlayan bir iç dengesizlik durumudur.\n\nKaan'ın bu hâli Piaget'nin hangi kavramıyla adlandırılır?",
+    "options": {
+      "A": "Korunum becerisi",
+      "B": "Özümleme süreci",
+      "C": "Sınıflama becerisi",
+      "D": "Denge bozulması",
+      "E": "Benmerkezci düşünce"
+    },
+    "answer": "D",
+    "solution": "Denge bozulması (dengesizlik), çocuğun mevcut şemalarıyla çözemediği durumla karşılaşmasıyla oluşan zihinsel dengesizliktir; çocuk dengeleme yoluyla yeniden denge kurar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: denge bozulması ve dengeleme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-015",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Dört yaşındaki Yusuf, hem kırmızı hem yuvarlak olan topu gördüğünde yalnızca rengine dikkat etmekte, topun şeklini ve boyutunu göz ardı etmektedir. Bir olaya bakarken aynı anda birden çok özelliği bir arada düşünemeyip tek bir özelliğe odaklanmaktadır.\n\nYusuf'un bu özelliği Piaget'ye göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Merkezileşme",
+      "B": "Tersine çevirme",
+      "C": "Animizm",
+      "D": "Korunum",
+      "E": "Benmerkezcilik"
+    },
+    "answer": "A",
+    "solution": "Merkezileşme, işlem öncesi dönemdeki çocuğun bir duruma bakarken yalnızca tek bir özelliğe odaklanıp diğerlerini göz ardı etmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: merkezileşme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-016",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Sekiz yaşındaki Emre, sınıf öğretmeninin getirdiği beş farklı uzunluktaki çubuğu kendi kendine en kısadan en uzuna doğru sıralamış, daha sonra araya yeni bir çubuk verildiğinde onu doğru yere yerleştirmiştir. Bu işlemi çubuklara bakarak ve elleriyle yaparak gerçekleştirmiştir.\n\nEmre'nin gösterdiği bu mantıksal işlem Piaget'ye göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Serileme",
+      "B": "Animizm",
+      "C": "Sınıflama",
+      "D": "Benmerkezcilik",
+      "E": "Korunum"
+    },
+    "answer": "A",
+    "solution": "Serileme, nesneleri uzunluk, büyüklük veya ağırlık gibi bir özelliğe göre sıralama işlemidir; Piaget'ye göre somut işlemler döneminde kazanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: serileme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-017",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Beş yaşındaki Elif, bir yapboz yaparken kendi kendine yüksek sesle “Önce kenarları bulayım, sonra ortaya geçeyim” diye konuşmaktadır. Zorlandığında bu konuşma sıklığı artmakta, problemi çözdükten sonra azalmaktadır. Elif, düşünme sürecini kendi sözcükleriyle yönlendirmektedir.\n\nElif'in bu davranışı Vygotsky'ye göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Telgraf konuşma",
+      "B": "Babıldama",
+      "C": "Özel konuşma",
+      "D": "Benmerkezci konuşma",
+      "E": "Taklit"
+    },
+    "answer": "C",
+    "solution": "Vygotsky'ye göre özel konuşma (private speech), çocuğun kendi kendine yüksek sesle konuşarak davranışını yönlendirmesidir; zamanla iç konuşmaya dönüşür ve düşünme aracı olur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Vygotsky: özel konuşma"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-018",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Öğretmen Sevil Hanım, çocukların kültürel araçlar (dil, sayılar, resimler) ve yetişkin rehberliği aracılığıyla öğrendiklerini; bilişsel gelişimin önce toplumsal düzeyde, daha sonra bireysel düzeyde ortaya çıktığını, yani bilginin başkalarıyla etkileşimde oluşup sonra içselleştirildiğini savunmaktadır. Sevil Hanım bu görüşü öğretmen adaylarına sunduğu seminerde açıklamıştır.\n\nSevil Hanım hangi kuramcının görüşünü savunmaktadır?",
+    "options": {
+      "A": "Piaget",
+      "B": "Kohlberg",
+      "C": "Freud",
+      "D": "Erikson",
+      "E": "Vygotsky"
+    },
+    "answer": "E",
+    "solution": "Vygotsky'nin sosyokültürel kuramına göre bilişsel gelişim toplumsal etkileşim, dil ve kültürel araçlar yoluyla önce toplumsal, sonra bireysel düzeyde gerçekleşir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Vygotsky: sosyokültürel kuram"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-019",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "İki araştırmacı gelişim ile öğrenme arasındaki ilişkiyi tartışmaktadır. Birincisi, çocuğun belirli bir bilişsel olgunluğa ulaşmadan öğrenemeyeceğini, yani gelişimin öğrenmeden önce geldiğini savunmaktadır. İkincisi ise iyi planlanmış öğrenmenin gelişimi öne taşıyacağını söylemektedir. Bu tartışma eğitim fakültesinin gelişim psikolojisi dersinde bir konferans olarak yapılmıştır.\n\nBu görüşler sırasıyla hangi kuramcılara aittir?",
+    "options": {
+      "A": "Erikson — Freud",
+      "B": "Piaget — Vygotsky",
+      "C": "Freud — Piaget",
+      "D": "Vygotsky — Piaget",
+      "E": "Kohlberg — Erikson"
+    },
+    "answer": "B",
+    "solution": "Piaget'ye göre gelişim öğrenmenin ön koşuludur; Vygotsky'ye göre ise uygun öğrenme gelişimi ileri taşır (yakınsak gelişim alanı).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gelişim kuramları: Piaget ve Vygotsky karşılaştırması"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-020",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Yeni doğan Zeynep'in açlık ve ağlama gibi gereksinimlerine ebeveynleri düzenli, sevgi dolu ve güvenilir biçimde karşılık vermektedir. Zeynep, çevresine karşı temel bir güven duygusu geliştirmekte ve dünyayı güvenli bir yer olarak algılamaya başlamaktadır.\n\nErikson'a göre Zeynep hangi evrenin olumlu çözümünü yaşamaktadır?",
+    "options": {
+      "A": "Kimlik kazanmaya karşı kimlik karmaşası",
+      "B": "Girişimciliğe karşı suçluluk",
+      "C": "Çalışkanlığa karşı aşağılık",
+      "D": "Özerkliğe karşı utanç ve şüphe",
+      "E": "Güvene karşı güvensizlik"
+    },
+    "answer": "E",
+    "solution": "Erikson'un ilk evresi olan güvene karşı güvensizlik evresinde (bebeklik) bakım verenin tutarlı ve sevgi dolu bakımı temel güven duygusunu oluşturur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Erikson: güvene karşı güvensizlik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-021",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "İki yaşındaki Can, kendi başına yemek yemeye, giyinmeye ve tuvalete gitmeye çalışmakta; “ben yapacağım” demektedir. Anne ve babası bu çabaları destekleyip denemesine izin vermekte; Can, kendi kendine bir şeyler yapabilme duygusu geliştirmektedir.\n\nErikson'a göre Can hangi evrenin olumlu çözümünü yaşamaktadır?",
+    "options": {
+      "A": "Çalışkanlığa karşı aşağılık",
+      "B": "Girişimciliğe karşı suçluluk",
+      "C": "Özerkliğe karşı utanç ve şüphe",
+      "D": "Üretkenliğe karşı durgunluk",
+      "E": "Güvene karşı güvensizlik"
+    },
+    "answer": "C",
+    "solution": "Erikson'un ikinci evresi olan özerkliğe karşı utanç ve şüphe evresinde (erken çocukluk) çocuk kendi başına hareket etme ve seçim yapma çabasındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Erikson: özerkliğe karşı utanç ve şüphe"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-022",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Dört yaşındaki Elif, yeni oyunlar icat etmekte, arkadaşlarına liderlik etmekte ve plan yapmaktadır. Öğretmeni onun girişimlerini destekleyip cesaretlendirdiğinde Elif amaç belirleme ve inisiyatif alma becerisini geliştirmektedir. Anne ve babası da Elif'in yeni fikirlerini cesaretlendirmekte, hata yaptığında kızmamaktadır.\n\nErikson'a göre Elif hangi evrenin olumlu çözümünü yaşamaktadır?",
+    "options": {
+      "A": "Girişimciliğe karşı suçluluk",
+      "B": "Güvene karşı güvensizlik",
+      "C": "Çalışkanlığa karşı aşağılık",
+      "D": "Özerkliğe karşı utanç ve şüphe",
+      "E": "Kimlik kazanmaya karşı kimlik karmaşası"
+    },
+    "answer": "A",
+    "solution": "Erikson'un üçüncü evresi olan girişimciliğe karşı suçluluk evresinde (oyun çağı) çocuk amaç belirler, plan yapar ve girişimlerde bulunur; aşırı eleştirilirse suçluluk duyar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Erikson: girişimciliğe karşı suçluluk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-023",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "On yaşındaki Burak, okulda ödevlerini zamanında tamamlamakta, yeni beceriler öğrenmekte ve çalışmasından takdir görmektedir. Başarı hissi ona yeterlik duygusu kazandırmakta, kendini yetenekli biri olarak görmektedir. Başarısızlıkla sürekli karşılaşsaydı kendini aşağı görebilirdi. Burak'ın öğretmeni de çocuğun çabalarını sürekli takdir etmektedir.\n\nErikson'a göre Burak hangi evrenin olumlu çözümünü yaşamaktadır?",
+    "options": {
+      "A": "Yakınlığa karşı yalıtılmışlık",
+      "B": "Kimlik kazanmaya karşı kimlik karmaşası",
+      "C": "Girişimciliğe karşı suçluluk",
+      "D": "Çalışkanlığa karşı aşağılık",
+      "E": "Özerkliğe karşı utanç ve şüphe"
+    },
+    "answer": "D",
+    "solution": "Erikson'un dördüncü evresi olan çalışkanlığa karşı aşağılık evresinde (okul çağı) çocuk başarı ve beceri kazanma çabası içindedir; başarı yeterlik duygusunu, sürekli başarısızlık aşağılık duygusunu oluşturur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Erikson: çalışkanlığa karşı aşağılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-024",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "On altı yaşındaki Mert, “Ben kimim? Hangi mesleği seçmeliyim? Hangi değerleri savunuyorum?” gibi sorularla uğraşmakta, farklı rolleri ve düşünceleri denemekte, kendi kimliğini bulmaya çalışmaktadır. Bu arayış sırasında bazen kararsızlık ve karmaşa yaşamaktadır. Mert'in öğretmenleri bu aşamanın ergenlik döneminde yaygın olduğunu bilmektedir.\n\nErikson'a göre Mert hangi evrededir?",
+    "options": {
+      "A": "Çalışkanlığa karşı aşağılık",
+      "B": "Üretkenliğe karşı durgunluk",
+      "C": "Kimlik kazanmaya karşı kimlik karmaşası",
+      "D": "Yakınlığa karşı yalıtılmışlık",
+      "E": "Benlik bütünlüğüne karşı umutsuzluk"
+    },
+    "answer": "C",
+    "solution": "Erikson'un beşinci evresi olan kimlik kazanmaya karşı kimlik karmaşası evresinde (ergenlik) birey kim olduğunu ve yaşamda nereye gideceğini sorgular.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Erikson: kimlik kazanmaya karşı kimlik karmaşası"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-025",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Yirmi beş yaşındaki Nihan, arkadaşlarıyla ve yaşam ortağıyla derin, karşılıklı güvene dayalı ve samimi ilişkiler kurmakta, bu ilişkilerde kendi kimliğini kaybetmeden bağlanabilmektedir. Duygusal yakınlıktan kaçınsaydı yalnızlık yaşayabilirdi. Nihan aynı zamanda iş yaşamında da kendi kimliğini sürdürmektedir.\n\nErikson'a göre Nihan hangi evrenin olumlu çözümünü yaşamaktadır?",
+    "options": {
+      "A": "Çalışkanlığa karşı aşağılık",
+      "B": "Benlik bütünlüğüne karşı umutsuzluk",
+      "C": "Üretkenliğe karşı durgunluk",
+      "D": "Kimlik kazanmaya karşı kimlik karmaşası",
+      "E": "Yakınlığa karşı yalıtılmışlık"
+    },
+    "answer": "E",
+    "solution": "Erikson'un altıncı evresi olan yakınlığa karşı yalıtılmışlık evresinde (genç yetişkinlik) birey başkalarıyla derin ve samimi ilişkiler kurmaya çalışır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Erikson: yakınlığa karşı yalıtılmışlık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-026",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Yetmiş yaşındaki Hasan Bey, geçmiş yaşamına bakarak yaptıklarından ve yaşadıklarından memnuniyet duymakta, hatalarını da yaşamın bir parçası olarak kabullenmekte ve ölümü huzurla karşılamaktadır. Yaşamının anlamlı olduğunu düşünmektedir. Hasan Bey torunlarıyla geçirdiği zamanı da büyük bir huzurla anlatmaktadır.\n\nErikson'a göre Hasan Bey hangi evrenin olumlu çözümünü yaşamaktadır?",
+    "options": {
+      "A": "Benlik bütünlüğüne karşı umutsuzluk",
+      "B": "Güvene karşı güvensizlik",
+      "C": "Kimlik kazanmaya karşı kimlik karmaşası",
+      "D": "Yakınlığa karşı yalıtılmışlık",
+      "E": "Üretkenliğe karşı durgunluk"
+    },
+    "answer": "A",
+    "solution": "Erikson'un son evresi olan benlik bütünlüğüne karşı umutsuzluk evresinde (yaşlılık) birey yaşamını gözden geçirir; kabullenme benlik bütünlüğünü, pişmanlık umutsuzluğu doğurur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Erikson: benlik bütünlüğüne karşı umutsuzluk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-027",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Elli yaşındaki öğretmen Mehmet Bey, yeni nesli yetiştirmeye, genç öğretmenlere rehberlik etmeye ve topluma kalıcı katkı sağlayacak projeler üretmeye büyük önem vermektedir. Yaşamını yalnızca kendisi için değil, gelecek kuşaklara bırakacağı değerler için de yaşadığını düşünmektedir.\n\nErikson'a göre Mehmet Bey hangi evrenin olumlu çözümünü yaşamaktadır?",
+    "options": {
+      "A": "Benlik bütünlüğüne karşı umutsuzluk",
+      "B": "Kimlik kazanmaya karşı kimlik karmaşası",
+      "C": "Üretkenliğe karşı durgunluk",
+      "D": "Çalışkanlığa karşı aşağılık",
+      "E": "Yakınlığa karşı yalıtılmışlık"
+    },
+    "answer": "C",
+    "solution": "Erikson'un yedinci evresi olan üretkenliğe karşı durgunluk evresinde (orta yetişkinlik) birey yeni kuşakları yetiştirmeye ve topluma katkı sağlamaya yönelir; bunu başaramazsa durgunluk yaşar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Erikson: üretkenliğe karşı durgunluk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-028",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir bebek, doğumdan sonraki ilk yılında emme, yutma ve ısırma gibi ağız çevresindeki etkinliklerle gereksinimlerini karşılamakta ve haz duymaktadır. Anne sütü emmek ve eline geçen her nesneyi ağzına götürmek bu dönemin tipik davranışlarıdır.\n\nFreud'un psikoseksüel gelişim kuramına göre bu dönem aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gizil dönem",
+      "B": "Anal dönem",
+      "C": "Genital dönem",
+      "D": "Fallik dönem",
+      "E": "Oral dönem"
+    },
+    "answer": "E",
+    "solution": "Freud'a göre oral dönemde (0-1 yaş) haz ağız bölgesi etrafında yoğunlaşır; emme, ısırma ve yutma temel haz kaynaklarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Freud: oral dönem"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-029",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "İki yaşındaki Selin'in ebeveynleri tuvalet eğitimine başlamıştır. Selin, dışkısını tutmayı ve boşaltmayı kontrol etmeye çalışırken ebeveynleriyle bir güç mücadelesi içine girmiş, hazzını bu kontrol etme deneyiminden almıştır. Ebeveynler çocuklarının bu davranışlarının psikolojik temelini anlamak istemektedir.\n\nFreud'un psikoseksüel gelişim kuramına göre bu dönem aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gizil dönem",
+      "B": "Genital dönem",
+      "C": "Fallik dönem",
+      "D": "Anal dönem",
+      "E": "Oral dönem"
+    },
+    "answer": "D",
+    "solution": "Freud'a göre anal dönemde (1-3 yaş) haz boşaltım organları etrafında yoğunlaşır; tuvalet eğitimi bu dönemin merkezî çatışmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Freud: anal dönem"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-030",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Dört yaşındaki Kaan, karşı cinsten ebeveynine özel bir ilgi duymakta, aynı cinsten ebeveynini rakip olarak görmekte, genital bölgesine ilgi göstermektedir. Cinsel kimliğini bu yolla geliştirmektedir ve Freud bu çatışmayı Oidipus kompleksi olarak adlandırmıştır.\n\nFreud'un psikoseksüel gelişim kuramına göre bu dönem aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Genital dönem",
+      "B": "Oral dönem",
+      "C": "Gizil dönem",
+      "D": "Anal dönem",
+      "E": "Fallik dönem"
+    },
+    "answer": "E",
+    "solution": "Freud'a göre fallik dönemde (3-6 yaş) haz genital bölgede yoğunlaşır ve çocuk Oidipus (erkek) ya da Elektra (kız) kompleksini yaşar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Freud: fallik dönem"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-031",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Dokuz yaşındaki Ali, cinsel ilgi ve çatışmalarını belirgin biçimde bastırmış, enerjisini okula, arkadaşlıklara ve spor gibi etkinliklere yöneltmiştir. Aynı cinsiyetten arkadaş grupları ön plandadır ve cinsel istekler görünür biçimde sakinleşmiştir. Ali'nin öğretmeni, çocuğun bu dönemde okul etkinliklerine çok istekli katıldığını belirtmiştir.\n\nFreud'un psikoseksüel gelişim kuramına göre bu dönem aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Genital dönem",
+      "B": "Anal dönem",
+      "C": "Fallik dönem",
+      "D": "Oral dönem",
+      "E": "Gizil dönem"
+    },
+    "answer": "E",
+    "solution": "Freud'a göre gizil dönemde (6-12 yaş) cinsel dürtüler bastırılır; enerji okul, arkadaşlık ve sosyal etkinliklere yönelir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Freud: gizil dönem"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-032",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Sekiz yaşındaki Eren, arkadaşının oyuncağını almamasının nedenini “Alırsam öğretmenim bana ceza verir, belki de annem beni azarlar” diye açıklamıştır. Davranışının iyi ya da kötü olup olmadığını, yalnızca cezadan kaçınıp kaçınmamasına göre yargılamaktadır. Eren bu açıklamayı öğretmeniyle yaptığı bir konuşmada dile getirmiştir.\n\nEren'in ahlak anlayışı Kohlberg'e göre hangi düzeydedir?",
+    "options": {
+      "A": "Gelenek düzeyi",
+      "B": "Gelenek öncesi düzey",
+      "C": "Sosyal sözleşme düzeyi",
+      "D": "Gelenek sonrası düzey",
+      "E": "Evrensel etik ilkeler düzeyi"
+    },
+    "answer": "B",
+    "solution": "Kohlberg'e göre gelenek öncesi düzeyin birinci aşaması olan ceza-itaat yönelimi, davranışın doğruluğunu cezadan kaçınma ile belirler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kohlberg: gelenek öncesi düzey"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-033",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "On iki yaşındaki Aylin, hırsızlığın yanlış olduğunu “Çünkü iyi bir kız çocuğu çalmaz ve ailem, öğretmenlerim, arkadaşlarım beni onaylamaz” diye açıklamaktadır. Başkalarının beklentilerini karşılamayı, onaylanmayı ve iyi biri olarak görünmeyi önemsemektedir. Aylin'in öğretmeni bu anlayışı, çocuğun sosyal ilişkilerinde sıkça gözlemlemektedir.\n\nAylin'in ahlak anlayışı Kohlberg'e göre hangi düzeydedir?",
+    "options": {
+      "A": "Gelenek düzeyi",
+      "B": "Gelenek öncesi düzey",
+      "C": "Gelenek sonrası düzey",
+      "D": "Ceza-itaat yönelimi",
+      "E": "Evrensel etik ilkeler düzeyi"
+    },
+    "answer": "A",
+    "solution": "Kohlberg'e göre gelenek düzeyinin üçüncü aşaması olan iyi çocuk yönelimi, toplumun beklentilerine uymayı ve başkalarının onayını kazanmayı ahlaki kriter sayar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kohlberg: gelenek düzeyi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-034",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Yirmi yaşındaki Okan, trafik ışığında kırmızı yanarken kimse görmese bile durmaktadır; çünkü kuralların toplumsal düzen için gerekli olduğuna ve herkesin yasalara uymak zorunda olduğuna inanmaktadır. Yasa ihlalinin toplumu bozacağını düşünmektedir. Okan aynı zamanda kuralların kendisine bir yaptırım getirmese bile gerekli olduğunu söylemektedir.\n\nOkan'ın ahlak anlayışı Kohlberg'e göre hangi aşamadadır?",
+    "options": {
+      "A": "Yasa ve düzen yönelimi",
+      "B": "Ceza-itaat yönelimi",
+      "C": "İyi çocuk yönelimi",
+      "D": "Evrensel etik ilkeler yönelimi",
+      "E": "Sosyal sözleşme yönelimi"
+    },
+    "answer": "A",
+    "solution": "Kohlberg'in gelenek düzeyinin dördüncü aşaması olan yasa ve düzen yönelimi, toplumsal düzenin korunması için kurallara uymayı esas alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kohlberg: yasa ve düzen yönelimi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-035",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Hukuk öğrencisi Elif, bazı yasaların toplumun refahını artırmak için halkın ortak rızasıyla yapıldığını, ancak yasaların adaletsiz hâle gelmesi durumunda değiştirilebileceğini savunmaktadır. Yasalara uymanın değerli olduğunu, fakat insan haklarını korumak gerektiğinde yasa değişikliğini desteklediğini belirtmektedir.\n\nElif'in ahlak anlayışı Kohlberg'e göre hangi aşamadadır?",
+    "options": {
+      "A": "Çıkarcı yönelim",
+      "B": "Sosyal sözleşme yönelimi",
+      "C": "İyi çocuk yönelimi",
+      "D": "Ceza-itaat yönelimi",
+      "E": "Yasa ve düzen yönelimi"
+    },
+    "answer": "B",
+    "solution": "Kohlberg'in gelenek sonrası düzeyin beşinci aşaması olan sosyal sözleşme yönelimi, yasaların toplumun refahı için ortak rızayla yapılan ve değiştirilebilir sözleşmeler olduğunu kabul eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kohlberg: sosyal sözleşme yönelimi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-036",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir insan hakları savunucusu, yasalar ne dese de, adalet, eşitlik ve insan onuru gibi evrensel ilkelere aykırı bir yasaya uymayı kendi vicdanı açısından reddetmekte ve bunun bedelini ödemeye hazır olduğunu söylemektedir. Davranışlarını kendi seçtiği evrensel etik ilkelere dayandırmaktadır.\n\nBu kişinin ahlak anlayışı Kohlberg'e göre hangi aşamadadır?",
+    "options": {
+      "A": "Evrensel etik ilkeler yönelimi",
+      "B": "Ceza-itaat yönelimi",
+      "C": "İyi çocuk yönelimi",
+      "D": "Yasa ve düzen yönelimi",
+      "E": "Sosyal sözleşme yönelimi"
+    },
+    "answer": "A",
+    "solution": "Kohlberg'in en üst aşaması olan evrensel etik ilkeler yönelimi, bireyin yasalar ne olursa olsun kendi seçtiği evrensel ahlak ilkelerine dayanmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kohlberg: evrensel etik ilkeler yönelimi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-037",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Altı yaşındaki Zeynep, yanlışlıkla on bardağı kıran çocuğun, kasten bir bardak kıran çocuktan daha suçlu olduğunu söylemektedir. Çünkü Zeynep'e göre ahlaki yargı, davranışın niyetine değil sonucuna (verilen zarara) bakılarak yapılmakta ve kurallar değişmez kabul edilmektedir.\n\nZeynep'in ahlak anlayışı Piaget'ye göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Evrensel ahlak",
+      "B": "Özerk ahlak",
+      "C": "Heteronom ahlak",
+      "D": "Sosyal sözleşme ahlakı",
+      "E": "Gelenek sonrası ahlak"
+    },
+    "answer": "C",
+    "solution": "Piaget'ye göre heteronom (dışa bağımlı) ahlak anlayışında çocuk kuralları değişmez sayar ve davranışı niyete değil sonuca göre yargılar; özerk ahlakta ise niyet ve karşılıklılık önemlidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: ahlak gelişimi (heteronom ahlak)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-038",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "On iki yaşındaki Barış, oyun kurallarının oyuncuların ortak kararıyla değiştirilebileceğini ve bir davranışın ahlaki değerinin, sonucundan çok niyetine bağlı olduğunu söylemektedir. Yanlışlıkla bardak kıran çocuğu, kasten kıran çocuktan daha az suçlu bulmaktadır. Barış bu anlayışı arkadaşlarıyla yaptığı satranç ve masa oyunlarında da göstermektedir.\n\nBarış'ın ahlak anlayışı Piaget'ye göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Heteronom ahlak",
+      "B": "Ceza-itaat ahlakı",
+      "C": "Çıkarcı ahlak",
+      "D": "Özerk ahlak",
+      "E": "Ahlaki gerçekçilik"
+    },
+    "answer": "D",
+    "solution": "Piaget'ye göre özerk ahlak anlayışında çocuk kuralların karşılıklı anlaşmayla değişebileceğini kavrar ve davranışı niyetine göre değerlendirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: ahlak gelişimi (özerk ahlak)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-039",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Okul psikolojik danışmanı, bir çocuğun gelişimini açıklarken çocuğun aile üyeleri, arkadaşları, öğretmenleri ve komşuları gibi onunla doğrudan, yüz yüze etkileşim içinde bulunduğu çevreleri incelemiştir. Bu çevreler çocuğun günlük yaşamının merkezindedir. Danışman bu incelemeyi öğrencinin aile görüşmesi öncesinde hazırlamaktadır.\n\nBu çevreler Bronfenbrenner'in ekolojik sistemler kuramında hangi sistemdir?",
+    "options": {
+      "A": "Mezosistem",
+      "B": "Mikrosistem",
+      "C": "Makrosistem",
+      "D": "Kronosistem",
+      "E": "Ekzosistem"
+    },
+    "answer": "B",
+    "solution": "Mikrosistem, bireyin doğrudan etkileşim içinde bulunduğu en yakın çevredir (aile, okul, arkadaş grubu, mahalle).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bronfenbrenner: mikrosistem"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-040",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Öğretmen Selma Hanım, bir öğrencinin okul başarısını açıklarken ailesi ile öğretmenleri arasındaki ilişkinin niteliğine bakmaktadır. Aile okul toplantılarına düzenli katılıyor ve öğretmenle iletişim kuruyorsa öğrenci daha başarılı olmaktadır. Selma Hanım bunu ailelerle yaptığı toplantılarda sıkça gözlemlemektedir.\n\nBu ilişkiler Bronfenbrenner'in ekolojik sistemler kuramında hangi sistemdir?",
+    "options": {
+      "A": "Makrosistem",
+      "B": "Mikrosistem",
+      "C": "Mezosistem",
+      "D": "Ekzosistem",
+      "E": "Kronosistem"
+    },
+    "answer": "C",
+    "solution": "Mezosistem, bireyin içinde yer aldığı mikrosistemler arasındaki ilişkilerdir (örn. aile-okul ilişkisi).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bronfenbrenner: mezosistem"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-041",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Küçük Deniz'in babası iş yerindeki yoğun mesai ve baskı yüzünden akşam eve gergin gelmekte, bu durum evdeki aile ilişkilerini ve Deniz'in duygusal durumunu etkilemektedir. Deniz, babasının iş yerinde bulunmadığı hâlde bu ortamın dolaylı etkisini yaşamaktadır.\n\nBabanın iş yeri Bronfenbrenner'in ekolojik sistemler kuramında hangi sistemdir?",
+    "options": {
+      "A": "Kronosistem",
+      "B": "Ekzosistem",
+      "C": "Mikrosistem",
+      "D": "Mezosistem",
+      "E": "Makrosistem"
+    },
+    "answer": "B",
+    "solution": "Ekzosistem, bireyin doğrudan katılmadığı ancak içindeki olaylardan dolaylı olarak etkilendiği çevrelerdir (anne babanın iş yeri, yerel yönetim kararları gibi).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bronfenbrenner: ekzosistem"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-042",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir toplumdaki kültürel değerler, gelenekler, eğitim politikaları, yasalar ve inançlar çocukların nasıl yetiştirileceğini ve neyin doğru kabul edileceğini belirlemektedir. Bu geniş toplumsal yapı bütün diğer çevrelerin üzerinde, onları etkileyen bir çerçeve oluşturmaktadır.\n\nBu yapı Bronfenbrenner'in ekolojik sistemler kuramında hangi sistemdir?",
+    "options": {
+      "A": "Mezosistem",
+      "B": "Mikrosistem",
+      "C": "Ekzosistem",
+      "D": "Makrosistem",
+      "E": "Kronosistem"
+    },
+    "answer": "D",
+    "solution": "Makrosistem, bireyin içinde yaşadığı toplumun kültürü, değerleri, yasaları ve ideolojisini kapsayan en geniş sistemdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bronfenbrenner: makrosistem"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-043",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir çocuk, ailesinin boşanması, yeni bir kente taşınması ve büyük bir depremi yaşaması gibi yaşam olaylarının zaman içinde birikerek gelişimini değiştirdiğini göstermektedir. Aynı olayların farklı yaşlarda yaşanması çocuk üzerinde farklı etkiler bırakmaktadır.\n\nBu zaman boyutu Bronfenbrenner'in ekolojik sistemler kuramında hangi sistemdir?",
+    "options": {
+      "A": "Kronosistem",
+      "B": "Mikrosistem",
+      "C": "Mezosistem",
+      "D": "Ekzosistem",
+      "E": "Makrosistem"
+    },
+    "answer": "A",
+    "solution": "Kronosistem, bireyin yaşamındaki olayların ve tarihsel değişimlerin zaman boyutunda gelişim üzerindeki etkisini ifade eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bronfenbrenner: kronosistem"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-044",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Ainsworth'ün yabancı durum deneyinde bir yaşındaki Ece, annesi odadan çıktığında huzursuz olmuş ve ağlamış; annesi döndüğünde ise hemen annesine yaklaşmış, sarılıp rahatlamış ve oyuna kolayca dönmüştür. Ece, annesini güvenli üs olarak kullanmaktadır. Deney, bir gözlem odasında ve kameraya kaydedilerek gerçekleştirilmiştir.\n\nEce'nin bağlanma türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kaygılı bağlanma",
+      "B": "Bağlanmama",
+      "C": "Düzensiz bağlanma",
+      "D": "Güvenli bağlanma",
+      "E": "Kaçınan bağlanma"
+    },
+    "answer": "D",
+    "solution": "Güvenli bağlanan bebek anne ayrılınca üzülür, anne dönünce kolayca rahatlar ve anneyi keşif için güvenli üs olarak kullanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bağlanma: güvenli bağlanma (Ainsworth)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-045",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Yabancı durum deneyinde Mert, annesi odadan çıktığında hiç tepki vermemiş, annesi döndüğünde de ona yaklaşmamış, onu görmezden gelip oyuncaklarıyla ilgilenmeye devam etmiştir. Annesine yakınlık aramaktan kaçınmaktadır. Deneyi izleyen uzmanlar, Mert'in yabancı biri odaya girdiğinde de benzer şekilde ilgisiz kaldığını not etmiştir.\n\nMert'in bağlanma türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Düzensiz bağlanma",
+      "B": "Güvenli bağlanma",
+      "C": "Kaçınan bağlanma",
+      "D": "Kaygılı bağlanma",
+      "E": "Güvenli üs bağlanması"
+    },
+    "answer": "C",
+    "solution": "Kaçınan bağlanan bebek anne ayrıldığında ve döndüğünde belirgin bir tepki göstermez, anneden yakınlık aramaktan kaçınır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bağlanma: kaçınan bağlanma (Ainsworth)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-046",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Yabancı durum deneyinde Zeynep, annesi odadan çıktığında çok yoğun biçimde ağlamış; anne döndüğünde ise hem ona sarılmak istemiş hem de onu iterek öfke göstermiştir. Bir süre rahatlayamamış ve oyuna dönmekte zorlanmıştır. Deneyi yürüten uzmanlar bu davranış örüntüsünü kayıtlarına ayrıntılı olarak işlemiştir.\n\nZeynep'in bağlanma türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Güvenli bağlanma",
+      "B": "Kaçınan bağlanma",
+      "C": "Kaygılı bağlanma",
+      "D": "Düzensiz bağlanma",
+      "E": "Bağlanmama"
+    },
+    "answer": "C",
+    "solution": "Kaygılı (dirençli, çelişkili) bağlanan bebek anne ayrılınca aşırı üzülür; dönünce hem yakınlık arar hem de öfke gösterir ve zor rahatlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bağlanma: kaygılı bağlanma (Ainsworth)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-047",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Harlow'un deneyinde yavru maymunlar, süt veren tel anne ile süt vermeyen ama yumuşak bezle kaplı anne arasında seçim yapabilmiştir. Yavru maymunlar zamanlarının çoğunu yumuşak bezle kaplı anneye sarılarak geçirmiş, tel anneye yalnızca beslenmek için gitmiştir.\n\nBu bulgu bağlanmada hangi etkenin önemini gösterir?",
+    "options": {
+      "A": "Yabancı korkusu",
+      "B": "Taklit yoluyla öğrenme",
+      "C": "Uyarıcı çeşitliliği",
+      "D": "Beslenmenin sağladığı doyum",
+      "E": "Dokunma ve temas rahatlığı"
+    },
+    "answer": "E",
+    "solution": "Harlow'un bulguları, bağlanmanın yalnızca beslenmeye değil, temas rahatlığına (sıcaklık, dokunma) dayandığını göstermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bağlanma: Harlow deneyi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-048",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Altı aylık bebek Deniz, “ba-ba-ba”, “da-da-da” gibi ünsüz ve ünlü ses dizilerini tekrar tekrar söylemekte, bunları anlamlı bir sözcük olarak kullanmamaktadır. Sesleri denemekte ve ağız hareketlerini geliştirmektedir. Anne ve babası bu sesleri duyunca çok sevinmekte ve bebekle konuşmaktadır.\n\nDeniz'in bu dil gelişim evresi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tek sözcüklü konuşma",
+      "B": "Ağlama",
+      "C": "Telgraf konuşma",
+      "D": "Babıldama",
+      "E": "Agulama"
+    },
+    "answer": "D",
+    "solution": "Babıldama (6-9 ay), bebeğin ünsüz-ünlü hecelerini tekrarladığı ancak henüz anlam yüklemediği dil gelişim evresidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dil gelişimi: babıldama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-049",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "On iki aylık bebek Ali, “su” diyerek hem susadığını, hem de bardağı göstermek istediğini ifade etmekte; tek bir sözcükle bütün bir cümlelik anlam taşımaya çalışmaktadır. Bu sözcük bazen “suyu ver” anlamına, bazen “su içtim” anlamına gelmektedir.\n\nAli'nin bu dil gelişim evresi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İki sözcüklü konuşma",
+      "B": "Agulama",
+      "C": "Telgraf konuşma",
+      "D": "Babıldama",
+      "E": "Tek sözcüklü konuşma"
+    },
+    "answer": "E",
+    "solution": "Holofrastik konuşmada çocuk tek bir sözcüğü, bütün bir cümlenin anlamını taşıyacak biçimde kullanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dil gelişimi: tek sözcüklü konuşma"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-050",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Yirmi aylık Elif, “Anne süt ver”, “Baba gel” gibi gereksiz sözcükleri atarak yalnızca anlamlı sözcüklerden oluşan, kısa ve sade cümleler kurmaktadır. İki ya da üç sözcükten oluşan bu cümlelerde bağlaç ve ekler henüz yoktur.\n\nElif'in bu dil gelişim evresi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Karmaşık cümle dönemi",
+      "B": "Babıldama",
+      "C": "Tek sözcüklü konuşma",
+      "D": "Agulama",
+      "E": "Telgraf konuşma"
+    },
+    "answer": "E",
+    "solution": "Telgraf konuşmada çocuk yalnızca temel anlam taşıyan sözcükleri (isim, fiil) kullanır; bağlaç ve ekleri atar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dil gelişimi: telgraf konuşma"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-051",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir dilbilimci, çocukların ebeveynlerinden hiç duymadıkları cümle yapılarını kendiliklerinden kurabildiklerini, yetişkinlerin hatalarına rağmen karmaşık dil kurallarını kısa sürede edinebildiklerini göstermiş; bunun insanda doğuştan gelen bir dil edinim mekanizmasıyla açıklanabileceğini ileri sürmüştür. Bu görüş, davranışçı dil edinimi anlayışına karşı çıkan bir yaklaşım olarak ortaya atılmıştır.\n\nBu görüşü savunan kuramcı ve kavram aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Piaget — şema",
+      "B": "Chomsky — dil edinim aygıtı",
+      "C": "Bandura — model alma",
+      "D": "Skinner — pekiştirme",
+      "E": "Vygotsky — özel konuşma"
+    },
+    "answer": "B",
+    "solution": "Chomsky'ye göre insan doğuştan getirdiği bir dil edinim aygıtı (LAD) sayesinde çevresinde duyduğu dilin kurallarını kendiliğinden edinir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dil gelişimi: Chomsky"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-052",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Üç yaşındaki Kerem, koşabilmekte, zıplayabilmekte ve topu tekmeleyebilmekte; ancak düğme iliklemekte, küçük boncukları iplikle birleştirmekte zorlanmaktadır. Büyük kasları kullanma becerisi, küçük kasları kullanma becerisinden önce gelişmiştir. Çocuk gelişimi uzmanı, Kerem'in gelişiminin yaşıtlarıyla uyumlu olduğunu belirtmiştir.\n\nKerem'in ilk gelişen becerileri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İnce motor becerileri",
+      "B": "Duyusal beceriler",
+      "C": "Sosyal beceriler",
+      "D": "Kaba motor becerileri",
+      "E": "Bilişsel beceriler"
+    },
+    "answer": "D",
+    "solution": "Kaba motor beceriler (koşma, zıplama, tırmanma) büyük kasların kontrolüyle ilgilidir ve ince motor becerilerinden (düğme ilikleme, yazı yazma) önce gelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Fiziksel gelişim: kaba ve ince motor beceriler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-053",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Ortaokul öğrencisi Elif, on iki yaşından sonra kısa sürede boyunun belirgin biçimde uzadığını, ses tonunun değiştiğini ve ikincil cinsel özelliklerin ortaya çıktığını fark etmiştir. Bu hızlı fiziksel büyüme, çocukluk dönemindeki yavaş büyümenin ardından gelmiştir. Elif'in annesi bu değişimlere karşı kızını rahatlatan bir konuşma yapmıştır.\n\nBu dönem aşağıdakilerden hangisiyle adlandırılır?",
+    "options": {
+      "A": "Ergenlik büyüme atılımı",
+      "B": "Bebeklik büyüme atılımı",
+      "C": "Okul öncesi dönem",
+      "D": "Çocukluk büyüme dönemi",
+      "E": "Gizil dönem"
+    },
+    "answer": "A",
+    "solution": "Ergenlikte (yaklaşık 10-14 yaş) hızlı boy ve kilo artışı ile ikincil cinsel özelliklerin ortaya çıktığı büyüme atılımı yaşanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Fiziksel gelişim: ergenlik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-054",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Lise öğrencisi Cem, ailesinin kendisi için seçtiği mühendislik mesleğini herhangi bir sorgulama yapmadan, alternatifleri araştırmadan kabul etmiş ve bu karara sıkı sıkıya bağlı kalmıştır. Kendi ilgi ve değerlerini keşfetmeye zaman ayırmamıştır. Cem'in öğretmeni, öğrencinin kendi ilgi alanlarından hiç söz etmediğini fark etmiştir.\n\nCem'in kimlik durumu Marcia'ya göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Moratoryum",
+      "B": "Erken kapama",
+      "C": "Kimlik karmaşası",
+      "D": "Kimlik dağınıklığı",
+      "E": "Kimlik başarısı"
+    },
+    "answer": "B",
+    "solution": "Marcia'ya göre erken kapamada birey kimlik krizi yaşamadan, başkalarının (genellikle ailenin) seçtiği kararlara bağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Marcia: kimlik durumları (erken kapama)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-055",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Üniversite öğrencisi Elif, hangi mesleği seçeceği konusunda alternatifleri araştırmakta, farklı staj ve gönüllü çalışmalarda bulunmakta ancak henüz bir karara varmamıştır. Kimlik arayışının ortasında ve seçenekleri değerlendirmektedir. Elif'in arkadaşları ise bu konuda çoktan kararlarını vermiş görünmektedir.\n\nElif'in kimlik durumu Marcia'ya göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kimlik bütünlüğü",
+      "B": "Kimlik dağınıklığı",
+      "C": "Erken kapama",
+      "D": "Kimlik başarısı",
+      "E": "Moratoryum"
+    },
+    "answer": "E",
+    "solution": "Marcia'ya göre moratoryumda birey kimlik krizi içindedir; seçenekleri araştırır ancak henüz bir karara bağlanmamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Marcia: kimlik durumları (moratoryum)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-056",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Mühendis olan Barış, ergenliğinde farklı mesleklerde staj yapmış, alternatiflerini sorgulamış, uzun süre düşünmüş ve sonunda kendi ilgi ve değerleriyle uyumlu olarak mühendisliği seçmiş; bu seçime kararlılıkla bağlanmıştır. Barış bugün mesleğinden memnundur ve kararının arkasında durmaktadır.\n\nBarış'ın kimlik durumu Marcia'ya göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kimlik başarısı",
+      "B": "Moratoryum",
+      "C": "Erken kapama",
+      "D": "Kimlik dağınıklığı",
+      "E": "Kimlik karmaşası"
+    },
+    "answer": "A",
+    "solution": "Marcia'ya göre kimlik başarısında birey bir kimlik krizi yaşamış, alternatifleri araştırmış ve sonunda bir kimliğe bağlanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Marcia: kimlik durumları (kimlik başarısı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-057",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Ortaokul öğrencisi Deniz, ne yapmak istediği, hangi değerleri savunduğu konusunda hiçbir araştırma yapmamakta ve herhangi bir karara bağlanmamıştır. Gelecekle ilgili planı yoktur, seçenekleri değerlendirmemekte ve kimlik konusunda ilgisiz görünmektedir. Öğretmenleri ve ailesi Deniz'in bu konuda herhangi bir çaba göstermediğini endişeyle izlemektedir.\n\nDeniz'in kimlik durumu Marcia'ya göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Moratoryum",
+      "B": "Erken kapama",
+      "C": "Kimlik dağınıklığı",
+      "D": "Kimlik başarısı",
+      "E": "Kimlik bütünlüğü"
+    },
+    "answer": "C",
+    "solution": "Marcia'ya göre kimlik dağınıklığında birey ne bir arayış içindedir ne de bir karara bağlanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Marcia: kimlik durumları (kimlik dağınıklığı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-058",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "On beş yaşındaki Ece, sınıfta herkesin kendisini izlediğini, saçındaki küçük bir bozukluğu fark ettiğini ve bunun hakkında konuştuğunu düşünerek okula gitmek istemiyor. Gerçekte kimse onu o kadar dikkatle izlememektedir; Ece, kendisini sürekli bir seyirci önünde sanmaktadır.\n\nEce'nin bu düşüncesi Elkind'e göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Animizm",
+      "B": "Hayali izleyici",
+      "C": "Benmerkezcilik",
+      "D": "Kişisel masal",
+      "E": "Merkezileşme"
+    },
+    "answer": "B",
+    "solution": "Elkind'e göre ergen, herkesin kendisini gözlediğine inanır; buna hayali izleyici denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ergenlik: Elkind (hayali izleyici)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-059",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "On altı yaşındaki Kaan, sigara içmenin başkalarına zarar verebileceğini bilmekte; ancak “Bunlar bana olmaz, benim yaşadıklarımı kimse anlayamaz, ben özelim” diye düşünmektedir. Kendi yaşantılarının eşsiz olduğuna ve zarar görmeyeceğine inanmaktadır. Kaan'ın arkadaşları bu düşünceyi tehlikeli bulmakta ve onu uyarmaktadır.\n\nKaan'ın bu düşüncesi Elkind'e göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Merkezileşme",
+      "B": "Animizm",
+      "C": "Hayali izleyici",
+      "D": "Benmerkezcilik",
+      "E": "Kişisel masal"
+    },
+    "answer": "E",
+    "solution": "Elkind'e göre kişisel masal, ergenin kendi duygu ve yaşantılarını eşsiz ve zarar görmez sanmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ergenlik: Elkind (kişisel masal)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-060",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir araştırma, bebekleri doğuştan getirdikleri davranış örüntülerine göre üç gruba ayırmıştır: düzenli uyuyan ve yeni durumlara kolay uyum sağlayan, sık huysuzlaşan ve değişikliklere zor uyum sağlayan, ilk anda geri çekilen ancak zamanla uyum gösteren bebekler. Ayrımı kuramcılar mizaç olarak adlandırmıştır.\n\nBu sınıflama hangi kuramcılara aittir?",
+    "options": {
+      "A": "Ainsworth ve Bowlby",
+      "B": "Freud ve Kohlberg",
+      "C": "Erikson ve Marcia",
+      "D": "Piaget ve Vygotsky",
+      "E": "Thomas ve Chess"
+    },
+    "answer": "E",
+    "solution": "Thomas ve Chess, mizacı kolay, zor ve yavaş ısınan olarak üç temel gruba ayırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gelişim: mizaç (Thomas ve Chess)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-061",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Sekiz aylık Emre, çok sevdiği oyuncağı annesi bir battaniyenin altına sakladığında battaniyeyi kaldırıp oyuncağı aramakta ve bulunca sevinmektedir. Daha küçükken oyuncak gözden kaybolunca aramazdı. Emre ayrıca nesneleri tutup ağzına götürerek ve vurarak keşfetmekte, konuşmayı henüz öğrenmemiştir.\n\nEmre hangi bilişsel gelişim dönemindedir?",
+    "options": {
+      "A": "Kimliğe karşı rol karışıklığı dönemi",
+      "B": "İşlem öncesi dönem",
+      "C": "Duyusal-motor dönem",
+      "D": "Somut işlemler dönemi",
+      "E": "Soyut işlemler dönemi"
+    },
+    "answer": "C",
+    "solution": "Piaget'ye göre 0-2 yaş duyusal-motor dönemdir; nesne sürekliliği bu dönemin sonunda kazanılır ve çocuk dünyayı duyu ve hareketlerle tanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Piaget: duyusal-motor dönem"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-062",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Matematik öğretmeni Hasan Bey, Deniz'in tek başına çözemediği ama yetişkin desteğiyle çözebildiği problemleri seçmekte; önce ipucu vermekte, Deniz ilerledikçe desteği azaltarak sonunda tek başına çözmesini beklemektedir. Böylece Deniz, adım adım bir sonraki düzeye geçmekte ve öğrenmesini kendi başına sürdürebilmektedir.\n\nÖğretmenin dikkate aldığı bu kavram aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Eşengellilik",
+      "B": "Yakınsal gelişim alanı",
+      "C": "Asimilasyon",
+      "D": "Hazırbulunuşluk",
+      "E": "Denge kurma"
+    },
+    "answer": "B",
+    "solution": "Vygotsky'ye göre çocuğun tek başına yapabildikleri ile yetişkin ya da daha yetkin akran desteğiyle yapabildikleri arasındaki bölge yakınsal gelişim alanıdır; destek (iskele) kademeli azaltılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Vygotsky: yakınsal gelişim alanı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-063",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Ayşe'nin annesi, çalıştığı fabrikanın kapanması nedeniyle işini kaybetmiştir. Aile gelirinin düşmesi, evde gerginliğe ve Ayşe'nin okul ihtiyaçlarının karşılanmasında güçlüğe yol açmıştır. Ayşe, annesinin iş yerinde doğrudan yer almamasına rağmen bu olaydan etkilenmiştir.\n\nBronfenbrenner'in ekolojik sistemler kuramında bu etkileşim hangi sisteme örnektir?",
+    "options": {
+      "A": "Kronosistem",
+      "B": "Mikrosistem",
+      "C": "Mezosistem",
+      "D": "Egzosistem",
+      "E": "Makrosistem"
+    },
+    "answer": "D",
+    "solution": "Çocuğun doğrudan içinde bulunmadığı, ancak yaşamını dolaylı etkileyen ortamlar (anne-babanın iş yeri gibi) egzosistemdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bronfenbrenner: ekolojik sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-064",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Bir araştırma ortamında anne odadan çıktığında bebek huzursuz olmuş, anne döndüğünde ise annesine yönelip kısa sürede sakinleşmiş ve tekrar oyuna dönmüştür. Yabancı biri odaya girdiğinde de annesine yaklaşarak güvende hissettiğini göstermiş, anne yanındayken çevreyi merakla keşfetmiştir.\n\nAinsworth'a göre bu bebeğin bağlanma biçimi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Düzensiz bağlanma",
+      "B": "Güvenli bağlanma",
+      "C": "Yüzeysel bağlanma",
+      "D": "Kaygılı-direngen bağlanma",
+      "E": "Kaçıngan bağlanma"
+    },
+    "answer": "B",
+    "solution": "Güvenli bağlanan bebek, bakım vereni güvenli üs olarak kullanır; ayrılıkta huzursuz olur, dönüşte kolay sakinleşir ve çevreyi keşfeder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ainsworth: bağlanma biçimleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-gel-065",
+    "ders": "egitim_bilimleri",
+    "konu": "gelisim_psikolojisi",
+    "stem": "Ergenlik dönemindeki Burak'tan beklenen bazı görevler arasında kendi bedenini kabul etmek, aile dışında bağımsız davranmayı öğrenmek, akranlarıyla yeni ilişkiler kurmak ve bir mesleğe hazırlanmak yer almaktadır. Psikolog, bu beklentilerin her yaş döneminde toplum ve kültür tarafından da belirlendiğini söylemektedir.\n\nBu beklentiler gelişim psikolojisinde aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Olgunlaşma",
+      "B": "Bağlanma biçimleri",
+      "C": "Çatışma evreleri",
+      "D": "Gelişim görevleri",
+      "E": "Kritik dönemler"
+    },
+    "answer": "D",
+    "solution": "Havighurst'a göre bireyin her yaş döneminde başarması beklenen, biyolojik olgunlaşma, toplumsal beklenti ve bireysel değerlerle belirlenen görevlere gelişim görevleri denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Havighurst: gelişim görevleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

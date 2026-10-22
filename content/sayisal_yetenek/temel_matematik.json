@@ -1,0 +1,3889 @@
+[
+  {
+    "id": "ags-say-tmm-001",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "5 + 7 × 9 − 18 ÷ 2 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "32",
+      "B": "59",
+      "C": "99",
+      "D": "77",
+      "E": "45"
+    },
+    "answer": "B",
+    "solution": "Önce çarpma ve bölme: 7×9=63, 18÷2=9; sonra 5+63−9=59. Çeldiriciler: 45 (işlem sırasını bozup soldan sağa doğru yapma); 32 (bölmeyi çarpma olarak yapma); 77 (çıkarma işaretini toplamaya çevirme); 99 (çarpmadan önce toplama yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: dört işlem ve işlem önceliği"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-002",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "8 × 12 − 41 + 25 ÷ 5 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "−227",
+      "B": "16",
+      "C": "60",
+      "D": "50",
+      "E": "180"
+    },
+    "answer": "C",
+    "solution": "Önce çarpma ve bölme: 8×12=96, 25÷5=5; sonra 96−41+5=60. Çeldiriciler: 16 (işlem sırasını bozup soldan sağa doğru yapma); −227 (çarpmayı çıkarmadan sonra yapma); 50 (çıkarmayı sonraki terime dağıtma); 180 (bölmeyi çarpma olarak yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: dört işlem ve işlem önceliği"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-003",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "27 + 4 × 12 − 21 ÷ 3 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "365",
+      "B": "68",
+      "C": "82",
+      "D": "117",
+      "E": "12"
+    },
+    "answer": "B",
+    "solution": "Önce çarpma ve bölme: 4×12=48, 21÷3=7; sonra 27+48−7=68. Çeldiriciler: 12 (bölmeyi çarpma olarak yapma); 117 (işlem sırasını bozup soldan sağa doğru yapma); 82 (çıkarma işaretini toplamaya çevirme); 365 (çarpmadan önce toplama yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: dört işlem ve işlem önceliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-004",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "13 × 7 − 34 + 24 ÷ 3 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "49",
+      "B": "65",
+      "C": "27",
+      "D": "−343",
+      "E": "129"
+    },
+    "answer": "B",
+    "solution": "Önce çarpma ve bölme: 13×7=91, 24÷3=8; sonra 91−34+8=65. Çeldiriciler: 27 (işlem sırasını bozup soldan sağa doğru yapma); −343 (çarpmayı çıkarmadan sonra yapma); 49 (çıkarmayı sonraki terime dağıtma); 129 (bölmeyi çarpma olarak yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: dört işlem ve işlem önceliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-005",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "35 + 5 × 12 − 35 ÷ 5 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "473",
+      "B": "89",
+      "C": "88",
+      "D": "−80",
+      "E": "102"
+    },
+    "answer": "C",
+    "solution": "Önce çarpma ve bölme: 5×12=60, 35÷5=7; sonra 35+60−7=88. Çeldiriciler: −80 (bölmeyi çarpma olarak yapma); 89 (işlem sırasını bozup soldan sağa doğru yapma); 102 (çıkarma işaretini toplamaya çevirme); 473 (çarpmadan önce toplama yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: dört işlem ve işlem önceliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-006",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "10 × 7 − 16 + 16 ÷ 2 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "−82",
+      "B": "46",
+      "C": "86",
+      "D": "62",
+      "E": "35"
+    },
+    "answer": "D",
+    "solution": "Önce çarpma ve bölme: 10×7=70, 16÷2=8; sonra 70−16+8=62. Çeldiriciler: 35 (işlem sırasını bozup soldan sağa doğru yapma); −82 (çarpmayı çıkarmadan sonra yapma); 46 (çıkarmayı sonraki terime dağıtma); 86 (bölmeyi çarpma olarak yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: dört işlem ve işlem önceliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-007",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "2,6 × 1,3 − 0,6 ÷ 1,5 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "29,8",
+      "B": "2,48",
+      "C": "0,298",
+      "D": "2,98",
+      "E": "3,78"
+    },
+    "answer": "D",
+    "solution": "İşlem önceliği (çarpma/bölme, sonra toplama/çıkarma) uygulanır; sonuç 2,98. Çeldiriciler: 2,48 (bölmeyi çarpma olarak yapma); 0,298 (virgülü bir basamak sola kaydırma); 29,8 (virgülü bir basamak sağa kaydırma); 3,78 (çıkarma işaretini toplamaya çevirme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: ondalık sayılarla işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-008",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(5,8 + 5,2) × 2,7 ÷ 0,2 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "148,5",
+      "B": "5,94",
+      "C": "1.485",
+      "D": "76",
+      "E": "14,85"
+    },
+    "answer": "A",
+    "solution": "İşlem önceliği (çarpma/bölme, sonra toplama/çıkarma) uygulanır; sonuç 148,5. Çeldiriciler: 76 (parantezi yok sayma); 5,94 (bölmeyi çarpma olarak yapma); 14,85 (virgülü bir basamak sola kaydırma); 1.485 (virgülü bir basamak sağa kaydırma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: ondalık sayılarla işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-009",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "8 ÷ 2 + 3,6 × 3 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "26,8",
+      "B": "22,8",
+      "C": "14,8",
+      "D": "0,625",
+      "E": "148"
+    },
+    "answer": "C",
+    "solution": "İşlem önceliği (çarpma/bölme, sonra toplama/çıkarma) uygulanır; sonuç 14,8. Çeldiriciler: 0,625 (toplamı bölenin içine alma); 22,8 (toplamayı çarpmadan önce yapma); 26,8 (bölmeyi çarpma olarak yapma); 148 (virgülü bir basamak sağa kaydırma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: ondalık sayılarla işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-010",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "3,9 × 1,9 − 0,42 ÷ 2,4 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "6,402",
+      "B": "72,35",
+      "C": "2,9125",
+      "D": "7,235",
+      "E": "7,585"
+    },
+    "answer": "D",
+    "solution": "İşlem önceliği (çarpma/bölme, sonra toplama/çıkarma) uygulanır; sonuç 7,235. Çeldiriciler: 2,9125 (işlem önceliğini bozup soldan sağa doğru yapma); 6,402 (bölmeyi çarpma olarak yapma); 72,35 (virgülü bir basamak sağa kaydırma); 7,585 (çıkarma işaretini toplamaya çevirme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: ondalık sayılarla işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-011",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(2,5 + 5,3) × 2,7 ÷ 2,5 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "0,8424",
+      "B": "8,224",
+      "C": "84,24",
+      "D": "8,424",
+      "E": "52,65"
+    },
+    "answer": "D",
+    "solution": "İşlem önceliği (çarpma/bölme, sonra toplama/çıkarma) uygulanır; sonuç 8,424. Çeldiriciler: 8,224 (parantezi yok sayma); 0,8424 (virgülü bir basamak sola kaydırma); 52,65 (bölmeyi çarpma olarak yapma); 84,24 (virgülü bir basamak sağa kaydırma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: ondalık sayılarla işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-012",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "9 ÷ 5 + 2,9 × 2,6 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "93,4",
+      "B": "0,934",
+      "C": "52,54",
+      "D": "12,22",
+      "E": "9,34"
+    },
+    "answer": "E",
+    "solution": "İşlem önceliği (çarpma/bölme, sonra toplama/çıkarma) uygulanır; sonuç 9,34. Çeldiriciler: 0,934 (virgülü bir basamak sola kaydırma); 12,22 (toplamayı çarpmadan önce yapma); 52,54 (bölmeyi çarpma olarak yapma); 93,4 (virgülü bir basamak sağa kaydırma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: ondalık sayılarla işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-013",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "3/4 + 9/4 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "3/2",
+      "B": "27/16",
+      "C": "3",
+      "D": "1/3",
+      "E": "−7"
+    },
+    "answer": "C",
+    "solution": "Kesirlerle işlem yapılır; sonuç sadeleştirilince 3 bulunur. Çeldiriciler: 3/2 (payları ve paydaları ayrı ayrı toplama); 27/16 (toplama yerine çarpma yapma); 1/3 (toplama yerine bölme yapma); −7 (onlar basamağında elde/borç hatası (−10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kesirlerle işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-014",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "7/4 − 7/5 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "−7/20",
+      "B": "7/20",
+      "C": "63/20",
+      "D": "0",
+      "E": "49/20"
+    },
+    "answer": "B",
+    "solution": "Kesirlerle işlem yapılır; sonuç sadeleştirilince 7/20 bulunur. Çeldiriciler: 0 (payları ve paydaları ayrı ayrı çıkarma); −7/20 (farkın işaretini ters alma); 63/20 (çıkarma yerine toplama yapma); 49/20 (çıkarma yerine çarpma yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kesirlerle işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-015",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(9/5 + 1/5) ÷ 9/8 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "9/4",
+      "B": "9/16",
+      "C": "16/9",
+      "D": "8/25",
+      "E": "89/45"
+    },
+    "answer": "C",
+    "solution": "Kesirlerle işlem yapılır; sonuç sadeleştirilince 16/9 bulunur. Çeldiriciler: 9/16 (bölme sırasını ters alma); 8/25 (toplama yerine çarpma yapma); 9/4 (bölmeyi çarpma olarak yapma); 89/45 (parantezi yok sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kesirlerle işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-016",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "2/3 × 1/6 + 3/4 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "11/18",
+      "B": "31/36",
+      "C": "19/24",
+      "D": "−23/36",
+      "E": "17/72"
+    },
+    "answer": "B",
+    "solution": "Kesirlerle işlem yapılır; sonuç sadeleştirilince 31/36 bulunur. Çeldiriciler: 17/72 (toplamayı çarpmadan önce yapma); 11/18 (toplamayı çarpmaya dağıtma); 19/24 (çarpmayı yanlış terime uygulama); −23/36 (toplama işaretini çıkarmaya çevirme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kesirlerle işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-017",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "5/6 ÷ 4/9 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "15/8",
+      "B": "10/27",
+      "C": "8/15",
+      "D": "95/8",
+      "E": "7/18"
+    },
+    "answer": "A",
+    "solution": "Kesirlerle işlem yapılır; sonuç sadeleştirilince 15/8 bulunur. Çeldiriciler: 10/27 (bölmeyi çarpma olarak yapma); 8/15 (bölen yerine bölüneni ters çevirme); 7/18 (bölme yerine çıkarma yapma); 95/8 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kesirlerle işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-018",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "1 − (3/5 + 1/4) işleminin sonucu kaçtır?",
+    "options": {
+      "A": "37/20",
+      "B": "13/20",
+      "C": "3/20",
+      "D": "−3",
+      "E": "−3/20"
+    },
+    "answer": "C",
+    "solution": "Kesirlerle işlem yapılır; sonuç sadeleştirilince 3/20 bulunur. Çeldiriciler: −3/20 (farkın işaretini ters alma); −3 (payları paydaları unutarak çıkarma); 13/20 (eksi işaretini yalnız birinci terime dağıtma); 37/20 (parantezin önündeki eksiyi yok sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kesirlerle işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-019",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(5/9 + 5/7) ÷ (4/3 − 2/7) işleminin sonucu kaçtır?",
+    "options": {
+      "A": "40/51",
+      "B": "40/33",
+      "C": "33/40",
+      "D": "245/198",
+      "E": "1760/1323"
+    },
+    "answer": "B",
+    "solution": "Kesirlerle işlem yapılır; sonuç sadeleştirilince 40/33 bulunur. Çeldiriciler: 33/40 (bölme sırasını ters alma); 40/51 (çıkarmayı toplamaya çevirme); 1760/1323 (bölmeyi çarpma olarak yapma); 245/198 (ilk parantezi yok sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kesirlerle işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-020",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "1 ÷ (2/5 + 7/6) işleminin sonucu kaçtır?",
+    "options": {
+      "A": "−47/30",
+      "B": "15/7",
+      "C": "47/30",
+      "D": "47/14",
+      "E": "30/47"
+    },
+    "answer": "E",
+    "solution": "Kesirlerle işlem yapılır; sonuç sadeleştirilince 30/47 bulunur. Çeldiriciler: −47/30 (tersi alırken işaret değiştirme); 47/14 (tersi toplamın değil terimlerin ayrı ayrı alma); 47/30 (bölmeyi hiç uygulamama); 15/7 (toplama yerine çarpma yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kesirlerle işlemler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-021",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|x − 2| = 7 eşitliğini sağlayan x değerlerinin çarpımı kaçtır?",
+    "options": {
+      "A": "−5",
+      "B": "14",
+      "C": "4",
+      "D": "−45",
+      "E": "9"
+    },
+    "answer": "D",
+    "solution": "x − 2 = ±7 olduğundan x = 9 veya x = -5; çarpım 9·-5 = -45. Çeldiriciler: 4 (çarpım yerine toplamı bulma); 14 (sayıları doğrudan çarpma); 9 (yalnız büyük kökü alma); −5 (yalnız küçük kökü alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: mutlak değer"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-022",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|3x − 24| = 12 denkleminin çözüm kümesindeki sayıların toplamı kaçtır?",
+    "options": {
+      "A": "4",
+      "B": "48",
+      "C": "12",
+      "D": "8",
+      "E": "16"
+    },
+    "answer": "E",
+    "solution": "3x − 24 = ±12 ⇒ x = 12 veya x = 4; toplam 16. Çeldiriciler: 12 (yalnız büyük kökü alma); 4 (yalnız küçük kökü alma); 8 (toplamı r üzerinden hesaplama); 48 (toplam yerine çarpımı bulma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: mutlak değer"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-023",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|14 − 13| + |2 − 6| − |−5| işleminin sonucu kaçtır?",
+    "options": {
+      "A": "2",
+      "B": "10",
+      "C": "−8",
+      "D": "0",
+      "E": "−2"
+    },
+    "answer": "D",
+    "solution": "|14−13|=1, |2−6|=4, |−5|=5; sonuç 0. Çeldiriciler: −8 (mutlak değeri kaldırıp iç farkları işaretli bırakma); −2 (toplam farkın mutlak değerini alma); 2 (mutlak değeri kaldırıp işareti kaybetme); 10 (çıkarma işaretini toplamaya çevirme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: mutlak değer"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-024",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|x − 2| = 2 ve |y + 6| = 5 olduğuna göre x + y toplamının en büyük değeri kaçtır?",
+    "options": {
+      "A": "4",
+      "B": "15",
+      "C": "5",
+      "D": "−11",
+      "E": "3"
+    },
+    "answer": "E",
+    "solution": "x ∈ {4, 0}, y ∈ {-1, -11}; en büyük toplam 3. Çeldiriciler: −11 (en büyük ile en küçüğü karıştırma); 15 (y + c'yi y − c gibi çözme); 4 (bir sayma hatası); 5 (toplam yerine fark alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: mutlak değer"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-025",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|x − 10| = 3 eşitliğini sağlayan x değerlerinin çarpımı kaçtır?",
+    "options": {
+      "A": "13",
+      "B": "91",
+      "C": "7",
+      "D": "20",
+      "E": "30"
+    },
+    "answer": "B",
+    "solution": "x − 10 = ±3 olduğundan x = 13 veya x = 7; çarpım 13·7 = 91. Çeldiriciler: 20 (çarpım yerine toplamı bulma); 30 (sayıları doğrudan çarpma); 13 (yalnız büyük kökü alma); 7 (yalnız küçük kökü alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: mutlak değer"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-026",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|4x − 16| = 4 denkleminin çözüm kümesindeki sayıların toplamı kaçtır?",
+    "options": {
+      "A": "15",
+      "B": "3",
+      "C": "8",
+      "D": "5",
+      "E": "2"
+    },
+    "answer": "C",
+    "solution": "4x − 16 = ±4 ⇒ x = 5 veya x = 3; toplam 8. Çeldiriciler: 5 (yalnız büyük kökü alma); 3 (yalnız küçük kökü alma); 2 (toplamı r üzerinden hesaplama); 15 (toplam yerine çarpımı bulma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: mutlak değer"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-027",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|8 − 12| + |7 − 6| − |−3| işleminin sonucu kaçtır?",
+    "options": {
+      "A": "12",
+      "B": "0",
+      "C": "2",
+      "D": "−6",
+      "E": "8"
+    },
+    "answer": "C",
+    "solution": "|8−12|=4, |7−6|=1, |−3|=3; sonuç 2. Çeldiriciler: 0 (mutlak değeri kaldırıp işareti kaybetme); −6 (mutlak değeri kaldırıp iç farkları işaretli bırakma); 8 (çıkarma işaretini toplamaya çevirme); 12 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: mutlak değer"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-028",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|x − 6| = 1 ve |y + 2| = 7 olduğuna göre x + y toplamının en büyük değeri kaçtır?",
+    "options": {
+      "A": "12",
+      "B": "−4",
+      "C": "16",
+      "D": "2",
+      "E": "13"
+    },
+    "answer": "A",
+    "solution": "x ∈ {7, 5}, y ∈ {5, -9}; en büyük toplam 12. Çeldiriciler: −4 (en büyük ile en küçüğü karıştırma); 2 (toplam yerine fark alma); 16 (y + c'yi y − c gibi çözme); 13 (bir sayma hatası).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: mutlak değer"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-029",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "2³ × 4² ÷ 8¹ işleminin sonucu kaçtır?",
+    "options": {
+      "A": "16",
+      "B": "1.024",
+      "C": "8",
+      "D": "26",
+      "E": "32"
+    },
+    "answer": "A",
+    "solution": "Tabanlar 2'ye eşitlenir: 2^3·2^4÷2^3 = 2^4 = 16. Çeldiriciler: 8 (bir eksik üs); 1.024 (bölmede üsleri toplama); 32 (bir fazla üs); 26 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: üslü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-030",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "2⁵ × 4⁴ ÷ 8² işleminin sonucu kaçtır?",
+    "options": {
+      "A": "256",
+      "B": "524.288",
+      "C": "512",
+      "D": "64",
+      "E": "128"
+    },
+    "answer": "E",
+    "solution": "Tabanlar 2'ye eşitlenir: 2^5·2^8÷2^6 = 2^7 = 128. Çeldiriciler: 64 (bir eksik üs); 524.288 (bölmede üsleri toplama); 512 (üsleri çarpma); 256 (bir fazla üs).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: üslü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-031",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "3⁵ − 3³ işleminin sonucu kaçtır?",
+    "options": {
+      "A": "81",
+      "B": "216",
+      "C": "18",
+      "D": "9",
+      "E": "270"
+    },
+    "answer": "B",
+    "solution": "3^3·(3^2−1) = 27·8 = 216. Çeldiriciler: 9 (ortak çarpanı yok sayıp üsleri çıkarma); 18 (üs farkı sonucu iki katına çıkarma); 81 (bir üs azaltma); 270 (çıkarmayı toplamaya çevirme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: üslü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-032",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(5/2)⁻² işleminin sonucu kaçtır?",
+    "options": {
+      "A": "25/4",
+      "B": "−25/4",
+      "C": "−5",
+      "D": "5",
+      "E": "4/25"
+    },
+    "answer": "E",
+    "solution": "(5/2)^(−2) = (2/5)² = 4/25. Çeldiriciler: −25/4 (üssün işaretini sonuca taşıma); −5 (üssü tabanla çarpma); 25/4 (negatif üssü yok sayma); 5 (üssü iki ile çarpma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: üslü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-033",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(4⁴)² ÷ 4¹ işleminin sonucu kaçtır?",
+    "options": {
+      "A": "262.144",
+      "B": "16.394",
+      "C": "1.024",
+      "D": "16.384",
+      "E": "65.536"
+    },
+    "answer": "D",
+    "solution": "(4^4)² = 4^8; 4^8÷4^1 = 4^7 = 16384. Çeldiriciler: 1.024 (üssün üssünde üsleri toplama); 262.144 (bölmede üsleri toplama); 65.536 (bölmede üsleri bölme); 16.394 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: üslü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-034",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "7²⁵⁰ sayısının birler basamağındaki rakam kaçtır?",
+    "options": {
+      "A": "9",
+      "B": "3",
+      "C": "−1",
+      "D": "1",
+      "E": "7"
+    },
+    "answer": "A",
+    "solution": "7 sayısının kuvvetlerinin birler basamağı 4'lü döngü yapar; üs 250 ⇒ 250≡2 (mod 4) ⇒ 9. Çeldiriciler: 3 (döngüde bir adım kayma); 1 (döngüde iki adım kayma); 7 (döngüde geri kayma); −1 (onlar basamağında elde/borç hatası (−10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: üslü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-035",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(−2)³ + (−1)⁷ + 7⁰ işleminin sonucu kaçtır?",
+    "options": {
+      "A": "−8",
+      "B": "−2",
+      "C": "−9",
+      "D": "−6",
+      "E": "8"
+    },
+    "answer": "A",
+    "solution": "(−2)³=−8, (−1)^7=−1, 7⁰=1; toplam -8. Çeldiriciler: −9 (sıfırıncı kuvveti sıfır alma); 8 (tek üssün işaretini yok sayma); −6 (−1'in tek kuvvetini +1 alma); −2 (7⁰'ı 7 alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: üslü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-036",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "√125 + √45 − √80 işleminin sonucu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "√90",
+      "B": "5√5",
+      "C": "3√5",
+      "D": "4√5",
+      "E": "6√5"
+    },
+    "answer": "D",
+    "solution": "√125=5√5, √45=3√5, √80=4√5; toplam 4√5. Çeldiriciler: 3√5 (bir katsayı eksik bulma); 5√5 (bir katsayı fazla bulma); 6√5 (işaretleri karıştırma); √90 (kök içlerini doğrudan toplayıp çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: köklü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-037",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "√45 + √125 − √5 işleminin sonucu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "7√5",
+      "B": "√165",
+      "C": "8√5",
+      "D": "−√5",
+      "E": "9√5"
+    },
+    "answer": "A",
+    "solution": "√45=3√5, √125=5√5, √5=1√5; toplam 7√5. Çeldiriciler: −√5 (işaretleri karıştırma); √165 (kök içlerini doğrudan toplayıp çıkarma); 8√5 (bir katsayı fazla bulma); 9√5 (çıkarmayı toplamaya çevirme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: köklü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-038",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "√80 × √125 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "9",
+      "B": "20",
+      "C": "500",
+      "D": "100",
+      "E": "45"
+    },
+    "answer": "D",
+    "solution": "√(80·125) = √(10000) = 100. Çeldiriciler: 9 (kök içlerini toplama gibi hesaplama); 45 (çarpım yerine toplam alma); 20 (kök dışında m çarpanını unutma); 500 (m'yi iki kez katma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: köklü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-039",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "21 / √7 işleminin sonucu aşağıdakilerden hangisidir? (paydayı rasyonel yapınız)",
+    "options": {
+      "A": "21",
+      "B": "6√7",
+      "C": "3",
+      "D": "21√7",
+      "E": "3√7"
+    },
+    "answer": "E",
+    "solution": "21/√7 = 21√7/7 = 3√7. Çeldiriciler: 3 (kökü tamamen yok sayma); 21√7 (payı kökle çarpıp paydayı atma); 21 (paydadaki kökü atma); 6√7 (katsayıyı iki katına çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: köklü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-040",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(√80 + √80)² işleminin sonucu kaçtır?",
+    "options": {
+      "A": "0",
+      "B": "160",
+      "C": "240",
+      "D": "6.400",
+      "E": "320"
+    },
+    "answer": "E",
+    "solution": "(√80+√80)² = 80+80+2√(6400) = 80+80+160 = 320. Çeldiriciler: 160 (ortadaki 2ab terimini unutma); 240 (ortadaki terimi iki ile çarpmama); 0 (ortadaki terimin işaretini ters alma); 6.400 (iki kök sayısını çarpma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: köklü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-041",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "√63 = a√b olduğuna göre (b en küçük pozitif tam sayı) a + b toplamı kaçtır?",
+    "options": {
+      "A": "10",
+      "B": "21",
+      "C": "16",
+      "D": "60",
+      "E": "52"
+    },
+    "answer": "A",
+    "solution": "√63 = √(9·7) = 3√7 ⇒ a+b = 10. Çeldiriciler: 21 (a ile b'yi çarpma); 52 (b'nin karesini alma); 60 (kök dışını yanlış bulma); 16 (a yerine a² alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: köklü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-042",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "√80 = a√b olduğuna göre (b en küçük pozitif tam sayı) a + b toplamı kaçtır?",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "76",
+      "D": "29",
+      "E": "9"
+    },
+    "answer": "E",
+    "solution": "√80 = √(16·5) = 4√5 ⇒ a+b = 9. Çeldiriciler: 20 (a ile b'yi çarpma); 29 (b'nin karesini alma); 76 (kök dışını yanlış bulma); 21 (a yerine a² alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: köklü sayılar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-043",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x − y = 5 ve x + y = 17 olduğuna göre x² − y² kaçtır?",
+    "options": {
+      "A": "12",
+      "B": "85",
+      "C": "264",
+      "D": "22",
+      "E": "314"
+    },
+    "answer": "B",
+    "solution": "x² − y² = (x − y)(x + y) = 5·17 = 85. Çeldiriciler: 22 (toplam ve farkı toplama); 12 (toplam ile farkı çıkarma); 264 (karelerin farkını ters yönde alma); 314 (kareleri toplama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: çarpanlara ayırma ve özdeşlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-044",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x + y = 15 ve x·y = 50 olduğuna göre x² + y² kaçtır?",
+    "options": {
+      "A": "25",
+      "B": "125",
+      "C": "325",
+      "D": "225",
+      "E": "175"
+    },
+    "answer": "B",
+    "solution": "(x + y)² = x² + 2xy + y² ⇒ x² + y² = 15² − 2·50 = 125. Çeldiriciler: 25 (çarpımı dört kez çıkarma); 175 (çarpımı bir kez çıkarma); 325 (çarpımı toplama); 225 (ortadaki terimi hiç çıkarmama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: çarpanlara ayırma ve özdeşlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-045",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "87² − 41² işleminin sonucu kaçtır?",
+    "options": {
+      "A": "7.528",
+      "B": "16.384",
+      "C": "9.250",
+      "D": "2.116",
+      "E": "5.888"
+    },
+    "answer": "E",
+    "solution": "(87 − 41)(87 + 41) = 46·128 = 5.888. Çeldiriciler: 2.116 (farkın karesini alma); 16.384 (toplamın karesini alma); 7.528 (ikinci terimin karesini almama); 9.250 (çıkarmayı toplamaya çevirme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: çarpanlara ayırma ve özdeşlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-046",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x + 1/x = 8 olduğuna göre x² + 1/x² kaçtır?",
+    "options": {
+      "A": "62",
+      "B": "72",
+      "C": "66",
+      "D": "63",
+      "E": "64"
+    },
+    "answer": "A",
+    "solution": "(x + 1/x)² = x² + 2 + 1/x² ⇒ x² + 1/x² = 8² − 2 = 62. Çeldiriciler: 64 (ortadaki 2 terimini çıkarmama); 66 (ortadaki 2'yi toplama); 63 (ortadaki terimi 1 sayma); 72 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: çarpanlara ayırma ve özdeşlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-047",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(x − y)² = 36 ve x·y = 55 olduğuna göre (x + y)² kaçtır?",
+    "options": {
+      "A": "91",
+      "B": "−184",
+      "C": "146",
+      "D": "256",
+      "E": "476"
+    },
+    "answer": "D",
+    "solution": "(x + y)² = (x − y)² + 4xy = 36 + 4·55 = 256. Çeldiriciler: 146 (çarpımı iki kez katma); −184 (çarpımı çıkarma); 91 (çarpımı bir kez katma); 476 (çarpımı sekiz kez katma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: çarpanlara ayırma ve özdeşlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-048",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x² − 7x + 10 = 0 denkleminin kökleri x₁ ve x₂ ise |x₁ − x₂| kaçtır?",
+    "options": {
+      "A": "7",
+      "B": "13",
+      "C": "5",
+      "D": "3",
+      "E": "10"
+    },
+    "answer": "D",
+    "solution": "x² − 7x + 10 = (x − 2)(x − 5) ⇒ kökler 2 ve 5; fark 3. Çeldiriciler: 7 (kökler toplamını alma); 10 (kökler çarpımını alma); 5 (yalnız büyük kökü alma); 13 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: çarpanlara ayırma ve özdeşlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-049",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "23² + 2 × 23 × 28 + 28² işleminin sonucu kaçtır?",
+    "options": {
+      "A": "1.957",
+      "B": "5.202",
+      "C": "2.601",
+      "D": "1.313",
+      "E": "25"
+    },
+    "answer": "C",
+    "solution": "a² + 2ab + b² = (a + b)² = 51² = 2.601. Çeldiriciler: 1.313 (ortadaki terimi unutma); 25 (toplamın karesi yerine farkın karesini alma); 1.957 (ortadaki terimi iki ile çarpmama); 5.202 (sonucu iki katına çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: çarpanlara ayırma ve özdeşlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-050",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "84 ve 36 sayılarının en büyük ortak böleni (OBEB) kaçtır?",
+    "options": {
+      "A": "6",
+      "B": "2",
+      "C": "252",
+      "D": "12",
+      "E": "48"
+    },
+    "answer": "D",
+    "solution": "84 = 12·7 ve 36 = 12·3; 7 ile 3 aralarında asal olduğundan OBEB = 12. Çeldiriciler: 6 (en küçük asal çarpanı atma); 2 (ortak çarpan saymayı yarıda bırakma); 252 (OBEB ile OKEK'i karıştırma); 48 (iki sayının farkını alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: OBEB ve OKEK"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-051",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "12, 16 ve 24 sayılarının en küçük ortak katı (OKEK) kaçtır?",
+    "options": {
+      "A": "24",
+      "B": "4.608",
+      "C": "52",
+      "D": "48",
+      "E": "4"
+    },
+    "answer": "D",
+    "solution": "Asal çarpanların en büyük kuvvetleri alınır; OKEK = 48. Çeldiriciler: 4 (OKEK ile OBEB'i karıştırma); 24 (en büyük sayıyı OKEK sanma); 4.608 (üç sayıyı doğrudan çarpma); 52 (sayıları toplama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: OBEB ve OKEK"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-052",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "İki doğal sayının OBEB'i 8, OKEK'i 320 dir. Sayılardan biri 40 ise diğeri kaçtır?",
+    "options": {
+      "A": "280",
+      "B": "2.560",
+      "C": "8",
+      "D": "48",
+      "E": "64"
+    },
+    "answer": "E",
+    "solution": "OBEB·OKEK = sayıların çarpımı ⇒ diğer sayı = 8·320/40 = 64. Çeldiriciler: 8 (OKEK'i sayıya bölme); 48 (OBEB'i sayıya ekleme); 280 (OKEK'ten sayıyı çıkarma); 2.560 (OBEB ile OKEK'i çarpma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: OBEB ve OKEK"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-053",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "45 cm ve 27 cm uzunluğundaki iki çubuk, boyları eşit ve mümkün olduğunca uzun olacak biçimde kesiliyor. Toplam kaç parça elde edilir?",
+    "options": {
+      "A": "135",
+      "B": "15",
+      "C": "2",
+      "D": "9",
+      "E": "8"
+    },
+    "answer": "E",
+    "solution": "Parça uzunluğu OBEB = 9 cm; 45/9 + 27/9 = 5 + 3 = 8 parça. Çeldiriciler: 2 (parça sayılarının farkını alma); 9 (parça uzunluğunu parça sayısı sanma); 15 (parça sayılarını çarpma); 135 (OKEK'i parça sayısı sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: OBEB ve OKEK"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-054",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Üç otobüs sırasıyla 8, 10 ve 12 dakikada bir hareket ediyor. Üçü birlikte hareket ettikten sonra tekrar aynı anda hareket etmeleri için en az kaç dakika geçmelidir?",
+    "options": {
+      "A": "120",
+      "B": "40",
+      "C": "30",
+      "D": "12",
+      "E": "2"
+    },
+    "answer": "A",
+    "solution": "Ortak hareket anı OKEK(8, 10, 12) = 120 dakika sonradır. Çeldiriciler: 30 (süreleri toplama); 2 (OKEK yerine OBEB bulma); 40 (üçüncü otobüsü hesaba katmama); 12 (en büyük süreyi seçme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: OBEB ve OKEK"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-055",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Boyutları 40 cm × 24 cm olan dikdörtgen biçimindeki bir zemin, kenar uzunluğu tam sayı ve birbirine eş kare karolarla boşluk kalmayacak biçimde kaplanacaktır. En az kaç karo gerekir?",
+    "options": {
+      "A": "960",
+      "B": "15",
+      "C": "120",
+      "D": "16",
+      "E": "64"
+    },
+    "answer": "B",
+    "solution": "En büyük kare kenarı OBEB = 8 cm; karo sayısı (40/8)·(24/8) = 15. Çeldiriciler: 120 (alanı kenar uzunluğuna bölme); 64 (karo alanını karo sayısı sanma); 960 (alanı karo sayısı sanma); 16 (bir karo fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: OBEB ve OKEK"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-056",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "18 ile 45 sayılarının OBEB'i ile OKEK'inin toplamı kaçtır?",
+    "options": {
+      "A": "63",
+      "B": "99",
+      "C": "9",
+      "D": "90",
+      "E": "81"
+    },
+    "answer": "B",
+    "solution": "OBEB = 9, OKEK = 90; toplam 99. Çeldiriciler: 90 (yalnızca OKEK'i alma); 9 (yalnızca OBEB'i alma); 63 (iki sayıyı toplama); 81 (toplama yerine çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: OBEB ve OKEK"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-057",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Dört basamaklı 4A87 sayısı 9 ile tam bölünebildiğine göre A kaçtır?",
+    "options": {
+      "A": "9",
+      "B": "1",
+      "C": "2",
+      "D": "6",
+      "E": "8"
+    },
+    "answer": "E",
+    "solution": "Rakamlar toplamı 4+A+8+7 = 19+A, 9'un katı olmalı ⇒ A = 8. Çeldiriciler: 2 (9 yerine 3 ile bölünme kuralını uygulama); 1 (rakamlar toplamının kalanını A sanma); 6 (bulunan rakamı iki katına çıkarma); 9 (rakamlar toplamının birler basamağını A sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: bölünebilme ve kalan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-058",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Dört basamaklı 3A44 sayısı 9 ile tam bölünebildiğine göre A kaçtır?",
+    "options": {
+      "A": "1",
+      "B": "7",
+      "C": "4",
+      "D": "2",
+      "E": "0"
+    },
+    "answer": "B",
+    "solution": "Rakamlar toplamı 3+A+4+4 = 11+A, 9'un katı olmalı ⇒ A = 7. Çeldiriciler: 1 (9 yerine 3 ile bölünme kuralını uygulama); 2 (rakamlar toplamının kalanını A sanma); 0 (rakam toplamını yanlış hesaplama); 4 (bulunan rakamı iki katına çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: bölünebilme ve kalan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-059",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Üç basamaklı 5A6 sayısı 6 ile tam bölünebildiğine göre A'nın alabileceği değerlerin toplamı kaçtır?",
+    "options": {
+      "A": "21",
+      "B": "7",
+      "C": "12",
+      "D": "1",
+      "E": "5"
+    },
+    "answer": "C",
+    "solution": "Son rakam çift (6); rakamlar toplamı 5+A+6 3'ün katı olmalı ⇒ A ∈ {1, 4, 7}, toplam 12. Çeldiriciler: 1 (yalnız ilk değeri alma); 7 (3 yerine 9 kuralını uygulama); 5 (son değeri atlama); 21 (geçersiz bir değeri ekleme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: bölünebilme ve kalan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-060",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir n doğal sayısının 7 ile bölümünden kalan 4 olduğuna göre 5n + 7 sayısının 7 ile bölümünden kalan kaçtır?",
+    "options": {
+      "A": "27",
+      "B": "4",
+      "C": "2",
+      "D": "1",
+      "E": "6"
+    },
+    "answer": "E",
+    "solution": "n = 7k + 4 ⇒ 5n + 7 ≡ 5·4 + 7 = 27 ≡ 6 (mod 7). Çeldiriciler: 2 (çarpma yerine toplama yapma); 4 (katsayıyı yok sayma); 1 (kalanı tamamlayıcı sanma); 27 (kalanı 7'ye indirmeden bırakma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: bölünebilme ve kalan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-061",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "90.600 sayısının 11 ile bölümünden kalan kaçtır?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "−6",
+      "D": "0",
+      "E": "4"
+    },
+    "answer": "E",
+    "solution": "Birler basamağından başlayıp rakamlar işaret değiştirilerek toplanır: 15 ≡ 4 (mod 11). Çeldiriciler: 0 (11 yerine 3 kuralını uygulama); −6 (onlar basamağında elde/borç hatası (−10)); 7 (alternatif toplamın işaretini ters alma); 6 (11 yerine 9 kuralını uygulama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: bölünebilme ve kalan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-062",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "26 ile 203 arasındaki (bu sayılar dâhil) doğal sayılardan kaç tanesi 8 ile tam bölünür?",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "23",
+      "D": "32",
+      "E": "25"
+    },
+    "answer": "A",
+    "solution": "203//8 − (26−1)//8 = 25 − 3 = 22. Çeldiriciler: 24 (iki uç sayıyı da fazladan sayma); 25 (alt sınırı hesaba katmama); 23 (aralık uzunluğundan sayma); 32 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: bölünebilme ve kalan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-063",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "2 kg elma 14 TL ise 10 kg elma kaç TL'dir?",
+    "options": {
+      "A": "22 TL",
+      "B": "77 TL",
+      "C": "70 TL",
+      "D": "140 TL",
+      "E": "80 TL"
+    },
+    "answer": "C",
+    "solution": "1 kg = 14/2 = 7 TL ⇒ 10 kg = 70 TL. Çeldiriciler: 22 TL (orantı yerine toplama/çıkarma kullanma); 140 TL (kütle ile fiyatı doğrudan çarpma); 77 TL (bir kg fazla hesaplama); 80 TL (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: oran ve orantı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-064",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Aynı verimle çalışan 15 işçi bir işi 7 günde bitirmektedir. Aynı işi 5 işçi kaç günde bitirir?",
+    "options": {
+      "A": "11 gün",
+      "B": "105 gün",
+      "C": "35 gün",
+      "D": "21 gün",
+      "E": "17 gün"
+    },
+    "answer": "D",
+    "solution": "İş = 15·7 = 105 işçi-gün; 5 işçi için 105/5 = 21 gün. Çeldiriciler: 17 gün (orantı yerine toplama/çıkarma kullanma); 11 gün (onlar basamağında elde/borç hatası (−10)); 35 gün (işçi sayısını güne çarpma); 105 gün (bölmeyi unutma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: oran ve orantı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-065",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x / y = 5/3 ve x + y = 24 olduğuna göre x kaçtır?",
+    "options": {
+      "A": "3",
+      "B": "19",
+      "C": "40",
+      "D": "9",
+      "E": "15"
+    },
+    "answer": "E",
+    "solution": "x = 5k, y = 3k, 8k = 24 ⇒ k = 3, x = 15. Çeldiriciler: 9 (x ile y'yi karıştırma); 3 (oran biriminin değerini x sanma); 19 (oranı doğrudan çıkarma); 40 (toplam yerine yalnız q'ya bölme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: oran ve orantı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-066",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "9 işçi her gün 8 saat çalışırsa bir işi 7 günde yapabilmektedir. Her gün 7 saat çalışan 8 işçi aynı işi kaç günde yapar?",
+    "options": {
+      "A": "23 gün",
+      "B": "19 gün",
+      "C": "9 gün",
+      "D": "504 gün",
+      "E": "252 gün"
+    },
+    "answer": "C",
+    "solution": "Toplam iş = 9·8·7 = 504 işçi-saat; günlük 56 işçi-saat ⇒ 9 gün. Çeldiriciler: 23 gün (orantı yerine toplama/çıkarma kullanma); 252 gün (yarıya bölme hatası); 504 gün (bölmeyi unutma); 19 gün (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: oran ve orantı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-067",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "1/500.000 ölçekli bir haritada iki şehir arası 5 cm ölçülmüştür. Gerçek uzaklık kaç km'dir?",
+    "options": {
+      "A": "2.500 km",
+      "B": "15 km",
+      "C": "2.500.000 km",
+      "D": "25 km",
+      "E": "250 km"
+    },
+    "answer": "D",
+    "solution": "5·500.000 cm = 2.500.000 cm = 25 km. Çeldiriciler: 15 km (onlar basamağında elde/borç hatası (−10)); 2.500 km (cm'den km'ye dönüşümde sıfırı eksik/fazla kullanma); 250 km (birim dönüşümünde bir basamak kayması); 2.500.000 km (birimi dönüştürmeyi unutma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: oran ve orantı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-068",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Üç kardeşin harçlıkları 2 : 3 : 5 oranındadır. Toplam harçlıkları 270 TL ise en fazla harçlığı olanınki kaç TL'dir?",
+    "options": {
+      "A": "265 TL",
+      "B": "54 TL",
+      "C": "145 TL",
+      "D": "135 TL",
+      "E": "81 TL"
+    },
+    "answer": "D",
+    "solution": "Pay sayısı 2+3+5 = 10; en büyük pay 5/10·270 = 135 TL. Çeldiriciler: 81 TL (ikinci payı alma); 54 TL (en küçük payı alma); 265 TL (oranı doğrudan çıkarma); 145 TL (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: oran ve orantı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-069",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x / y = 8/3 olduğuna göre (x + y) / (x − y) ifadesinin değeri kaçtır?",
+    "options": {
+      "A": "11",
+      "B": "24/5",
+      "C": "11/5",
+      "D": "8/3",
+      "E": "5/11"
+    },
+    "answer": "C",
+    "solution": "x = 8k, y = 3k ⇒ (8k + 3k)/(8k − 3k) = 11/5 = 11/5. Çeldiriciler: 5/11 (pay ile paydayı ters yazma); 8/3 (oranı değiştirmeden bırakma); 11 (paydayı yok sayma); 24/5 (toplam yerine çarpım alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: oran ve orantı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-070",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Debisi 27 litre/dakika olan bir pompa bir havuzu 34 dakikada boşaltmaktadır. Debisi 18 litre/dakika olan pompa aynı havuzu kaç dakikada boşaltır?",
+    "options": {
+      "A": "918",
+      "B": "41",
+      "C": "51",
+      "D": "43",
+      "E": "23"
+    },
+    "answer": "C",
+    "solution": "Havuz hacmi = 27·34 = 918 litre; 18 litre/dakika ile 918/18 = 51 dakika. Çeldiriciler: 43 (orantı yerine toplama/çıkarma kullanma); 23 (doğru orantıda bir fazla sayma); 41 (onlar basamağında elde/borç hatası (−10)); 918 (debiyi süreyle çarpıp bölmeyi unutma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: oran ve orantı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-071",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir ürünün fiyatı önce %10 artırılıyor, ardından %10 indiriliyor. Son fiyat, ilk fiyatın yüzde kaçıdır?",
+    "options": {
+      "A": "%105",
+      "B": "%99",
+      "C": "%80",
+      "D": "%100",
+      "E": "%109"
+    },
+    "answer": "B",
+    "solution": "(1 + 10/100)(1 − 10/100) = 0,99 ⇒ ilk fiyatın %99'sı. Çeldiriciler: %80 (iki yüzdeyi ilk fiyattan çıkarma); %100 (artış ve indirimi birbirini götürüyor sanma); %105 (indirimi artıştan hesaplama); %109 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-072",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir malın fiyatına önce %50 zam, sonra %40 indirim yapılıyor. Son fiyat ilk fiyatın yüzde kaçıdır?",
+    "options": {
+      "A": "%150",
+      "B": "%110",
+      "C": "%70",
+      "D": "%90",
+      "E": "%60"
+    },
+    "answer": "D",
+    "solution": "150% · 60% = 90%. Çeldiriciler: %70 (zam ile indirimi ters sırada uygulama); %60 (zammı hesaba katmama); %110 (yüzdeleri doğrudan toplayıp çıkarma); %150 (indirimi hesaba katmama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-073",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "%50 kârla 2.550 TL'ye satılan bir ürünün maliyeti kaç TL'dir?",
+    "options": {
+      "A": "1.700 TL",
+      "B": "1.275 TL",
+      "C": "2.500 TL",
+      "D": "3.825 TL",
+      "E": "1.710 TL"
+    },
+    "answer": "A",
+    "solution": "Satış = maliyet·(1 + 50/100) ⇒ maliyet = 2550/1,5 = 1.700 TL. Çeldiriciler: 1.275 TL (kârı satış fiyatından düşme); 2.500 TL (yüzdeyi TL gibi çıkarma); 3.825 TL (satış fiyatına kârı ekleme); 1.710 TL (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-074",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Maliyeti 1.700 TL olan bir ürün %30 zararla satılırsa satış fiyatı kaç TL olur?",
+    "options": {
+      "A": "2.210 TL",
+      "B": "1.200 TL",
+      "C": "510 TL",
+      "D": "1.670 TL",
+      "E": "1.190 TL"
+    },
+    "answer": "E",
+    "solution": "Satış = 1.700·(1 − 30/100) = 1.190 TL. Çeldiriciler: 510 TL (zarar tutarını satış fiyatı sanma); 2.210 TL (zararı kâr gibi ekleme); 1.670 TL (yüzdeyi TL gibi çıkarma); 1.200 TL (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-075",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir x sayısının %12'si 90 olduğuna göre x kaçtır?",
+    "options": {
+      "A": "1.080",
+      "B": "740",
+      "C": "102",
+      "D": "750",
+      "E": "78"
+    },
+    "answer": "D",
+    "solution": "x·12/100 = 90 ⇒ x = 90·100/12 = 750. Çeldiriciler: 102 (yüzdeyi toplama); 78 (yüzdeyi çıkarma); 740 (onlar basamağında elde/borç hatası (−10)); 1.080 (yüzdeyle çarpma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-076",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Etiket fiyatı 1.400 TL olan bir ürüne önce %30, sonra elde edilen fiyata ek olarak %20 indirim uygulanıyor. Ödenecek tutar kaç TL'dir?",
+    "options": {
+      "A": "1.350 TL",
+      "B": "980 TL",
+      "C": "700 TL",
+      "D": "784 TL",
+      "E": "1.456 TL"
+    },
+    "answer": "D",
+    "solution": "1,400·0,7·0,8 = 784 TL, Çeldiriciler: 700 TL (iki indirimi toplayıp tek seferde uygulama); 1.350 TL (yüzdeleri TL gibi çıkarma); 980 TL (ikinci indirimi uygulamama); 1.456 TL (ilk indirimi zam gibi uygulama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-077",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Yıllık %6 basit faizle bankaya yatırılan 19.000 TL, 2 yıl sonunda kaç TL faiz getirir?",
+    "options": {
+      "A": "21.280 TL",
+      "B": "2.270 TL",
+      "C": "2.280 TL",
+      "D": "1.140 TL",
+      "E": "228.000 TL"
+    },
+    "answer": "C",
+    "solution": "Faiz = 19.000·6·2/100 = 2.280 TL. Çeldiriciler: 1.140 TL (yıl sayısını hesaba katmama); 2.270 TL (onlar basamağında elde/borç hatası (−10)); 21.280 TL (anaparayı faize ekleme); 228.000 TL (yüzdeye bölmeyi unutma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-078",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir sınıftaki öğrencilerin %55'i kızdır. Sınıfta 171 erkek öğrenci olduğuna göre sınıf mevcudu kaçtır?",
+    "options": {
+      "A": "370 kişi",
+      "B": "379 kişi",
+      "C": "381 kişi",
+      "D": "380 kişi",
+      "E": "226 kişi"
+    },
+    "answer": "D",
+    "solution": "Erkeklerin oranı %45; mevcut = 171·100/45 = 380. Çeldiriciler: 226 kişi (yüzdeyi toplama); 370 kişi (onlar basamağında elde/borç hatası (−10)); 379 kişi (bir eksik sayma); 381 kişi (bir kişi fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-079",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Aynı satış fiyatı olan 360 TL'ye satılan iki maldan biri %20 kârla, diğeri %20 zararla satılıyor. Bu iki satıştan toplam kaç TL zarar edilmiştir?",
+    "options": {
+      "A": "750 TL",
+      "B": "30 TL",
+      "C": "144 TL",
+      "D": "72 TL",
+      "E": "0 TL"
+    },
+    "answer": "B",
+    "solution": "Maliyetler 300 ve 450; toplam maliyet − toplam satış = 30 TL zarar. Çeldiriciler: 0 TL (kâr ile zararın birbirini götürdüğünü sanma); 72 TL (tek malın %20'sini alma); 144 TL (iki malın %20'lerini toplama); 750 TL (maliyetler toplamını zarar sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-080",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Satış fiyatı 1.300 TL olan bir ürün satıldığında 260 TL kâr elde ediliyor. Kâr oranı maliyet üzerinden yüzde kaçtır?",
+    "options": {
+      "A": "%2,5",
+      "B": "%20",
+      "C": "%25",
+      "D": "%35",
+      "E": "%125"
+    },
+    "answer": "C",
+    "solution": "Maliyet = 1.300 − 260 = 1.040 TL; kâr oranı 260/1.040 = %25. Çeldiriciler: %20 (kârı satış fiyatına oranlama); %2,5 (yüzde dönüşümünde bir basamak kayması); %125 (satışı maliyete oranlama); %35 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yüzde, kâr-zarar ve faiz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-081",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "10x + 29 = 5x + 54 denkleminin çözümü kaçtır?",
+    "options": {
+      "A": "15",
+      "B": "83",
+      "C": "−5",
+      "D": "25",
+      "E": "5"
+    },
+    "answer": "E",
+    "solution": "10x − 5x = 54 − 29 ⇒ 5x = 25 ⇒ x = 5. Çeldiriciler: −5 (sabitleri taşırken işaret değiştirmeme); 25 (katsayıya bölmeyi unutma); 83 (sabitleri toplama); 15 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: birinci dereceden denklemler ve sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-082",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "4(x − 6) = 28 denkleminin çözümü kaçtır?",
+    "options": {
+      "A": "22",
+      "B": "12",
+      "C": "13",
+      "D": "1",
+      "E": "3"
+    },
+    "answer": "C",
+    "solution": "x − 6 = 28/4 = 7 ⇒ x = 13. Çeldiriciler: 1 (b'nin işaretini ters alma); 3 (onlar basamağında elde/borç hatası (−10)); 12 (bir eksik sayma); 22 (katsayıya bölmeyi unutma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: birinci dereceden denklemler ve sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-083",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x + y = 17 ve x − y = 3 olduğuna göre x · y çarpımı kaçtır?",
+    "options": {
+      "A": "80",
+      "B": "51",
+      "C": "70",
+      "D": "280",
+      "E": "20"
+    },
+    "answer": "C",
+    "solution": "x = (17+3)/2 = 10, y = (17−3)/2 = 7; x·y = 70. Çeldiriciler: 51 (toplam ile farkı çarpma); 20 (değişkenleri toplama); 280 (kareler farkını alma); 80 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: birinci dereceden denklemler ve sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-084",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "2x + y = 16 ve x + 3y = 38 olduğuna göre x + y kaçtır?",
+    "options": {
+      "A": "18",
+      "B": "14",
+      "C": "24",
+      "D": "54",
+      "E": "22"
+    },
+    "answer": "B",
+    "solution": "Denklemler çözülünce x = 2, y = 12; x + y = 14. Çeldiriciler: 54 (iki denklemi toplayıp sonuç sanma); 18 (toplamı katsayılar toplamına bölme); 22 (denklemleri çıkarma); 24 (toplam yerine çarpım alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: birinci dereceden denklemler ve sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-085",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x/5 + x/20 = 6 denkleminin çözümü kaçtır?",
+    "options": {
+      "A": "24",
+      "B": "600",
+      "C": "34",
+      "D": "150",
+      "E": "30"
+    },
+    "answer": "A",
+    "solution": "Paydalar eşitlenir: x(25)/100 = 6 ⇒ x = 24. Çeldiriciler: 150 (payda eşitlemeyi yapmadan toplama); 600 (ortak paydaya bölmeyi unutma); 30 (yalnız ilk terimi dikkate alma); 34 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: birinci dereceden denklemler ve sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-086",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "m·x − 7 = 8 denkleminin bir çözümü x = 5 olduğuna göre m kaçtır?",
+    "options": {
+      "A": "13",
+      "B": "3",
+      "C": "75",
+      "D": "4",
+      "E": "15"
+    },
+    "answer": "B",
+    "solution": "x = 5 yerine konur: 5m − 7 = 8 ⇒ m = 3. Çeldiriciler: 15 (x değerine bölmeyi unutma); 75 (bölme yerine çarpma yapma); 13 (onlar basamağında elde/borç hatası (+10)); 4 (bir fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: birinci dereceden denklemler ve sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-087",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir sayının 4 katının 10 fazlası 74 olduğuna göre bu sayı kaçtır?",
+    "options": {
+      "A": "64",
+      "B": "256",
+      "C": "16",
+      "D": "21",
+      "E": "8"
+    },
+    "answer": "C",
+    "solution": "4x + 10 = 74 ⇒ x = 16. Çeldiriciler: 8 (önce bölüp sonra çıkarma); 21 (fazlasını eklemek yerine çıkarmayı unutma); 256 (bölme yerine çarpma yapma); 64 (katını hesaba katmama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: birinci dereceden denklemler ve sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-088",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "(x + 20) / 7 = 10 denkleminin çözümü kaçtır?",
+    "options": {
+      "A": "−3",
+      "B": "50",
+      "C": "70",
+      "D": "40",
+      "E": "90"
+    },
+    "answer": "B",
+    "solution": "x + 20 = 7·10 = 70 ⇒ x = 50. Çeldiriciler: −3 (çarpma yerine toplama yapma); 40 (onlar basamağında elde/borç hatası (−10)); 90 (a'yı ters işaretle taşıma); 70 (a'yı hiç taşımama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: birinci dereceden denklemler ve sistemler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-089",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "7x − 1 < 27 eşitsizliğini sağlayan en büyük tam sayı x kaçtır?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "13",
+      "D": "2",
+      "E": "3"
+    },
+    "answer": "E",
+    "solution": "7x < 28 ⇒ x < 4; en büyük tam sayı 3. Çeldiriciler: 2 (sınırın iki altını alma); 4 (eşitliği de dahil etme); 5 (sınırın bir üstünü alma); 13 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: eşitsizlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-090",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "−7 < x ≤ 6 koşulunu sağlayan tam sayıların toplamı kaçtır?",
+    "options": {
+      "A": "−13",
+      "B": "0",
+      "C": "21",
+      "D": "−7",
+      "E": "−6"
+    },
+    "answer": "B",
+    "solution": "Tam sayılar −6, …, 6; toplamları 0. Çeldiriciler: −7 (−7'yı da dâhil etme); −6 (6'yi dışarıda bırakma); −13 (iki ucu da yanlış alma); 21 (negatif tam sayıları atma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: eşitsizlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-091",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "|x| < 8 eşitsizliğini sağlayan kaç farklı tam sayı vardır?",
+    "options": {
+      "A": "15",
+      "B": "8",
+      "C": "17",
+      "D": "7",
+      "E": "16"
+    },
+    "answer": "A",
+    "solution": "−8 < x < 8 ⇒ 15 tam sayı. Çeldiriciler: 7 (yalnız pozitifleri sayma); 8 (negatiflerle pozitifleri eşit ama sıfırsız sayma); 16 (sıfırı iki kez sayma); 17 (uç değerleri de dâhil etme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: eşitsizlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-092",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "5 < 4x − 2 ≤ 15 eşitsizliğini sağlayan x tam sayılarının toplamı kaçtır?",
+    "options": {
+      "A": "8",
+      "B": "7",
+      "C": "−1",
+      "D": "9",
+      "E": "14"
+    },
+    "answer": "D",
+    "solution": "7 < 4x ≤ 17 ⇒ x ∈ {2, 3, 4}; toplam 9. Çeldiriciler: 7 (ilk değeri atlama); −1 (onlar basamağında elde/borç hatası (−10)); 8 (bir eksik sayma); 14 (bir sonraki değeri ekleme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: eşitsizlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-093",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "x ve y tam sayılar, 6 < x < 15 ve -7 < y < 8 olduğuna göre x − y ifadesinin en büyük değeri kaçtır?",
+    "options": {
+      "A": "20",
+      "B": "0",
+      "C": "22",
+      "D": "7",
+      "E": "8"
+    },
+    "answer": "A",
+    "solution": "x en çok 14, y en az -6; en büyük fark 14 − (-6) = 20. Çeldiriciler: 7 (y için en büyük değeri alma); 0 (x için en küçük değeri alma); 8 (çıkarma yerine toplama yapma); 22 (sınır değerlerini dâhil etme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: eşitsizlikler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-094",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "s(A) = 18, s(B) = 20 ve s(A ∩ B) = 5 olduğuna göre s(A ∪ B) kaçtır?",
+    "options": {
+      "A": "13",
+      "B": "38",
+      "C": "33",
+      "D": "20",
+      "E": "43"
+    },
+    "answer": "C",
+    "solution": "s(A ∪ B) = s(A) + s(B) − s(A ∩ B) = 18 + 20 − 5 = 33. Çeldiriciler: 13 (yalnız A'dan kesişimi çıkarma); 20 (birleşimi büyük kümeye eşitleme); 38 (kesişimi çıkarmama); 43 (kesişimi ekleme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-095",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "6 elemanlı bir kümenin kaç tane alt kümesi vardır?",
+    "options": {
+      "A": "32",
+      "B": "64",
+      "C": "12",
+      "D": "36",
+      "E": "63"
+    },
+    "answer": "B",
+    "solution": "n elemanlı kümenin alt küme sayısı 2ⁿ = 2^6 = 64. Çeldiriciler: 63 (boş kümeyi saymama); 12 (2'nin kuvveti yerine iki katını alma); 36 (üssü kareyle karıştırma); 32 (bir eleman eksik düşünme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-096",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir kümenin öz alt küme sayısı 511 olduğuna göre bu küme kaç elemanlıdır?",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "512",
+      "D": "255",
+      "E": "10"
+    },
+    "answer": "A",
+    "solution": "2ⁿ − 1 = 511 ⇒ 2ⁿ = 512 ⇒ n = 9. Çeldiriciler: 8 (bir eleman eksik bulma); 10 (alt küme sayısıyla öz alt küme sayısını karıştırma); 255 (2'ye bölerek eleman sayısı sanma); 512 (alt küme sayısını eleman sayısı sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-097",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "36 kişilik bir sınıfta 23 kişi futbol, 14 kişi basketbol oynamaktadır; 5 kişi ikisini de oynamaktadır. İki sporu da oynamayan kaç kişi vardır?",
+    "options": {
+      "A": "32",
+      "B": "−1",
+      "C": "4",
+      "D": "9",
+      "E": "−6"
+    },
+    "answer": "C",
+    "solution": "En az bir sporu oynayan 23+14−5 = 32; oynamayan 36 − 32 = 4. Çeldiriciler: −1 (ikisini oynayanları iki kez çıkarma); −6 (kesişimi toplama ekleme); 32 (oynayan sayısını oynamayan sanma); 9 (kesişimi iki kez ekleme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-098",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "s(A) = 18, s(B) = 21 ve s(A ∪ B) = 34 olduğuna göre s(A − B) kaçtır?",
+    "options": {
+      "A": "13",
+      "B": "−3",
+      "C": "16",
+      "D": "3",
+      "E": "5"
+    },
+    "answer": "A",
+    "solution": "s(A − B) = s(A ∪ B) − s(B) = 34 − 21 = 13. Çeldiriciler: −3 (farkı doğrudan almak); 5 (kesişim sayısını fark sanma); 3 (onlar basamağında elde/borç hatası (−10)); 16 (B − A sayısını bulma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-099",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Ali'nin yaşı kardeşinin yaşının 2 katıdır. 8 yıl sonra ikisinin yaşları toplamı 55 olacağına göre Ali'nin şimdiki yaşı kaçtır?",
+    "options": {
+      "A": "13",
+      "B": "18",
+      "C": "26",
+      "D": "16",
+      "E": "34"
+    },
+    "answer": "C",
+    "solution": "Kardeş x, Ali 2x; (x + 8) + (2x + 8) = 55 ⇒ x = 13, Ali 26. Çeldiriciler: 13 (kardeşin yaşını Ali'nin yaşı sanma); 18 (yılı geriye doğru sayma); 16 (onlar basamağında elde/borç hatası (−10)); 34 (Ali'nin gelecekteki yaşını bulma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yaş problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-100",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir anne kızından 27 yaş büyüktür. 8 yıl önce annenin yaşı kızın yaşının 4 katı olduğuna göre kızın şimdiki yaşı kaçtır?",
+    "options": {
+      "A": "27",
+      "B": "17",
+      "C": "18",
+      "D": "25",
+      "E": "9"
+    },
+    "answer": "B",
+    "solution": "Kız x, anne x + 27; (x + 27) − 8 = 4(x − 8) ⇒ x = 17. Çeldiriciler: 9 (kızın geçmişteki yaşını şimdiki yaş sanma); 25 (yılı ileriye doğru sayma); 27 (yaş farkını kızın yaşı sanma); 18 (bir fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yaş problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-101",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Baba ile oğulun yaşları toplamı 76'dir. 7 yıl sonra baba oğulun yaşının 5 katı olacağına göre oğulun şimdiki yaşı kaçtır?",
+    "options": {
+      "A": "68",
+      "B": "8",
+      "C": "1",
+      "D": "18",
+      "E": "15"
+    },
+    "answer": "B",
+    "solution": "Oğul x, baba 76−x; (76−x) + 7 = 5(x + 7) ⇒ x = 8. Çeldiriciler: 1 (yılı geriye doğru sayma); 68 (babanın yaşını bulma); 15 (oğulun gelecekteki yaşını bulma); 18 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yaş problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-102",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "İki kardeşin yaşları 5 : 4 oranındadır ve yaşları toplamı 45'dir. Büyük kardeşin yaşı kaçtır?",
+    "options": {
+      "A": "20",
+      "B": "40",
+      "C": "30",
+      "D": "25",
+      "E": "15"
+    },
+    "answer": "D",
+    "solution": "Yaşlar 5k ve 4k; 9k = 45 ⇒ k = 5; büyük yaş 25. Çeldiriciler: 20 (küçük kardeşin yaşını bulma); 15 (onlar basamağında elde/borç hatası (−10)); 30 (bir birim fazla alma); 40 (oranı doğrudan çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: yaş problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-103",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir musluk bir havuzu 30 saatte, başka bir musluk aynı havuzu 20 saatte doldurmaktadır. İki musluk birlikte açılırsa havuz kaç saatte dolar?",
+    "options": {
+      "A": "60 saat",
+      "B": "50 saat",
+      "C": "22 saat",
+      "D": "25 saat",
+      "E": "12 saat"
+    },
+    "answer": "E",
+    "solution": "Bir saatte dolan kısım 1/30 + 1/20 = 1/12; süre 12 saat. Çeldiriciler: 25 saat (süreleri ortalama alma); 50 saat (süreleri toplama); 60 saat (hızları toplamak yerine çıkarma); 22 saat (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: işçi ve havuz problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-104",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir işi A ustası 12 günde, B ustası 6 günde bitirmektedir. İkisi birlikte 2 gün çalıştıktan sonra B ayrılıyor. Kalan işi A tek başına kaç günde bitirir?",
+    "options": {
+      "A": "10 gün",
+      "B": "18 gün",
+      "C": "7 gün",
+      "D": "6 gün",
+      "E": "16 gün"
+    },
+    "answer": "D",
+    "solution": "2 günde biten kısım 1/2; kalan 1/2 iş, A günde 1/12 yapar ⇒ 6 gün. Çeldiriciler: 10 gün (A'nın ortak çalıştığı günleri toplam süreden çıkarma); 16 gün (süreleri toplama); 18 gün (ortak çalışma süresini yanlış kullanma); 7 gün (bir fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: işçi ve havuz problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-105",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir havuzu doldurma borusu 5 saatte doldurmakta, tahliye borusu dolu havuzu 20 saatte boşaltmaktadır. Havuz boşken iki boru birlikte açılırsa havuz kaç saatte dolar?",
+    "options": {
+      "A": "4 saat",
+      "B": "20/3 saat",
+      "C": "15 saat",
+      "D": "25 saat",
+      "E": "100 saat"
+    },
+    "answer": "B",
+    "solution": "Saatte dolan net kısım 1/5 − 1/20 = 3/20; süre 20/3 saat. Çeldiriciler: 4 saat (boşaltmayı da doldurma gibi sayma); 15 saat (süre farkını alma); 25 saat (süreleri toplama); 100 saat (çarpıp bölmeyi unutma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: işçi ve havuz problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-106",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "4 işçi bir işi 18 günde yapabilmektedir. İşe başlandıktan 6 gün sonra 2 işçi daha katılıyor. İş toplam kaç günde biter?",
+    "options": {
+      "A": "12 gün",
+      "B": "8 gün",
+      "C": "14 gün",
+      "D": "4 gün",
+      "E": "20 gün"
+    },
+    "answer": "C",
+    "solution": "6 günde 24 işçi-gün yapılır; kalan 48 işçi-gün, 6 işçi ile 8 günde biter; toplam 14 gün. Çeldiriciler: 12 gün (kalan günleri toplam süre sanma); 8 gün (ilk çalışılan günleri toplamaya eklememe); 4 gün (onlar basamağında elde/borç hatası (−10)); 20 gün (katılan işçi sayısını güne ekleme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: işçi ve havuz problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-107",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "İki şehir arası 166 km'dir. İki araç aynı anda bu şehirlerden birbirlerine doğru hareket ediyor; hızları 42 km/sa ve 41 km/sa'tır. Kaç saat sonra karşılaşırlar?",
+    "options": {
+      "A": "2 saat",
+      "B": "166 saat",
+      "C": "83 saat",
+      "D": "3 saat",
+      "E": "1 saat"
+    },
+    "answer": "A",
+    "solution": "Yaklaşma hızı 42+41 = 83 km/sa; süre 166/83 = 2 saat. Çeldiriciler: 1 saat (bir saat eksik sayma); 166 saat (hızları toplamak yerine çıkarma); 3 saat (bir saat fazla sayma); 83 saat (hızlar toplamını süre sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: hareket problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-108",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Hızı 60 km/sa olan bir araç yola çıktıktan 4 saat sonra, aynı yoldan hızı 76 km/sa olan ikinci araç hareket ediyor. İkinci araç, birinciye hareketinden kaç saat sonra yetişir?",
+    "options": {
+      "A": "19 saat",
+      "B": "15 saat",
+      "C": "5 saat",
+      "D": "25 saat",
+      "E": "4 saat"
+    },
+    "answer": "B",
+    "solution": "Açık 60·4 = 240 km; hız farkı 16 km/sa ⇒ 15 saat. Çeldiriciler: 4 saat (ilk aracın erken çıkış süresini cevap sanma); 5 saat (onlar basamağında elde/borç hatası (−10)); 19 saat (ilk aracın hızı yerine ikincinin hızıyla açığı hesaplama); 25 saat (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: hareket problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-109",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir araç A'dan B'ye 40 km/sa hızla gitmiş, aynı yoldan 60 km/sa hızla geri dönmüştür. Aracın tüm yolculuk boyunca ortalama hızı kaç km/sa'tir?",
+    "options": {
+      "A": "24",
+      "B": "20",
+      "C": "38",
+      "D": "50",
+      "E": "48"
+    },
+    "answer": "E",
+    "solution": "Yol d ise toplam süre d/40 + d/60; ortalama hız 2d/süre = 2·40·60/(40+60) = 48 km/sa. Çeldiriciler: 24 (toplam yol yerine tek yolu kullanma); 20 (hızların farkını alma); 38 (onlar basamağında elde/borç hatası (−10)); 50 (iki hızın aritmetik ortalamasını alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: hareket problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-110",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "200 m uzunluğundaki bir tren, 400 m uzunluğundaki bir tüneli tamamen geçmesi için 20 saniye harcamaktadır. Trenin hızı kaç m/sn'dir?",
+    "options": {
+      "A": "30",
+      "B": "40",
+      "C": "20",
+      "D": "600",
+      "E": "10"
+    },
+    "answer": "A",
+    "solution": "Toplam yol 200 + 400 = 600 m; hız 600/20 = 30 m/sn. Çeldiriciler: 20 (tren boyunu hesaba katmama); 10 (tünel boyunu hesaba katmama); 600 (süreye bölmeyi unutma); 40 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: hareket problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-111",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Sabit 75 km/sa hızla giden bir araç 150 km'lik yolu kaç dakikada alır?",
+    "options": {
+      "A": "2",
+      "B": "120",
+      "C": "110",
+      "D": "30",
+      "E": "200"
+    },
+    "answer": "B",
+    "solution": "Süre 150/75 saat = 150/75·60 = 120 dakika. Çeldiriciler: 2 (süreyi saat olarak bırakma); 30 (bölme sırasını ters alma); 110 (onlar basamağında elde/borç hatası (−10)); 200 (saati 100 dakika sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: hareket problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-112",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "%10'lik 6 litre tuzlu suya %40'lik 4 litre tuzlu su ekleniyor. Karışımın tuz oranı yüzde kaç olur?",
+    "options": {
+      "A": "%25",
+      "B": "%22",
+      "C": "%220",
+      "D": "%30",
+      "E": "%50"
+    },
+    "answer": "B",
+    "solution": "Tuz miktarı 10·6/100 + 40·4/100; toplam 10 litre ⇒ %22. Çeldiriciler: %25 (iki oranın aritmetik ortalamasını alma); %50 (oranları toplama); %220 (toplam litreye bölmeyi unutma); %30 (oranların farkını alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: karışım problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-113",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "%40'lik 4 litre tuzlu suya kaç litre saf su eklenirse karışımın tuz oranı %20 olur?",
+    "options": {
+      "A": "4",
+      "B": "8",
+      "C": "14",
+      "D": "2",
+      "E": "20"
+    },
+    "answer": "A",
+    "solution": "Tuz miktarı sabit: 4·40 = (4+z)·20 ⇒ z = 4 litre. Çeldiriciler: 2 (orantıyı ters kurma); 8 (toplam hacmi eklenecek su sanma); 20 (oranları doğrudan çıkarma); 14 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: karışım problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-114",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "%20'lik 30 kg tuzlu suyun 6 kg'ı buharlaştırılıyor. Kalan çözeltinin tuz oranı yüzde kaç olur?",
+    "options": {
+      "A": "%24",
+      "B": "%100",
+      "C": "%25",
+      "D": "%20",
+      "E": "%26"
+    },
+    "answer": "C",
+    "solution": "Tuz 6 kg sabit; kalan çözelti 24 kg ⇒ %25. Çeldiriciler: %20 (oranın değişmediğini sanma); %24 (buharlaşan suyu çözeltiye ekleme); %26 (oranı kg ile toplama); %100 (kalan kütle yerine buharlaşan kütleye bölme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: karışım problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-115",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Kilosu 30 TL olan çaydan 4 kg ile kilosu 60 TL olan çaydan 6 kg karıştırılıyor. Karışımın kilosu kaç TL'dir?",
+    "options": {
+      "A": "90 TL",
+      "B": "300 TL",
+      "C": "48 TL",
+      "D": "480 TL",
+      "E": "45 TL"
+    },
+    "answer": "C",
+    "solution": "Toplam bedel 30·4 + 60·6 = 480 TL; toplam 10 kg ⇒ 48 TL/kg. Çeldiriciler: 45 TL (iki fiyatın aritmetik ortalamasını alma); 480 TL (toplam kütleye bölmeyi unutma); 90 TL (fiyatları toplama); 300 TL (farkı toplam kütleyle çarpma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: karışım problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-116",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Ardışık üç tek sayının toplamı 21 ise bu sayıların en büyüğü kaçtır?",
+    "options": {
+      "A": "7",
+      "B": "5",
+      "C": "11",
+      "D": "9",
+      "E": "8"
+    },
+    "answer": "D",
+    "solution": "Sayılar m−2, m, m+2; 3m = 21 ⇒ m = 7; en büyüğü 9. Çeldiriciler: 7 (ortanca sayıyı en büyük sanma); 5 (en küçük sayıyı alma); 8 (ardışık çift sayı gibi hesaplama); 11 (adım farkını yanlış kullanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: sayı problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-117",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "İki sayının toplamı 45, farkı 3 ise küçük sayı kaçtır?",
+    "options": {
+      "A": "42",
+      "B": "24",
+      "C": "31",
+      "D": "48",
+      "E": "21"
+    },
+    "answer": "E",
+    "solution": "Küçük sayı = (45 − 3)/2 = 21. Çeldiriciler: 24 (büyük sayıyı küçük sanma); 42 (toplam ile farkı çıkarıp yarıya bölmeyi unutma); 48 (toplam ile farkı toplama); 31 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: sayı problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-118",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir sayının 2/3'i 16 ise bu sayı kaçtır?",
+    "options": {
+      "A": "24",
+      "B": "14",
+      "C": "22",
+      "D": "17",
+      "E": "23"
+    },
+    "answer": "A",
+    "solution": "x·2/3 = 16 ⇒ x = 16·3/2 = 24. Çeldiriciler: 17 (orantı yerine toplama/çıkarma kullanma); 14 (kesri çıkarma işlemi sanma); 23 (bir eksik sayma); 22 (iki eksik sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: sayı problemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-119",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Beş sayının aritmetik ortalaması 17'dir. Bu sayılardan biri çıkarılınca kalan dört sayının ortalaması 9 oluyor. Çıkarılan sayı kaçtır?",
+    "options": {
+      "A": "8",
+      "B": "26",
+      "C": "49",
+      "D": "40",
+      "E": "−23"
+    },
+    "answer": "C",
+    "solution": "Toplam 5·17 = 85; kalan toplam 4·9 = 36; çıkarılan 49. Çeldiriciler: 8 (ortalamaların farkını çıkarılan sayı sanma); −23 (toplamları ters yönde çıkarma); 26 (ortalamaları toplama); 40 (kalan sayı adedini yanlış alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: ortalama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-120",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir sınavda 8 öğrencinin ortalaması 56, diğer 12 öğrencinin ortalaması 71 ise tüm öğrencilerin ortalaması kaçtır?",
+    "options": {
+      "A": "1.300",
+      "B": "15",
+      "C": "65",
+      "D": "75",
+      "E": "127"
+    },
+    "answer": "C",
+    "solution": "Toplam puan 8·56 + 12·71 = 1300; öğrenci 20 ⇒ ortalama 65. Çeldiriciler: 15 (ortalamaların farkını alma); 1.300 (öğrenci sayısına bölmeyi unutma); 127 (ortalamaları toplama); 75 (onlar basamağında elde/borç hatası (+10)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: ortalama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-121",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "11! / 9! işleminin sonucu kaçtır?",
+    "options": {
+      "A": "99",
+      "B": "21",
+      "C": "9",
+      "D": "110",
+      "E": "2"
+    },
+    "answer": "D",
+    "solution": "11! = 11·10·9! olduğundan sonuç 11·10 = 110. Çeldiriciler: 2 (n!/(n−2)! ifadesini 2 sanma); 9 (paydadaki sayıyı sonuç sanma); 99 (ardışık çarpanı yanlış yazma); 21 (çarpma yerine toplama yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: faktöriyel"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-122",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "n bir pozitif tam sayı olmak üzere (n + 1)! / (n − 1)! = 30 ise n kaçtır?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "6",
+      "D": "15",
+      "E": "25"
+    },
+    "answer": "A",
+    "solution": "(n+1)! = (n+1)·n·(n−1)! olduğundan (n+1)·n = 30 ⇒ n = 5. Çeldiriciler: 6 (çarpanlardan büyüğünü n sanma); 7 (iki fazla sayma); 15 (sonucu ikiye bölme); 25 (çarpanı çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: faktöriyel"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-123",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "0! + 1! + 2! + 3! + 4! + 5! + 6! toplamı kaçtır?",
+    "options": {
+      "A": "720",
+      "B": "21",
+      "C": "154",
+      "D": "874",
+      "E": "872"
+    },
+    "answer": "D",
+    "solution": "0! = 1 olduğundan toplam 1 + 1 + 2 + 6 + 24 + 120 + 720 = 874. Çeldiriciler: 872 (0! değerini 0 sanma); 21 (faktöriyeller yerine sayıları toplama); 720 (yalnız son terimi alma); 154 (son terimi hesaba katmama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: faktöriyel"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-124",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "35! sayısının sonunda kaç tane sıfır vardır?",
+    "options": {
+      "A": "7",
+      "B": "10",
+      "C": "17",
+      "D": "3",
+      "E": "8"
+    },
+    "answer": "E",
+    "solution": "Sondaki sıfır sayısı 5 çarpanı sayısıdır: 35//5 + 35//25 = 7 + 1 = 8. Çeldiriciler: 7 (yalnız 5'in katlarını sayma); 3 (10'un katlarını sayma); 10 (5 ve 10'un katlarını birlikte sayma); 17 (çift sayıları sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: faktöriyel"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-125",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "7! − 6! işleminin sonucu kaçtır?",
+    "options": {
+      "A": "120",
+      "B": "5.760",
+      "C": "720",
+      "D": "4.320",
+      "E": "3.600"
+    },
+    "answer": "D",
+    "solution": "7! = 7·6! ⇒ 7! − 6! = 6!·(7 − 1) = 720·6 = 4320. Çeldiriciler: 720 (farkı ilk faktöriyel sanma); 3.600 (ortak çarpanda (k+1)−1 yerine k−1 alma); 120 (sonucu daha küçük bir faktöriyel sanma); 5.760 (ortak çarpanda toplama yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: faktöriyel"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-126",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "n bir doğal sayı olmak üzere n! / (n − 3)! = 210 ise n kaçtır?",
+    "options": {
+      "A": "8",
+      "B": "30",
+      "C": "7",
+      "D": "6",
+      "E": "9"
+    },
+    "answer": "C",
+    "solution": "n! = n·(n−1)·(n−2)·(n−3)! olduğundan n(n−1)(n−2) = 210 ⇒ n = 7. Çeldiriciler: 6 (çarpanlardan ortadakini n sanma); 8 (bir fazla sayma); 30 (sonucu n'e bölme); 9 (iki fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: faktöriyel"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-127",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "72 sayısının kaç tane pozitif tam böleni vardır?",
+    "options": {
+      "A": "5",
+      "B": "2",
+      "C": "7",
+      "D": "12",
+      "E": "6"
+    },
+    "answer": "D",
+    "solution": "72 = 2³·3²; bölen sayısı (3+1)·(2+1) = 12. Çeldiriciler: 6 (üslerin çarpımını alma (1 eklemeyi unutma)); 7 (üs+1 değerlerini toplama); 5 (asal çarpan sayısını (üslerin toplamını) bölen sayısı sanma); 2 (farklı asal çarpan sayısını alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: asal sayılar ve tam bölenler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-128",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "20 sayısının pozitif tam bölenlerinin toplamı kaçtır?",
+    "options": {
+      "A": "22",
+      "B": "42",
+      "C": "41",
+      "D": "7",
+      "E": "21"
+    },
+    "answer": "B",
+    "solution": "20 sayısının pozitif bölenleri: 1, 2, 4, 5, 10, 20; toplamları 42. Çeldiriciler: 22 (N'nin kendisini toplamdan çıkarma (öz bölenler)); 41 (1'i toplamdan çıkarma); 7 (yalnız asal bölenleri toplama); 21 (yalnızca 1 ve N'yi toplama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: asal sayılar ve tam bölenler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-129",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "12 sayısının kaç tane pozitif çift tam böleni vardır?",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "4",
+      "D": "6",
+      "E": "3"
+    },
+    "answer": "C",
+    "solution": "12 = 2²·3¹; çift bölenlerde 2'nin üssü 1…2 olmalı: 2·(1+1)·1 = 4. Çeldiriciler: 2 (tek bölenleri sayma); 3 (bir eksik sayma); 6 (tüm bölenleri çift bölen sanma); 5 (yalnız N'yi dışarıda bırakma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: asal sayılar ve tam bölenler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-130",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "330 sayısının asal bölenlerinin toplamı kaçtır?",
+    "options": {
+      "A": "21",
+      "B": "864",
+      "C": "19",
+      "D": "11",
+      "E": "4"
+    },
+    "answer": "A",
+    "solution": "330 = 2·3·5·11; asal bölenler: 2, 3, 5, 11; toplam 21. Çeldiriciler: 11 (yalnız en büyük asal böleni alma); 4 (asal bölen sayısını alma); 19 (en küçük asalı atlama); 864 (tüm bölenleri toplama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: asal sayılar ve tam bölenler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-131",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "12 ile 40 arasında kaç tane asal sayı vardır?",
+    "options": {
+      "A": "14",
+      "B": "9",
+      "C": "7",
+      "D": "8",
+      "E": "6"
+    },
+    "answer": "C",
+    "solution": "12 ile 40 arasındaki asal sayılar: 13, 17, 19, 23, 29, 31, 37 → 7 tane. Çeldiriciler: 6 (bir asal sayıyı atlama); 14 (tek sayıların hepsini asal sayma); 8 (bir asal sayıyı fazladan sayma); 9 (iki asal sayıyı fazladan sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: asal sayılar ve tam bölenler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-132",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Toplamları 48 olan iki asal sayının çarpımı en çok kaç olabilir?",
+    "options": {
+      "A": "551",
+      "B": "92",
+      "C": "48",
+      "D": "215",
+      "E": "549"
+    },
+    "answer": "A",
+    "solution": "48 = 5+43, 7+41, 11+37, 17+31, 19+29 (asal çiftler); çarpımlar 215, 287, 407, 527, 551; en büyüğü 551. Çeldiriciler: 215 (çarpımın en küçük değerini alma); 92 (2 ile S−2'nin çarpımını alma); 549 (çarpımı bir eksik hesaplama); 48 (toplamı çarpım sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: asal sayılar ve tam bölenler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-133",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "150·k sayısı bir tam kare olduğuna göre pozitif tam sayı k'nin en küçük değeri kaçtır?",
+    "options": {
+      "A": "12",
+      "B": "30",
+      "C": "7",
+      "D": "6",
+      "E": "10"
+    },
+    "answer": "D",
+    "solution": "150 = 2·3·5²; üsleri tek olan asallar (2, 3) eklenmeli ⇒ k = 6. Çeldiriciler: 12 (çarpanı iki katına çıkarma); 10 (asal çarpanları toplama); 7 (bir fazla alma); 30 (tüm asal çarpanların çarpımını alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: asal sayılar ve tam bölenler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-134",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "n bir doğal sayı olmak üzere 2ⁿ·5 sayısının 8 tane pozitif tam böleni vardır. Buna göre n kaçtır?",
+    "options": {
+      "A": "8",
+      "B": "3",
+      "C": "4",
+      "D": "6",
+      "E": "5"
+    },
+    "answer": "B",
+    "solution": "5 asal ve 2'den farklı olduğundan bölen sayısı (n+1)·2 = 8 ⇒ n + 1 = 4 ⇒ n = 3. Çeldiriciler: 4 (bölen sayısındaki çarpanı n sanma); 6 (bölen sayısından 2 çıkarma); 5 (iki fazla sayma); 8 (bölen sayısını n sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: asal sayılar ve tam bölenler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-135",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Ardışık beş çift doğal sayının toplamı 170 olduğuna göre bu sayıların en büyüğü ile en küçüğünün toplamı kaçtır?",
+    "options": {
+      "A": "30",
+      "B": "8",
+      "C": "34",
+      "D": "38",
+      "E": "68"
+    },
+    "answer": "E",
+    "solution": "Ortadaki sayı 170/5 = 34; sayılar ortaya göre simetrik olduğundan en büyük ile en küçüğün toplamı ortadaki sayının iki katıdır: 2·34 = 68. Çeldiriciler: 34 (ortadaki sayıyı (ortalamayı) sonuç sanma); 38 (yalnız en büyük sayıyı alma); 30 (yalnız en küçük sayıyı alma); 8 (toplam yerine fark alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: temel kavramlar (tek-çift, ardışık sayılar)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-136",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Ardışık iki pozitif tam sayının çarpımı 756 olduğuna göre bu sayıların toplamı kaçtır?",
+    "options": {
+      "A": "56",
+      "B": "57",
+      "C": "28",
+      "D": "27",
+      "E": "55"
+    },
+    "answer": "E",
+    "solution": "27·28 = 756 olduğundan sayılar 27 ve 28; toplam 55. Çeldiriciler: 27 (küçük sayıyı toplam sanma); 28 (büyük sayıyı toplam sanma); 56 (toplamda bir fazla alma); 57 (sayıları ardışık üç sayı sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: temel kavramlar (tek-çift, ardışık sayılar)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-137",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Üç basamaklı en büyük tek sayı ile iki basamaklı en küçük tek sayının farkı kaçtır?",
+    "options": {
+      "A": "987",
+      "B": "988",
+      "C": "989",
+      "D": "1.010",
+      "E": "998"
+    },
+    "answer": "B",
+    "solution": "üç basamaklı en büyük tek sayı 999, iki basamaklı en küçük tek sayı 11; farkı 999 − 11 = 988. Çeldiriciler: 987 (ilk sayıda çift/tek ayrımını karıştırma); 1.010 (toplama ve çıkarma işlemini karıştırma); 989 (ikinci sayıda çift/tek ayrımını karıştırma); 998 (basamak değerini yanlış alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: temel kavramlar (tek-çift, ardışık sayılar)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-138",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "−5 ile 7 arasındaki (bu sayılar hariç) tüm tam sayıların toplamı kaçtır?",
+    "options": {
+      "A": "11",
+      "B": "13",
+      "C": "21",
+      "D": "1",
+      "E": "6"
+    },
+    "answer": "A",
+    "solution": "−4'den 6'e kadar sayılar toplanır; −4…4 birbirini götürür, kalan 5…6 sayılarının toplamı 11. Çeldiriciler: 6 (alt sınırı dâhil etme); 1 (terimleri toplamak yerine uçların farkını alma); 13 (uç sayıları da toplama dâhil etme); 21 (yalnız pozitif tam sayıları toplama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: temel kavramlar (tek-çift, ardışık sayılar)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-139",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "İlk 12 pozitif tek tam sayının toplamı kaçtır?",
+    "options": {
+      "A": "144",
+      "B": "132",
+      "C": "23",
+      "D": "156",
+      "E": "276"
+    },
+    "answer": "A",
+    "solution": "1 + 3 + 5 + … + 23 (ilk 12 tek sayı) toplamı 12² = 144. Çeldiriciler: 132 (bir terim eksik çift toplamı alma); 23 (son terimi toplam sanma); 156 (ilk pozitif çift sayıların toplamını alma); 276 (son terimle terim sayısını çarpma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: temel kavramlar (tek-çift, ardışık sayılar)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-140",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Ardışık üç pozitif tam sayının toplamı 24 olduğuna göre bu sayıların çarpımı kaçtır?",
+    "options": {
+      "A": "512",
+      "B": "504",
+      "C": "720",
+      "D": "560",
+      "E": "336"
+    },
+    "answer": "B",
+    "solution": "Ortadaki sayı 24/3 = 8; sayılar 7, 8, 9; çarpım 504. Çeldiriciler: 336 (ortadaki sayıyı en büyük sanma); 512 (üç sayıyı da ortadaki sayıya eşitleme); 720 (ortadaki sayıyı en küçük sanma); 560 (ardışık olmayan sayılarla çarpma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: temel kavramlar (tek-çift, ardışık sayılar)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-141",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Gerçel sayılar kümesi üzerinde ⊕ işlemi, a ⊕ b = 2a − 2b + 3 biçiminde tanımlanıyor.\n\nÖrneğin, 7 ⊕ 2 = 2·7 − 2·2 + 3 = 13 olur.\n\nBuna göre (2 ⊕ 4) ⊕ 1 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "−4",
+      "B": "−11",
+      "C": "15",
+      "D": "−2",
+      "E": "−1"
+    },
+    "answer": "E",
+    "solution": "2 ⊕ 4 = 2·2 − 2·4 + 3 = -1; sonra -1 ⊕ 1 = 2·-1 − 2·1 + 3 = -1. Çeldiriciler: −11 (işlemin sırasını değiştirme: u ⊕ (v ⊕ w)); −4 (sabit terimi son adımda unutma); −2 (ikinci adımda kuralı uygulamayıp doğrudan çıkarma); 15 (ilk işlemde sayıların yerini değiştirme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: tanımlı işlem (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-142",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Gerçel sayılar kümesi üzerinde ∘ işlemi,\n\na ∘ b = { 3a − b ,  a ≥ b ise ;  a + 2b ,  a < b ise }\n\nbiçiminde tanımlanıyor.\n\nÖrneğin, 7 ∘ 4 = 17 ve 4 ∘ 10 = 24 olur.\n\nBuna göre (4 ∘ 6) ∘ 5 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "43",
+      "B": "26",
+      "C": "30",
+      "D": "14",
+      "E": "6"
+    },
+    "answer": "A",
+    "solution": "4 ∘ 6: a < b olduğundan 16; 16 ∘ 5: a ≥ b olduğundan 43. Çeldiriciler: 30 (işlem sırasını değiştirme); 14 (ilk adımda sayıların yerini değiştirme); 6 (ilk adımda yanlış koşulu seçme); 26 (ikinci adımda yanlış koşulu seçme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: tanımlı işlem (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-143",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Gerçel sayılar kümesi üzerinde ★ işlemi, x ★ y = 3x + 2y + 2 biçiminde tanımlanıyor.\n\nÖrneğin, 3 ★ 5 = 3·3 + 2·5 + 2 = 21 olur.\n\nBuna göre (a ★ 4) = (5 ★ a) eşitliğini sağlayan a gerçel sayısı kaçtır?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "5",
+      "D": "1",
+      "E": "4"
+    },
+    "answer": "A",
+    "solution": "a ★ 4 = 3a + 8 + 2 ve 5 ★ a = 15 + 2a + 2; eşitlikten (3 − 2)a = 15 − 8 ⇒ a = 7. Çeldiriciler: 4 (eşitlikteki sayılardan birini cevap sanma); 5 (eşitlikteki diğer sayıyı cevap sanma); 6 (bir eksik sayma); 1 (iki sayının farkını alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: tanımlı işlem (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-144",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Gerçel sayılar kümesi üzerinde tanımlı Δ işlemi her a ve b gerçel sayısı için\n\n3(a Δ b) + 4(b Δ a) = 2(b² − a²)\n\neşitliğini sağlıyor.\n\nBuna göre (4 Δ 8) işleminin sonucu kaçtır?",
+    "options": {
+      "A": "160",
+      "B": "96",
+      "C": "8",
+      "D": "−32",
+      "E": "−96"
+    },
+    "answer": "E",
+    "solution": "(a Δ b) = x, (b Δ a) = y diyelim: 3x + 4y = 2(b² − a²) ve a ile b yer değiştirince 3y + 4x = 2(a² − b²). İki denklemi taraf tarafa çıkarıp çözünce a Δ b = 2(b² − a²)/(3 − 4) olur; (4 Δ 8) = -96. Çeldiriciler: 96 (işaretini ters alma (bΔa değerini bulma)); −32 (b² − a² yerine (b − a)² alma); 8 (kare almayı unutma); 160 (farkı toplam yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: tanımlı işlem (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-145",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Tam sayılar kümesi üzerinde ◆ işlemi, a ◆ b = a + b + 2ab biçiminde tanımlanıyor.\n\nÖrneğin, 2 ◆ 2 = 2 + 2 + 2·2·2 = 12 olur.\n\nBuna göre (x ◆ 5) = 49 eşitliğini sağlayan x tam sayısı kaçtır?",
+    "options": {
+      "A": "8",
+      "B": "5",
+      "C": "34",
+      "D": "44",
+      "E": "4"
+    },
+    "answer": "E",
+    "solution": "x + 5 + 2·x·5 = 49 ⇒ x(1 + 10) = 44 ⇒ x = 4. Çeldiriciler: 44 (çarpım terimini hesaba katmama); 5 (bir fazla sayma); 8 (paydada k'yı unutma); 34 (çarpım terimini yanlış çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: tanımlı işlem (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-146",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Dört basamaklı ABCD doğal sayısının kodu aşağıdaki kurala göre hesaplanıyor:\n\n• A > C ise (A − C)·(B + D), A ≤ C ise B·D − (C − A)\n\nÖrneğin, 8669 sayısında A = 8, B = 6, C = 6, D = 9 olduğundan kod 30 olarak bulunur.\n\nBuna göre 4677 sayısının kodu kaçtır?",
+    "options": {
+      "A": "24",
+      "B": "39",
+      "C": "30",
+      "D": "11",
+      "E": "32"
+    },
+    "answer": "B",
+    "solution": "4677 için A = 4, B = 6, C = 7, D = 7; kural uygulanınca kod 39 bulunur. Çeldiriciler: 30 (örnekteki değeri sonuç sanma); 11 (rakamların sırasını ters okuma); 24 (rakamları toplama); 32 (kural sonucundan D'yi çıkarma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kod ve kural senaryoları (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-147",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Dört basamaklı ABCD doğal sayısının kodu aşağıdaki kurala göre hesaplanıyor:\n\n• A > C ise (A − C)·(B + D), A ≤ C ise B·D − (C − A)\n\nÖrneğin, 8669 sayısında A = 8, B = 6, C = 6, D = 9 olduğundan kod 30 olarak bulunur.\n\n4B01 sayısının kodu 28 olduğuna göre B kaçtır?",
+    "options": {
+      "A": "7",
+      "B": "5",
+      "C": "1",
+      "D": "4",
+      "E": "6"
+    },
+    "answer": "E",
+    "solution": "Kural uygulandığında kodun 28 olması için B = 6 bulunur (0–9 arasında başka değer kodu 28 yapmaz). Çeldiriciler: 5 (bir eksik sayma); 1 (rakamı yanlış tamamlama); 4 (ilk rakamı cevap sanma); 7 (bir fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kod ve kural senaryoları (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-148",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir yarışmada plaka numarası ABCD biçiminde dört basamaklı bir doğal sayı olan her araca, aşağıdaki kurala göre puan veriliyor:\n\n• A ≥ D ise (A − D)·(B + C), A < D ise B·C + (D − A)\n\nÖrneğin, plaka numarası 6760 olan araçta A = 6, B = 7, C = 6, D = 0 olduğundan araç 78 puan alır.\n\nBuna göre plaka numarası 1815 olan araç kaç puan alır?",
+    "options": {
+      "A": "12",
+      "B": "40",
+      "C": "36",
+      "D": "15",
+      "E": "78"
+    },
+    "answer": "A",
+    "solution": "1815 için A = 1, B = 8, C = 1, D = 5; kural uygulanınca kod 12 bulunur. Çeldiriciler: 40 (başka bir kuralı uygulama); 78 (örnekteki değeri sonuç sanma); 36 (rakamların sırasını ters okuma); 15 (rakamları toplama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kod ve kural senaryoları (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-149",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir yarışmada plaka numarası ABCD biçiminde dört basamaklı bir doğal sayı olan her araca, aşağıdaki kurala göre puan veriliyor:\n\n• A ≥ D ise (A − D)·(B + C), A < D ise B·C + (D − A)\n\nÖrneğin, plaka numarası 6760 olan araçta A = 6, B = 7, C = 6, D = 0 olduğundan araç 78 puan alır.\n\nPlaka numarası 4B29 olan aracın puanı 15 olduğuna göre B kaçtır?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "2",
+      "E": "6"
+    },
+    "answer": "C",
+    "solution": "Kural uygulandığında kodun 15 olması için B = 5 bulunur (0–9 arasında başka değer kodu 15 yapmaz). Çeldiriciler: 4 (bir eksik sayma); 2 (karşı konumdaki rakamı alma); 3 (iki eksik sayma); 6 (bir fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kod ve kural senaryoları (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-150",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir doğal sayının farklı asal çarpanlarının toplamına o sayının asal ağırlığı denir.\n\nÖrneğin, 60 = 2²·3·5 olduğundan 60 sayısının asal ağırlığı 2 + 3 + 5 = 10'dir.\n\nBuna göre asal ağırlığı 13 olan kaç tane iki basamaklı doğal sayı vardır?",
+    "options": {
+      "A": "8",
+      "B": "7",
+      "C": "40",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "solution": "İki basamaklı sayılardan farklı asal çarpanlarının toplamı 13 olanlar: 13, 22, 44, 88 → 4 tane. Çeldiriciler: 8 (asal çarpanları tekrar sayılarıyla toplama); 40 (ağırlığı en çok w olanları sayma); 5 (bir sayıyı fazla sayma); 7 (w asal çarpan olanları sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kod ve kural senaryoları (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-151",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Üç basamaklı ABC doğal sayısının fark kodu, |A − B| + |B − C| işlemiyle bulunuyor.\n\nÖrneğin, 258 sayısının fark kodu |2 − 5| + |5 − 8| = 6 olur.\n\nBuna göre fark kodu 1 olan kaç tane üç basamaklı doğal sayı vardır?",
+    "options": {
+      "A": "25",
+      "B": "62",
+      "C": "34",
+      "D": "43",
+      "E": "72"
+    },
+    "answer": "C",
+    "solution": "|A − B| + |B − C| = 1 olacak biçimde üç basamaklı sayılar sayılır; toplam 34 tanedir. Çeldiriciler: 25 (A = B = C sayılarını fazla çıkarma); 43 (kodu en çok 1 olanları sayma); 62 (bir fazla kodu sayma); 72 (yalnız bir koşulu sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kod ve kural senaryoları (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-152",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Gerçel sayılar kümesi üzerinde tanımlı f fonksiyonu her x gerçel sayısı için\n\nf(2x + 2) = 3x + 0\n\neşitliğini sağlıyor.\n\nBuna göre f(10) değeri kaçtır?",
+    "options": {
+      "A": "24",
+      "B": "4",
+      "C": "18",
+      "D": "12",
+      "E": "30"
+    },
+    "answer": "D",
+    "solution": "2x + 2 = 10 ⇒ x = 4; f(10) = 3·4 + 0 = 12. Çeldiriciler: 4 (katsayıyı unutma); 30 (c'yi doğrudan x yerine yazma); 24 (bölmeyi unutma: (c − n)'yi m'ye bölmeme); 18 (sabit terimin işaretini ters alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: fonksiyonlar (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-153",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Gerçel sayılar kümesi üzerinde tanımlı f ve g fonksiyonları, a bir gerçel sayı olmak üzere\n\nf(x) = 3x + a    ve    g(x) = 2x − 1\n\nbiçimindedir.\n\n(f ∘ g)(4) = 17 olduğuna göre a kaçtır?",
+    "options": {
+      "A": "−6",
+      "B": "17",
+      "C": "5",
+      "D": "−5",
+      "E": "−4"
+    },
+    "answer": "E",
+    "solution": "g(4) = 7; f(7) = 3·7 + a = 17 ⇒ a = -4. Çeldiriciler: −6 ((g ∘ f) bileşkesini kullanma); −5 (bir eksik sayma); 5 (g'yi hesaba katmama); 17 (sonucu a sanma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: fonksiyonlar (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-154",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Doğrusal bir f fonksiyonu için f(2) = 4 ve f(4) = 10 olarak veriliyor.\n\nBuna göre f(7) değeri kaçtır?",
+    "options": {
+      "A": "19",
+      "B": "16",
+      "C": "18",
+      "D": "14",
+      "E": "17"
+    },
+    "answer": "A",
+    "solution": "Eğim (10 − 4)/(4 − 2) = 3; f(x) = 3x − 2; f(7) = 19. Çeldiriciler: 16 (bir sonraki değeri aynı artışla tahmin etme); 14 (orantı kurma); 18 (bir eksik sayma); 17 (doğru orantı kurma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: fonksiyonlar (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-155",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Gerçel sayılar kümesi üzerinde tanımlı f(x) = 2x − 3 fonksiyonu için f⁻¹(-1) değeri kaçtır?",
+    "options": {
+      "A": "2",
+      "B": "−2",
+      "C": "0",
+      "D": "−5",
+      "E": "1"
+    },
+    "answer": "E",
+    "solution": "f⁻¹(-1) = a ise f(a) = -1: 2a − 3 = -1 ⇒ a = 1. Çeldiriciler: −5 (ters fonksiyon yerine f(c) hesaplama); −2 (sabit terimin işaretini ters alma); 0 (bir eksik sayma); 2 (katsayıya bölmeyi unutma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: fonksiyonlar (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-156",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "A ve B sonlu kümeleri için s(A \\ B) = 2s(B \\ A), s(A ∩ B) = 7 ve s(A ∪ B) = 13 olduğuna göre s(A) kaçtır?",
+    "options": {
+      "A": "6",
+      "B": "9",
+      "C": "4",
+      "D": "12",
+      "E": "11"
+    },
+    "answer": "E",
+    "solution": "B \\ A = z olsun: A \\ B = 2z, A ∩ B = 7; 2z + 7 + z = 13 ⇒ z = 2; s(A) = 2z + 7 = 11. Çeldiriciler: 4 (yalnız A \\ B'yi alma); 9 (s(B)'yi bulma); 6 (arakesiti çıkarma); 12 (bir fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler ve Venn (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-157",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "A, B ve C sonlu kümeleri için\n\ns(A) = 21,  s(B) = 10,  s(C) = 16\n\ns(A ∩ B) = 5,  s(A ∩ C) = 11,  s(B ∩ C) = 4,  s(A ∩ B ∩ C) = 3\n\nolduğuna göre yalnız bir kümede bulunan eleman sayısı kaçtır?",
+    "options": {
+      "A": "19",
+      "B": "27",
+      "C": "16",
+      "D": "30",
+      "E": "47"
+    },
+    "answer": "C",
+    "solution": "A'da yalnız 21 − 5 − 11 + 3 = 8, B'de yalnız 10 − 5 − 4 + 3 = 4, C'de yalnız 16 − 11 − 4 + 3 = 4 eleman vardır; toplam 16. Çeldiriciler: 27 (kesişimleri yalnız bir kez çıkarma); 47 (tüm elemanları toplama); 19 (üçlü kesişimi de yalnız bir kümede sayma); 30 (birleşim ile karıştırma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler ve Venn (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-158",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "A, B ve C sonlu kümeleri için\n\ns(A) = 25,  s(B) = 15,  s(C) = 20\n\ns(A ∩ B) = 11,  s(A ∩ C) = 12,  s(B ∩ C) = 7,  s(A ∩ B ∩ C) = 4\n\nolduğuna göre s(A ∪ B ∪ C) kaçtır?",
+    "options": {
+      "A": "34",
+      "B": "38",
+      "C": "26",
+      "D": "30",
+      "E": "60"
+    },
+    "answer": "A",
+    "solution": "s(A ∪ B ∪ C) = 25 + 15 + 20 − 11 − 12 − 7 + 4 = 34. Çeldiriciler: 30 (üçlü kesişimi eklemeyi unutma); 26 (üçlü kesişimi çıkarma); 38 (üçlü kesişimi iki kez ekleme); 60 (kesişimleri çıkarmama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler ve Venn (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-159",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "E evrensel kümesi için s(E) = 40, s(A) = 22, s(B) = 19 ve s(A' ∩ B') = 6 olduğuna göre s(A ∩ B) kaçtır?",
+    "options": {
+      "A": "7",
+      "B": "35",
+      "C": "34",
+      "D": "8",
+      "E": "1"
+    },
+    "answer": "A",
+    "solution": "s(A ∪ B) = 40 − 6 = 34; s(A ∩ B) = 22 + 19 − 34 = 7. Çeldiriciler: 1 (evrensel kümeyi birleşim sanma); 34 (birleşimi arakesit sanma); 35 (tümleyen elemanını yanlış kullanma); 8 (bir fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: kümeler ve Venn (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-160",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir kütüphane, okuma etkinliği için 4 roman ve 7 şiir kitabı arasından 2 roman ve 2 şiir kitabı seçerek bir okuma listesi hazırlayacaktır.\n\nBuna göre bu liste kaç farklı biçimde hazırlanabilir?",
+    "options": {
+      "A": "330",
+      "B": "252",
+      "C": "504",
+      "D": "126",
+      "E": "210"
+    },
+    "answer": "D",
+    "solution": "C(4,2)·C(7,2) = 6·21 = 126. Çeldiriciler: 330 (romanlar ve şiirleri ayırmadan seçme); 504 (kombinasyon yerine permütasyon kullanma); 252 (gereksiz bir ikiyle çarpma); 210 (bir şiir kitabı fazla seçme).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: permütasyon ve kombinasyon (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-161",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir kitap fuarında 7 farklı roman ve 4 farklı sözlük sergilenmektedir. Bir okur bu kitaplardan romanlardan en çok 1, sözlüklerden en az 2 tanesini seçerek bir paket oluşturacaktır.\n\nBuna göre okur bu paketi kaç farklı biçimde oluşturabilir?",
+    "options": {
+      "A": "19",
+      "B": "88",
+      "C": "40",
+      "D": "77",
+      "E": "42"
+    },
+    "answer": "B",
+    "solution": "Romanlar: C(7,0) + C(7,1) = 8; sözlükler: C(4,2) + C(4,3) + C(4,4) = 11; toplam 8·11 = 88. Çeldiriciler: 77 (romanlarda hiç seçmeme durumunu atlama); 40 (tam k2 seçimi atlama); 42 (yalnız sınır durumunu sayma); 19 (çarpma yerine toplama yapma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: permütasyon ve kombinasyon (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-162",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir fotoğraf çekiminde 7 arkadaş yan yana bir sıraya dizilecektir.\n\nBu arkadaşlardan Selin ile Emre'nin yan yana kaç farklı dizilişi vardır?",
+    "options": {
+      "A": "2.520",
+      "B": "3.600",
+      "C": "5.040",
+      "D": "2.160",
+      "E": "1.440"
+    },
+    "answer": "E",
+    "solution": "İkisi tek kişi gibi düşünülür: 2·6! = 1440. Çeldiriciler: 5.040 (koşulu hesaba katmama); 3.600 (yan yana ve değil durumlarını karıştırma); 2.520 (yanlış bölme); 2.160 (iki durumu toplama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: permütasyon ve kombinasyon (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-163",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "0, 1, 2, 3, 4, 5 rakamları kullanılarak, rakamları birbirinden farklı üç basamaklı kaç tane çift doğal sayı yazılabilir?",
+    "options": {
+      "A": "120",
+      "B": "52",
+      "C": "50",
+      "D": "60",
+      "E": "40"
+    },
+    "answer": "B",
+    "solution": "Sonu 0 olanlar: 20; sonu 0'dan farklı çift olanlar: 2·4·4 = 32; toplam 52. Çeldiriciler: 50 (yarıya bölme); 40 (sonu sıfır olanları atlama); 120 (sıfırla başlama ve çift koşulunu hesaba katmama); 60 (baştaki sıfır kısıtını yok sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: permütasyon ve kombinasyon (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-164",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir toplantıya katılan kişilerin her biri, diğer kişilerin her biriyle birer kez el sıkışmıştır. Toplam 55 el sıkışma yapıldığına göre toplantıya kaç kişi katılmıştır?",
+    "options": {
+      "A": "10",
+      "B": "27",
+      "C": "5",
+      "D": "12",
+      "E": "11"
+    },
+    "answer": "E",
+    "solution": "C(n,2) = n(n − 1)/2 = 55 ⇒ n = 11. Çeldiriciler: 10 (bir eksik sayma); 5 (toplamı kişi sayısına bölme); 27 (toplamı ikiye bölme); 12 (bir fazla sayma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: permütasyon ve kombinasyon (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-165",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir torbada 4 mavi ve 6 kırmızı top bulunmaktadır.\n\nTorbadan rastgele ve birlikte iki top çekiliyor.\n\nBuna göre çekilen topların aynı renkte olma olasılığı kaçtır?",
+    "options": {
+      "A": "7/15",
+      "B": "2/15",
+      "C": "8/15",
+      "D": "1/3",
+      "E": "13/25"
+    },
+    "answer": "A",
+    "solution": "Aynı renk: C(4,2) + C(6,2) = 21; tüm durumlar C(10,2) = 45; olasılık 7/15. Çeldiriciler: 2/15 (yalnız mavi topları sayma); 1/3 (yalnız kırmızı topları sayma); 13/25 (iade ile (bağımsız) çekiliş gibi hesaplama); 8/15 (farklı renk olasılığını bulma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: olasılık (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-166",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir torbada 4 mavi ve 6 kırmızı top bulunmaktadır.\n\nTorbadan rastgele ve birlikte iki top çekiliyor.\n\nBuna göre çekilen toplardan en az birinin mavi olma olasılığı kaçtır?",
+    "options": {
+      "A": "2/15",
+      "B": "8/15",
+      "C": "1/3",
+      "D": "2/3",
+      "E": "2/5"
+    },
+    "answer": "D",
+    "solution": "Hiç mavi çıkmama: C(6,2) = 15 durum, tüm durumlar C(10,2) = 45; en az bir mavi: 1 − 15/45 = 2/3. Çeldiriciler: 2/15 (yalnız iki mavi top çekilme durumunu alma); 8/15 (yalnız bir mavi top çekilme durumunu alma); 2/5 (tek çekiliş gibi hesaplama); 1/3 (hiç mavi çekilmeme olasılığını bulma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: olasılık (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-167",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Birbirinden bağımsız iki hilesiz zar aynı anda atılıyor.\n\nBuna göre üst yüze gelen sayıların toplamlarının 3'ün katı olması olasılığı kaçtır?",
+    "options": {
+      "A": "11/36",
+      "B": "2/3",
+      "C": "4/7",
+      "D": "1/3",
+      "E": "13/36"
+    },
+    "answer": "D",
+    "solution": "Toplam 36 durumun 12 tanesi koşulu sağlar; olasılık 12/36 = 1/3. Çeldiriciler: 11/36 (bir durumu eksik sayma); 4/7 (sırasız çiftlerle paydayı 21 alma); 13/36 (bir durumu fazla sayma); 2/3 (tümleyen olasılığı bulma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: olasılık (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-168",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "Bir atıcının hedefi vurma olasılığı 2/3, ikinci bir atıcının hedefi vurma olasılığı 3/4'dir. İki atıcı birbirinden bağımsız olarak birer atış yapıyor.\n\nBuna göre yalnız birinin hedefi vurma olasılığı kaçtır?",
+    "options": {
+      "A": "5/12",
+      "B": "11/12",
+      "C": "1/6",
+      "D": "1/12",
+      "E": "1/2"
+    },
+    "answer": "A",
+    "solution": "Yalnız biri: p₁(1 − p₂) + (1 − p₁)p₂ = 5/12. Çeldiriciler: 1/12 (hiçbirinin vurmama olasılığını bulma); 1/6 (yalnız ilk atıcının vurma durumunu alma); 1/2 (iki atıcının da vurma olasılığını bulma); 11/12 (iki durumu karıştırma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: olasılık (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-tmm-169",
+    "ders": "sayisal_yetenek",
+    "konu": "temel_matematik",
+    "stem": "1'den 15'e kadar numaralanmış 15 özdeş top bir torbaya konuluyor. Torbadan rastgele bir top çekiliyor.\n\nBuna göre çekilen topun numarasının çift sayı veya 5'in katı olması olasılığı kaçtır?",
+    "options": {
+      "A": "2/3",
+      "B": "3/5",
+      "C": "8/15",
+      "D": "9/16",
+      "E": "9/14"
+    },
+    "answer": "B",
+    "solution": "Uygun numaralar 2, 4, 5, 6, 8, 10, 12, 14, 15 (9 tane); olasılık 9/15 = 3/5. Çeldiriciler: 8/15 (bir sayıyı eksik sayma); 9/16 (paydayı yanlış alma); 2/3 (bir sayıyı fazla sayma); 9/14 (paydayı bir eksik alma).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel matematik: olasılık (yeni nesil)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

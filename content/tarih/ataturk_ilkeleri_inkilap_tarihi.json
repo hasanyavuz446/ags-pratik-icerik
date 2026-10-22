@@ -1,0 +1,2532 @@
+[
+  {
+    "id": "ags-tar-ink-001",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Osmanlı Devleti, 1912'de Balkan devletleriyle savaşın başlaması üzerine İtalya ile aceleyle bir antlaşma imzalamış ve Trablusgarp ile Bingazi'den fiilen vazgeçmiştir.\n\nBu antlaşma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İstanbul Barış Antlaşması",
+      "B": "Uşi (Ouchy) Antlaşması",
+      "C": "Londra Barış Antlaşması",
+      "D": "Bükreş Barış Antlaşması",
+      "E": "Sevr Barış Antlaşması"
+    },
+    "answer": "B",
+    "solution": "Trablusgarp Savaşı, Balkan Savaşı'nın başlaması üzerine 1912'de imzalanan Uşi (Ouchy) Antlaşması ile sona ermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı'nın yıkılışı: Trablusgarp Savaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-002",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "II. Balkan Savaşı sırasında Edirne ve Kırklareli'ni geri alan Osmanlı Devleti, 1913'te Bulgaristan ile bir antlaşma imzalayarak bu toprakları hukuken elinde tutmuştur.\n\nBu antlaşma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Londra Antlaşması",
+      "B": "Bükreş Antlaşması",
+      "C": "Atina Antlaşması",
+      "D": "Berlin Antlaşması",
+      "E": "İstanbul Antlaşması"
+    },
+    "answer": "E",
+    "solution": "İstanbul Antlaşması (1913) ile Edirne ve Kırklareli Osmanlı'da kalmış; Bükreş Antlaşması ise Balkan devletlerinin kendi aralarında imzaladığı antlaşmadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı'nın yıkılışı: Balkan Savaşları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-003",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Almanya'dan gelen Yavuz ve Midilli adlı savaş gemileri, 1914'te Karadeniz'de Rus limanlarını bombalamıştır.\n\nBu gelişmenin sonucu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İtilaf Devletleri'nin Osmanlı ile ateşkes imzalaması",
+      "B": "Osmanlı Devleti'nin I. Dünya Savaşı'na fiilen girmesi",
+      "C": "Osmanlı Devleti'nin tarafsızlığını ilan ederek savaş dışında kalması",
+      "D": "Boğazlar'ın yabancı gemilere kapatılıp ticaretin durması",
+      "E": "Rusya'nın Osmanlı Devleti ile ittifak antlaşması imzalaması"
+    },
+    "answer": "B",
+    "solution": "Karadeniz'deki Rus limanlarının bombalanmasının ardından Rusya ve diğer İtilaf Devletleri Osmanlı'ya savaş ilan etmiş, Osmanlı fiilen I. Dünya Savaşı'na girmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Osmanlı'nın yıkılışı: savaşa giriş"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-004",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "İtilaf Devletleri, 1915'te Çanakkale Boğazı'nı geçmek için büyük bir saldırı başlatmıştır.\n\nBu girişimin temel amaçları aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mısır'daki Süveyş Kanalı'nı Osmanlı saldırılarından korumak ve Mısır'ı elde tutmak",
+      "B": "Boğazları açarak Rusya ile bağlantı kurmak ve İstanbul'u ele geçirmek",
+      "C": "Irak cephesindeki sıkışmış İngiliz birliklerini kurtarmak ve Bağdat'ı korumak",
+      "D": "Bakü petrol bölgesini Almanya'dan alarak yakıt sorununu çözmek",
+      "E": "Hicaz'daki Arap isyanını desteklemek ve Arap yarımadasını ele geçirmek"
+    },
+    "answer": "B",
+    "solution": "İtilaf Devletleri, Boğazlar'ı geçerek Rusya'ya silah ve yardım ulaştırmayı, İstanbul'u ele geçirip Osmanlı'yı savaş dışı bırakmayı amaçlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "I. Dünya Savaşı: Çanakkale'nin amacı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-005",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi Çanakkale Savaşları'nın sonuçlarından biri değildir?",
+    "options": {
+      "A": "Boğazlar'ın İtilaf donanmasınca geçilememesi",
+      "B": "Rusya'ya yardım ulaştırılamaması",
+      "C": "Osmanlı Devleti'nin savaştan çekilmesi",
+      "D": "Mustafa Kemal'in başarılarıyla tanınması",
+      "E": "Rusya'da ihtilal ortamının hızlanması"
+    },
+    "answer": "C",
+    "solution": "Çanakkale zaferinden sonra Osmanlı Devleti savaşa devam etmiş, savaştan 1918'de Mondros Ateşkesi ile çekilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "I. Dünya Savaşı: Çanakkale'nin sonuçları (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-006",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Rusya'da yönetime gelen Bolşevikler savaştan çekilmiş ve Osmanlı Devleti ile 1918'de bir antlaşma imzalamıştır.\n\nBu antlaşmayla Osmanlı Devleti aşağıdakilerden hangisini elde etmiştir?",
+    "options": {
+      "A": "Kars, Ardahan ve Batum'u geri almıştır",
+      "B": "Edirne ve Kırklareli'ni geri almıştır",
+      "C": "Trabzon ve Erzurum'u geri almıştır",
+      "D": "Bakü petrollerinin işletme hakkını almıştır",
+      "E": "Musul ve Kerkük'ü elde etmiştir"
+    },
+    "answer": "A",
+    "solution": "Brest-Litovsk Antlaşması (3 Mart 1918) ile Rusya, 1878'den beri elinde tuttuğu Kars, Ardahan ve Batum'u Osmanlı Devleti'ne bırakmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "I. Dünya Savaşı: Brest-Litovsk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-007",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "İngiltere ile Fransa, 1916'da Osmanlı topraklarını kendi aralarında paylaşmak üzere gizli bir antlaşma yapmıştır.\n\nBu antlaşma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Brest-Litovsk Antlaşması",
+      "B": "Saint-Jean de Maurienne Antlaşması",
+      "C": "Sazonov-Paléologue Anlaşması",
+      "D": "Londra Antlaşması",
+      "E": "Sykes-Picot Antlaşması"
+    },
+    "answer": "E",
+    "solution": "Sykes-Picot Antlaşması (1916), İngiltere ile Fransa'nın Ortadoğu'daki Osmanlı topraklarını nüfuz bölgelerine ayırdığı gizli anlaşmadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "I. Dünya Savaşı: gizli anlaşmalar"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-008",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Osmanlı Devleti, 1914-1915 kışında Kafkas Cephesi'nde Rusya'ya karşı Sarıkamış Harekâtı'nı yürütmüş ancak ağır kayıplar vererek başarısız olmuştur.\n\nBu başarısızlıkta etkili olan en önemli etken aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ağır kış koşulları ve yetersiz hazırlık",
+      "B": "Çanakkale'deki birliklerin Doğu'ya çekilmesi",
+      "C": "Rus donanmasının Karadeniz'deki üstünlüğü",
+      "D": "Almanya'nın askerî yardım göndermemesi",
+      "E": "Bulgaristan'ın savaşa girmesi"
+    },
+    "answer": "A",
+    "solution": "Sarıkamış Harekâtı'nda şiddetli kış ve soğuk hava, yetersiz donanım ve erzak nedeniyle Osmanlı ordusu çok sayıda kayıp vermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "I. Dünya Savaşı: Sarıkamış Harekâtı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-009",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "İtilaf Devletleri, Osmanlı topraklarını Mondros Ateşkes Antlaşması'ndan sonra işgal ederken güvenliklerini tehdit eden her yeri işgal hakkı veren bir hükme dayanmıştır.\n\nBu hüküm Mondros'un kaçıncı maddesidir?",
+    "options": {
+      "A": "7. madde",
+      "B": "20. madde",
+      "C": "25. madde",
+      "D": "24. madde",
+      "E": "5. madde"
+    },
+    "answer": "A",
+    "solution": "Mondros'un 7. maddesi, İtilaf Devletleri'ne güvenliklerini tehdit eden bir durumda herhangi bir stratejik noktayı işgal hakkı vermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Mondros'un 7. maddesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-010",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi Wilson İlkeleri'nin Osmanlı Devleti'yle ilgili hükümlerinden biridir?",
+    "options": {
+      "A": "Türklerin yaşadığı yerlerin tamamının manda yönetimine bırakılması",
+      "B": "Türklerin çoğunlukta olduğu bölgelerde Türk egemenliğinin sağlanması",
+      "C": "Osmanlı devlet borçlarının Almanya'ya devredilmesi ve silahsızlandırma",
+      "D": "Boğazların İngiltere denetimine bırakılması ve İstanbul'un uluslararası yönetime verilmesi",
+      "E": "Kapitülasyonların genişletilerek yabancılara yeni ayrıcalıklar tanınması"
+    },
+    "answer": "B",
+    "solution": "Wilson İlkeleri, Osmanlı Devleti'nin Türk çoğunluğun yaşadığı kısımlarına egemenlik tanınmasını, diğer milletlere özerk gelişme fırsatı verilmesini öngörür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Wilson İlkeleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-011",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Yunan kuvvetleri 15 Mayıs 1919'da İzmir'i işgal etmiştir.\n\nBu işgalin Anadolu'daki etkisi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Direniş hareketinin hızlanması ve Müdafaa-i Hukuk cemiyetlerinin çoğalması",
+      "B": "Padişahın Anadolu'ya geçerek Millî Mücadele'ye liderlik etmesi",
+      "C": "Osmanlı Devleti'nin Mondros Ateşkesi'ni imzalaması ve ordunun terhis edilmesi",
+      "D": "Sevr Antlaşması'nın imzalanması ve Anadolu'nun işgal bölgelerine bölünmesi",
+      "E": "İstanbul Hükümeti'nin manda isteğini geri çekmesi ve Wilson İlkeleri'ni kabulü"
+    },
+    "answer": "A",
+    "solution": "İzmir'in işgali halkta büyük tepki yaratmış; miting ve protestolar yaygınlaşmış, Müdafaa-i Hukuk cemiyetleri hız kazanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: İzmir'in işgali"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-012",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Mustafa Kemal, 19 Mayıs 1919'da Samsun'a çıkmıştır.\n\nMustafa Kemal'in bu çıkışta üstlendiği resmî görev aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Erzurum Valiliği",
+      "B": "3. Kolordu Komutanlığı",
+      "C": "9. Ordu Müfettişliği",
+      "D": "Harbiye Nazırlığı",
+      "E": "Kuvayı Milliye Başkomutanlığı"
+    },
+    "answer": "C",
+    "solution": "Mustafa Kemal, Osmanlı Hükümeti tarafından 9. Ordu Müfettişi olarak Samsun'a gönderilmiş, bu yetkiyi Anadolu'daki örgütlenmede kullanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Samsun'a çıkış"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-013",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Mustafa Kemal'in Havza'dan yayımladığı genelgede işgalleri protesto etmek üzere halkın yapması istenen etkinlik aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Vergilerin ödenmemesi",
+      "B": "Silahlı ayaklanma başlatılması",
+      "C": "Padişaha heyet gönderilmesi",
+      "D": "Meclis-i Mebusan'ın toplanması",
+      "E": "Mitingler düzenlenmesi"
+    },
+    "answer": "E",
+    "solution": "Havza Genelgesi ile Mustafa Kemal, işgalleri protesto etmek üzere yurdun her yerinde mitingler düzenlenmesini ve telgraflar çekilmesini istemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Havza Genelgesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-014",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "\"Milletin istiklalini yine milletin azim ve kararı kurtaracaktır.\"\n\nBu ifade aşağıdaki belgelerin hangisinde yer almaktadır?",
+    "options": {
+      "A": "Misak-ı Millî",
+      "B": "Amasya Genelgesi",
+      "C": "Sivas Kongresi Kararları",
+      "D": "Erzurum Kongresi Bildirisi",
+      "E": "Havza Genelgesi"
+    },
+    "answer": "B",
+    "solution": "Amasya Genelgesi, Millî Mücadele'nin gerekçesini, amacını ve yöntemini açıklayan belgedir ve bu cümleyi içerir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Amasya Genelgesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-015",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki kararlardan hangileri Erzurum Kongresi'nde alınmıştır?\n\nI. Heyet-i Temsiliye'nin oluşturulması\n\nII. Manda ve himayenin reddedilmesi\n\nIII. Cemiyetlerin tek çatı altında birleştirilmesi",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Erzurum Kongresi'nde Heyet-i Temsiliye seçilmiş ve manda ile himaye kabul edilmemiştir; cemiyetlerin birleştirilmesi Sivas Kongresi'nde gerçekleşmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Erzurum Kongresi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-016",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Sivas Kongresi'nde Anadolu ve Rumeli'deki bölgesel Müdafaa-i Hukuk cemiyetleri hangi yapıda birleştirilmiştir?",
+    "options": {
+      "A": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "B": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "C": "Kuvayı Milliye Müdafaa Cemiyeti",
+      "D": "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti ve Reddi İlhak Birliği",
+      "E": "Millî Kongre ve Wilson İlkeleri Cemiyeti"
+    },
+    "answer": "B",
+    "solution": "Sivas Kongresi'nde bölgesel cemiyetler Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti adı altında birleştirilmiş, Heyet-i Temsiliye'nin yetkileri ülke çapına yayılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Sivas Kongresi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-017",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi Sivas Kongresi'nde alınan kararlardan biri değildir?",
+    "options": {
+      "A": "Manda ve himayenin kesin olarak reddedilmesi ve millî birliğin korunması",
+      "B": "Cemiyetlerin tek çatı altında birleştirilerek örgütlenmenin güçlendirilmesi",
+      "C": "Heyet-i Temsiliye'nin yetkilerinin ülke çapında genişletilmesi",
+      "D": "Millî iradeyi egemen kılmak için Meclis-i Mebusan'ın toplanmasının istenmesi",
+      "E": "Hristiyan azınlıklara egemenliği zedeleyecek ayrıcalıklar tanınması"
+    },
+    "answer": "E",
+    "solution": "Kongre kararlarında Hristiyan azınlıklara siyasi egemenliği ve sosyal dengeyi bozacak ayrıcalıklar verilemeyeceği belirtilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Sivas Kongresi kararları (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-018",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Salih Paşa Hükümeti ile Heyet-i Temsiliye arasında 1919'da yapılan Amasya Görüşmeleri'nin Millî Mücadele açısından en önemli sonucu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mondros Ateşkesi'nin yürürlükten kaldırılması ve işgallerin durdurulması",
+      "B": "İşgal kuvvetlerinin Anadolu'dan çekilmesi ve barış görüşmelerinin başlaması",
+      "C": "Saltanatın kaldırılması ve Meclis-i Mebusan'ın Ankara'ya taşınması",
+      "D": "TBMM'nin açılması ve ilk hükümetin kurulması",
+      "E": "Heyet-i Temsiliye'nin İstanbul Hükümeti tarafından fiilen tanınması"
+    },
+    "answer": "E",
+    "solution": "Amasya Görüşmeleri ile İstanbul Hükümeti, Heyet-i Temsiliye'yi ilk kez fiilen tanımış ve Millî Mücadele hareketi önemli bir siyasi kazanım elde etmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Amasya Görüşmeleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-019",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Meclis-i Mebusan'ın 28 Ocak 1920'de kabul ettiği Misak-ı Millî'ye göre geleceği halkoylamasıyla belirlenecek bölgeler aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Musul, Kerkük ve Süleymaniye bölgesi",
+      "B": "Kıbrıs, Rodos ve On İki Ada adaları",
+      "C": "Kars, Ardahan, Batum ve Batı Trakya",
+      "D": "Edirne, Kırklareli ve Dedeağaç yöresi",
+      "E": "Hatay, İskenderun ve Musul bölgesi"
+    },
+    "answer": "C",
+    "solution": "Misak-ı Millî'ye göre Elviye-i Selase (Kars, Ardahan, Batum) ile Batı Trakya'nın geleceği halkoylamasıyla belirlenecektir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele'ye hazırlık: Misak-ı Millî"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-020",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "TBMM'nin ilk yıllarında yasama ve yürütme yetkileri Meclis'te toplanmıştır.\n\nBu durum aşağıdaki ilkelerden hangisinin göstergesidir?",
+    "options": {
+      "A": "Halkoylaması",
+      "B": "Kuvvetler birliği",
+      "C": "Kuvvetler ayrılığı",
+      "D": "Yargı bağımsızlığı",
+      "E": "İki meclisli sistem"
+    },
+    "answer": "B",
+    "solution": "Birinci Meclis'te yasama ve yürütme yetkisinin Meclis'te toplanması kuvvetler birliği ilkesine dayanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: kuvvetler birliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-021",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "TBMM Hükümeti, Kuvayı Milliye birliklerinin disiplinsizliği ve cephelerde bütünlüğü sağlayamaması nedeniyle bir karara varmıştır.\n\nBu karar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Seferberlik ilanı",
+      "B": "Cepheler arasında bölge komutanlıklarının kaldırılması",
+      "C": "Düzenli ordu kurulması",
+      "D": "Askerliğin gönüllülüğe bağlanması",
+      "E": "Kuvayı Milliye'nin genişletilmesi"
+    },
+    "answer": "C",
+    "solution": "Kuvayı Milliye'nin yetersizliği ve disiplin sorunları nedeniyle TBMM düzenli ordu kurmaya karar vermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: düzenli ordu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-022",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "TBMM'nin imzaladığı ilk uluslararası antlaşma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Moskova Antlaşması",
+      "B": "Ankara Antlaşması",
+      "C": "Kars Antlaşması",
+      "D": "Gümrü Antlaşması",
+      "E": "Mudanya Ateşkesi"
+    },
+    "answer": "D",
+    "solution": "TBMM, Doğu Cephesi'nde Ermenistan ile 1920'de Gümrü Antlaşması'nı imzalamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Gümrü Antlaşması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-023",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki Batılı devletlerden hangisi, 1921'de TBMM Hükümeti ile antlaşma yaparak onu resmen tanıyan ilk Batılı devlet olmuştur?",
+    "options": {
+      "A": "İngiltere",
+      "B": "Almanya",
+      "C": "İtalya",
+      "D": "Yunanistan",
+      "E": "Fransa"
+    },
+    "answer": "E",
+    "solution": "Fransa, Ankara Antlaşması (20 Ekim 1921) ile TBMM'yi tanıyan ilk Batılı devlet olmuş ve Güney Cephesi'ndeki çatışmalar sona ermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Ankara Antlaşması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-024",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Doğu sınırımızı bugünkü hâliyle kesinleştiren antlaşma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sevr Antlaşması",
+      "B": "Gümrü Antlaşması",
+      "C": "Ankara Antlaşması",
+      "D": "Kars Antlaşması",
+      "E": "Moskova Antlaşması"
+    },
+    "answer": "D",
+    "solution": "Kars Antlaşması (13 Ekim 1921) TBMM ile Kafkas cumhuriyetleri arasında imzalanmış ve Doğu sınırını kesinleştirmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Kars Antlaşması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-025",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Millî egemenlik ilkesini \"Hâkimiyet bilâkaydüşart milletindir\" biçiminde ifade eden ilk anayasal metin aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "1924 Teşkilat-ı Esasiye Kanunu",
+      "B": "1921 Teşkilat-ı Esasiye Kanunu",
+      "C": "Misak-ı Millî kararları",
+      "D": "1876 Kanun-ı Esasi ve ilk Meclis-i Mebusan",
+      "E": "Sened-i İttifak"
+    },
+    "answer": "B",
+    "solution": "1921 Teşkilat-ı Esasiye Kanunu, millî egemenliği ilk kez anayasal düzeyde ifade eden metindir ve kuvvetler birliğini kabul eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Teşkilat-ı Esasiye"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-026",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Kütahya-Eskişehir Muharebeleri'nde Türk ordusunun Sakarya'nın doğusuna çekilmesinden sonra Meclis, Mustafa Kemal'e önemli bir görev ve yetki vermiştir.\n\nBu görev aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Başkomutanlık görevi",
+      "B": "Harbiye Nezareti",
+      "C": "Meclis Başkanlığı",
+      "D": "Cumhurbaşkanlığı",
+      "E": "Genelkurmay Başkanlığı"
+    },
+    "answer": "A",
+    "solution": "Meclis, Ağustos 1921'de Mustafa Kemal'e Başkomutanlık görevini ve Meclis yetkilerini üç ay süreyle kullanma yetkisi vermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Başkomutanlık Kanunu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-027",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "\"Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.\"\n\nMustafa Kemal'in bu sözünü söylediği savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Çanakkale Savaşı",
+      "B": "Dumlupınar Meydan Muharebesi",
+      "C": "Kütahya-Eskişehir Muharebesi",
+      "D": "I. İnönü Savaşı",
+      "E": "Sakarya Meydan Muharebesi"
+    },
+    "answer": "E",
+    "solution": "Mustafa Kemal bu sözü Sakarya Meydan Muharebesi öncesinde Meclis'te söylemiş ve savunma anlayışını ortaya koymuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Sakarya Meydan Muharebesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-028",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Sakarya Meydan Muharebesi'nin kazanılması üzerine TBMM, Mustafa Kemal'e hangi unvan ve rütbeyi vermiştir?",
+    "options": {
+      "A": "Gazi unvanı ve Tuğgeneral rütbesi",
+      "B": "Başkomutan unvanı ve Orgeneral rütbesi",
+      "C": "Halife unvanı ve Mareşal rütbesi",
+      "D": "Gazi unvanı ve Mareşal rütbesi",
+      "E": "Paşa unvanı ve Albay rütbesi"
+    },
+    "answer": "D",
+    "solution": "Sakarya zaferinin ardından Mustafa Kemal'e Gazi unvanı ve Mareşal rütbesi verilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Sakarya zaferinin sonuçları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-029",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "\"Ordular! İlk hedefiniz Akdeniz'dir, ileri!\"\n\nMustafa Kemal'in bu emri aşağıdaki gelişmelerden hangisinin ardından vermiştir?",
+    "options": {
+      "A": "Başkomutanlık Meydan Muharebesi'nin kazanılması",
+      "B": "Mudanya Ateşkesi'nin imzalanması ve Doğu Trakya'nın alınması",
+      "C": "Saltanatın kaldırılması ve yeni hükümetin kurulması",
+      "D": "Sakarya Meydan Muharebesi'nin kazanılması ve düşmanın durdurulması",
+      "E": "Lozan Antlaşması'nın imzalanması ve Boğazların açılması"
+    },
+    "answer": "A",
+    "solution": "Mustafa Kemal bu emri, Büyük Taarruz'un Başkomutanlık Meydan Muharebesi ile sonuçlanmasından sonra vermiş, ordular İzmir'e yönelmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Büyük Taarruz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-030",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Mudanya Ateşkes Antlaşması'nın sonuçlarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kapitülasyonların kaldırılması ve yabancı okulların kapatılması",
+      "B": "Boğazların silahsızlandırılması ve komisyon denetimi",
+      "C": "Nüfus mübadelesinin yapılması ve azınlık haklarının belirlenmesi",
+      "D": "Doğu Trakya'nın TBMM yönetimine bırakılması esası",
+      "E": "Musul'un Türkiye'ye bırakılması ve petrol gelirinin paylaşımı"
+    },
+    "answer": "D",
+    "solution": "Mudanya Ateşkesi (11 Ekim 1922) ile Yunanlılar Doğu Trakya'yı boşaltacak, buranın TBMM yönetimine bırakılması kabul edilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: Mudanya Ateşkesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-031",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "İtilaf Devletleri, Lozan Konferansı'na hem İstanbul Hükümeti'ni hem de Ankara Hükümeti'ni davet etmiştir.\n\nBu davete karşılık TBMM, 1 Kasım 1922'de aşağıdakilerden hangisine karar vermiştir?",
+    "options": {
+      "A": "Mondros'un iptali",
+      "B": "Hilafetin devri",
+      "C": "Halifeliğin kaldırılması",
+      "D": "Cumhuriyetin ilanı",
+      "E": "Saltanatın kaldırılması"
+    },
+    "answer": "E",
+    "solution": "İki hükümetin davet edilmesi üzerine TBMM, Türk milletinin tek temsilcisinin kendisi olduğunu göstermek için saltanatı kaldırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: saltanatın kaldırılması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-032",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi Kurtuluş Savaşı sırasında TBMM'nin imzaladığı antlaşmalardan biri değildir?",
+    "options": {
+      "A": "Moskova Antlaşması",
+      "B": "Kars Antlaşması",
+      "C": "Ankara Antlaşması",
+      "D": "Sevr Antlaşması",
+      "E": "Gümrü Antlaşması"
+    },
+    "answer": "D",
+    "solution": "Sevr Antlaşması, İstanbul Hükümeti tarafından imzalanmıştır; TBMM bu antlaşmayı tanımamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "TBMM dönemi: antlaşmalar (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-033",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Lozan Barış Konferansı'nda Türk heyetine başkanlık eden isim aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Rauf Orbay",
+      "B": "Kazım Karabekir",
+      "C": "Ali Fethi Okyar",
+      "D": "Fevzi Çakmak",
+      "E": "İsmet Paşa"
+    },
+    "answer": "E",
+    "solution": "Lozan Konferansı'nda Türk heyetinin başkanı Dışişleri Bakanı İsmet Paşa'dır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Lozan: heyet başkanı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-034",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi Lozan Antlaşması'nın sonuçlarından biri değildir?",
+    "options": {
+      "A": "Kapitülasyonların kaldırılması",
+      "B": "İstanbul'daki işgal kuvvetlerinin çekilmesi",
+      "C": "Boğazların silahsızlandırılması",
+      "D": "Türkiye'nin siyasi bağımsızlığının tanınması",
+      "E": "Musul sorununun kesin olarak çözülmesi"
+    },
+    "answer": "E",
+    "solution": "Musul sorunu Lozan'da çözülememiş, Türkiye ile İngiltere'nin ikili görüşmelerine bırakılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Lozan: kararlar (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-035",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Lozan'da Türkiye ile Yunanistan arasında imzalanan sözleşmeyle nüfus mübadelesi yapılması kararlaştırılmıştır.\n\nBu mübadelenin dışında bırakılan topluluklar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İstanbul Rumları ile Batı Trakya Müslüman Türkleri",
+      "B": "Girit Türkleri ve Ege Rumları ile Selanik Türkleri",
+      "C": "Trakya Rumları ve Rodos Türkleri ile Girit Rumları",
+      "D": "Selanik Türkleri ve Pontus Rumları ile Dedeağaç Türkleri",
+      "E": "Karadeniz Rumları ve Kıbrıs Türkleri ile Rodos Türkleri"
+    },
+    "answer": "A",
+    "solution": "Mübadele dışında yalnızca İstanbul Rumları ile Batı Trakya Türkleri bırakılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Lozan: nüfus mübadelesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-036",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Osmanlı Devleti'nde yabancı devletlere tanınan ve onların vatandaşlarını Türk yargısı dışında tutan ayrıcalıklar bu dönemde Türk egemenliğini zedeleyen uygulamalardan biriydi.\n\nBu ayrıcalıkların Lozan'da kaldırılması, aşağıdaki kavramlardan hangisiyle ilgilidir?",
+    "options": {
+      "A": "İltizam",
+      "B": "Mukataa sistemi",
+      "C": "Kapitülasyonlar",
+      "D": "Millet sistemi",
+      "E": "Düyun-ı Umumiye"
+    },
+    "answer": "C",
+    "solution": "Kapitülasyonlar, yabancılara tanınan hukuki ve ekonomik ayrıcalıklardır ve Lozan Antlaşması ile kaldırılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Lozan: kapitülasyonların kaldırılması"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-037",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Lozan Antlaşması'nda Türkiye'nin egemenliğini sınırlayan hükümlerden biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ordunun mevcudunun sınırlandırılıp silah üretiminin yasaklanması",
+      "B": "İstanbul'daki işgalin sürdürülmesi ve Meclis'in İstanbul'a taşınması",
+      "C": "Misak-ı Millî sınırlarının tamamen terk edilip Anadolu'ya çekilinmesi",
+      "D": "Boğazların silahsızlandırılıp uluslararası komisyona bağlanması",
+      "E": "Kapitülasyonların sürdürülmesi ve yabancılara yeni ayrıcalıklar tanınması"
+    },
+    "answer": "D",
+    "solution": "Lozan'da Boğazlar silahsızlandırılmış ve bir Boğazlar Komisyonu denetimine bırakılmıştır; bu durum 1936'da Montrö ile değiştirilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Lozan: Boğazlar rejimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-038",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "29 Ekim 1923'te Cumhuriyet ilan edilmiş ve Mustafa Kemal ilk Cumhurbaşkanı seçilmiştir.\n\nCumhuriyet'in ilk Başbakanı olarak hükümeti kuran isim aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kazım Karabekir",
+      "B": "Ali Fethi Okyar",
+      "C": "İsmet İnönü",
+      "D": "Rauf Orbay",
+      "E": "Fevzi Çakmak"
+    },
+    "answer": "C",
+    "solution": "Cumhuriyet ilan edildikten sonra Mustafa Kemal'in görevlendirmesiyle ilk hükümeti İsmet Paşa kurmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cumhuriyet: ilk başbakan"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-039",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki gelişmelerden hangileri 3 Mart 1924'te gerçekleşmiştir?\n\nI. Halifeliğin kaldırılması\n\nII. Tevhid-i Tedrisat Kanunu'nun kabulü\n\nIII. Şer'iye ve Evkaf Vekâleti'nin kaldırılması",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "E",
+    "solution": "3 Mart 1924'te halifelik kaldırılmış, Tevhid-i Tedrisat Kanunu kabul edilmiş ve Şer'iye ve Evkaf Vekâleti ortadan kaldırılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cumhuriyet: 3 Mart 1924"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-040",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1924 Anayasası'nda 1928'de yapılan değişiklikle aşağıdakilerden hangisi kaldırılmıştır?",
+    "options": {
+      "A": "Millî egemenlik ilkesi ve Meclisin üstünlüğü",
+      "B": "Cumhuriyet rejimi ve Cumhurbaşkanlığı makamı",
+      "C": "Meclisin yasama ve yürütme yetkisi",
+      "D": "Devletin dininin İslam olduğu hükmü",
+      "E": "Cumhurbaşkanının Meclis'çe seçilme usulü"
+    },
+    "answer": "D",
+    "solution": "1928'de Anayasa'dan \"Devletin dini, dini İslam'dır\" hükmü çıkarılmış; laiklik ilkesi ise 1937'de Anayasa'ya girmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cumhuriyet: 1924 Anayasası ve 1928 değişikliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-041",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Cumhuriyet döneminin ilk muhalefet partisi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "1930'da kurulan Serbest Cumhuriyet Fırkası",
+      "B": "Halk İştirakiyyun Fırkası",
+      "C": "1945'te kurulan Millî Kalkınma Partisi",
+      "D": "1946'da kurulan Demokrat Parti",
+      "E": "Terakkiperver Cumhuriyet Fırkası"
+    },
+    "answer": "E",
+    "solution": "1924'te kurulan Terakkiperver Cumhuriyet Fırkası, Cumhuriyet döneminin ilk muhalefet partisidir ve 1925'te kapatılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cumhuriyet: çok partili hayat denemeleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-042",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Atatürk'ün isteğiyle 1930'da kurulan Serbest Cumhuriyet Fırkası'nın kuruluş amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Cumhuriyet Halk Fırkası'nı kapatıp tek parti yönetimini devralmak",
+      "B": "Saltanatı yeniden kurmak ve hanedanı yönetime getirmek",
+      "C": "Cumhuriyet rejimini değiştirerek yeniden meşruti monarşiye dönmek",
+      "D": "Hükümet politikalarını eleştirip denetleyecek bir muhalefet oluşturmak",
+      "E": "Atatürk ilkelerini kaldırmak ve eski hukuk düzenini geri getirmek"
+    },
+    "answer": "D",
+    "solution": "Serbest Cumhuriyet Fırkası, ekonomik bunalım ortamında hükümet politikalarının eleştirilmesi ve denetlenmesi amacıyla kurulmuş, kısa sürede kendini feshetmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cumhuriyet: Serbest Cumhuriyet Fırkası"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-043",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Şeyh Said İsyanı'nın ardından 1925'te çıkarılan ve hükümete olağanüstü yetkiler veren kanun aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Şapka Kanunu",
+      "B": "Takrir-i Sükûn Kanunu",
+      "C": "Maarif Teşkilatı Kanunu",
+      "D": "Hıyanet-i Vataniye Kanunu",
+      "E": "Tevhid-i Tedrisat Kanunu"
+    },
+    "answer": "B",
+    "solution": "Şeyh Said İsyanı sonrasında Takrir-i Sükûn Kanunu çıkarılmış, hükümet olağanüstü yetkiler kazanmış ve İstiklal Mahkemeleri yeniden kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cumhuriyet: Şeyh Said İsyanı ve Takrir-i Sükûn"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-044",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1930'da Menemen'de Asteğmen Kubilay'ın öldürülmesiyle sonuçlanan olay nitelik olarak aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Azınlıkların başlattığı ayrılıkçı bir isyan",
+      "B": "Vergilere karşı başlatılan ekonomik protesto",
+      "C": "Cumhuriyet rejimine karşı gerici bir ayaklanma",
+      "D": "Yabancı bir devletin başlattığı işgal girişimi",
+      "E": "Ordu içinde hazırlanan askerî darbe girişimi"
+    },
+    "answer": "C",
+    "solution": "Menemen Olayı (1930), laik Cumhuriyet'e karşı çıkan irticai bir ayaklanmadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cumhuriyet: Menemen Olayı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-045",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Halifeliğin kaldırılması, aşağıdaki hedeflerden hangisine ulaşmada atılan önemli bir adımdır?",
+    "options": {
+      "A": "Millî Mücadele'nin başlatılarak örgütlenmenin sağlanması",
+      "B": "Cumhuriyet rejiminin ilan edilerek devlet başkanlığının belirlenmesi",
+      "C": "Kapitülasyonların sona erdirilerek ekonomik bağımsızlığın sağlanması",
+      "D": "Saltanatın kaldırılarak Meclis'in tek yetkili olması",
+      "E": "Din ve devlet işlerinin ayrılarak laik düzene geçilmesi"
+    },
+    "answer": "E",
+    "solution": "Halifeliğin kaldırılması, din ve devlet işlerinin ayrılması yolunda laik düzene geçişin önemli adımlarındandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cumhuriyet: halifeliğin kaldırılması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-046",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1926'da kabul edilen Türk Medeni Kanunu hangi ülkenin medeni kanunundan alınmıştır?",
+    "options": {
+      "A": "İngiltere",
+      "B": "İtalya",
+      "C": "Almanya",
+      "D": "İsviçre",
+      "E": "Fransa"
+    },
+    "answer": "D",
+    "solution": "Türk Medeni Kanunu, İsviçre Medeni Kanunu'ndan alınarak 1926'da kabul edilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (hukuk): Medeni Kanun"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-047",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1926'da kabul edilen Türk Ceza Kanunu hangi ülkenin ceza kanunundan alınmıştır?",
+    "options": {
+      "A": "İtalya",
+      "B": "İsviçre",
+      "C": "Almanya",
+      "D": "Fransa",
+      "E": "Belçika"
+    },
+    "answer": "A",
+    "solution": "1926 Türk Ceza Kanunu İtalyan Ceza Kanunu'ndan, Medeni Kanun ise İsviçre'den alınmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (hukuk): Ceza Kanunu"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-048",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi Türk Medeni Kanunu ile getirilen yeniliklerden biri değildir?",
+    "options": {
+      "A": "Evlenmede resmî nikâhın zorunlu hâle getirilmesi",
+      "B": "Boşanma işleminin mahkeme kararıyla yapılması",
+      "C": "Çok eşliliğin yasaklanarak tek eşliliğin getirilmesi",
+      "D": "Kadınlara milletvekili seçme ve seçilme hakkı tanınması",
+      "E": "Kadın ve erkeğe miras hakkında eşit haklar tanınması"
+    },
+    "answer": "D",
+    "solution": "Kadınlara milletvekili seçme ve seçilme hakkı 1934'te verilmiştir; Medeni Kanun ise aile hukuku ve kişi haklarını düzenler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (hukuk): Medeni Kanun'un getirdikleri (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-049",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki gelişmelerin laikleşme yolundaki sıralaması hangisidir?\n\nI. Tekke ve zaviyelerin kapatılması\n\nII. Halifeliğin kaldırılması\n\nIII. Anayasa'dan devletin dininin İslam olduğu hükmünün çıkarılması\n\nIV. Medeni Kanun'un kabulü",
+    "options": {
+      "A": "II - I - IV - III",
+      "B": "I - II - III - IV",
+      "C": "II - IV - I - III",
+      "D": "I - IV - II - III",
+      "E": "II - I - III - IV"
+    },
+    "answer": "A",
+    "solution": "Halifelik 1924'te, tekke ve zaviyeler 1925'te kapatılmış; Medeni Kanun 1926'da kabul edilmiş, devletin dini hükmü 1928'de Anayasa'dan çıkarılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (hukuk): laikleşme sırası"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-050",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Medreseler dâhil tüm eğitim kurumlarının Millî Eğitim Bakanlığı'na bağlanmasını sağlayan kanun aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tevhid-i Tedrisat Kanunu",
+      "B": "Türk Harflerinin Kabulü Kanunu",
+      "C": "Şapka ve Kıyafet Kanunu",
+      "D": "Maarif Teşkilatı Kanunu",
+      "E": "Soyadı ve Unvanlar Kanunu"
+    },
+    "answer": "A",
+    "solution": "Tevhid-i Tedrisat Kanunu (3 Mart 1924) ile eğitim birliği sağlanmış, medreseler kapatılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (eğitim-kültür): Tevhid-i Tedrisat"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-051",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Yeni Türk harflerinin halka öğretilmesi amacıyla açılan eğitim kurumları aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Dar-ül Fünun",
+      "B": "Köy Enstitüleri ve Eğitmen Kursları",
+      "C": "Türk Ocakları'nın şubeleri",
+      "D": "Millet Mektepleri",
+      "E": "Halkevleri"
+    },
+    "answer": "D",
+    "solution": "Harf Devrimi'nin ardından yeni harfleri halka öğretmek için Millet Mektepleri açılmış, Atatürk'ün Başöğretmen unvanı bu çalışmayla anılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (eğitim-kültür): Millet Mektepleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-052",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Atatürk'ün dil çalışmalarına verdiği önemle 1932'de kurulan ve bugünkü Türk Dil Kurumu'nun öncüsü olan kuruluş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Halkevleri",
+      "B": "Dil ve Tarih-Coğrafya Fakültesi",
+      "C": "Türk Dili Tetkik Cemiyeti",
+      "D": "Millet Mektepleri",
+      "E": "Türk Tarih Kurumu"
+    },
+    "answer": "C",
+    "solution": "Türk Dili Tetkik Cemiyeti 1932'de kurulmuş, 1936'da Türk Dil Kurumu adını almıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (eğitim-kültür): dil çalışmaları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-053",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1932'de kurulan ve halkın kültürel gelişimini amaçlayan, sanat, spor ve toplumsal yardım gibi çalışmalar yürüten kurumlar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Türk Ocakları",
+      "B": "Halkevleri ve Halkodaları",
+      "C": "Halk Fırkası ocakları",
+      "D": "Köy Enstitüleri",
+      "E": "Millet Mektepleri ve Halk Dershaneleri"
+    },
+    "answer": "B",
+    "solution": "Halkevleri 1932'de kurulmuş, Türk Ocakları'nın kapatılmasından sonra halkın kültürel gelişimini üstlenmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (eğitim-kültür): Halkevleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-054",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1933'te Darülfünun kapatılarak yerine aşağıdakilerden hangisi kurulmuştur?",
+    "options": {
+      "A": "Gazi Eğitim Enstitüsü",
+      "B": "Dil ve Tarih-Coğrafya Fakültesi",
+      "C": "Yüksek Öğretmen Okulu",
+      "D": "Ankara Üniversitesi",
+      "E": "İstanbul Üniversitesi"
+    },
+    "answer": "E",
+    "solution": "1933 Üniversite Reformu ile Darülfünun kapatılmış, yerine İstanbul Üniversitesi kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (eğitim-kültür): Üniversite Reformu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-055",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Hasan Âli Yücel ve İsmail Hakkı Tonguç'un öncülüğünde 1940'ta açılan ve köylü çocuklarından öğretmen yetiştirmeyi amaçlayan okullar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Millet Mektepleri",
+      "B": "İmam-Hatip Okulları",
+      "C": "Yüksek Öğretmen Okulları",
+      "D": "Halkevleri",
+      "E": "Köy Enstitüleri"
+    },
+    "answer": "E",
+    "solution": "Köy Enstitüleri 1940'ta kurulmuş ve köy çocuklarından hem öğretmen hem uygulamalı mesleki eğitim alan bireyler yetiştirmeyi hedeflemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (eğitim-kültür): Köy Enstitüleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-056",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki eğitim ve kültür inkılaplarının kronolojik sıralaması hangisidir?\n\nI. Harf Kanunu'nun kabulü\n\nII. Tevhid-i Tedrisat Kanunu\n\nIII. Üniversite Reformu\n\nIV. Türk Dili Tetkik Cemiyeti'nin kurulması",
+    "options": {
+      "A": "I - II - III - IV",
+      "B": "II - IV - I - III",
+      "C": "II - I - IV - III",
+      "D": "I - II - IV - III",
+      "E": "II - I - III - IV"
+    },
+    "answer": "C",
+    "solution": "Tevhid-i Tedrisat 1924, Harf Kanunu 1928, Türk Dili Tetkik Cemiyeti 1932, Üniversite Reformu 1933'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (eğitim-kültür): kronoloji"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-057",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi eğitim ve kültür alanında yapılan inkılaplardan biri değildir?",
+    "options": {
+      "A": "Harf Devrimi'nin gerçekleştirilmesi",
+      "B": "Şapka Kanunu'nun kabulü",
+      "C": "Halkevleri'nin açılması",
+      "D": "Tevhid-i Tedrisat Kanunu'nun kabulü",
+      "E": "Üniversite Reformu'nun yapılması"
+    },
+    "answer": "B",
+    "solution": "Şapka Kanunu kıyafet inkılabıdır ve toplumsal alandaki yenilikler arasında yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (eğitim-kültür): alan ayrımı (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-058",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Atatürk'ün 1925'te Kastamonu gezisinde şapka giymesinin ardından kıyafet düzenlemesi için çıkarılan kanun aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Medeni Kanun",
+      "B": "Harf Kanunu",
+      "C": "Soyadı Kanunu",
+      "D": "Tekke ve Zaviyelerin Kapatılması Kanunu",
+      "E": "Şapka Kanunu"
+    },
+    "answer": "E",
+    "solution": "Şapka Kanunu (25 Kasım 1925) ile kıyafet düzenlenmiş ve modernleşme yolunda adım atılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (toplumsal): Şapka Kanunu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-059",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi toplumsal alandaki inkılaplardan biridir?",
+    "options": {
+      "A": "Medeni Kanun'un kabulü",
+      "B": "Halifeliğin kaldırılması",
+      "C": "Aşarın kaldırılması",
+      "D": "Soyadı Kanunu'nun kabulü",
+      "E": "Tevhid-i Tedrisat Kanunu'nun kabulü"
+    },
+    "answer": "D",
+    "solution": "Soyadı Kanunu toplumsal alanda yapılan bir inkılaptır; aşar ekonomik, Medeni Kanun hukuk, Tevhid-i Tedrisat eğitim, halifelik siyasal alandadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (toplumsal): alan eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-060",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1934'te kabul edilen bir kanunla efendi, bey, paşa gibi lakap ve unvanlar kaldırılmıştır.\n\nBu düzenleme aşağıdaki ilkelerden hangisini güçlendirmeyi amaçlamıştır?",
+    "options": {
+      "A": "Cumhuriyetçiliği",
+      "B": "İnkılapçılığı",
+      "C": "Toplumsal eşitliği",
+      "D": "Din ve devlet ayrılığını",
+      "E": "Ekonomide devletin rolünü"
+    },
+    "answer": "C",
+    "solution": "Lakap ve unvanların kaldırılması, toplumdaki sınıf ve imtiyaz farklarını ortadan kaldırmayı ve eşitliği güçlendirmeyi amaçlar; bu halkçılık ilkesiyle uyumludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (toplumsal): lakap ve unvanlar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-061",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki gelişmelerin kadın haklarındaki kronolojik sıralaması hangisidir?\n\nI. Belediye seçimlerinde seçme ve seçilme hakkı\n\nII. Köy muhtarlığı seçimlerinde seçme ve seçilme hakkı\n\nIII. Milletvekili seçme ve seçilme hakkı",
+    "options": {
+      "A": "I - II - III",
+      "B": "II - I - III",
+      "C": "III - I - II",
+      "D": "I - III - II",
+      "E": "II - III - I"
+    },
+    "answer": "A",
+    "solution": "Kadınlara 1930'da belediye, 1933'te köy muhtarlığı, 1934'te milletvekili seçme ve seçilme hakkı tanınmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (toplumsal): kadın hakları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-062",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "\"Türkiye Cumhuriyeti devleti, şeyhler, dervişler, müritler memleketi olamaz.\"\n\nAtatürk'ün bu sözü aşağıdaki inkılaplardan hangisiyle ilgilidir?",
+    "options": {
+      "A": "Aşarın kaldırılması",
+      "B": "Harf İnkılabı'nın halka öğretilmesi çalışması",
+      "C": "Medeni Kanun'un kabulü",
+      "D": "Soyadı Kanunu'nun kabulü",
+      "E": "Tekke ve zaviyelerin kapatılması"
+    },
+    "answer": "E",
+    "solution": "Atatürk'ün bu sözü, 1925'te tekke, zaviye ve türbelerin kapatılmasına gerekçe oluşturan görüşünü yansıtır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (toplumsal): tekke ve zaviyeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-063",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Miladi takvimin, uluslararası saatin ve metre-kilogram ölçü sisteminin kabul edilmesi, ortak olarak aşağıdaki hedeflerden hangisine hizmet etmiştir?",
+    "options": {
+      "A": "Günlük yaşamda uluslararası standartlara uyum sağlamaya",
+      "B": "Siyasal rejimi değiştirerek cumhuriyeti ilan etmeye",
+      "C": "Eğitimde birliği sağlayarak medreseleri kapatmaya",
+      "D": "Ekonomik bağımsızlığı kazanarak kapitülasyonları kaldırmaya",
+      "E": "Azınlık haklarını genişletip millet sistemini sürdürmeye"
+    },
+    "answer": "A",
+    "solution": "Takvim, saat ve ölçü birimlerindeki yenilikler, günlük yaşamda Batı dünyasıyla uyumu ve uluslararası standartları hedeflemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (toplumsal): takvim, saat ve ölçüler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-064",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1923'te toplanan ve Misak-ı İktisadî'yi kabul eden kongre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Erzurum Kongresi",
+      "B": "Ankara İktisat Meclisi",
+      "C": "İzmir İktisat Kongresi",
+      "D": "Sivas Kongresi",
+      "E": "Lozan Konferansı"
+    },
+    "answer": "C",
+    "solution": "İzmir İktisat Kongresi (1923), ekonomik bağımsızlığı ve özel girişimciliğin teşvikini temel alan kararlar almıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (ekonomik): İzmir İktisat Kongresi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-065",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1925'te kaldırılan aşar vergisi, çiftçilerden hangi esasa göre alınıyordu?",
+    "options": {
+      "A": "Gelirin yarısı oranında",
+      "B": "Tarım ürünlerinin onda biri oranında",
+      "C": "Satış fiyatına göre yüzde yirmi",
+      "D": "Hayvan sayısına göre",
+      "E": "Arazi büyüklüğüne göre sabit tutarda"
+    },
+    "answer": "B",
+    "solution": "Aşar, tarım ürünlerinden onda bir oranında alınan vergiydi; kaldırılarak köylünün yükü hafifletilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (ekonomik): aşarın kaldırılması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-066",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Türkiye'nin devletçi ekonomi politikasına yönelmesinde etkili olan gelişme aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Lozan Antlaşması'nın borç hükümleri",
+      "B": "Sanayi Devrimi",
+      "C": "1929 Dünya Ekonomik Buhranı",
+      "D": "Kapitülasyonlar",
+      "E": "II. Dünya Savaşı"
+    },
+    "answer": "C",
+    "solution": "1929 Dünya Ekonomik Buhranı, özel girişimciliğin tek başına yetersiz kaldığını göstermiş ve devletçilik uygulamalarına yönelmeyi hızlandırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (ekonomik): devletçiliğin gerekçesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-067",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Sovyetler Birliği'nin yardımıyla hazırlanan ve sanayileşmeyi planlı kalkınma anlayışıyla yürütmeyi amaçlayan plan aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Millî Korunma Planı",
+      "B": "İzmir İktisat Kongresi planı",
+      "C": "İkinci Beş Yıllık Sanayi Planı",
+      "D": "Birinci Beş Yıllık Sanayi Planı",
+      "E": "Teşvik-i Sanayi Kanunu'na dayalı plan"
+    },
+    "answer": "D",
+    "solution": "Birinci Beş Yıllık Sanayi Planı (1934), devletçilik anlayışıyla hazırlanmış ve Sümerbank gibi kuruluşlarla uygulanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (ekonomik): Birinci Beş Yıllık Sanayi Planı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-068",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki kuruluşlardan hangisi devletçilik döneminde devlet eliyle kurulmuştur?\n\nI. Sümerbank\n\nII. İş Bankası\n\nIII. Ziraat Bankası",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Sümerbank 1933'te devletçilik anlayışıyla kurulmuştur; Ziraat Bankası 1888'de, İş Bankası ise 1924'te kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (ekonomik): devletçilik kuruluşları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-069",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1926'da kabul edilen Kabotaj Kanunu ile aşağıdakilerden hangisi gerçekleştirilmiştir?",
+    "options": {
+      "A": "Yabancı şirketlere liman işletme ve gümrük hakkının tanınması",
+      "B": "Boğazlardan geçişlerin yabancı gemiler için ücretsiz hâle getirilmesi",
+      "C": "Denizlerde balıkçılığın yabancılara serbest bırakılması",
+      "D": "Kıyı ticaretinin ve taşımacılığının Türk gemilerine bırakılması",
+      "E": "Dış ticarette gümrük vergilerinin tamamen kaldırılması"
+    },
+    "answer": "D",
+    "solution": "Kabotaj Kanunu ile Türk karasularında kıyı ticareti ve taşımacılığı Türk bayraklı gemilere bırakılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (ekonomik): Kabotaj Kanunu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-070",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangisi 1923-1929 döneminde uygulanan ekonomik politikalardan biri değildir?",
+    "options": {
+      "A": "Kabotaj Kanunu'nun kabul edilmesi",
+      "B": "Birinci Beş Yıllık Sanayi Planı'nın uygulanması",
+      "C": "Aşar vergisinin kaldırılması ve çiftçinin rahatlatılması",
+      "D": "Teşvik-i Sanayi Kanunu'nun çıkarılması",
+      "E": "İzmir İktisat Kongresi'nin toplanması ve kararların alınması"
+    },
+    "answer": "B",
+    "solution": "Birinci Beş Yıllık Sanayi Planı 1934'te uygulanmaya başlanmış olup devletçilik dönemine aittir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılaplar (ekonomik): 1923-1929 uygulamaları (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-071",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Egemenliğin kayıtsız şartsız millete ait olması ve devlet başkanının millet adına seçimle belirlenmesi, Atatürk ilkelerinden hangisinin gereğidir?",
+    "options": {
+      "A": "İnkılapçılık ilkesi",
+      "B": "Cumhuriyetçilik",
+      "C": "Laiklik ilkesi",
+      "D": "Halkçılık ilkesi",
+      "E": "Devletçilik"
+    },
+    "answer": "B",
+    "solution": "Cumhuriyetçilik, millî egemenliğe dayalı yönetim biçimini ve devlet başkanının seçimle belirlenmesini ifade eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: cumhuriyetçilik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-072",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Vatandaşlık bağıyla bağlı herkesi, dil, din ve ırk ayrımı yapmadan ortak amaçlar etrafında birleştiren anlayış Atatürk ilkelerinden hangisidir?",
+    "options": {
+      "A": "Halkçılık",
+      "B": "Devletçilik",
+      "C": "Laiklik",
+      "D": "Milliyetçilik",
+      "E": "Cumhuriyetçilik"
+    },
+    "answer": "D",
+    "solution": "Atatürk milliyetçiliği, ortak yaşama istenci ve vatandaşlık bağıyla birleşen, ırkçılıktan uzak, bütünleştirici bir milliyetçiliktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: milliyetçilik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-073",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Lakap ve unvanların kaldırılması, kanun önünde eşitlik ve imtiyazsız toplum düzeni, Atatürk ilkelerinden hangisiyle doğrudan ilişkilidir?",
+    "options": {
+      "A": "Devletçilik",
+      "B": "Halkçılık",
+      "C": "Laiklik",
+      "D": "Milliyetçilik",
+      "E": "Cumhuriyetçilik"
+    },
+    "answer": "B",
+    "solution": "Halkçılık, sınıf ve imtiyaz ayrımını reddeden, kanun önünde eşitliği öngören ilkedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: halkçılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-074",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1930'larda büyük sanayi yatırımlarının devlet eliyle yapılması ve ekonomide devletin yönlendirici rol alması Atatürk ilkelerinden hangisinin uygulamasıdır?",
+    "options": {
+      "A": "Cumhuriyetçilik",
+      "B": "Halkçılık",
+      "C": "Laiklik",
+      "D": "Devletçilik",
+      "E": "Milliyetçilik"
+    },
+    "answer": "D",
+    "solution": "Devletçilik, özel girişimi dışlamadan ekonomide devletin kurucu ve düzenleyici rolünü üstlendiği ilkedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: devletçilik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-075",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Medeni Kanun ile resmî nikâhın zorunlu hâle gelmesi, din ve devlet işlerinin ayrılması yönündeki Atatürk ilkelerinden hangisinin uygulamasıdır?",
+    "options": {
+      "A": "Laiklik ilkesi",
+      "B": "Milliyetçilik",
+      "C": "Cumhuriyetçilik",
+      "D": "Halkçılık",
+      "E": "Devletçilik"
+    },
+    "answer": "A",
+    "solution": "Laiklik, din ve devlet işlerinin birbirinden ayrılmasını ve vicdan hürriyetini ifade eder; Medeni Kanun bu ilkenin hukuka yansımasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: laiklik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-076",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Harf Devrimi ve kıyafet düzenlemesi gibi yeniliklerin sürekli olarak çağdaşlaşma yönünde yapılması, Atatürk ilkelerinden hangisini yansıtır?",
+    "options": {
+      "A": "Devletçilik",
+      "B": "İnkılapçılık",
+      "C": "Cumhuriyetçilik",
+      "D": "Halkçılık",
+      "E": "Milliyetçilik"
+    },
+    "answer": "B",
+    "solution": "İnkılapçılık, toplumda sürekli yeniliği ve çağdaşlaşmayı hedefleyen, yapılan yeniliklerin korunmasını da kapsayan ilkedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: inkılapçılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-077",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Atatürk ilkeleri hangi yılda Anayasa'ya girmiştir?",
+    "options": {
+      "A": "1945",
+      "B": "1931",
+      "C": "1924",
+      "D": "1928",
+      "E": "1937"
+    },
+    "answer": "E",
+    "solution": "Cumhuriyet, milliyetçilik, halkçılık, devletçilik, laiklik ve inkılapçılık ilkeleri 1937'de Anayasa'ya girmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: Anayasa'ya girişi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-078",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki inkılap-ilke eşleştirmelerinden hangisi yanlıştır?",
+    "options": {
+      "A": "Harf Devrimi'nin yapılması - Devletçilik",
+      "B": "Sümerbank'ın kurulması - Devletçilik",
+      "C": "Tevhid-i Tedrisat - Laiklik",
+      "D": "Kadınlara siyasal hakların verilmesi - Halkçılık",
+      "E": "Cumhuriyet'in ilanı - Cumhuriyetçilik"
+    },
+    "answer": "A",
+    "solution": "Harf Devrimi inkılapçılık ve millî kültürü geliştirme ilkesiyle ilişkilidir; devletçiliğin uygulaması ekonomik alandadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: inkılap-ilke eşleştirme (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-079",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "\"Yurtta sulh, cihanda sulh.\" sözü Atatürk'ün dış politikasında hangi temel ilkeyi yansıtır?",
+    "options": {
+      "A": "İttifaklara bağlılık",
+      "B": "Barışçılık",
+      "C": "Genişleme",
+      "D": "Tarafsızlık",
+      "E": "Saldırganlık"
+    },
+    "answer": "B",
+    "solution": "Atatürk'ün dış politika anlayışı, barışçılık ve gerçekçiliğe dayanır; bu söz barışçılığın ifadesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: dış politika anlayışı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-080",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangileri Atatürk ilkelerindendir?\n\nI. Laiklik\n\nII. Devletçilik\n\nIII. Liberalizm",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Laiklik ve devletçilik Atatürk ilkelerindendir; liberalizm bir ilke değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk ilkeleri: ilkelerin belirlenmesi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-081",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Musul sorununu çözen, Türkiye-İngiltere-Irak arasında 1926'da imzalanan antlaşma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ankara Antlaşması",
+      "B": "Montrö Sözleşmesi",
+      "C": "Mudanya Ateşkesi",
+      "D": "Lozan Antlaşması",
+      "E": "Gümrü Antlaşması"
+    },
+    "answer": "A",
+    "solution": "Ankara Antlaşması (5 Haziran 1926) ile Musul Irak'a bırakılmış, Türkiye'ye 25 yıl petrol gelirinden pay verilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk dönemi dış politika: Musul sorunu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-082",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Montrö Boğazlar Sözleşmesi hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": {
+      "A": "Boğazlar'ın silahsızlandırılması hükmü kaldırılmıştır",
+      "B": "Boğazlar Komisyonu'nun yetkileri Türkiye'ye devredilmiştir",
+      "C": "Sözleşme 1936'da imzalanmıştır",
+      "D": "Boğazlar Komisyonu'nun denetim yetkisi sürdürülmüştür",
+      "E": "Türkiye Boğazlar'da askerî önlem alma hakkını kazanmıştır"
+    },
+    "answer": "D",
+    "solution": "Montrö ile Boğazlar Komisyonu kaldırılmış, denetim yetkisi Türkiye'ye geçmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk dönemi dış politika: Montrö (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-083",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Hatay, hangi yılda Türkiye Cumhuriyeti'ne katılmıştır?",
+    "options": {
+      "A": "1939",
+      "B": "1923",
+      "C": "1926",
+      "D": "1945",
+      "E": "1936"
+    },
+    "answer": "A",
+    "solution": "Hatay, 1939'da Hatay Meclisi kararı ve TBMM onayıyla Türkiye'ye katılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk dönemi dış politika: Hatay"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-084",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1934'te kurulan Balkan Antantı'na katılan devletler aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Türkiye, Bulgaristan, Romanya, Yunanistan",
+      "B": "Türkiye, Yunanistan, İtalya, Romanya",
+      "C": "Türkiye, Arnavutluk, Yugoslavya, Bulgaristan",
+      "D": "Türkiye, İran, Irak, Afganistan",
+      "E": "Türkiye, Yunanistan, Romanya, Yugoslavya"
+    },
+    "answer": "E",
+    "solution": "Balkan Antantı'nı Türkiye, Yunanistan, Romanya ve Yugoslavya kurmuştur; Bulgaristan ve Arnavutluk katılmamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk dönemi dış politika: Balkan Antantı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-085",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1937'de imzalanan Sadabat Paktı'nı kuran devletler aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Türkiye, Irak, Suudi Arabistan, Yemen",
+      "B": "Türkiye, İran, Pakistan, Hindistan",
+      "C": "Türkiye, İran, Irak, Afganistan",
+      "D": "Türkiye, Yunanistan, Romanya, Yugoslavya",
+      "E": "Türkiye, Suriye, Lübnan, Mısır"
+    },
+    "answer": "C",
+    "solution": "Sadabat Paktı, Türkiye, İran, Irak ve Afganistan arasında 1937'de Tahran'da imzalanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk dönemi dış politika: Sadabat Paktı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-086",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Türkiye, II. Dünya Savaşı boyunca savaşa girmemeye, tarafların hiçbirinin yanında yer almamaya çalışmış ve dengeli bir politika yürütmüştür.\n\nBu politika aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Milliyetçilik",
+      "B": "İttifaklara katılım",
+      "C": "Aktif tarafsızlık",
+      "D": "Mutlak tarafsızlık",
+      "E": "Saldırganlık"
+    },
+    "answer": "C",
+    "solution": "Türkiye, II. Dünya Savaşı'nda savaşın dışında kalmaya çalışan aktif tarafsızlık (denge) politikası izlemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "II. Dünya Savaşı: Türkiye'nin dış politikası"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-087",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "II. Dünya Savaşı sırasında 1942'de çıkarılan ve servetlere uygulanan olağanüstü vergi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Varlık Vergisi",
+      "B": "Damga Vergisi",
+      "C": "Gelir Vergisi",
+      "D": "Aşar Vergisi",
+      "E": "Toprak Mahsulleri Vergisi"
+    },
+    "answer": "A",
+    "solution": "Varlık Vergisi (1942), savaş ekonomisinin sıkıntılarını gidermek için çıkarılmış ve uygulanışı nedeniyle eleştirilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "II. Dünya Savaşı: Varlık Vergisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-088",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Türkiye, Şubat 1945'te Almanya ve Japonya'ya savaş ilan etmiştir.\n\nBu kararın amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Birleşmiş Milletler'e kurucu üye olarak katılabilmek",
+      "B": "Musul'u Irak'tan geri alıp petrol gelirini artırmak",
+      "C": "Boğazlar rejimini yeniden düzenlettirmek ve Montrö'yü değiştirmek",
+      "D": "Misak-ı Millî sınırlarını genişleterek Musul'u almak",
+      "E": "Hatay'ı Fransa'dan geri almak ve sınırı genişletmek"
+    },
+    "answer": "A",
+    "solution": "Savaş ilanı, Birleşmiş Milletler'e kurucu üye olabilmek için gerekli şartlardandı.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "II. Dünya Savaşı: Birleşmiş Milletler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-089",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Demokrat Parti, 1946'da aşağıdaki isimlerin öncülüğünde kurulmuştur.\n\nBu isimler hangisidir?",
+    "options": {
+      "A": "Kazım Karabekir, Rauf Orbay, Ali Fuat Cebesoy, Refet Bele",
+      "B": "İsmet İnönü, Fevzi Çakmak, Şükrü Saracoğlu, Recep Peker",
+      "C": "Celal Bayar, Adnan Menderes, Fuat Köprülü, Refik Koraltan",
+      "D": "Nuri Demirağ, Hüseyin Cahit, Falih Rıfkı, Yunus Nadi",
+      "E": "Ali Fethi Okyar, Celal Bayar, Şükrü Kaya, Tevfik Rüştü Aras"
+    },
+    "answer": "C",
+    "solution": "Demokrat Parti 7 Ocak 1946'da Celal Bayar, Adnan Menderes, Fuat Köprülü ve Refik Koraltan tarafından kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "II. Dünya Savaşı sonrası: çok partili hayata geçiş"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-090",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki antlaşmalardan hangileri II. Dünya Savaşı sırasında Türkiye tarafından imzalanmıştır?\n\nI. Türk-İngiliz-Fransız Karşılıklı Yardım Antlaşması\n\nII. Türk-Alman Dostluk ve Saldırmazlık Antlaşması\n\nIII. Sadabat Paktı",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Karşılıklı Yardım Antlaşması 1939'da, Türk-Alman Dostluk Antlaşması 1941'de imzalanmıştır; Sadabat Paktı 1937'dedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "II. Dünya Savaşı: Türkiye'nin antlaşmaları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-091",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Atatürk'ün 1919'da Samsun'a çıkışından 1927'ye kadar yaşanan olayları, Cumhuriyet Halk Fırkası'nın ikinci büyük kongresinde (15-20 Ekim 1927) altı gün boyunca okuyarak anlattığı eser aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Vatan Yahut Silistre",
+      "B": "Medeni Bilgiler",
+      "C": "Çankaya",
+      "D": "Nutuk",
+      "E": "Geometri"
+    },
+    "answer": "D",
+    "solution": "Nutuk, Mustafa Kemal Atatürk'ün Millî Mücadele'yi ve Cumhuriyet'in ilk yıllarını anlattığı, 15-20 Ekim 1927'de Cumhuriyet Halk Fırkası ikinci büyük kongresinde okunan eserdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Atatürk'ün eserleri: Nutuk"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-092",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "II. Meşrutiyet döneminde Ziya Gökalp'in “Türkleşmek, İslamlaşmak, Muasırlaşmak” formülüyle şekillendirdiği, Türk milletinin ortak kültür ve dil birliğini esas alan fikir akımı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Adem-i merkeziyetçilik",
+      "B": "Osmanlıcılık",
+      "C": "Batıcılık",
+      "D": "Türkçülük",
+      "E": "İslamcılık"
+    },
+    "answer": "D",
+    "solution": "Ziya Gökalp'in öncülük ettiği Türkçülük akımı, Türk milletinin dil ve kültür birliğini esas alır; “Türkleşmek, İslamlaşmak, Muasırlaşmak” formülüyle çağdaşlaşmayı savunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Fikir akımları: Türkçülük"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-093",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Kurtuluş Savaşı'nda Kuva-yi Milliye'den düzenli orduya geçiş sürecinde, TBMM hükûmetinin düzenli ordusuyla kazanılan ilk askerî başarı aşağıdaki savaşlardan hangisidir?",
+    "options": {
+      "A": "I. İnönü Savaşı",
+      "B": "Sakarya Meydan Muharebesi",
+      "C": "Dumlupınar Meydan Muharebesi",
+      "D": "Kütahya-Eskişehir Muharebeleri",
+      "E": "Sütçü İmam Direnişi"
+    },
+    "answer": "A",
+    "solution": "Ocak 1921'de kazanılan I. İnönü Savaşı, TBMM ordusunun düzenli birlikleriyle elde ettiği ilk başarıdır ve düzenli orduya geçişi hızlandırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Millî Mücadele: I. İnönü ve düzenli ordu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-094",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Bir tarih kitabında 1926 yılında yürürlüğe giren bir kanunla ilgili şu bilgiler verilmiştir:\n\n“Bu kanunla çok eşlilik kaldırılmış, resmî nikâh zorunlu hâle getirilmiş ve kadına boşanma, miras ve çocuğunun velayetini alma konularında erkekle eşit haklar tanınmıştır. Kanun İsviçre'den alınmış, Mecelle'nin yerini almıştır.”\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Dinî kuralların hukuktaki etkisinin azaltıldığına",
+      "B": "Kadın-erkek eşitliği yönünde adım atıldığına",
+      "C": "Batı hukukundan yararlanıldığına",
+      "D": "Hukuk alanında birliğin sağlanmak istendiğine",
+      "E": "Kadınlara seçme ve seçilme hakkının tanındığına"
+    },
+    "answer": "E",
+    "solution": "Medeni Kanun (17 Şubat 1926) hukuk birliğini sağlamış, Mecelle'yi kaldırmış, çok eşliliği ortadan kaldırmış ve İsviçre'den alınmıştır. Kadınlara siyasal haklar bu kanunla verilmemiştir: belediye seçimlerinde seçme-seçilme hakkı 1930'da, milletvekili seçme-seçilme hakkı 1934'te tanınmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-095",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Bir tarihçinin notlarında bir kanunla ilgili şu ifadeler yer almaktadır:\n\n“Türk karasuları içindeki limanlar arasında yolcu ve yük taşımacılığı, balıkçılık ve kılavuzluk gibi işler yalnızca Türk bayraklı gemilere bırakılmıştır. Bu düzenleme, Lozan'da kaldırılan ayrıcalıkların kıyı ticaretindeki son kalıntılarını da ortadan kaldırmıştır. Kanunun kabul edildiği gün sonraki yıllarda denizcilik bayramı olarak kutlanmıştır.”\n\nBu ifadeler aşağıdaki kanunlardan hangisine aittir?",
+    "options": {
+      "A": "Medeni Kanun",
+      "B": "Maarif Teşkilatı Hakkında Kanun",
+      "C": "Takrir-i Sükûn Kanunu",
+      "D": "Teşvik-i Sanayi Kanunu",
+      "E": "Kabotaj Kanunu"
+    },
+    "answer": "E",
+    "solution": "1 Temmuz 1926 tarihli Kabotaj Kanunu, Türk kara sularında ve limanları arasında taşımacılık hakkını Türk bayraklı gemilere vermiş, kapitülasyonların kaldırılmasını tamamlamıştır; 1 Temmuz Kabotaj Bayramı olarak kutlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-096",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Bir antlaşmanın maddeleri şöyle özetlenmiştir:\n\n• Türkiye ile Irak arasındaki sınır belirlenmiştir.\n• Musul vilayeti Irak sınırları içinde bırakılmıştır.\n• Türkiye, Musul petrollerinden elde edilecek gelirin %10'unu 25 yıl süreyle alacaktır.\n\nBu maddeler aşağıdaki antlaşmalardan hangisine aittir?",
+    "options": {
+      "A": "Mudanya Ateşkes Antlaşması",
+      "B": "Sadabat Paktı",
+      "C": "Montrö Boğazlar Sözleşmesi",
+      "D": "Ankara Antlaşması (1926)",
+      "E": "Lozan Barış Antlaşması"
+    },
+    "answer": "D",
+    "solution": "5 Haziran 1926 tarihli Ankara Antlaşması (Türkiye–İngiltere–Irak) ile Musul Irak'a bırakılmış, Türkiye petrol gelirinden pay almıştır; bu, Misakımillî'den verilen bir tavizdir. Sorun Lozan'da çözülememiş, Milletler Cemiyeti'ne götürülmüştü.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-097",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Haziran 1926'da İzmir'de Mustafa Kemal'e karşı hazırlanan bir suikast planı ortaya çıkarılmıştır. Soruşturmada eski İttihat ve Terakki ileri gelenleri ile kapatılmış Terakkiperver Cumhuriyet Fırkası'nın bazı eski yöneticileri de yargılanmış, yargılamalar İstiklal Mahkemelerinde yapılmıştır.\n\nBu olayın sonuçlarıyla ilgili aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Çok partili hayata geçiş hızlanmıştır",
+      "B": "İstiklal Mahkemeleri kalıcı hâle getirilmiştir",
+      "C": "Halifelik yeniden kurulmuştur",
+      "D": "Meşruti monarşiye dönülmesi tartışılmıştır",
+      "E": "Muhalefetin etkisi büyük ölçüde azalmıştır"
+    },
+    "answer": "E",
+    "solution": "1926 İzmir Suikastı girişimi sonrasında sorumlular İstiklal Mahkemelerinde yargılanmış (İstiklal Mahkemelerinin son kez kullanıldığı olay), muhalefet sindirilmiş ve Cumhuriyet Halk Fırkası'nın tek parti yönetimi pekişmiştir; mahkemeler kalıcı olmamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-098",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "2 Ağustos 1926'da Ege Denizi'nde Fransız Lotus vapuru ile Türk Bozkurt vapuru çarpışmış, olayda Türk tarafında can kaybı yaşanmıştır. Türkiye, Lotus'un Fransız subayını İstanbul'da yargılamış; Fransa bu işleme itiraz edince uyuşmazlık Milletler Cemiyeti'ne bağlı uluslararası yargı organına götürülmüş ve karar Türkiye'yi haklı bulmuştur.\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılabilir?",
+    "options": {
+      "A": "Türkiye'nin Milletler Cemiyeti'ne alındığına",
+      "B": "Egemenlik haklarının uluslararası yargıda da kabul edildiğine",
+      "C": "Kapitülasyonların yeniden yürürlüğe girdiğine",
+      "D": "Musul sorununun Türkiye lehine çözüldüğüne",
+      "E": "Boğazlar üzerinde uluslararası denetim kurulduğuna"
+    },
+    "answer": "B",
+    "solution": "Bozkurt–Lotus olayında Lahey'deki Daimî Adalet Divanı (1927) Türkiye'yi haklı bulmuştur; bu karar Türkiye'nin yargı yetkisine ilişkin egemenlik haklarının uluslararası yargıda da kabul edildiğini göstermiştir. Türkiye Milletler Cemiyeti'ne 1932'de girmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-099",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdakilerden hangileri 1926 yılında gerçekleşmiştir?\n\nI. Medeni Kanun'un kabul edilmesi\n\nII. Harf İnkılabı'nın gerçekleştirilmesi\n\nIII. Kabotaj Kanunu'nun kabul edilmesi\n\nIV. Soyadı Kanunu'nun çıkarılması",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve IV",
+      "E": "I, III ve IV"
+    },
+    "answer": "C",
+    "solution": "Medeni Kanun (17 Şubat 1926) ve Kabotaj Kanunu (1 Temmuz 1926) 1926'dadır. Harf İnkılabı 1928'de, Soyadı Kanunu 1934'te gerçekleşmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-100",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Aşağıdaki gelişmeler eskiden yeniye doğru sıralandığında hangisi doğru olur?\n\nI. Şapka Kanunu'nun çıkarılması\n\nII. Tevhid-i Tedrisat Kanunu'nun kabul edilmesi\n\nIII. Medeni Kanun'un kabul edilmesi\n\nIV. Latin harflerinin kabul edilmesi",
+    "options": {
+      "A": "I - II - III - IV",
+      "B": "II - I - III - IV",
+      "C": "II - III - I - IV",
+      "D": "I - III - II - IV",
+      "E": "III - II - I - IV"
+    },
+    "answer": "B",
+    "solution": "Tevhid-i Tedrisat (1924), Şapka Kanunu (1925), Medeni Kanun (1926), Latin harflerinin kabulü (1928) sırasıyla gerçekleşmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-101",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Mustafa Kemal Paşa, Ekim 1927'de Cumhuriyet Halk Fırkası'nın ikinci büyük kongresinde altı gün boyunca süren bir konuşma yapmıştır. Konuşmada 19 Mayıs 1919'dan itibaren yaşanan olaylar anlatılmış, daha sonra bu metin kitap olarak yayımlanmıştır. Eser, Millî Mücadele'nin ve Cumhuriyet'in ilk yıllarının bir önder gözüyle aktarıldığı temel bir kaynaktır.\n\nBu bilgiler Atatürk'ün aşağıdaki eserlerinden hangisine aittir?",
+    "options": {
+      "A": "Nutuk",
+      "B": "Zabit ve Kumandan ile Hasbıhal",
+      "C": "Geometri",
+      "D": "Arıburnu Muharebeleri Raporu",
+      "E": "Vatandaş İçin Medeni Bilgiler"
+    },
+    "answer": "A",
+    "solution": "Nutuk, Atatürk'ün 15–20 Ekim 1927'de CHF II. Büyük Kongresi'nde okuduğu ve 1919–1927 dönemini anlatan söylevidir. Zabit ve Kumandan ile Hasbıhal (1918) askerî bir eserdir; Geometri (1937) matematik terimleri ve konularını içerir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-102",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "6 Nisan 1920'de Ankara'da Yunus Nadi ve Halide Edip Adıvar'ın öncülüğünde kurulan bu kurum, Millî Mücadele'nin haberlerini önce yurt içine, sonra yabancı basına ulaştırmıştır. İşgal altındaki İstanbul basınının haberleri ise çoğunlukla işgalcilerin denetimindeydi.\n\nBu bilgiler aşağıdaki kurumlardan hangisine aittir?",
+    "options": {
+      "A": "İstiklal Mahkemeleri",
+      "B": "Hâkimiyet-i Millîye Gazetesi",
+      "C": "Anadolu Ajansı",
+      "D": "Türk Hava Kurumu",
+      "E": "Hilâl-i Ahmer Cemiyeti"
+    },
+    "answer": "C",
+    "solution": "Anadolu Ajansı (6 Nisan 1920), Millî Mücadele'nin haberlerini yurt içinde ve dışında doğru biçimde duyurmak, işgal altındaki İstanbul basınının yanlış bilgilendirmesine karşı çıkmak amacıyla kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-103",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "20 Ocak 1921'de kabul edilen bir anayasanın ilk maddesi şöyledir:\n\n“Hâkimiyet bilâ kayd ü şart milletindir. İdare usulü, halkın mukadderatını bizzat ve bilfiil idare etmesi esasına müstenittir.”\n\nBu maddeye göre aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Egemenlik hanedanla paylaşılmıştır",
+      "B": "Millî egemenlik ilkesi benimsenmiştir",
+      "C": "Kuvvetler ayrılığına geçilmiştir",
+      "D": "Yürütme yetkisi padişahta kalmıştır",
+      "E": "Cumhuriyet ilan edilmiştir"
+    },
+    "answer": "B",
+    "solution": "1921 Teşkilât-ı Esasiye Kanunu'nun ilk maddesi millî egemenliği ilan eder; yürütme ve yasama yetkisi Meclis'te toplanmış (meclis hükûmeti), kuvvetler birliği esası benimsenmiştir. Cumhuriyet 1923'te ilan edilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-104",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "17 Şubat 1923'te İzmir'de toplanan bu toplantıya çiftçi, tüccar, sanayici ve işçi temsilcileri katılmış; toplantıda “Misak-ı İktisadi” adıyla anılan ekonomik ilkeler benimsenmiştir. Toplantı, yeni devletin ekonomik bağımsızlığı sağlama kararlılığını ortaya koymuştur.\n\nBu bilgilerin ilişkin olduğu toplantı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İzmir İktisat Kongresi",
+      "B": "Amasya Görüşmeleri",
+      "C": "Erzurum Kongresi",
+      "D": "Sivas Kongresi",
+      "E": "Lozan Konferansı"
+    },
+    "answer": "A",
+    "solution": "İzmir İktisat Kongresi (17 Şubat–4 Mart 1923), Cumhuriyet'in ekonomi politikasının temellerini atmış, ekonomik bağımsızlık hedefini belirlemiş ve Misak-ı İktisadi'yi kabul etmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-105",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1927'de çıkarılan bir kanunla özel kesimin kuracağı sanayi tesislerine bedelsiz arsa, vergi muafiyeti, gümrük kolaylığı ve düşük tarifeli taşıma gibi imkânlar sağlanmıştır.\n\nBu kanun, dönemin ekonomi politikası bakımından aşağıdakilerden hangisini yansıtır?",
+    "options": {
+      "A": "Üretim araçlarının devletleştirilmesini",
+      "B": "Özel girişimi destekleyen bir politikayı",
+      "C": "Yabancı sermayenin çıkarılmasını",
+      "D": "Dış ticaretin kapatılmasını",
+      "E": "Devletçi planlı sanayileşmeyi"
+    },
+    "answer": "B",
+    "solution": "1927 Teşvik-i Sanayi Kanunu, özel sektörü destekleyen karma ve liberal eğilimli 1923–1929 dönemi politikasını yansıtır; devletçi planlı sanayileşme 1929 Dünya Ekonomik Krizi sonrasında (1930'lar) benimsenmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-106",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Bir antlaşma ile ilgili şu bilgiler verilmiştir:\n\n“Antlaşmayla boğazların silahtan arındırılması ve bir uluslararası komisyonun denetimine bırakılması kabul edilmiş; Osmanlı döneminde yabancılara tanınan ayrıcalıkların kaldırılması sağlanmıştır. Türkiye ve Yunanistan'da yaşayan Müslüman ve Ortodoks nüfusun karşılıklı yer değiştirmesi öngörülmüş, Osmanlı'nın dış borçları ise Türkiye ile Osmanlı'dan ayrılan devletler arasında paylaştırılmıştır.”\n\nBu bilgilerde aşağıdakilerden hangisine değinilmemiştir?",
+    "options": {
+      "A": "Nüfus mübadelesi",
+      "B": "Boğazlar",
+      "C": "Musul sorunu",
+      "D": "Osmanlı borçları",
+      "E": "Kapitülasyonlar"
+    },
+    "answer": "C",
+    "solution": "Lozan Barış Antlaşması (1923) boğazlar, kapitülasyonlar, Türk–Yunan nüfus mübadelesi ve Osmanlı borçlarını düzenlemiştir; Musul sorunu Lozan'da çözülememiş, ertelenmiştir. Metinde Musul'a değinilmemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-107",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Bir ders kitabında Cumhuriyet'in temel ilkelerinden biri şöyle açıklanmıştır:\n\n“Bu ilke, toplumda sınıf ve ayrıcalık tanınmamasını, bütün vatandaşların hukuk önünde eşit sayılmasını esas alır. Kadınlara belediye ve genel seçimlerde oy hakkı tanınması ve halkın kültürel gelişimini amaçlayan Halkevlerinin açılması bu ilkeyle doğrudan ilişkilidir.”\n\nBu açıklama aşağıdaki ilkelerden hangisine aittir?",
+    "options": {
+      "A": "Devletçilik",
+      "B": "Milliyetçilik",
+      "C": "Halkçılık",
+      "D": "Cumhuriyetçilik",
+      "E": "İnkılapçılık"
+    },
+    "answer": "C",
+    "solution": "Halkçılık ilkesi sınıf ve ayrıcalık tanımayan, hukuk önünde eşitliği esas alan bir anlayıştır; kadınlara siyasal hakların verilmesi ve Halkevleri (1932) bu ilkeyle ilişkilidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-108",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "1929 Dünya Ekonomik Krizi'nin etkilerinin görüldüğü Türkiye'de 1930'lu yıllarda devlet, sanayi kuruluşlarını kurmuş ve ilk Beş Yıllık Sanayi Planı'nı uygulamaya koymuştur.\n\nBu gelişmelere göre aşağıdaki değerlendirmelerden hangilerine ulaşılabilir?\n\nI. Devletin ekonomideki rolünün arttığı\n\nII. Özel girişimin yasaklandığı\n\nIII. Planlı sanayileşmeye geçildiği",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "D",
+    "solution": "1930'larda devletçilik ilkesiyle devlet ekonomide etkin olmuş, Sümerbank gibi kuruluşlar ve I. Beş Yıllık Sanayi Planı (1934) uygulanmıştır; özel girişim yasaklanmamış, devletin yanında varlığını sürdürmüştür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-109",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Bir ders kitabında bir muharebe şöyle anlatılmıştır:\n\n“Meclis, Mustafa Kemal'e belirli bir süre için Başkomutanlık görevinin yanında Meclisin yetkilerini de kullanma izni vermiştir. Savaş öncesi şu söz söylenmiştir: “Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.” Yirmi iki gün yirmi iki gece süren çarpışmalardan sonra düşman ordusu geri çekilmiş, Mustafa Kemal Paşa'ya Meclis tarafından Mareşal rütbesi ve Gazi unvanı verilmiştir.”\n\nBu bilgiler aşağıdaki muharebelerden hangisine aittir?",
+    "options": {
+      "A": "I. İnönü Savaşı",
+      "B": "Başkomutan Meydan Muharebesi",
+      "C": "II. İnönü Savaşı",
+      "D": "Sakarya Meydan Muharebesi",
+      "E": "Kütahya-Eskişehir Savaşları"
+    },
+    "answer": "D",
+    "solution": "Sakarya Meydan Muharebesi (23 Ağustos–13 Eylül 1921), Meclisin Mustafa Kemal'e Başkomutanlık ve Meclis yetkilerini verdiği dönemde yapılmış, 'sathı müdafaa' anlayışıyla kazanılmış ve Mareşal rütbesi ile Gazi unvanını getirmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-ink-110",
+    "ders": "tarih",
+    "konu": "ataturk_ilkeleri_inkilap_tarihi",
+    "stem": "Millî Mücadele'nin Güney Cephesi'nde Fransızlara karşı yürütülen direnişle ilgili aşağıdaki kentlerden hangileri direniş gösterilen yerlerdendir?\n\nI. Maraş\n\nII. Antep\n\nIII. Erzurum",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Güney Cephesi'nde Kuvayımilliye Fransızlara karşı Maraş, Antep ve Urfa'da direnmiştir; Erzurum Doğu Cephesi'ndedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnkılap tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

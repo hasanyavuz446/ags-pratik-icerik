@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "ags-mev-1739-001",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Millî Eğitim Temel Kanununa göre Türk Millî Eğitiminin genel amaçlarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Toplum yararını gözeterek kişisel teşebbüse değer vermeyi geri plana alan, ortak hedeflere bağlı yurttaşlar yetiştirmek",
+      "B": "Geleneksel bilginin aktarımını bilimsel düşünme gücünün önüne alan, dar ve değişmez bir dünya görüşü kazandırmak",
+      "C": "Bireyleri beden, zihin, ahlak, ruh ve duygu bakımlarından dengeli ve sağlıklı gelişmiş bir kişiliğe ve karaktere sahip kişiler olarak yetiştirmek",
+      "D": "Bireyleri yaşadıkları bölgenin ihtiyaçlarına göre farklılaşan değerler sistemine bağlı, yerel kimliği öne çıkaran yurttaşlar olarak yetiştirmek",
+      "E": "Bireyleri yükseköğretime geçişte sınav başarısını öncelikli ölçüt sayan bir hazırlık anlayışıyla yetiştirmek"
+    },
+    "answer": "C",
+    "solution": "Kanunun 2. maddesinin ikinci bendi, bireylerin beden, zihin, ahlak, ruh ve duygu bakımından dengeli ve sağlıklı bir kişiliğe, hür ve bilimsel düşünme gücüne, geniş bir dünya görüşüne sahip; insan haklarına saygılı, kişilik ve teşebbüse değer veren ve topluma karşı sorumluluk duyan kişiler olarak yetiştirilmesini sayar. Diğer şıklar bu bendin tersini söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 2/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-002",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Türk Millî Eğitiminin genel amacına göre yetiştirilecek yurttaşların görev ve sorumluluklarını bilmesi gereken Türkiye Cumhuriyeti, aşağıdakilerden hangisi olarak nitelenmiştir?",
+    "options": {
+      "A": "Demokratik, çağdaş ve sosyal bir hukuk toplumu",
+      "B": "Demokratik, laik ve sosyal bir kalkınma Devleti",
+      "C": "Millî, laik ve sosyal bir refah Devleti",
+      "D": "Demokratik, laik ve sosyal bir hukuk Devleti",
+      "E": "Hür, demokratik ve sosyal bir cumhuriyet"
+    },
+    "answer": "D",
+    "solution": "Kanunun 2. maddesinin birinci bendi, yurttaşların demokratik, laik ve sosyal bir hukuk Devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen ve bunları davranış haline getirmiş kişiler olarak yetiştirilmesini amaçlar. Diğer şıklar nitelemeyi değiştirilmiş biçimde verir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 2/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-003",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Kanunun 2. maddesinde sıralanan genel amaçların gerçekleştirilmesiyle ulaşılmak istenen nihai hedef aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Türk Milletini çağdaş uygarlığın yapıcı, yaratıcı ve seçkin bir ortağı hâline getirmek",
+      "B": "Türk Milletini çağdaş uygarlık düzeyini aşan ilk ülke konumuna ulaştırmak",
+      "C": "Türk toplumunu sanayileşmiş ülkelerin ihtiyaç duyduğu nitelikli insan gücü kaynağı yapmak",
+      "D": "Kültürel kalkınmayı iktisadi ve sosyal kalkınmanın önüne geçirecek bir eğitim düzeni kurmak",
+      "E": "Millî kültür değerlerini evrensel kültürden ayrı tutarak korumak ve yaşatmak"
+    },
+    "answer": "A",
+    "solution": "Madde 2'nin sonunda, bir yandan vatandaşların ve toplumun refah ve mutluluğunu artırmak, öte yandan millî birlik ve bütünlük içinde iktisadi, sosyal ve kültürel kalkınmayı hızlandırmak ve nihayet Türk Milletini çağdaş uygarlığın yapıcı, yaratıcı, seçkin bir ortağı yapmak hedeflenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 2 (son paragraf)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-004",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Çeşitli derece ve türdeki eğitim kurumlarının özel amaçları, 1739 sayılı Kanuna göre nasıl belirlenir?",
+    "options": {
+      "A": "Üst öğretim kurumlarının kabul koşullarına göre kademeler arası uyum gözetilerek belirlenir",
+      "B": "Kurumu açan gerçek veya tüzel kişilerin istek ve beklentileri doğrultusunda belirlenir",
+      "C": "Kurumun bulunduğu bölgenin ihtiyaçları esas alınarak yerel yönetimlerce belirlenir",
+      "D": "Genel amaçlara ve kanunda sıralanan temel ilkelere uygun olarak tespit edilir",
+      "E": "Öğretmenler kurulunca her ders yılı başında yeniden düzenlenir"
+    },
+    "answer": "D",
+    "solution": "Kanunun 3. maddesine göre Türk eğitim ve öğretim sistemi genel amaçları gerçekleştirecek şekilde düzenlenir; kurumların özel amaçları genel amaçlara ve sıralanan temel ilkelere uygun olarak tespit edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 3"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-005",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Bir ortaokul yönetimi, engelli olduğu gerekçesiyle bir öğrencinin kaydını kabul etmemiştir. Bu uygulama Türk Millî Eğitiminin temel ilkelerinden hangisine aykırıdır?",
+    "options": {
+      "A": "Süreklilik",
+      "B": "Yöneltme",
+      "C": "Fırsat ve imkân eşitliği",
+      "D": "Ferdin ve toplumun ihtiyaçları",
+      "E": "Genellik ve eşitlik"
+    },
+    "answer": "E",
+    "solution": "Kanunun 4. maddesi (genellik ve eşitlik), eğitim kurumlarının dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açık olduğunu, eğitimde kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamayacağını söyler. Engellilik, 6518 sayılı Kanunla bu maddeye eklenmiştir. Fırsat ve imkân eşitliği (m. 8) ise kadın-erkek eşitliğini ve maddi imkânı yetersiz başarılı öğrencilere destek sağlanmasını düzenler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 4"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-006",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Millî eğitim hizmeti, 1739 sayılı Kanuna göre neye göre düzenlenir?",
+    "options": {
+      "A": "Gençlerin ilgi alanlarına ve ailelerin talep ettiği programlara göre",
+      "B": "Türk vatandaşlarının istek ve kabiliyetleri ile Türk toplumunun ihtiyaçlarına göre",
+      "C": "Mezunların istihdam piyasasındaki talebine ve uluslararası eğitim ölçütlerine göre",
+      "D": "Eğitim kurumlarının fiziki kapasitelerine ve öğretmen sayılarına göre",
+      "E": "Okulların bulunduğu bölgenin ekonomik gelişmişlik düzeyine ve nüfus yapısına göre"
+    },
+    "answer": "B",
+    "solution": "Kanunun 5. maddesi (ferdin ve toplumun ihtiyaçları), millî eğitim hizmetinin Türk vatandaşlarının istek ve kabiliyetleri ile Türk toplumunun ihtiyaçlarına göre düzenleneceğini belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 5"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-007",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre yöneltmede ve başarının ölçülmesinde aşağıdakilerden hangilerinden yararlanılır?",
+    "options": {
+      "A": "Bölgesel ihtiyaç analizlerinden ve işgücü projeksiyonlarından",
+      "B": "Merkezî yerleştirme sınavlarından ve ailelerin görüşlerinden",
+      "C": "Öğretmen gözlemlerinden ve veli talep formlarından",
+      "D": "Önceki kademede alınan başarı puanlarından ve bölgesel kontenjanlardan",
+      "E": "Rehberlik hizmetlerinden ve objektif ölçme ve değerlendirme metotlarından"
+    },
+    "answer": "E",
+    "solution": "Kanunun 6. maddesinin son fıkrası, yöneltmede ve başarının ölçülmesinde rehberlik hizmetlerinden ve objektif ölçme ve değerlendirme metotlarından yararlanılacağını belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 6/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-008",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Kanunun 30. maddesine göre yöneltme hangi kademede başlar ve hangi kademede devam eder?",
+    "options": {
+      "A": "İlköğretimde başlar, yanılmaları önlemek ve yeniden yöneltmeyi sağlamak için ortaöğretimde de devam eder",
+      "B": "Ortaöğretimde başlar, öğrencilerin yükseköğretime geçiş sürecinde de devam eder",
+      "C": "Ortaöğretimin ikinci yılında başlar, yükseköğretime giriş sınavıyla tamamlanır",
+      "D": "Okul öncesi eğitimde başlar, ilköğretimin sonunda yapılan sınavla tamamlanır",
+      "E": "İlköğretimde başlar, ortaöğretimin ilk yılı sonunda yapılan değerlendirmeyle tamamlanır"
+    },
+    "answer": "A",
+    "solution": "Madde 30'a göre yöneltme ilköğretimde başlar; yanılmaları önlemek ve muhtemel gelişmelere göre yeniden yöneltmeyi sağlamak için ortaöğretimde de devam eder. Yatay ve dikey geçiş şartları Millî Eğitim Bakanlığınca düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 30/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-009",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangisi 1739 sayılı Kanunun 7. maddesinde (eğitim hakkı) her Türk vatandaşının hakkı olarak belirtilmiştir?",
+    "options": {
+      "A": "İlköğretim görmek",
+      "B": "Yatılı ortaöğretim imkânlarından parasız yararlanmak",
+      "C": "Okul öncesi eğitimden yararlanmak",
+      "D": "Yükseköğretim kurumlarında öğrenim giderlerinden muaf olmak",
+      "E": "Yaygın eğitim kurslarına katılmak"
+    },
+    "answer": "A",
+    "solution": "Madde 7'ye göre ilköğretim görmek her Türk vatandaşının hakkıdır. İlköğretimden sonraki kurumlardan vatandaşlar ilgi, istidat ve kabiliyetleri ölçüsünde yararlanır. Okul öncesi eğitim isteğe bağlıdır (m. 19); yükseköğretim paralıdır (m. 38).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 7/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-010",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "İlköğretim kurumlarından sonraki eğitim kurumlarından vatandaşların hangi ölçüde yararlanacağı 1739 sayılı Kanunun 7. maddesinde nasıl belirtilmiştir?",
+    "options": {
+      "A": "Bulundukları bölgenin kontenjanları ölçüsünde",
+      "B": "Ailelerinin maddi imkânları ölçüsünde",
+      "C": "Sınav başarıları ve tercih ettikleri okul türleri ölçüsünde",
+      "D": "İlgi, istidat ve kabiliyetleri ölçüsünde",
+      "E": "Millî eğitimin planlama hedefleri ölçüsünde"
+    },
+    "answer": "D",
+    "solution": "Madde 7'nin ikinci fıkrasına göre ilköğretim kurumlarından sonraki eğitim kurumlarından vatandaşlar ilgi, istidat ve kabiliyetleri ölçüsünde yararlanırlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 7/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-011",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre maddi imkânlardan yoksun başarılı öğrencilerin en yüksek eğitim kademelerine kadar öğrenim görmeleri hangi yollarla sağlanır?",
+    "options": {
+      "A": "Öğrenim ücretinden muaf tutulma ve kayıt kontenjanı ayrılması yoluyla",
+      "B": "Parasız yatılılık, burs, kredi ve başka yollarla yapılacak yardımlarla",
+      "C": "Okul-aile birliklerinin topladığı bağış ve yardımlarla",
+      "D": "Vakıf okullarına öncelikli kayıt hakkı tanınmasıyla",
+      "E": "Yerel yönetimlerin öğrenim giderlerini karşılamasıyla"
+    },
+    "answer": "B",
+    "solution": "Fırsat ve imkân eşitliğini düzenleyen 8. maddeye göre maddi imkânlardan yoksun başarılı öğrencilerin en yüksek eğitim kademelerine kadar öğrenim görmelerini sağlamak amacıyla parasız yatılılık, burs, kredi ve başka yollarla gerekli yardımlar yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 8/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-012",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Bir ilde maddi imkânlardan yoksun başarılı öğrencilerin ortaöğretimden yükseköğretime kadar öğrenimlerini sürdürebilmeleri için parasız yatılılık ve burs desteği sağlanmaktadır. Bu uygulama Türk Millî Eğitiminin temel ilkelerinden hangisiyle doğrudan ilgilidir?",
+    "options": {
+      "A": "Yöneltme",
+      "B": "Her yerde eğitim",
+      "C": "Genellik ve eşitlik",
+      "D": "Planlılık",
+      "E": "Fırsat ve imkân eşitliği"
+    },
+    "answer": "E",
+    "solution": "Kanunun 8. maddesine göre eğitimde kadın, erkek herkese fırsat ve imkân eşitliği sağlanır; maddi imkânlardan yoksun başarılı öğrencilere parasız yatılılık, burs, kredi ve başka yollarla yardım yapılır. Genellik ve eşitlik (m. 4) ise kurumların ayırım gözetmeksizin herkese açık olmasını düzenler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 8"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-013",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Bir halk eğitim merkezi, çalışan yetişkinlerin hayata ve iş alanlarına uyumunu kolaylaştırmak için akşam kursları açmaktadır. Bu uygulama Türk Millî Eğitiminin temel ilkelerinden hangisinin gereğidir?",
+    "options": {
+      "A": "Karma eğitim",
+      "B": "Her yerde eğitim",
+      "C": "Genellik ve eşitlik",
+      "D": "Süreklilik",
+      "E": "Bilimsellik"
+    },
+    "answer": "D",
+    "solution": "Kanunun 9. maddesi (süreklilik), fertlerin genel ve mesleki eğitimlerinin hayat boyunca devam etmesini esas alır; gençlerin eğitimi yanında yetişkinlerin sürekli eğitimini sağlamak için gerekli tedbirleri almayı da bir eğitim görevi sayar. Her yerde eğitim ilkesi (m. 17) ise amaçların evde, çevrede, işyerlerinde gerçekleştirilmeye çalışılmasına işaret eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 9"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-014",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre eğitim sisteminin her derece ve türü ile ilgili ders programlarının hazırlanıp uygulanmasında ve her türlü eğitim faaliyetinde temel olarak alınan esas aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Atatürk inkılap ve ilkeleri ile Anayasada ifadesini bulmuş olan Atatürk milliyetçiliği",
+      "B": "Anayasanın başlangıcındaki temel ilkeler ile insan hakları evrensel beyannamesi",
+      "C": "Millî kültür değerleri ile evrensel eğitim standartlarının uyumu",
+      "D": "Millî birlik ve bütünlük ilkesi ile çağdaş uygarlık düzeyine ulaşma hedefi",
+      "E": "Cumhuriyetin kuruluş yıllarında benimsenen eğitim birliği esasları"
+    },
+    "answer": "A",
+    "solution": "Madde 10 (Atatürk inkılap ve ilkeleri ve Atatürk milliyetçiliği), ders programlarının hazırlanıp uygulanmasında ve her türlü eğitim faaliyetlerinde Atatürk inkılap ve ilkeleri ile Anayasada ifadesini bulmuş olan Atatürk milliyetçiliğinin temel olarak alınacağını belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 10/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-015",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Kanunun 10. maddesine göre Türk dilinin eğitimin her kademesinde nasıl öğretilmesine önem verilir?",
+    "options": {
+      "A": "Teknik terimler yabancı kaynaklardan alınarak ve çağdaş bilim diline uyarlanarak",
+      "B": "Eski kökenlerine dönülerek ve yabancı kelimelerden arındırılarak",
+      "C": "Yabancı dillerle eşit ağırlıkta ve ortak programlar çerçevesinde",
+      "D": "Özellikleri bozulmadan ve aşırılığa kaçılmadan",
+      "E": "Bölgesel ağız özellikleri korunarak ve yerel kullanımlara öncelik verilerek"
+    },
+    "answer": "D",
+    "solution": "Madde 10'a göre Türk dilinin, millî birlik ve bütünlüğün temel unsurlarından biri olarak, eğitimin her kademesinde özellikleri bozulmadan ve aşırılığa kaçılmadan öğretilmesine önem verilir; Atatürk Kültür, Dil ve Tarih Yüksek Kurumu ile işbirliği yapılarak Millî Eğitim Bakanlığınca gereken tedbirler alınır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 10/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-016",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Bir lisede öğrencilere, günlük siyasi olaylar üzerinden belirli bir ideolojiyi benimsetmeye yönelik telkinlerde bulunulmaktadır. Bu durum 1739 sayılı Kanunun hangi temel ilkesiyle doğrudan çelişir?",
+    "options": {
+      "A": "Demokrasi eğitimi",
+      "B": "Yöneltme",
+      "C": "Karma eğitim",
+      "D": "Bilimsellik",
+      "E": "Planlılık"
+    },
+    "answer": "A",
+    "solution": "Kanunun 11. maddesi (demokrasi eğitimi), eğitim kurumlarında Anayasada ifadesini bulan Atatürk milliyetçiliğine aykırı siyasi ve ideolojik telkinler yapılmasına ve bu nitelikteki günlük siyasi olay ve tartışmalara karışılmasına meydan verilmeyeceğini belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 11"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-017",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangisi 1739 sayılı Kanunun 11. maddesine göre her türlü eğitim çalışmalarında öğrencilere kazandırılıp geliştirilmesine çalışılan değerlerden biridir?",
+    "options": {
+      "A": "Ekonomik hayata katılım bilinci ve girişimcilik yeteneği",
+      "B": "Toplumsal dayanışma bilinci ve sivil toplum örgütlerine katılma isteği",
+      "C": "Siyasal partiler hakkında tarafsız bilgi sahibi olma ve görüş bildirme alışkanlığı",
+      "D": "Hukuki düzenlemelere uyum sağlama ve yasa kavramını içselleştirme becerisi",
+      "E": "Yurt yönetimine ait bilgi, anlayış ve davranışlarla sorumluluk duygusu"
+    },
+    "answer": "E",
+    "solution": "Madde 11'e göre güçlü ve istikrarlı, hür ve demokratik bir toplum düzeni için yurttaşların sahip olmaları gereken demokrasi bilincinin, yurt yönetimine ait bilgi, anlayış ve davranışlarla sorumluluk duygusunun ve manevi değerlere saygının öğrencilere kazandırılıp geliştirilmesine çalışılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 11"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-018",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre din kültürü ve ahlak öğretimi hangi okullarda okutulan zorunlu dersler arasında yer alır?",
+    "options": {
+      "A": "Ortaokullar ve imam-hatip okullarında",
+      "B": "Okul öncesi eğitim kurumları ile ilköğretim okullarında",
+      "C": "Ortaöğretim kurumlarında ve yaygın eğitim kurslarında",
+      "D": "İlköğretim okulları ile lise ve dengi okullarda",
+      "E": "İlköğretim okulları ile genel liselerde ve yükseköğretim kurumlarında"
+    },
+    "answer": "D",
+    "solution": "Kanunun 12. maddesi (laiklik) Türk millî eğitiminde laikliğin esas olduğunu belirtir ve din kültürü ve ahlak öğretiminin ilköğretim okulları ile lise ve dengi okullarda okutulan zorunlu dersler arasında yer aldığını söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 12"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-019",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Kanunun 13. maddesine (bilimsellik) göre her derece ve türdeki ders programları, eğitim metotları ve ders araç gereçleri sürekli olarak neye göre geliştirilir?",
+    "options": {
+      "A": "Uluslararası eğitim standartlarına ve karşılaştırmalı başarı sonuçlarına göre",
+      "B": "Ulusal kalkınma planı hedeflerine ve işgücü gereksinimlerine göre",
+      "C": "Bilimsel ve teknolojik esaslara ve yeniliklere, çevre ve ülke ihtiyaçlarına göre",
+      "D": "Öğretmenlerin önerilerine ve velilerin beklentilerine göre",
+      "E": "Önceki yıllarda uygulanan programların değerlendirme raporlarına göre"
+    },
+    "answer": "C",
+    "solution": "Madde 13'e göre ders programları, eğitim metotları ve ders araç gereçleri bilimsel ve teknolojik esaslara ve yeniliklere, çevre ve ülke ihtiyaçlarına göre sürekli olarak geliştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 13/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-020",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Bir il millî eğitim müdürlüğü, yeni bir öğretim yöntemini önce pilot okullarda deneyip sonuçlarını bilimsel yöntemlerle değerlendirdikten sonra yaygınlaştırmaktadır. Bu yaklaşım Türk Millî Eğitiminin hangi temel ilkesine dayanır?",
+    "options": {
+      "A": "Bilimsellik",
+      "B": "Yöneltme",
+      "C": "Genellik ve eşitlik",
+      "D": "Süreklilik",
+      "E": "Planlılık"
+    },
+    "answer": "A",
+    "solution": "Madde 13'ün ikinci fıkrası, eğitimde verimliliğin artırılması ve sürekli gelişme ve yenileşmenin bilimsel araştırma ve değerlendirmelere dayalı olarak yapılacağını belirtir; bu, bilimsellik ilkesinin gereğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 13/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-021",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanunun 14. maddesine (planlılık) göre millî eğitim, sanayileşme ve tarımda modernleşmede gerekli teknolojik gelişmeyi sağlamak üzere hangi eğitim türüne ağırlık verecek biçimde planlanır?",
+    "options": {
+      "A": "Okul öncesi eğitim",
+      "B": "Güzel sanatlar eğitimi",
+      "C": "Mesleki ve teknik eğitim",
+      "D": "Genel ortaöğretim",
+      "E": "Lisansüstü eğitim"
+    },
+    "answer": "C",
+    "solution": "Madde 14'e göre millî eğitimin gelişmesi iktisadi, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim-insan gücü-istihdam ilişkileri dikkate alınmak suretiyle, sanayileşme ve tarımda modernleşmede gerekli teknolojik gelişmeyi sağlayacak mesleki ve teknik eğitime ağırlık verecek biçimde planlanır ve gerçekleştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 14/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-022",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Eğitim kurumlarının yer, personel, bina, tesis, donatım ve kapasiteleri ile ilgili standartlar önceden tespit edildikten sonra, kurumların bu standartlara göre nasıl bir büyüklükte kurulması ve verimli işletilmesi sağlanır?",
+    "options": {
+      "A": "Bölge nüfusuna oranlı en geniş kapasitede",
+      "B": "Optimal büyüklükte",
+      "C": "Kademeye göre ortak bir standart büyüklükte",
+      "D": "Öğrenci sayısına göre esnek büyüklükte",
+      "E": "Asgari kapasitede"
+    },
+    "answer": "B",
+    "solution": "Madde 14'ün son fıkrasına göre eğitim kurumlarına ilişkin standartlar önceden tespit edilir ve kurumların bu standartlara göre optimal büyüklükte kurulması ve verimli olarak işletilmesi sağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 14/3"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-023",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Okullarda kız ve erkek karma eğitim yapılması esas olmakla birlikte, bazı okulların yalnızca kız veya yalnızca erkek öğrencilere ayrılabilmesi 1739 sayılı Kanunda hangi dayanağa bağlanmıştır?",
+    "options": {
+      "A": "İl millî eğitim müdürlüğünün planlama kararına göre",
+      "B": "Okulun bulunduğu yerleşim yerinin nüfus yapısına göre",
+      "C": "Velilerin yazılı talebine ve okul-aile birliğinin kararına göre",
+      "D": "Öğrencilerin cinsiyete göre başarı farklılıklarına göre",
+      "E": "Eğitimin türüne, imkân ve zorunluluklara göre"
+    },
+    "answer": "E",
+    "solution": "Madde 15'e göre okullarda kız ve erkek karma eğitim yapılması esastır; ancak eğitimin türüne, imkân ve zorunluluklara göre bazı okullar yalnızca kız veya yalnızca erkek öğrencilere ayrılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 15"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-024",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Bir okul müdürü, okul-aile birliği adına velilerden belirli bir miktarda bağış toplanmasını şart koşmuştur. Bu uygulama 1739 sayılı Kanunun 16. maddesi açısından nasıl değerlendirilir?",
+    "options": {
+      "A": "Bağış tutarı birlik genel kurulunca belirlendiği için kanuna uygundur",
+      "B": "Bağış tutarı il millî eğitim müdürlüğünce onaylandığında kanuna uygundur",
+      "C": "Velilerin bağış yapmaya zorlanamayacağı hükme bağlandığından kanuna aykırıdır",
+      "D": "Bağışlar maddi imkânlardan yoksun öğrenciler için toplandığında kanuna uygundur",
+      "E": "Toplanan bağışlar okul bütçesine gelir kaydedildiği takdirde kanuna uygundur"
+    },
+    "answer": "C",
+    "solution": "Madde 16'ya göre okul-aile birlikleri aynî ve nakdî bağışları kabul edebilir; ancak öğrenci velileri hiçbir surette bağış yapmaya zorlanamaz. Bağışın amacı veya tutarının kimce belirlendiği bu yasağı ortadan kaldırmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 16/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-025",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Okul-aile birliklerinin kuruluş ve işleyişi ile bağışların kabulü, harcanması ve denetlenmesine dair usul ve esaslar 1739 sayılı Kanuna göre nasıl düzenlenir?",
+    "options": {
+      "A": "Maliye Bakanlığı ve Millî Eğitim Bakanlığınca müştereken hazırlanan yönetmelikle",
+      "B": "İl valiliklerince hazırlanan ve okullara bildirilen yönergelerle",
+      "C": "Talim ve Terbiye Kurulunca alınacak ve Bakanlık onayına sunulacak bir ilke kararıyla",
+      "D": "Okul müdürlüklerince hazırlanan ve il müdürlüklerince onaylanan çalışma esaslarıyla",
+      "E": "Millî Eğitim Bakanlığınca çıkarılacak ve Resmî Gazetede yayımlanacak bir genelgeyle"
+    },
+    "answer": "A",
+    "solution": "Madde 16'ya göre okul-aile birliklerinin kuruluş ve işleyişi, organlarının oluşturulması, bağışların kabulü, harcanması ve denetlenmesi ile ilgili usul ve esaslar Maliye Bakanlığı ve Millî Eğitim Bakanlığınca müştereken hazırlanan yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 16/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-026",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Eğitim kampüsü yönetimleri ve okul-aile birlikleri ile ilgili aşağıdaki ifadelerden hangisi 1739 sayılı Kanuna uygundur?",
+    "options": {
+      "A": "Yaptıkları işlemler ve düzenlenen kâğıtlar katma değer vergisinden muaftır; bağış ve yardımlar damga vergisinden müstesnadır",
+      "B": "Gelirleri genel bütçe gelirleri ile ilişkilendirilir ve Hazine hesabında toplanarak yıl sonunda okullara dağıtılır",
+      "C": "Gelirleri il millî eğitim müdürlüğü hesabında tutulur, yıl sonunda ilgili okulun bütçesine aktarılır ve oradan harcanır",
+      "D": "Yaptıkları işlemler kurumlar vergisinden muaftır; kendilerine yapılan bağış ve yardımlar gelir vergisinden müstesnadır",
+      "E": "Yaptıkları işlemler ve düzenlenen kâğıtlar damga vergisi ve harçlardan muaftır; kendilerine yapılan bağış ve yardımlar veraset ve intikal vergisinden müstesnadır"
+    },
+    "answer": "E",
+    "solution": "Madde 16'ya göre eğitim kampüsleri ve okul-aile birliklerinin gelirleri genel bütçe gelirleri ile ilişkilendirilmeksizin kendi adlarına bankalarda açılan özel hesaplarda tutulur. Bu işlemler ve düzenlenen kâğıtlar yönünden damga vergisi ve harçlardan muaf, yapılan bağış ve yardımlar ise veraset ve intikal vergisinden müstesnadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 16/5"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-027",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanunun 17. maddesine (her yerde eğitim) göre resmî, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri hangi bakımdan kimin denetimine tabidir?",
+    "options": {
+      "A": "Millî eğitim amaçlarına uygunluğu bakımından Millî Eğitim Bakanlığının denetimine",
+      "B": "Bölgesel ihtiyaçlara uygunluğu bakımından valiliklerin denetimine",
+      "C": "Öğretim programlarıyla uyumu bakımından Talim ve Terbiye Kurulunun denetimine",
+      "D": "Eğitim kalitesi bakımından Yükseköğretim Kurulunun denetimine",
+      "E": "Faaliyetin mali etkisi bakımından Maliye Bakanlığının denetimine"
+    },
+    "answer": "A",
+    "solution": "Madde 17'ye göre millî eğitimin amaçları evde, çevrede, işyerlerinde, her yerde ve her fırsatta gerçekleştirilmeye çalışılır; resmî, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri millî eğitim amaçlarına uygunluğu bakımından Millî Eğitim Bakanlığının denetimine tabidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 17/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-028",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangileri 1739 sayılı Kanunda Türk Millî Eğitiminin temel ilkeleri arasında yer alır?\n\nI. Planlılık\n\nII. Katılımcılık\n\nIII. Bilimsellik",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Planlılık (m. 14) ve bilimsellik (m. 13) kanundaki temel ilkelerdendir. Katılımcılık bu ilkeler arasında sayılmamıştır. Temel ilkeler genellik ve eşitlik, ferdin ve toplumun ihtiyaçları, yöneltme, eğitim hakkı, fırsat ve imkân eşitliği, süreklilik, Atatürk inkılap ve ilkeleri ve Atatürk milliyetçiliği, demokrasi eğitimi, laiklik, bilimsellik, planlılık, karma eğitim, okul ile ailenin işbirliği ve her yerde eğitimdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 4-17"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-029",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangisi 1739 sayılı Kanunda sayılan Türk Millî Eğitiminin temel ilkelerinden biri değildir?",
+    "options": {
+      "A": "Yerellik ve özerklik",
+      "B": "Yöneltme",
+      "C": "Süreklilik",
+      "D": "Genellik ve eşitlik",
+      "E": "Okul ile ailenin işbirliği"
+    },
+    "answer": "A",
+    "solution": "Kanunun ikinci bölümü temel ilkeleri genellik ve eşitlik, ferdin ve toplumun ihtiyaçları, yöneltme, eğitim hakkı, fırsat ve imkân eşitliği, süreklilik, Atatürk inkılap ve ilkeleri ve Atatürk milliyetçiliği, demokrasi eğitimi, laiklik, bilimsellik, planlılık, karma eğitim, okul ile ailenin işbirliği ve her yerde eğitim olarak sıralar. Yerellik ve özerklik bunlar arasında yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 4-17"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-030",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre örgün eğitim aşağıdaki kurumlardan hangilerini kapsar?\n\nI. Okul öncesi eğitim kurumları\n\nII. İlköğretim kurumları\n\nIII. Ortaöğretim kurumları\n\nIV. Yükseköğretim kurumları",
+    "options": {
+      "A": "Yalnız II",
+      "B": "II ve III",
+      "C": "I, II ve III",
+      "D": "II, III ve IV",
+      "E": "I, II, III ve IV"
+    },
+    "answer": "E",
+    "solution": "Madde 18'e göre Türk millî eğitim sistemi örgün eğitim ve yaygın eğitim olmak üzere iki ana bölümden kurulur; örgün eğitim okul öncesi eğitimi, ilköğretim, ortaöğretim ve yükseköğretim kurumlarını kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 18/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-031",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre yaygın eğitim aşağıdakilerden hangisini kapsar?",
+    "options": {
+      "A": "Resmî kurumların yürüttüğü hizmet içi eğitim faaliyetlerini",
+      "B": "Örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümünü",
+      "C": "Okullarda ders dışı zamanlarda yürütülen sosyal ve kültürel etkinlikleri",
+      "D": "Örgün eğitimin tamamlanmasından sonra yetişkinlere yönelik düzenlenen kurs ve seminerleri",
+      "E": "Mesleki ve teknik eğitim programlarının tamamını, örgün eğitimin bir parçası olarak"
+    },
+    "answer": "B",
+    "solution": "Madde 18'in son fıkrasına göre yaygın eğitim, örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümünü kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 18/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-032",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre okul öncesi eğitimi hangi çocukların eğitimini kapsar ve bu eğitim zorunlu mudur?",
+    "options": {
+      "A": "Üç yaşını doldurmuş çocukların eğitimini kapsar; bu eğitim isteğe bağlıdır",
+      "B": "Beş yaşını doldurmuş çocukların eğitimini kapsar; bu eğitim zorunludur",
+      "C": "Mecburi ilköğrenim çağına gelmemiş çocukların eğitimini kapsar; ilköğretim birinci sınıfa kayıt için zorunludur",
+      "D": "Mecburi ilköğrenim çağına gelmemiş çocukların eğitimini kapsar; bu eğitim isteğe bağlıdır",
+      "E": "İlkokula başlamış ancak okuma-yazma öğrenememiş çocukların eğitimini kapsar; bu eğitim isteğe bağlıdır"
+    },
+    "answer": "D",
+    "solution": "Madde 19'a göre okul öncesi eğitimi, mecburi ilköğrenim çağına gelmemiş çocukların eğitimini kapsar ve isteğe bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 19"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-033",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangisi 1739 sayılı Kanunda okul öncesi eğitimin amaç ve görevleri arasında sayılmamıştır?",
+    "options": {
+      "A": "Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamak",
+      "B": "Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak",
+      "C": "Çocukları ilk öğretime hazırlamak",
+      "D": "Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak",
+      "E": "Çocuklara ilköğretim programının ilk dönemine ait okuma yazma becerilerini kazandırmak"
+    },
+    "answer": "E",
+    "solution": "Madde 20'de okul öncesi eğitimin amaçları dört kalemde sayılır: beden, zihin ve duygu gelişmesi ile iyi alışkanlıklar; ilk öğretime hazırlama; elverişsiz çevrelerden gelen çocuklar için ortak yetişme ortamı; Türkçeyi doğru ve güzel konuşma. Okuma yazma becerisi kazandırmak bunlar arasında yer almaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 20"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-034",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Okul öncesi eğitim kurumlarının nerelerde ve hangi önceliklere göre açılacağı 1739 sayılı Kanuna göre nasıl düzenlenir?",
+    "options": {
+      "A": "İl planlama kurullarınca alınacak kararlarla",
+      "B": "Maliye Bakanlığı ile birlikte çıkarılacak bir tebliğle",
+      "C": "Talim ve Terbiye Kurulunca hazırlanacak bir ilke kararıyla",
+      "D": "Cumhurbaşkanlığı kararnamesiyle",
+      "E": "Millî Eğitim Bakanlığınca hazırlanacak bir yönetmelikle"
+    },
+    "answer": "E",
+    "solution": "Madde 21'e göre okul öncesi eğitim kurumları bağımsız anaokulları olarak kurulabileceği gibi ilköğretim okuluna bağlı anasınıfları veya diğer öğretim kurumlarına bağlı uygulama sınıfları olarak da açılabilir; nerelerde ve hangi önceliklere göre açılacağı Millî Eğitim Bakanlığınca hazırlanacak yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 21/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-035",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre ilkokulların birinci sınıflarına, o yılın 31 Aralık tarihinde kaç ayını dolduran çocukların kaydı yapılır?",
+    "options": {
+      "A": "72 ay",
+      "B": "60 ay",
+      "C": "78 ay",
+      "D": "66 ay",
+      "E": "48 ay"
+    },
+    "answer": "A",
+    "solution": "Madde 22'ye (7180 sayılı Kanunla değişik) göre ilkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır. Çocuğun gelişim durumuna bağlı olarak okula erken başlaması veya kaydının ertelenmesi ile ilgili hususlar yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 22"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-036",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre mecburi ilköğretim çağı hangi yaş grubundaki çocukları kapsar?",
+    "options": {
+      "A": "5-13 yaş",
+      "B": "6-12 yaş",
+      "C": "6-14 yaş",
+      "D": "7-14 yaş",
+      "E": "7-15 yaş"
+    },
+    "answer": "C",
+    "solution": "Madde 22'nin birinci cümlesine göre mecburi ilköğretim çağı 6-14 yaş grubundaki çocukları kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 22"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-037",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "İlköğretimin son ders yılının ikinci yarısında rehberlik servislerince, 1739 sayılı Kanunun 23. maddesi uyarınca öğrencilere yönelik hangi çalışma yapılır?",
+    "options": {
+      "A": "Öğrencilerin başarı puanlarına göre yerleşebilecekleri ortaöğretim kurumlarının listesi hazırlanarak okul yönetimine ve velilere sunulur, tercih işlemleri bu liste üzerinden yürütülür",
+      "B": "Öğrencilerin ilgi ve yetenek alanlarını belirleyen test sonuçları velilere iletilir ve okul türü tercihi veli kararına bırakılarak rehberlik servisi süreçten çekilir",
+      "C": "Mezun öğrencilerin üst öğrenimdeki başarı oranlarına ilişkin istatistikler okul rehberlik servislerince derlenir ve öğrencilerle paylaşılır",
+      "D": "Öğrencilere, devam edilebilecek okul ve programların hangi mesleklerin yolunu açabileceği ve bu mesleklerin sağlayacağı yaşam standardı konusunda tanıtıcı bilgiler verilir",
+      "E": "Ortaöğretimde okutulacak seçmeli dersler hakkında öğrencilere ve velilere bilgilendirme toplantıları düzenlenir, ders seçimleri rehberlik servislerince kesinleştirilir"
+    },
+    "answer": "D",
+    "solution": "Madde 23'ün üçüncü bendi (4306 sayılı Kanunla eklenmiştir), ilköğretimin son ders yılının ikinci yarısında rehberlik servislerince öğrencilere ortaöğretimde devam edilebilecek okul ve programların hangi mesleklerin yolunu açabileceği ve bu mesleklerin kendilerine sağlayacağı yaşam standardı konusunda tanıtıcı bilgiler verilmesini öngörür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 23/3"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-038",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangisi 1739 sayılı Kanunun 24. maddesinde ilköğretim kurumlarının kuruluşuna ilişkin olarak belirtilen hükümdür?",
+    "options": {
+      "A": "İmam-hatip ortaokulları, ilkokullarla aynı yönetim altında kurulur",
+      "B": "Ortaokulların liselerle birlikte kurulabilmesi Cumhurbaşkanı onayına bağlıdır",
+      "C": "İlkokulların birinci sınıfından sekizinci sınıfına kadar tek okul olarak kurulması esastır",
+      "D": "İlkokullar, nüfusun az olduğu yerlerde ortaokullara bağlı birleştirilmiş sınıflar hâlinde kurulur",
+      "E": "Ortaokullar, imkân ve şartlara göre ilkokullarla veya liselerle birlikte de kurulabilir"
+    },
+    "answer": "E",
+    "solution": "Madde 24'e (6287 sayılı Kanunla değişik) göre ilköğretim kurumlarının ilkokul ve ortaokul olarak bağımsız okullar hâlinde kurulması esastır; ancak imkân ve şartlara göre ortaokullar, ilkokullarla veya liselerle birlikte de kurulabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 24"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-039",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanunun 25. maddesine göre ilköğretim kurumları aşağıdakilerden hangisinden oluşur?",
+    "options": {
+      "A": "Beş yıl süreli ilkokullar ile üç yıl süreli ortaokullar ve imam-hatip ortaokulları",
+      "B": "Dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, isteğe bağlı ortaokullar ve imam-hatip ortaokulları",
+      "C": "Üç yıl süreli ilkokullar ile beş yıl süreli ortaokullar ve imam-hatip ortaokulları",
+      "D": "Dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ortaokullar ve imam-hatip ortaokulları",
+      "E": "Dört yıl süreli ilkokullar ile üç yıl süreli ortaokullar ve imam-hatip ortaokulları"
+    },
+    "answer": "D",
+    "solution": "Madde 25'e (6287 sayılı Kanunla yeniden düzenlenmiştir) göre ilköğretim kurumları dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 25/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-040",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Kanunun 25. maddesine göre ortaokul ve liselerde Kur’an-ı Kerim ve Hz. Peygamberimizin hayatı hangi statüde okutulur?",
+    "options": {
+      "A": "Ortaokullarda zorunlu, liselerde isteğe bağlı ders olarak",
+      "B": "İsteğe bağlı seçmeli ders olarak",
+      "C": "Okulun belirlediği ek ders olarak",
+      "D": "Zorunlu din kültürü dersinin bir ünitesi olarak",
+      "E": "İmam-hatip okullarında zorunlu, diğer okullarda seçmeli ders olarak"
+    },
+    "answer": "B",
+    "solution": "Madde 25'e göre ortaokul ve liselerde Kur’an-ı Kerim ve Hz. Peygamberimizin hayatı isteğe bağlı seçmeli ders olarak okutulur. Din kültürü ve ahlak öğretimi ise ayrıca zorunlu dersler arasındadır (m. 12).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 25/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-041",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Nüfusun az ve dağınık olduğu ve köylerin gruplaştırılmasının mümkün olmadığı yerlerde 1739 sayılı Kanuna göre aşağıdakilerden hangisi kurulur?",
+    "options": {
+      "A": "Gezici ilköğretim sınıfları",
+      "B": "Yatılı ilköğretim bölge okulları",
+      "C": "İlköğretim bölge okullarına bağlı pansiyonlar",
+      "D": "Birleştirilmiş sınıflı köy okulları",
+      "E": "Taşımalı ilköğretim okulları"
+    },
+    "answer": "B",
+    "solution": "Madde 25'in ikinci fıkrasına göre nüfusun az ve dağınık olduğu yerlerde köyler gruplaştırılarak merkezî köylerde ilköğretim bölge okulları ve bunlara bağlı pansiyonlar, gruplaştırmanın mümkün olmadığı yerlerde ise yatılı ilköğretim bölge okulları kurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 25/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-042",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre mesleki eğitim merkezi öğrencilerinin diploma alabilmeleri için aşağıdakilerden hangisini tamamlamaları gerekir?",
+    "options": {
+      "A": "Mesleki yeterlilik belgesi almak için gereken uygulama sınavını",
+      "B": "Ortaöğretim genel kültür derslerinden ortak bir sınavı",
+      "C": "Millî Eğitim Bakanlığınca belirlenen fark derslerini",
+      "D": "İşletmede beceri eğitimini en az iki dönem boyunca",
+      "E": "Çıraklık sözleşmesini en az bir yıl süreyle"
+    },
+    "answer": "C",
+    "solution": "Madde 26'ya (6764 sayılı Kanunla değişik) göre ortaöğretim kurumlarını bitirenlere bitirdikleri programın özelliğine göre diploma verilir; ancak mesleki eğitim merkezi öğrencilerinin diploma alabilmeleri için Millî Eğitim Bakanlığınca belirlenen fark derslerini tamamlaması zorunludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 26"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-043",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Ortaöğretimin amaç ve görevleri arasında 1739 sayılı Kanunda aşağıdakilerden hangisi yer alır?",
+    "options": {
+      "A": "Öğrencileri doğrudan istihdama yönlendirecek mesleki programlara ağırlık vermek",
+      "B": "Okuma-yazma öğretmek ve eksik eğitimleri tamamlamaları için imkânlar hazırlamak",
+      "C": "Bütün öğrencilere ortaöğretim seviyesinde asgari ortak bir genel kültür vermek",
+      "D": "Toplum ihtiyaçlarını öğrenci isteklerinin önüne alarak programları belirlemek",
+      "E": "Öğrencileri yurdumuzun bilim politikasına göre çeşitli kademelerde yetiştirmek"
+    },
+    "answer": "C",
+    "solution": "Madde 28'in birinci bendi, bütün öğrencilere ortaöğretim seviyesinde asgari ortak bir genel kültür vermeyi ve onlara kişi ve toplum sorunlarını tanıma, çözüm yolları arama ve kalkınmaya katkıda bulunma bilincini kazandırmayı öngörür. Bilim politikasına göre yetiştirme yükseköğretimin, okuma-yazma öğretme ise yaygın eğitimin görevleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 28/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-044",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Ortaöğretim kurumlarının öğrenim süresi 1739 sayılı Kanuna göre kim tarafından, neye göre tespit edilir?",
+    "options": {
+      "A": "Mezuniyet sonrası istihdam alanına göre Cumhurbaşkanlığınca",
+      "B": "Uygulanan programın özelliğine göre Millî Eğitim Bakanlığınca",
+      "C": "Öğrencilerin yaş grubuna göre Talim ve Terbiye Kurulunca",
+      "D": "Bölgenin ihtiyaçlarına göre il millî eğitim müdürlüklerince",
+      "E": "Eğitim kurumunun türüne göre Yükseköğretim Kurulunca"
+    },
+    "answer": "B",
+    "solution": "Madde 29'un son fıkrasına göre ortaöğretim kurumlarının öğrenim süresi, uygulanan programın özelliğine göre Millî Eğitim Bakanlığınca tespit edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 29 (son fıkra)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-045",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Yükseköğretim kurumlarına hangi programları bitirenlerin nasıl girecekleri ve giriş şartları 1739 sayılı Kanuna göre kim tarafından tespit edilir?",
+    "options": {
+      "A": "Üniversitelerarası Kurul tarafından Millî Eğitim Bakanlığının görüşü alınarak",
+      "B": "Yükseköğretim kurumlarının senatoları tarafından Yükseköğretim Kurulunun görüşü alınarak",
+      "C": "Millî Eğitim Bakanlığı ile işbirliği yapılarak Yükseköğretim Kurulu tarafından",
+      "D": "Ölçme, Seçme ve Yerleştirme Merkezi tarafından Cumhurbaşkanlığının onayıyla",
+      "E": "Yükseköğretim Kurulu ile işbirliği yapılarak Millî Eğitim Bakanlığı tarafından"
+    },
+    "answer": "C",
+    "solution": "Madde 31'e (2842 sayılı Kanunla değişik) göre lise veya dengi okulları bitirenler yükseköğretim kurumlarına girmek için aday olmaya hak kazanır; giriş şartları Millî Eğitim Bakanlığı ile işbirliği yapılarak Yükseköğretim Kurulu tarafından tespit edilir. Şıklardaki rollerin yer değiştirilmesi tipik bir tuzaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 31/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-046",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "İmam-hatip liseleri, 1739 sayılı Kanunun 32. maddesine göre hangi kurum tarafından açılır ve nasıl programlar uygular?",
+    "options": {
+      "A": "Diyanet İşleri Başkanlığınca açılır; mesleğe hazırlayıcı programlar uygular",
+      "B": "Diyanet İşleri Başkanlığı ile Millî Eğitim Bakanlığı tarafından birlikte açılır; din hizmetlerine yönelik programlar uygular",
+      "C": "Millî Eğitim Bakanlığınca açılır; hem mesleğe hem yüksek öğrenime hazırlayıcı programlar uygular",
+      "D": "İl müftülüklerince açılır; Millî Eğitim Bakanlığının onayladığı mesleki programlar uygular",
+      "E": "Millî Eğitim Bakanlığınca açılır; yükseköğretime geçiş hakkı tanımayan programlar uygular"
+    },
+    "answer": "C",
+    "solution": "Madde 32'ye göre imam-hatip liseleri, imamlık, hatiplik ve Kur'an kursu öğreticiliği gibi dinî hizmetlerin yerine getirilmesiyle görevli elemanları yetiştirmek üzere Millî Eğitim Bakanlığınca açılan, ortaöğretim sistemi içinde hem mesleğe hem yüksek öğrenime hazırlayıcı programlar uygulayan öğretim kurumlarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 32"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-047",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Güzel sanatlar alanlarında özel istidat ve kabiliyetleri beliren çocukları küçük yaşlardan itibaren yetiştirmek üzere 1739 sayılı Kanuna göre hangi seviyelerde ayrı okullar açılabilir?",
+    "options": {
+      "A": "İlköğretim ve ortaöğretim seviyesinde",
+      "B": "Ortaöğretim ve yükseköğretim seviyesinde",
+      "C": "Okul öncesi, ilköğretim ve ortaöğretim seviyesinde",
+      "D": "Okul öncesi ve ilköğretim seviyesinde",
+      "E": "Yükseköğretim seviyesinde konservatuvar biçiminde"
+    },
+    "answer": "A",
+    "solution": "Madde 33'e göre güzel sanatlar alanlarında özel istidat ve kabiliyetleri beliren çocukları küçük yaşlardan itibaren yetiştirmek üzere ilköğretim ve ortaöğretim seviyesinde ayrı okullar açılabilir veya ayrı yetiştirme tedbirleri alınabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 33"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-048",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre yükseköğretim, ortaöğretime dayalı en az kaç yıllık yüksek öğrenim veren eğitim kurumlarının tümünü kapsar?",
+    "options": {
+      "A": "Bir yıllık",
+      "B": "Beş yıllık",
+      "C": "Dört yıllık",
+      "D": "İki yıllık",
+      "E": "Üç yıllık"
+    },
+    "answer": "D",
+    "solution": "Madde 34'e göre yükseköğretim, ortaöğretime dayalı en az iki yıllık yüksek öğrenim veren eğitim kurumlarının tümünü kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 34"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-049",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangisi 1739 sayılı Kanunda yükseköğretimin amaç ve görevleri arasında sayılmıştır?",
+    "options": {
+      "A": "Bütün öğrencilere asgari ortak bir genel kültür vererek kişi ve toplum sorunlarını tanıma bilincini kazandırmak",
+      "B": "Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri ve alışkanlıkları kazandırmak",
+      "C": "Örgün eğitim sistemine girmemiş vatandaşlara okuma-yazma öğretmek ve eksik eğitimlerini tamamlamaları için sürekli eğitim imkânları hazırlamak",
+      "D": "Araştırma ve incelemelerinin sonuçlarını gösteren, bilim ve tekniğin ilerlemesini sağlayan her türlü yayını yapmak",
+      "E": "Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamak"
+    },
+    "answer": "D",
+    "solution": "Madde 35'in beşinci bendi, yükseköğretimin görevleri arasında araştırma ve incelemelerin sonuçlarını gösteren, bilim ve tekniğin ilerlemesini sağlayan her türlü yayını yapmayı sayar. Diğer şıklar sırasıyla yaygın eğitimin, ortaöğretimin, okul öncesi eğitimin ve ilköğretimin amaçlarındandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 35/5"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-050",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdaki amaçlar sırasıyla 1739 sayılı Kanuna göre hangi eğitim kademesine aittir?\n\nI. Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamak\n\nII. Bütün öğrencilere ortaöğretim seviyesinde asgari ortak bir genel kültür vermek\n\nIII. Öğrencileri yurdumuzun bilim politikasına ve toplumun insan gücü ihtiyaçlarına göre yetiştirmek",
+    "options": {
+      "A": "Okul öncesi — İlköğretim — Yükseköğretim",
+      "B": "Okul öncesi — Ortaöğretim — Yükseköğretim",
+      "C": "İlköğretim — Ortaöğretim — Yükseköğretim",
+      "D": "Okul öncesi — Ortaöğretim — Yaygın eğitim",
+      "E": "İlköğretim — Yaygın eğitim — Yükseköğretim"
+    },
+    "answer": "B",
+    "solution": "Türkçeyi doğru ve güzel konuşma okul öncesi eğitimin (m. 20), asgari ortak genel kültür verme ortaöğretimin (m. 28), bilim politikasına ve insan gücü ihtiyaçlarına göre yetiştirme ise yükseköğretimin (m. 35) amaç ve görevleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 20, 28, 35"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-051",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangisi 1739 sayılı Kanunun 36. maddesinde yükseköğretim kurumları arasında sayılmıştır?",
+    "options": {
+      "A": "Mesleki eğitim merkezleri",
+      "B": "Eğitim kampüsleri",
+      "C": "Bilim ve sanat merkezleri",
+      "D": "Konservatuvarlar",
+      "E": "Halk eğitim merkezleri"
+    },
+    "answer": "D",
+    "solution": "Madde 36'ya (2842 sayılı Kanunla değişik) göre yükseköğretim kurumları üniversiteler, fakülteler, enstitüler, yüksekokullar, konservatuvarlar, meslek yüksekokulları ile uygulama ve araştırma merkezleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 36"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-052",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Başarılı olan fakat maddi imkânları elverişli olmayan yükseköğretim öğrencilerinin kayıt ücreti, imtihan harcı gibi öğrenim giderleri 1739 sayılı Kanuna göre nasıl sağlanır?",
+    "options": {
+      "A": "Burs, kredi, yatılılık ve benzeri yollarla",
+      "B": "Mezuniyet sonrasında mecburi hizmet karşılığı ödenmek üzere borçlandırılarak",
+      "C": "İl özel idareleri ve belediyelerce ödenerek",
+      "D": "Öğrenim ücretinden muaf tutularak ilgili kurumun bütçesinden karşılanarak",
+      "E": "Okul-aile birliklerinin bağış gelirlerinden karşılanarak"
+    },
+    "answer": "A",
+    "solution": "Madde 38'e göre yükseköğretim paralıdır; başarılı olan fakat maddi imkânları elverişli olmayan öğrencilerin kayıt ücreti, imtihan harcı gibi her türlü öğrenim giderleri burs, kredi, yatılılık ve benzeri yollarla sağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 38/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-053",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangisi 1739 sayılı Kanunun 40. maddesinde yaygın eğitimin özel amaçları arasında sayılmıştır?",
+    "options": {
+      "A": "Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak",
+      "B": "Boş zamanları iyi bir şekilde değerlendirme ve kullanma alışkanlıkları kazandırmak",
+      "C": "Öğrencilere ortaöğretim seviyesinde ortak bir genel kültür vererek toplum sorunlarını tanıma bilincini kazandırmak",
+      "D": "Öğrencileri ilgi, istidat ve kabiliyetleri ölçüsünde yurdumuzun bilim politikasına göre yetiştirmek",
+      "E": "Her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamak"
+    },
+    "answer": "B",
+    "solution": "Madde 40'ın altıncı bendi, yaygın eğitimin özel amaçları arasında boş zamanları iyi bir şekilde değerlendirme ve kullanma alışkanlıkları kazandırmayı sayar. Diğer şıklar sırasıyla yükseköğretimin, okul öncesi eğitimin, ilköğretimin ve ortaöğretimin amaçlarındandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 40/6"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-054",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre yaygın eğitim hangi iki temel bölümden meydana gelir?",
+    "options": {
+      "A": "Genel ile mesleki ve teknik",
+      "B": "Okul içi ile okul dışı",
+      "C": "Zorunlu ile isteğe bağlı",
+      "D": "Resmî ile özel",
+      "E": "Kurum merkezli ile uzaktan"
+    },
+    "answer": "A",
+    "solution": "Madde 41'e göre yaygın eğitim, örgün eğitimle birbirini tamamlayacak biçimde bir bütünlük içinde düzenlenir ve genel ile mesleki-teknik olmak üzere iki temel bölümden meydana gelir; bu bölümler birbirini destekleyici biçimde hazırlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 41/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-055",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Genel, mesleki ve teknik yaygın eğitim alanında görev alan resmî, özel ve gönüllü kuruluşların çalışmaları arasındaki koordinasyonu 1739 sayılı Kanuna göre kim sağlar?",
+    "options": {
+      "A": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+      "B": "Yükseköğretim Kurulu",
+      "C": "Mesleki Yeterlilik Kurumu",
+      "D": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "E": "Millî Eğitim Bakanlığı"
+    },
+    "answer": "E",
+    "solution": "Madde 42'ye göre genel, mesleki ve teknik yaygın eğitim alanında görev alan resmî, özel ve gönüllü kuruluşların çalışmaları arasındaki koordinasyon Millî Eğitim Bakanlığınca sağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 42/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-056",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Öğretmenlik formasyonu veren ve öğretmen yetiştiren, Millî Eğitim Bakanlığına bağlı eğitim yüksekokulları 1739 sayılı Kanunun 44. maddesine göre hangi yolla kurulabilir?",
+    "options": {
+      "A": "Bakanlar Kurulu kararı ile",
+      "B": "Kanunla",
+      "C": "Cumhurbaşkanı kararı ile",
+      "D": "Millî Eğitim Bakanının onayı ile",
+      "E": "Yükseköğretim Kurulu kararı ile"
+    },
+    "answer": "C",
+    "solution": "Madde 44'te (2842 sayılı Kanunla değişik), eğitim yüksekokullarının kuruluşunda yetkili merci 700 sayılı KHK ile “Yükseköğretim Kurulunun görüşü alınarak, Bakanlar Kurulu” ibaresi yerine “Cumhurbaşkanı” olarak değiştirilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 44"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-057",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanunun “öğretmenlerin bölge hizmeti” başlıklı 46. maddesine göre öğretmenlikte esas olan aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Görev yaptığı okulda en az beş yıl çalışmak",
+      "B": "Eşinin görev yaptığı il sınırları içinde çalışmak",
+      "C": "Yurdun çeşitli bölgelerinde görev yapmak",
+      "D": "Doğum yeri bölgesinde görevlendirilmek",
+      "E": "Hizmet puanı en yüksek olanın tercih ettiği bölgeye yerleştirilmesi"
+    },
+    "answer": "C",
+    "solution": "Madde 46'ya göre öğretmenlikte yurdun çeşitli bölgelerinde görev yapmak esastır; hizmet bölgeleri ve ihtiyaçlara göre bu bölgeler arası yer değiştirme esasları yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 46"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-058",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Uzman ve usta öğreticilerle ilgili aşağıdaki ifadelerden hangisi 1739 sayılı Kanuna uygundur?",
+    "options": {
+      "A": "Görevlendirilmeleri, kadrolu öğretmen bulunmayan yerlerle sınırlıdır",
+      "B": "Seçimlerinde aranacak şartlar, görev ve yetkileri kanunla tespit edilir",
+      "C": "Örgün eğitim kurumlarında görevlendirilebilirler; hizmetiçi kurs ve seminerlerde görev alamazlar",
+      "D": "Hizmetiçi yetiştirme faaliyetlerinde görevlendirilmeleri ilgili fakültenin onayına bağlıdır",
+      "E": "Örgün ve yaygın eğitim kurumlarında geçici veya sürekli olarak görevlendirilebilirler"
+    },
+    "answer": "E",
+    "solution": "Madde 47'ye (2842 sayılı Kanunla değişik) göre örgün ve yaygın eğitim kurumlarında ve hizmetiçi yetiştirme kurs, seminer ve konferanslarında uzman ve usta öğreticiler geçici veya sürekli olarak görevlendirilebilir; seçimlerinde aranacak şartlar, görev ve yetkileri yönetmeliklerle tespit edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 47"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-059",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Öğretmenlerin daha üst öğrenim görmelerini sağlamak üzere açılan yaz ve akşam okulları 1739 sayılı Kanuna göre kimlerce açılır ve bunlara devam ederek yeterli krediyi dolduran öğretmenlere ne verilir?",
+    "options": {
+      "A": "Yükseköğretim Kurulunca açılır; denklik belgesi verilir",
+      "B": "Öğretmen yetiştiren kurumlarca açılır; o kurumun belge veya diploması verilir",
+      "C": "İl millî eğitim müdürlüklerince açılır; hizmetiçi eğitim sertifikası verilir",
+      "D": "Millî Eğitim Bakanlığı hizmetiçi eğitim birimlerince açılır; başarı belgesi verilir",
+      "E": "Öğretmen yetiştiren kurumlarca açılır; Millî Eğitim Bakanlığının düzenlediği sertifika verilir"
+    },
+    "answer": "B",
+    "solution": "Madde 48'e göre yaz ve akşam okulları öğretmen yetiştiren kurumlarca açılır; bunlara devam ederek yeterli krediyi dolduran öğretmenlere o kurumun belge veya diploması verilir. Millî Eğitim Bakanlığınca açılan kurs ve seminerlere devam edenlerden başarı sağlayanlara ise belge verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 48/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-060",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Yurt içinde ve dışında daha üst öğrenim yapmak veya bilgi, görgü ve ihtisaslarını artırmak isteyen öğretmenler için 1739 sayılı Kanunun 49. maddesinde aşağıdakilerden hangisi öngörülmüştür?",
+    "options": {
+      "A": "Öğrenim giderlerinin Bakanlıkça karşılanması",
+      "B": "Yıllık izin sürelerinin iki katına çıkarılması",
+      "C": "Görev yerlerinin korunarak ek ders ücretiyle görevlendirilmeleri",
+      "D": "Öğretmenlik görevlerinin sözleşmeli olarak sürdürülmesi",
+      "E": "Belli şartlarla aylıklı veya aylıksız izinli sayılmaları"
+    },
+    "answer": "E",
+    "solution": "Madde 49'a göre yurt içinde ve dışında daha üst öğrenim yapmak veya bilgi, görgü ve ihtisaslarını artırmak isteyen öğretmenlerin belli şartlarla aylıklı veya aylıksız izinli sayılmaları sağlanır; bu şartlar millî eğitimin ihtiyaçları gözetilerek yönetmelikle belirtilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 49"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-061",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanuna göre Millî Eğitim Bakanlığınca gerekli görülen yerlerde, özellikle hangi bölgelerde görevli öğretmenlere konut sağlanır?",
+    "options": {
+      "A": "Nüfusu az köylerde",
+      "B": "Mahrumiyet bölgelerinde",
+      "C": "Afet bölgelerinde",
+      "D": "Sınır illerinde",
+      "E": "Büyükşehirlerin çevresinde"
+    },
+    "answer": "B",
+    "solution": "Madde 50'ye göre Millî Eğitim Bakanlığınca gerekli görülen yerlerde, özellikle mahrumiyet bölgelerinde görevli öğretmenlere konut sağlanır; konutlar okul binaları ile birlikte planlanır ve yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 50"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-062",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Öğrenci tanılama sürecine bağlı çalışmalar için yaz tatilinde görevlendirilen bir rehberlik öğretmeninin izin süresi, 1739 sayılı Kanunun 50/A maddesine göre en az ne kadar olmalıdır?",
+    "options": {
+      "A": "Kırk beş gün",
+      "B": "Bir ay",
+      "C": "On beş gün",
+      "D": "İki ay",
+      "E": "Üç ay"
+    },
+    "answer": "B",
+    "solution": "Madde 50/A'ya göre öğretmenler yaz tatili içinde aralıksız iki ay izinlidir. Rehberlik öğretmenleri tercih danışmanlığı, alan ve ders seçimi ile öğrenci tanılama sürecine bağlı çalışmalarda ihtiyaç duyulması hâlinde izin ve tatil dönemlerinde de görevlendirilebilir; bu durumda izinleri bir aydan az olamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 50/A"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-063",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Kendilerine ikinci görev olarak okul veya kurum yöneticiliği verilen öğretmenler yıllık izinlerini 1739 sayılı Kanuna göre hangi hükümlere göre kullanır?",
+    "options": {
+      "A": "657 sayılı Devlet Memurları Kanununun 104 üncü maddesi ve 105 inci maddesinin birinci fıkrası hükümlerine",
+      "B": "4857 sayılı İş Kanununun 53 üncü maddesi ile 56 ncı maddesinin birinci fıkrası hükümlerine",
+      "C": "Millî Eğitim Bakanlığınca çıkarılan öğretmenlerin yaz tatili iznine ilişkin yönetmelik hükümlerine",
+      "D": "657 sayılı Devlet Memurları Kanununun 102 nci maddesi ve 103 üncü maddesinin birinci fıkrası hükümlerine",
+      "E": "7528 sayılı Öğretmenlik Meslek Kanununun 5 inci maddesi ve ilgili yönetmelik hükümlerine"
+    },
+    "answer": "D",
+    "solution": "Madde 50/A'nın son fıkrasına göre kendilerine ikinci görev olarak okul/kurum yöneticiliği verilenler, yüz yüze eğitim yapılmayan eğitim kurumlarında görevli öğretmenler ile Bakanlık merkez teşkilatı ve il/ilçe millî eğitim müdürlüklerinde görevlendirilen öğretmenler yıllık izinlerini 657 sayılı Kanunun 102. maddesi ve 103. maddesinin birinci fıkrası hükümlerine göre kullanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 50/A"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-064",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Her derece ve türdeki eğitim kurumlarına ait bina ve tesisler, 1739 sayılı Kanunun 51. maddesine göre neye göre ve kim tarafından planlanır ve yaptırılır?",
+    "options": {
+      "A": "Çevrenin ihtiyaçlarına ve uygulanacak programların özelliklerine göre Millî Eğitim Bakanlığınca",
+      "B": "Okulun öğrenci kapasitesine ve bölge nüfusuna göre Çevre ve Şehircilik Bakanlığınca",
+      "C": "Bağış yapan kişilerin önerileri ve yerel ihtiyaçlar dikkate alınarak okul-aile birliklerince",
+      "D": "Kalkınma planı hedeflerine ve kamu yatırım programına göre Cumhurbaşkanlığı İdari İşler Başkanlığınca",
+      "E": "Nüfus yoğunluğuna ve bölgenin gelişmişlik düzeyine göre il özel idarelerince"
+    },
+    "answer": "A",
+    "solution": "Madde 51'e göre her derece ve türdeki eğitim kurumlarına ait bina ve tesisler çevrenin ihtiyaçlarına ve uygulanacak programların özelliklerine göre Millî Eğitim Bakanlığınca planlanır ve yaptırılır; bu maksatla her yıl Bakanlık bütçesine gerekli ödenek konur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 51/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-065",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Aşağıdakilerden hangileri 1739 sayılı Kanunun 54. maddesine göre Millî Eğitim Bakanlığının eğitim araç ve gereçlerini sağlama yollarındandır?\n\nI. Hazırlamak, imal etmek ve satın almak\n\nII. Kişilere veya kuracağı komisyonlara ya da düzenleyeceği yarışmalara hazırlatmak\n\nIII. Özel kesimce hazırlananlar arasından seçmek veya tavsiye etmek\n\nIV. Eğitim kurumlarına kendi imkânlarıyla temin etme yetkisi vermek",
+    "options": {
+      "A": "I ve II",
+      "B": "I, II ve III",
+      "C": "II, III ve IV",
+      "D": "I, III ve IV",
+      "E": "I, II, III ve IV"
+    },
+    "answer": "B",
+    "solution": "Madde 54'e göre Bakanlık eğitim araç ve gereçlerini hazırlamak, imal etmek ve satın almak; kişilere veya kuracağı komisyonlara veya yarışmalar düzenleyerek hazırlatmak; özel kesimce hazırlananlar veya imal edilenler arasından seçmek veya tavsiye etmek suretiyle sağlar. Kurumlara temin yetkisi verilmesi sayılan yollar arasında yer almaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 54"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-066",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Özel kesimce hazırlanan ve okullarda ders kitabı olarak okutulmak üzere Millî Eğitim Bakanlığına gönderilen eserler, 1739 sayılı Kanunun 55. maddesine göre nasıl incelenir?",
+    "options": {
+      "A": "Üniversitelerin ilgili fakültelerine ücretsiz inceletilir",
+      "B": "Ücret karşılığı incelenir",
+      "C": "Yayınevinin talebi hâlinde bedelsiz incelenir",
+      "D": "Talim ve Terbiye Kurulunca ücretsiz incelenir",
+      "E": "Bakanlıkça ücretsiz incelenir"
+    },
+    "answer": "B",
+    "solution": "Madde 55'e (5005 sayılı Kanunla değişik) göre özel kesimce hazırlanan ve okullarda ders kitabı olarak okutulmak üzere Millî Eğitim Bakanlığına gönderilen eserler ücret karşılığı incelenir; inceleme ücretine ilişkin esaslar yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 55"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-067",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanunun 57. maddesine göre bu kanun hükümlerine aykırı hiçbir eğitim faaliyetinde bulunulamaz. Bu yasağın istisnası aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yurt dışında eğitim veren özel öğretim kurumları",
+      "B": "Vakıflarca açılan yükseköğretim kurumları",
+      "C": "Diğer bakanlıklara bağlı lise ve dengi okullar",
+      "D": "Askerî maksatlarla açılacak okullar",
+      "E": "Mesleki ve teknik yaygın eğitim kursları"
+    },
+    "answer": "D",
+    "solution": "Madde 57'ye göre askerî maksatlarla açılacak okullar hariç, bu kanun hükümlerine aykırı hiçbir eğitim faaliyetinde bulunulamaz. Diğer bakanlıklara bağlı okullar ise Millî Eğitim Bakanlığının gözetim ve denetimine tabidir (m. 58).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 57"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-068",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Bir bakanlığa bağlı lise ve dengi okulların program ve yönetmelikleri 1739 sayılı Kanunun 58. maddesine göre nasıl hazırlanır?",
+    "options": {
+      "A": "Millî Eğitim Bakanlığınca tek başına hazırlanır, ilgili bakanlığa bildirilerek uygulanır",
+      "B": "İlgili bakanlıkça hazırlanır, Talim ve Terbiye Kurulunca onaylanarak yürürlüğe girer",
+      "C": "İlgili bakanlıkla Millî Eğitim Bakanlığı tarafından birlikte yapılır ve Millî Eğitim Bakanlığınca onanır",
+      "D": "İlgili bakanlıkça hazırlanır ve Millî Eğitim Bakanlığının görüşü alınarak uygulanır",
+      "E": "Cumhurbaşkanlığınca belirlenen esaslara göre ilgili bakanlıkça hazırlanır ve yürürlüğe konulur"
+    },
+    "answer": "C",
+    "solution": "Madde 58'e göre diğer bakanlıklara bağlı lise ve dengi okulların program ve yönetmelikleri ilgili bakanlıkla Millî Eğitim Bakanlığı tarafından birlikte yapılır ve Millî Eğitim Bakanlığınca onanır. Askerî eğitim kurumlarının dereceleri ve müfredatı ise Millî Savunma Bakanlığı ile birlikte tespit edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 58"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-069",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Diğer bakanlıklara bağlı okullar Millî Eğitim Bakanlığının gözetim ve denetimine tabidir. Gözetim ve denetim sonunda uygun eğitim ortamı ve niteliği taşımadığı anlaşılan kurumların denkliği, 1739 sayılı Kanuna göre ne olur?",
+    "options": {
+      "A": "Cumhurbaşkanı kararıyla kaldırılır",
+      "B": "Bağlı bulunduğu bakanlığın talebi hâlinde geçici olarak askıya alınır",
+      "C": "Bağlı bulunduğu bakanlığa devredilerek yeniden değerlendirilir",
+      "D": "Programlar yeniden uyarlanıncaya kadar kayıt alması durdurulur",
+      "E": "Usulüne uygun şekilde Millî Eğitim Bakanlığınca iptal edilir"
+    },
+    "answer": "E",
+    "solution": "Madde 58'in son fıkrasına göre diğer bakanlıklara bağlı okullar Millî Eğitim Bakanlığının gözetim ve denetimine tabidir; gözetim ve denetim sonunda uygun eğitim ortamı ve niteliği taşımayan kurumların denkliği usulüne uygun şekilde Millî Eğitim Bakanlığınca iptal edilir. Buna ait esaslar Cumhurbaşkanınca çıkarılan bir yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 58/5"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-070",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanunun madde kenar başlıkları hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Millî Eğitim Temel Kanunu için olduğu gibi eğitim alanındaki diğer kanunlar için de bağlayıcı bir yorum ilkesidir",
+      "B": "Sadece ilgili oldukları maddelerin konusunu ve maddeler arasındaki sıralamayı gösterir, kanun metnine dahil değildir",
+      "C": "Anayasa Mahkemesi kararıyla kanun metninin bir parçası olarak kabul edilmiş ve sonradan metne işlenmiştir",
+      "D": "Kanun metninin ayrılmaz bir parçasıdır ve madde hükümlerinin yorumunda yol göstericidir ve bağlayıcıdır",
+      "E": "Maddelerin kapsamını daraltır ve çelişki hâlinde madde metnine göre öncelikli hüküm olarak değerlendirilir"
+    },
+    "answer": "B",
+    "solution": "Madde 60'a göre kanunun madde kenar başlıkları sadece ilgili oldukları maddelerin konusunu ve maddeler arasındaki sıralama ve bağlantıyı göstermekte olup kanun metnine dahil değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 60"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-071",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "1739 sayılı Kanunun geçici 3. maddesine göre zorunlu ortaöğretim hangi eğitim-öğretim yılından itibaren uygulanmaya başlanır?",
+    "options": {
+      "A": "2011-2012",
+      "B": "2013-2014",
+      "C": "2012-2013",
+      "D": "2015-2016",
+      "E": "2014-2015"
+    },
+    "answer": "C",
+    "solution": "Geçici 3. madde (6287 sayılı Kanunla eklenmiştir) zorunlu ortaöğretimin 2012-2013 eğitim-öğretim yılından itibaren uygulanmaya başlanacağını belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun geçici m. 3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-1739-072",
+    "ders": "mevzuat",
+    "konu": "milli_egitim_temel_kanunu",
+    "stem": "Özel eğitime ve korunmaya muhtaç çocukları yetiştirmek için özel tedbirler alınması, 1739 sayılı Millî Eğitim Temel Kanununda yer alan aşağıdaki temel ilkelerden hangisinin kapsamındadır?",
+    "options": {
+      "A": "Bilimsellik",
+      "B": "Süreklilik",
+      "C": "Fırsat ve imkân eşitliği",
+      "D": "Genellik ve eşitlik",
+      "E": "Demokrasi eğitimi"
+    },
+    "answer": "C",
+    "solution": "Kanunun fırsat ve imkân eşitliği ilkesi, özel eğitime ve korunmaya muhtaç çocukları yetiştirmek için özel tedbirler alınmasını da kapsar; parasız yatılılık, burs ve kredi bu ilkenin araçlarındandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 8 (fırsat ve imkân eşitliği)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

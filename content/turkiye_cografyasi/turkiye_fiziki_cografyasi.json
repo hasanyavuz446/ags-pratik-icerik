@@ -1,0 +1,2574 @@
+[
+  {
+    "id": "ags-cog-fiz-001",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye'nin matematik konumunu doğru veren ifade aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "40°–46° kuzey paralelleri ile 26°–45° batı meridyenleri arasında yer alır.",
+      "B": "36°–42° kuzey paralelleri ile 10°–30° doğu meridyenleri arasında yer alır.",
+      "C": "30°–36° kuzey paralelleri ile 20°–35° doğu meridyenleri arasında yer alır.",
+      "D": "36°–42° güney paralelleri ile 26°–45° doğu meridyenleri arasında yer alır.",
+      "E": "36°–42° kuzey paralelleri ile 26°–45° doğu meridyenleri arasında yer alır."
+    },
+    "answer": "E",
+    "solution": "Türkiye Kuzey Yarım Küre'de, Doğu Yarım Küre'de ve orta kuşakta 36°–42° K ile 26°–45° D arasındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: matematik konum"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-002",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye 26° ile 45° doğu meridyenleri arasında uzandığına göre bu iki meridyen arasındaki yerel saat farkı kaç dakikadır?",
+    "options": {
+      "A": "76 dakika",
+      "B": "90 dakika",
+      "C": "114 dakika",
+      "D": "60 dakika",
+      "E": "19 dakika"
+    },
+    "answer": "A",
+    "solution": "Boylam farkı 45° − 26° = 19°; 1° boylam 4 dakikaya karşılık geldiğinden 19 × 4 = 76 dakikadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: yerel saat farkı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-003",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "45° doğu meridyeninde yerel saat 18.00 iken 30° doğu meridyeninde yerel saat kaçtır?",
+    "options": {
+      "A": "16.00",
+      "B": "17.00",
+      "C": "18.15",
+      "D": "17.30",
+      "E": "19.00"
+    },
+    "answer": "B",
+    "solution": "Boylam farkı 15°; 15 × 4 = 60 dakika. Batıda kalan meridyende saat geridir: 18.00 − 1 saat = 17.00.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: yerel saat hesabı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-004",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "36° doğu meridyeninde yerel saat 14.00 iken 26° doğu meridyeninde yerel saat kaçtır?",
+    "options": {
+      "A": "12.20",
+      "B": "14.10",
+      "C": "13.20",
+      "D": "14.40",
+      "E": "13.40"
+    },
+    "answer": "C",
+    "solution": "Boylam farkı 10°; 10 × 4 = 40 dakika. Batıdaki meridyende saat 40 dakika gerilidir: 14.00 − 0.40 = 13.20.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: yerel saat hesabı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-005",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta (36°–42° K) yer almasının sonuçlarından biri değildir?",
+    "options": {
+      "A": "Dört mevsimin belirgin yaşanması",
+      "B": "Güneş ışınlarının yıl boyunca dik açıyla gelmemesi",
+      "C": "Batı rüzgârlarının etkili olması",
+      "D": "Gece ve gündüz sürelerinin yıl boyunca eşit olması",
+      "E": "Sıcaklık farklarının yaz ve kış arasında belirgin olması"
+    },
+    "answer": "D",
+    "solution": "Gece-gündüz süreleri yalnız ekvatorda yıl boyu eşittir; orta kuşakta mevsimlere göre değişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: matematik konumun sonuçları (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-006",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangisi Türkiye'nin özel konumunun sonuçlarından biri değildir?",
+    "options": {
+      "A": "Üç kıtanın birleştiği alanda yer alması",
+      "B": "Boğazlar sayesinde Karadeniz–Akdeniz geçişinde etkili olması",
+      "C": "Farklı kültürlerin kesiştiği bir bölgede bulunması",
+      "D": "Güneş ışınlarının yıl boyunca dik açıyla gelmesi",
+      "E": "Önemli ticaret yolları üzerinde bulunması"
+    },
+    "answer": "D",
+    "solution": "Güneş ışınlarının geliş açısı matematik konuma bağlıdır; ötekiler Asya–Avrupa–Afrika kavşağındaki özel konumun sonuçlarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: özel konumun sonuçları (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-007",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Marmara Denizi'ni Ege Denizi'ne bağlayan boğaz aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bering Boğazı",
+      "B": "İstanbul Boğazı",
+      "C": "Çanakkale Boğazı",
+      "D": "Cebelitarık Boğazı",
+      "E": "Hürmüz Boğazı"
+    },
+    "answer": "C",
+    "solution": "Çanakkale Boğazı Marmara ile Ege'yi, İstanbul Boğazı ise Karadeniz ile Marmara'yı birleştirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: boğazlar"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-008",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki ülkelerden hangisi ile Türkiye'nin kara sınırı yoktur?",
+    "options": {
+      "A": "Irak",
+      "B": "Bulgaristan",
+      "C": "İran",
+      "D": "Gürcistan",
+      "E": "Ürdün"
+    },
+    "answer": "E",
+    "solution": "Türkiye'nin kara sınırı komşuları Yunanistan, Bulgaristan, Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran, Irak ve Suriye'dir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: komşu ülkeler (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-009",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye'nin en doğusunda yer alan il aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ağrı",
+      "B": "Van",
+      "C": "Kars",
+      "D": "Iğdır",
+      "E": "Hakkâri"
+    },
+    "answer": "D",
+    "solution": "Türkiye'nin doğu ucu Iğdır ilindedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Konum: uç noktalar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-010",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye'nin dağlarının büyük bölümünün oluşumunda etkili olan jeolojik olay aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Rüzgârın uzun süreli aşındırması",
+      "B": "Alp orojenezi sırasındaki kıvrılmalar",
+      "C": "Buzulların aşındırması ve taşıması",
+      "D": "Hersinyen orojenezi sırasındaki kıvrılmalar",
+      "E": "Kaledonya orojenezi sırasındaki kıvrılmalar"
+    },
+    "answer": "B",
+    "solution": "Türkiye'nin yüzey şekilleri büyük ölçüde Alp–Himalaya kuşağının bir parçası olarak Alp orojenezi sırasında kazanılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: Alp orojenezi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-011",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki dağlardan hangisi kıvrım dağıdır?",
+    "options": {
+      "A": "Karacadağ",
+      "B": "Istranca",
+      "C": "Ağrı",
+      "D": "Erciyes",
+      "E": "Toroslar"
+    },
+    "answer": "E",
+    "solution": "Toroslar ve Kuzey Anadolu Dağları kıvrımlı dağlardır; Erciyes, Ağrı ve Karacadağ volkanik, Istranca ise kütle dağıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: kıvrım dağları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-012",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangisi volkanik kökenli bir dağ değildir?",
+    "options": {
+      "A": "Erciyes",
+      "B": "Hasandağı",
+      "C": "Nemrut",
+      "D": "Uludağ",
+      "E": "Süphan"
+    },
+    "answer": "D",
+    "solution": "Uludağ, kırık hatlarıyla yükselen bir kütle (horst) dağıdır; ötekiler volkanik dağlardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: volkanik dağlar (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-013",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ağrı Dağı",
+      "B": "Erciyes Dağı",
+      "C": "Kaçkar Dağı",
+      "D": "Süphan Dağı",
+      "E": "Uludağ"
+    },
+    "answer": "A",
+    "solution": "Ağrı Dağı yaklaşık 5100 metre ile Türkiye'nin en yüksek dağıdır ve volkanik kökenlidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: en yüksek dağ"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-014",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Kalker arazilerde yeraltı ve yerüstü suyunun çözme etkisiyle oluşan şekillere ne ad verilir?",
+    "options": {
+      "A": "Karstik şekiller",
+      "B": "Buzul şekilleri",
+      "C": "Volkanik şekiller",
+      "D": "Kıyı şekilleri",
+      "E": "Rüzgâr şekilleri"
+    },
+    "answer": "A",
+    "solution": "Kalkerin su tarafından çözülmesiyle lapya, dolin, uvala, polye gibi karstik şekiller oluşur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: karst"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-015",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Karstik bölgelerde dolin ve uvalaların birleşmesiyle oluşan geniş, tabanı düz çukur ovaya ne ad verilir?",
+    "options": {
+      "A": "Peribacası",
+      "B": "Polye",
+      "C": "Lapya",
+      "D": "Düden",
+      "E": "Delta"
+    },
+    "answer": "B",
+    "solution": "Dolin → uvala → polye sırasıyla büyüyen kapalı çukurlardır; polyenin tabanı düz, verimli bir ovadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: polye"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-016",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Denizli'deki Pamukkale travertenleri hangi sürecin ürünüdür?",
+    "options": {
+      "A": "Buzulların taşıdığı malzemeleri biriktirmesi",
+      "B": "Lav akıntılarının yüzeyde katılaşması",
+      "C": "Sıcak suların kalsiyum karbonat biriktirmesi",
+      "D": "Rüzgârın kum taneleriyle aşındırması",
+      "E": "Akarsuyun taşıdığı alüvyonları ovaya bırakması"
+    },
+    "answer": "C",
+    "solution": "Kaynak sularındaki kalsiyum karbonatın çökelmesiyle travertenler oluşmuştur; karstik bir olaydır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: travertenler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-017",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Nevşehir çevresindeki peribacalarının oluşumunda aşağıdakilerden hangisi etkili olmuştur?",
+    "options": {
+      "A": "Buzulların vadileri U biçiminde derinleştirmesi",
+      "B": "Deniz dalgalarının kıyıyı sürekli aşındırması",
+      "C": "Kalker kayaçların yeraltı suyuyla çözünmesi",
+      "D": "Fay hatlarının kırılıp basamaklanması",
+      "E": "Volkanik tüflerin dış kuvvetlerle aşınması"
+    },
+    "answer": "E",
+    "solution": "Erciyes ve Hasandağı püskürmelerinden oluşan yumuşak tüf tabakaları aşındırılarak peribacaları şekillenmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: peribacaları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-018",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "1999 Marmara (İzmit) depremi aşağıdaki fay hatlarından hangisi üzerinde meydana gelmiştir?",
+    "options": {
+      "A": "Batı Anadolu Fay Sistemi",
+      "B": "Güneydoğu Anadolu Fayı",
+      "C": "Toros Fay Kuşağı",
+      "D": "Doğu Anadolu Fay Kuşağı",
+      "E": "Kuzey Anadolu Fayı"
+    },
+    "answer": "E",
+    "solution": "Kuzey Anadolu Fayı Karlıova'dan Marmara'ya uzanır ve 1999 depremini üretmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: Kuzey Anadolu Fayı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-019",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Karlıova'dan Hatay'a doğru uzanan fay hattı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kuzey Anadolu Fayı",
+      "B": "Doğu Anadolu Fayı",
+      "C": "Toros Fay Kuşağı",
+      "D": "Ege Fay Sistemi",
+      "E": "Kıbrıs Yayı"
+    },
+    "answer": "B",
+    "solution": "Doğu Anadolu Fayı Karlıova'dan başlayıp güneybatıya, Hatay yönüne uzanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: Doğu Anadolu Fayı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-020",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Ege Bölgesi'nde dağların kıyıya dik uzanıp kıyıların girintili çıkıntılı olmasında en çok etkili olan etken hangisidir?",
+    "options": {
+      "A": "Rüzgâr erozyonunun yüzeyi aşındırması",
+      "B": "Volkanik püskürmelerle oluşan lav örtüleri",
+      "C": "Batı Anadolu'daki fay hatları ve horst–graben yapısı",
+      "D": "Buzulların vadileri derinleştirerek aşındırması",
+      "E": "Karstlaşma ve kalkerin çözünmesi"
+    },
+    "answer": "C",
+    "solution": "Batı Anadolu'da doğu–batı doğrultulu fay hatları horst ve grabenleri oluşturmuş, grabenlere deniz sokularak kıyı girintili çıkıntılı olmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: Ege kıyıları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-021",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bafra Ovası hangi akarsuyun deltasında oluşmuştur?",
+    "options": {
+      "A": "Fırat",
+      "B": "Seyhan",
+      "C": "Kızılırmak",
+      "D": "Yeşilırmak",
+      "E": "Sakarya"
+    },
+    "answer": "C",
+    "solution": "Bafra Ovası Kızılırmak'ın, Çarşamba Ovası ise Yeşilırmak'ın oluşturduğu delta ovasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: delta ovaları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-022",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Çukurova hangi akarsuların taşıdığı alüvyonların biriktirilmesiyle oluşmuş bir delta ovasıdır?",
+    "options": {
+      "A": "Büyük ve Küçük Menderes",
+      "B": "Fırat ve Dicle",
+      "C": "Kızılırmak ve Yeşilırmak",
+      "D": "Gediz ve Bakırçay",
+      "E": "Seyhan ve Ceyhan"
+    },
+    "answer": "E",
+    "solution": "Çukurova, Seyhan ve Ceyhan'ın Akdeniz kıyısında oluşturduğu geniş alüvyal ve delta ovasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: Çukurova"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-023",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "İstanbul ve Çanakkale boğazlarının oluşumu için aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Kalkerin çözünmesiyle gelişen çöküntülerle oluşmuştur",
+      "B": "Rüzgârın sürekli kum aşındırmasıyla açılmıştır",
+      "C": "Eski akarsu vadilerinin denizle dolmasıyla oluşmuştur",
+      "D": "Buzul aşındırması sonucunda oyulmuştur",
+      "E": "Volkanik patlamalarla yeryüzünün çökmesiyle oluşmuştur"
+    },
+    "answer": "C",
+    "solution": "Boğazlar, kıyı kesimdeki eski akarsu vadilerinin deniz seviyesinin yükselmesiyle sular altında kalmasıyla oluşmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: boğazların oluşumu"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-024",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Ege ve Akdeniz kıyılarında dağların kıyıya paralel mi dik mi uzandığı, kıyı tipini nasıl etkiler?",
+    "options": {
+      "A": "Paralel uzandığı yerlerde kıyıda delta ovaları hiç oluşmaz",
+      "B": "Dik uzandığı yerlerde kıyılar girintili çıkıntılıdır",
+      "C": "Dağların uzanışı kıyı tipini etkilemez",
+      "D": "Paralel uzandığı yerlerde kıyılar çok girintili çıkıntılıdır",
+      "E": "Dik uzandığı yerlerde kıyılar düz ve girintisizdir"
+    },
+    "answer": "B",
+    "solution": "Dağlar kıyıya dik uzandığında denizin sokulabildiği girintiler oluşur; paralel uzandığında kıyı düz ve az girintilidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: kıyı tipleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-025",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye sınırları içinde en uzun akarsu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yeşilırmak",
+      "B": "Kızılırmak",
+      "C": "Dicle",
+      "D": "Sakarya",
+      "E": "Fırat"
+    },
+    "answer": "B",
+    "solution": "Fırat ve Dicle ülke dışına uzanır; yalnız Türkiye topraklarından akan en uzun nehir Kızılırmak'tır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: en uzun akarsu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-026",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aras Nehri'nin dökülüş yeri aşağıdakilerden hangisi doğrultusundadır?",
+    "options": {
+      "A": "Akdeniz",
+      "B": "Karadeniz",
+      "C": "Hazar Denizi",
+      "D": "Basra Körfezi",
+      "E": "Ege Denizi"
+    },
+    "answer": "C",
+    "solution": "Aras, Kura ile birleşerek Hazar Denizi'ne ulaşır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: Aras"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-027",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Meriç Nehri hangi denize dökülür?",
+    "options": {
+      "A": "Hazar Denizi",
+      "B": "Ege Denizi",
+      "C": "Marmara Denizi",
+      "D": "Akdeniz",
+      "E": "Karadeniz"
+    },
+    "answer": "B",
+    "solution": "Meriç, Trakya'da Bulgaristan'dan gelip Ege Denizi'ne (Saroz Körfezi yakınında) dökülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: Meriç"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-028",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Fırat ve Dicle nehirlerinin birleşerek ulaştığı su kütlesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Karadeniz'in doğu kıyısı",
+      "B": "Hazar Denizi'nin güney kıyısı",
+      "C": "Basra Körfezi",
+      "D": "Akdeniz'in Suriye kıyıları",
+      "E": "Kızıldeniz'in kuzey ucu"
+    },
+    "answer": "C",
+    "solution": "Fırat ile Dicle birleşerek Şattülarap adıyla Basra Körfezi'ne dökülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: Fırat–Dicle"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-029",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki akarsulardan hangisi Karadeniz'e dökülür?",
+    "options": {
+      "A": "Büyük Menderes",
+      "B": "Seyhan",
+      "C": "Meriç",
+      "D": "Çoruh",
+      "E": "Gediz"
+    },
+    "answer": "D",
+    "solution": "Çoruh, Gürcistan'a geçip Karadeniz'e dökülür; Meriç, Gediz ve Büyük Menderes Ege'ye, Seyhan Akdeniz'e dökülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: Çoruh"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-030",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Akdeniz Bölgesi akarsularının rejimleri düzensizdir. Bunun temel nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Havzalarının çok geniş ve düz alanlarda olması",
+      "B": "Kıyıya paralel yüksek dağların bulunması",
+      "C": "Yıl boyunca düzenli ve bol yağış alınması",
+      "D": "Yazın yağışın az, buharlaşmanın fazla olması",
+      "E": "Kaynaklarını büyük buzul alanlarından alması"
+    },
+    "answer": "D",
+    "solution": "Yazları kurak geçen Akdeniz ikliminde akarsuların debisi mevsime göre çok değişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: akarsu rejimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-031",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Van Gölü'nün oluşumunda aşağıdakilerden hangisi etkili olmuştur?",
+    "options": {
+      "A": "Kalkerin çözünmesiyle çöküntü çukurlarının oluşması",
+      "B": "Nemrut'tan çıkan lav akıntılarının vadiyi kapatması",
+      "C": "Akarsuyun eski yatağını bırakıp yeni çukur oluşturması",
+      "D": "Büyük bir heyelanla vadinin tıkanması ve suyun birikmesi",
+      "E": "Buzulların derin çukurlar açıp suyu biriktirmesi"
+    },
+    "answer": "B",
+    "solution": "Van Gölü, lav seti ile oluşmuş, sodalı sulara sahip Türkiye'nin en büyük gölüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: Van Gölü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-032",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Tuz Gölü hangi tür göldür ve hangi bölgededir?",
+    "options": {
+      "A": "Kıyı gölüdür; Marmara Bölgesi'ndedir",
+      "B": "Tektonik çöküntü gölüdür; İç Anadolu'dadır",
+      "C": "Volkanik set gölüdür; Doğu Anadolu Bölgesi'ndedir",
+      "D": "Karstik göldür; Akdeniz Bölgesi'ndedir",
+      "E": "Heyelan set gölüdür; Karadeniz Bölgesi'ndedir"
+    },
+    "answer": "B",
+    "solution": "Tuz Gölü, İç Anadolu'daki çöküntü alanında yer alan tuzlu bir tektonik göldür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: Tuz Gölü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-033",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Van Gölü (sodalı sulu)",
+      "B": "Sapanca Gölü (tektonik)",
+      "C": "Tuz Gölü (tuzlu sulu)",
+      "D": "Beyşehir Gölü (tatlı sulu)",
+      "E": "İznik Gölü (tektonik)"
+    },
+    "answer": "D",
+    "solution": "Van Gölü ve Tuz Gölü tuzlu/sodalıdır; tatlı sulu göller arasında en büyüğü Beyşehir Gölü'dür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: Beyşehir"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-034",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bolu'daki Abant Gölü aşağıdakilerden hangi yolla oluşmuştur?",
+    "options": {
+      "A": "Kalkerin çözünüp çukur oluşturmasıyla",
+      "B": "Tektonik hareketlerle çöküntü oluşmasıyla",
+      "C": "Buzulların vadiyi oyup su biriktirmesiyle",
+      "D": "Lav akıntısının vadiyi kapatmasıyla",
+      "E": "Heyelanla kapanan vadide suyun birikmesiyle"
+    },
+    "answer": "E",
+    "solution": "Abant Gölü heyelan sonucu vadinin kapanmasıyla oluşmuş bir heyelan set gölüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: Abant"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-035",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bitlis'teki Nemrut Dağı'nın tepesinde yer alan göl hangi türdendir?",
+    "options": {
+      "A": "Krater gölü",
+      "B": "Buzul çanak gölü",
+      "C": "Lagün gölü",
+      "D": "Heyelan set gölü",
+      "E": "Karstik çöküntü gölü"
+    },
+    "answer": "A",
+    "solution": "Nemrut'un sönmüş volkanik kraterinde suyun birikmesiyle krater gölü oluşmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Akarsu ve göller: krater gölü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-036",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Yazları sıcak ve kurak, kışları ılık ve yağışlı geçen iklim tipi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kutup iklimi",
+      "B": "Karasal iklim",
+      "C": "Karadeniz iklimi",
+      "D": "Ekvatoral iklim",
+      "E": "Akdeniz iklimi"
+    },
+    "answer": "E",
+    "solution": "Akdeniz iklimi yaz kuraklığı ve kış yağışlarıyla ayırt edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: Akdeniz iklimi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-037",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Her mevsim yağışlı olan ve yaz kuraklığı görülmeyen iklim tipi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Akdeniz iklimi",
+      "B": "Karasal iklim",
+      "C": "Geçiş iklimi (Marmara tipi)",
+      "D": "Ekvatoral iklim",
+      "E": "Karadeniz iklimi"
+    },
+    "answer": "E",
+    "solution": "Karadeniz kıyısında dağlar kıyıya paralel uzandığı için yağış yıl boyunca görülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: Karadeniz iklimi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-038",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçen, günlük ve yıllık sıcaklık farkı büyük olan iklim tipi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Okyanusal iklim",
+      "B": "Ekvatoral iklim",
+      "C": "Karadeniz iklimi",
+      "D": "Karasal iklim",
+      "E": "Akdeniz iklimi"
+    },
+    "answer": "D",
+    "solution": "Denizin etkisinden uzak iç bölgelerde karasal iklim görülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: karasal iklim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-039",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Marmara Bölgesi'nde görülen iklim hangi özelliği taşır?",
+    "options": {
+      "A": "Tamamen ekvatoral iklim özelliği gösterir",
+      "B": "Soğuk kutup iklimi özelliği gösterir",
+      "C": "Tamamen karasal iklim özelliği gösterir",
+      "D": "Tamamen Akdeniz iklimi özelliği gösterir",
+      "E": "Akdeniz, Karadeniz ve karasal iklim geçişi"
+    },
+    "answer": "E",
+    "solution": "Marmara iklimi, çevresindeki üç iklim tipinin özelliklerini birlikte barındıran geçiş iklimidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: Marmara iklimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-040",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Karadeniz kıyılarında bol yağış alınmasının asıl nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Hâkim rüzgârın karadan denize doğru esmesi",
+      "B": "Çöllerden gelen sıcak ve kuru rüzgârların etkisi",
+      "C": "Denizin çok sığ olması ve suyun çabuk ısınması",
+      "D": "Dağların kıyıya dik uzanması ve havanın alçalması",
+      "E": "Kıyıya paralel dağlarda nemli havanın yükselmesi"
+    },
+    "answer": "E",
+    "solution": "Kuzeyden gelen nemli hava kıyıya paralel dağlara çarpıp yükselir ve orografik yağış bırakır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: orografik yağış"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-041",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Kuzeydoğudan esen soğuk rüzgârın Türkiye'deki yerel adı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gündoğusu",
+      "B": "Keşişleme",
+      "C": "Poyraz",
+      "D": "Lodos",
+      "E": "Karayel"
+    },
+    "answer": "C",
+    "solution": "Poyraz kuzeydoğudan, Lodos güneybatıdan, Karayel kuzeybatıdan esen rüzgârlardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: yerel rüzgârlar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-042",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Güneybatıdan esen ılık ve nemli rüzgârın Türkiye'deki yerel adı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yıldız",
+      "B": "Kıble",
+      "C": "Poyraz",
+      "D": "Lodos",
+      "E": "Karayel"
+    },
+    "answer": "D",
+    "solution": "Lodos güneybatıdan esen ılık ve nemli bir rüzgârdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: Lodos"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-043",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Deniz seviyesinde sıcaklığı 20 °C olan bir yerde, yükseltinin her 200 metrede yaklaşık 1 °C düşürdüğü kabul edilirse 2000 metrede sıcaklık kaç °C olur?",
+    "options": {
+      "A": "0 °C",
+      "B": "10 °C",
+      "C": "18 °C",
+      "D": "5 °C",
+      "E": "15 °C"
+    },
+    "answer": "B",
+    "solution": "2000 m için sıcaklık düşüşü 2000/200 = 10 °C'dir; 20 − 10 = 10 °C.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: yükselti ve sıcaklık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-044",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Deniz seviyesinde sıcaklığı 24 °C olan bir yerde, her 200 metrede 1 °C düşüş olduğuna göre 1600 metrede sıcaklık kaç °C olur?",
+    "options": {
+      "A": "20 °C",
+      "B": "12 °C",
+      "C": "16 °C",
+      "D": "8 °C",
+      "E": "24 °C"
+    },
+    "answer": "C",
+    "solution": "1600/200 = 8 °C düşüş; 24 − 8 = 16 °C.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: yükselti ve sıcaklık hesabı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-045",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangisi iklim elemanlarından biri değildir?",
+    "options": {
+      "A": "Yükselti",
+      "B": "Yağış",
+      "C": "Sıcaklık",
+      "D": "Basınç",
+      "E": "Nem"
+    },
+    "answer": "A",
+    "solution": "Yükselti iklimi etkileyen bir faktördür; sıcaklık, yağış, nem ve basınç iklim elemanlarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: iklim elemanları ve faktörleri (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-046",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Akdeniz ikliminin hâkim olduğu kıyılarda yaygın olan, her dem yeşil, kısa boylu çalı topluluğuna ne ad verilir?",
+    "options": {
+      "A": "Step",
+      "B": "Tayga",
+      "C": "Savan",
+      "D": "Maki",
+      "E": "Tundra"
+    },
+    "answer": "D",
+    "solution": "Maki, Akdeniz iklim bölgesinin tipik bitki örtüsüdür; defne, mersin, zeytin yabanisi gibi türleri içerir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bitki örtüsü: maki"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-047",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "İç Anadolu Bölgesi'nde yaygın olan, yaz kuraklığı ve az yağış nedeniyle gelişen otsu bitki örtüsü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kayın ve meşe ormanları",
+      "B": "Bozkır (step)",
+      "C": "Sık yağmur ormanları",
+      "D": "Makiler ve garigler",
+      "E": "Çay ve fındık bahçeleri"
+    },
+    "answer": "B",
+    "solution": "İç Anadolu'nun karasal ve az yağışlı koşullarında bozkır (step) bitki örtüsü görülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bitki örtüsü: step"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-048",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Karadeniz kıyılarındaki nemli ormanlarda aşağıdaki ağaç türlerinden hangisi yaygındır?",
+    "options": {
+      "A": "Kayın ağacı",
+      "B": "Kaktüs türleri",
+      "C": "Palmiye ağacı",
+      "D": "Hurma palmiyesi",
+      "E": "Bambu ormanları"
+    },
+    "answer": "A",
+    "solution": "Karadeniz Bölgesi'nde nemli iklimin etkisiyle kayın, meşe, kızılağaç gibi yaprak döken ormanlar ve yüksekte iğne yapraklılar yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bitki örtüsü: Karadeniz ormanları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-049",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Akdeniz kıyılarında kalkerli arazilerde oluşan kırmızı renkli toprak tipi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Çernozem",
+      "B": "Podzol",
+      "C": "Tundra toprağı",
+      "D": "Terra rossa",
+      "E": "Kestane rengi toprak"
+    },
+    "answer": "D",
+    "solution": "Akdeniz iklimi koşullarında kalker üzerinde gelişen kırmızı renkli toprağa terra rossa denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Toprak: terra rossa"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-050",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Nemli ve serin iklimlerde, iğne yapraklı ormanlar altında gelişen, yıkanmış gri-kül rengi toprak tipi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Çernozem toprağı",
+      "B": "Kahverengi step toprağı",
+      "C": "Terra rossa toprağı",
+      "D": "Alüvyal toprak",
+      "E": "Podzol toprağı"
+    },
+    "answer": "E",
+    "solution": "Podzol, yağışlı ve serin ortamlarda iğne yapraklı ormanların altında oluşan yıkanmış topraktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Toprak: podzol"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-051",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Akarsuların taşıyıp biriktirdiği malzemelerle ovalarda oluşan, iklimden bağımsız toprak tipi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kestane rengi toprak",
+      "B": "Çernozem",
+      "C": "Alüvyal toprak",
+      "D": "Podzol",
+      "E": "Terra rossa"
+    },
+    "answer": "C",
+    "solution": "Alüvyal topraklar, akarsu ovalarında biriktirme ile oluşan azonal (iklimden bağımsız) topraklardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Toprak: alüvyal toprak"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-052",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye'deki yüksek dağlarda orman kuşağının üzerinde hangi bitki kuşağı yer alır?",
+    "options": {
+      "A": "Tropikal orman kuşağı",
+      "B": "Maki kuşağı",
+      "C": "Çayır (yayla) kuşağı",
+      "D": "Kayın ormanı kuşağı",
+      "E": "Çöl bitkileri kuşağı"
+    },
+    "answer": "C",
+    "solution": "Dağlarda yükseldikçe sıcaklık düştüğünden orman kuşağının üstünde çayır (yayla), daha yukarıda çıplak kaya ve kar kuşağı yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bitki örtüsü: yükselti kuşakları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-053",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Türkiye'de depremlerin büyük bölümünün fay hatları boyunca yoğunlaşmasının nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yıllık yağış miktarının çok fazla olması",
+      "B": "Ekvatora yakın bulunması ve aşırı sıcak olması",
+      "C": "Dağlarında geniş buzul alanlarının bulunması",
+      "D": "Rüzgâr erozyonunun çok etkili olması",
+      "E": "Aktif levha sınırlarına yakın bulunması"
+    },
+    "answer": "E",
+    "solution": "Anadolu levhası, Avrasya, Afrika ve Arabistan levhalarının etkisindedir; bu hareketler fayları aktif tutar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Doğal afetler: depremin nedenleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-054",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Karadeniz kıyı kuşağında heyelan olaylarının sık görülmesinin asıl nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bol yağış ile eğimli yamaçlar",
+      "B": "Çöl iklimi",
+      "C": "Yaz kuraklığı",
+      "D": "Kalın kar örtüsünün yaz boyu kalması",
+      "E": "Düşük yağış ile düz araziler"
+    },
+    "answer": "A",
+    "solution": "Bol yağış toprağı doyurur; eğimli yamaçlarda bu durum kütle hareketlerini (heyelan) tetikler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Doğal afetler: heyelan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-055",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki doğal afetlerden hangisi Doğu Anadolu'nun yüksek kesimlerinde kışın sık görülür?",
+    "options": {
+      "A": "Çığ düşmesi",
+      "B": "Kuraklık",
+      "C": "Tsunami",
+      "D": "Orman yangını",
+      "E": "Kum fırtınası"
+    },
+    "answer": "A",
+    "solution": "Doğu Anadolu'da kar örtüsünün kalınlığı ve eğim, çığ olaylarını artırır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Doğal afetler: çığ"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-056",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangisi toprak erozyonunu azaltmak için alınabilecek önlemlerden biri değildir?",
+    "options": {
+      "A": "Aşırı otlatmayı önleyerek örtüyü korumak",
+      "B": "Eğime dik sürüm yaparak su akışını yavaşlatmak",
+      "C": "Eğimli arazide yamaç boyunca sürüm yapmak",
+      "D": "Çıplak yamaçları ağaçlandırarak kökle tutmak",
+      "E": "Yamaçlarda teraslama yaparak eğimi azaltmak"
+    },
+    "answer": "C",
+    "solution": "Eğim boyunca sürüm suyun toprağı sürüklemesini kolaylaştırır; öteki önlemler erozyonu azaltır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Doğal afetler: erozyonu önleme (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-057",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangileri Türkiye'de volkanik kökenli dağlardır?\n\nI. Erciyes\n\nII. Süphan\n\nIII. Uludağ",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Erciyes ve Süphan volkanik dağlardır; Uludağ kütle (horst) dağıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: öncüllü volkanik dağlar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-058",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangileri akarsu deltasında oluşmuş ovalardır?\n\nI. Bafra\n\nII. Çarşamba\n\nIII. Çukurova",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "E",
+    "solution": "Bafra Kızılırmak, Çarşamba Yeşilırmak, Çukurova ise Seyhan ve Ceyhan deltalarında oluşmuş ovalardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: öncüllü delta ovaları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-059",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangileri Karadeniz ikliminin özelliklerindendir?\n\nI. Yaz kuraklığının belirgin olması\n\nII. Her mevsim yağış alınması\n\nIII. Kışların kıyıda ılık geçmesi",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Karadeniz'de yağış yıl boyu görülür ve kışlar kıyıda ılıktır; belirgin yaz kuraklığı Akdeniz iklimine özgüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İklim: öncüllü Karadeniz iklimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-060",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdakilerden hangisi karstik bir yer şeklidir?\n\nI. Kuesta\n\nII. Polye\n\nIII. Delta",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Polye karstik bir şekildir; kuesta yapısal, delta ise akarsu biriktirme şeklidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yer şekilleri: öncüllü karstik şekiller"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-061",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış göllerden hangisi Türkiye'nin yüzölçümü bakımından en büyük gölüdür?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "D",
+    "solution": "Van Gölü, yaklaşık 3.700 km² ile Türkiye'nin en büyük gölüdür (tektonik hareketlerle volkanik set oluşumlu, sodalı). Haritada I = Beyşehir Gölü; II = İznik Gölü; III = Burdur Gölü; IV = Van Gölü; V = Tuz Gölü. Doğru yanıt IV.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-001"
+  },
+  {
+    "id": "ags-cog-fiz-062",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış göllerden hangisi Türkiye'nin en büyük tatlı su gölüdür?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "Beyşehir Gölü Türkiye'nin en büyük tatlı su gölüdür; Van Gölü sodalı, Tuz ve Burdur gölleri tuzlu/acıdır, İznik Gölü ise daha küçüktür. Haritada I = İznik Gölü; II = Beyşehir Gölü; III = Tuz Gölü; IV = Burdur Gölü; V = Van Gölü. Doğru yanıt II.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-002"
+  },
+  {
+    "id": "ags-cog-fiz-063",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış göllerden hangisi Türkiye'nin tuz ihtiyacının büyük bölümünün karşılandığı, İç Anadolu'daki kapalı havza gölüdür?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "A",
+    "solution": "Tuz Gölü, İç Anadolu'da kapalı havzada yer alır; yaz kuraklığıyla çekilen suyundan tuz üretilir. Haritada I = Tuz Gölü; II = İznik Gölü; III = Van Gölü; IV = Burdur Gölü; V = Beyşehir Gölü. Doğru yanıt I.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-003"
+  },
+  {
+    "id": "ags-cog-fiz-064",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış dağlardan hangisi Türkiye'nin en yüksek dağıdır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "E",
+    "solution": "Ağrı Dağı (5.137 m) Türkiye'nin en yüksek dağıdır; sönmüş bir volkandır. Haritada I = Kaçkar Dağları; II = Erciyes Dağı; III = Süphan Dağı; IV = Uludağ; V = Ağrı Dağı. Doğru yanıt V.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-004"
+  },
+  {
+    "id": "ags-cog-fiz-065",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış dağlardan hangisi Marmara Bölgesi'nin en yüksek dağıdır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "Uludağ (yaklaşık 2.543 m) Marmara Bölgesi'nin en yüksek dağıdır. Haritada I = Erciyes Dağı; II = Uludağ; III = Kaçkar Dağları; IV = Palandöken; V = Ağrı Dağı. Doğru yanıt II.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-005"
+  },
+  {
+    "id": "ags-cog-fiz-066",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış dağlardan hangisi Karadeniz Bölgesi'nin en yüksek dağlık kütlesidir?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "C",
+    "solution": "Kaçkar Dağları (yaklaşık 3.937 m) Doğu Karadeniz Dağları'nın ve Karadeniz Bölgesi'nin en yüksek kütlesidir. Haritada I = Ağrı Dağı; II = Süphan Dağı; III = Kaçkar Dağları; IV = Erciyes Dağı; V = Uludağ. Doğru yanıt III.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-006"
+  },
+  {
+    "id": "ags-cog-fiz-067",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış dağlardan hangisi İç Anadolu Bölgesi'nin en yüksek dağıdır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "Erciyes Dağı (yaklaşık 3.917 m) İç Anadolu'nun en yüksek dağıdır; Hasan Dağı (yaklaşık 3.253 m) daha alçaktır. Haritada I = Hasan Dağı; II = Erciyes Dağı; III = Kaçkar Dağları; IV = Uludağ; V = Ağrı Dağı. Doğru yanıt II.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-007"
+  },
+  {
+    "id": "ags-cog-fiz-068",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış akarsulardan hangisi Türkiye sınırları içinde doğup yine Türkiye'de denize dökülen en uzun akarsudur?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "A",
+    "solution": "Kızılırmak (yaklaşık 1.355 km) Türkiye'de doğup Türkiye'de denize (Karadeniz) dökülen en uzun akarsudur; Fırat sınırı aşıp Basra Körfezi'ne ulaşır. Haritada I = Kızılırmak; II = Sakarya; III = Büyük Menderes; IV = Fırat; V = Gediz. Doğru yanıt I.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-008"
+  },
+  {
+    "id": "ags-cog-fiz-069",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış akarsulardan hangisinin üzerinde GAP kapsamındaki Atatürk Barajı yer alır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "C",
+    "solution": "Atatürk Barajı, GAP'ın merkez barajıdır ve Fırat Nehri üzerindedir. Haritada I = Gediz; II = Sakarya; III = Fırat; IV = Büyük Menderes; V = Kızılırmak. Doğru yanıt III.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-009"
+  },
+  {
+    "id": "ags-cog-fiz-070",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış akarsulardan hangisi Ege Denizi'ne dökülür?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "Gediz Nehri Ege Denizi'ne (İzmir Körfezi) dökülür; Kızılırmak ve Yeşilırmak Karadeniz'e, Fırat Basra Körfezi'ne, Aras Hazar Denizi'ne ulaşır. Haritada I = Kızılırmak; II = Gediz; III = Fırat; IV = Yeşilırmak; V = Aras. Doğru yanıt II.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-010"
+  },
+  {
+    "id": "ags-cog-fiz-071",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış ovalardan hangisi Seyhan ve Ceyhan akarsularının biriktirdiği alüvyonlarla oluşan delta ovasıdır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "A",
+    "solution": "Çukurova, Seyhan ve Ceyhan'ın getirdiği alüvyonlarla oluşmuş delta ovasıdır; Bafra deltası ise Kızılırmak'ın ürünüdür. Haritada I = Çukurova; II = Iğdır Ovası; III = Konya Ovası; IV = Harran Ovası; V = Bafra Ovası. Doğru yanıt I.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-011"
+  },
+  {
+    "id": "ags-cog-fiz-072",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış ovalardan hangisi GAP kapsamında Fırat'ın suyuyla sulanmaya açılan ovadır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "C",
+    "solution": "Harran Ovası, Atatürk Barajı ve Şanlıurfa tünelleriyle Fırat suyuyla sulanır (GAP). Haritada I = Trakya; II = Çukurova; III = Harran Ovası; IV = Bafra Ovası; V = Konya Ovası. Doğru yanıt III.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-012"
+  },
+  {
+    "id": "ags-cog-fiz-073",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış ovalardan hangisi kapalı havzada yer alan ve kuru tarımın yoğun yapıldığı geniş bir ovadır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "Konya Ovası, İç Anadolu'daki kapalı havzada bulunur; yağış azlığı nedeniyle buğday gibi kuru tarım ürünleri yoğundur. Haritada I = Çukurova; II = Konya Ovası; III = Trakya; IV = Harran Ovası; V = Bafra Ovası. Doğru yanıt II.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-013"
+  },
+  {
+    "id": "ags-cog-fiz-074",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisinde yazları sıcak ve kurak, kışları ılık ve yağışlı geçen Akdeniz iklimi görülür?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "D",
+    "solution": "Antalya Akdeniz kıyısındadır; yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır. Rize ve Samsun Karadeniz, Erzurum ve Konya karasal iklim etkisindedir. Haritada I = Konya; II = Samsun; III = Rize; IV = Antalya; V = Erzurum. Doğru yanıt IV.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-014"
+  },
+  {
+    "id": "ags-cog-fiz-075",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisinde her mevsim yağışlı, yazları serin ve kışları ılık geçen Karadeniz iklimi görülür?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "E",
+    "solution": "Rize Doğu Karadeniz kıyısındadır; yıl boyu yağış alır. Antalya Akdeniz, Konya, Erzurum ve Diyarbakır karasal iklim etkisindedir. Haritada I = Konya; II = Antalya; III = Diyarbakır; IV = Erzurum; V = Rize. Doğru yanıt V.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-015"
+  },
+  {
+    "id": "ags-cog-fiz-076",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisinde kışları uzun ve çok soğuk geçen, yazları kısa ve serin karasal iklim görülür?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "E",
+    "solution": "Kars, Doğu Anadolu'nun yüksek kesiminde olup karasal iklimin en sert biçimini gösterir. Antalya, İzmir ve Mersin Akdeniz, Rize Karadeniz iklimi etkisindedir. Haritada I = Rize; II = Antalya; III = İzmir; IV = Mersin; V = Kars. Doğru yanıt V.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-016"
+  },
+  {
+    "id": "ags-cog-fiz-077",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisi Karadeniz ve Akdeniz iklimleri arasında geçiş özelliği gösteren Marmara iklimi etkisindedir?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "D",
+    "solution": "İstanbul, Marmara Bölgesi'nde olup Marmara iklimi (geçiş iklimi) etkisindedir. Antalya Akdeniz, Rize Karadeniz, Erzurum ve Diyarbakır karasal iklim etkisindedir. Haritada I = Erzurum; II = Diyarbakır; III = Antalya; IV = İstanbul; V = Rize. Doğru yanıt IV.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-017"
+  },
+  {
+    "id": "ags-cog-fiz-078",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisinin kıyı kesiminde, Akdeniz ikliminin bitki örtüsü olan maki yaygındır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "C",
+    "solution": "Muğla'nın Ege ve Akdeniz'e bakan kıyı kesimlerinde Akdeniz ikliminin bitki örtüsü olan maki yaygındır; Konya'da bozkır, Kars ve Erzurum'da step ve çayır, Rize'de nemli orman vardır. Haritada I = Rize; II = Kars; III = Muğla; IV = Erzurum; V = Konya. Doğru yanıt III.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-018"
+  },
+  {
+    "id": "ags-cog-fiz-079",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisinde yağışın azlığına bağlı olarak otsu bitkilerden oluşan bozkır (step) bitki örtüsü yaygındır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "A",
+    "solution": "Konya, İç Anadolu'nun yağış bakımından fakir kesiminde olup bozkır (step) bitki örtüsü görülür; Rize'de nemli orman, Bursa'nın yüksek kesimlerinde orman, Muğla ve Antalya kıyılarında maki vardır. Haritada I = Konya; II = Antalya; III = Bursa; IV = Rize; V = Muğla. Doğru yanıt I.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-019"
+  },
+  {
+    "id": "ags-cog-fiz-080",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisi Ege Bölgesi'nde yer alır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "D",
+    "solution": "Muğla Ege Bölgesi'ndedir; öteki iller sırasıyla Antalya (Akdeniz Bölgesi), Kayseri (İç Anadolu Bölgesi), Bursa (Marmara Bölgesi), Kars (Doğu Anadolu Bölgesi) bölgelerindedir. Haritada I = Kars; II = Antalya; III = Kayseri; IV = Muğla; V = Bursa. Doğru yanıt IV.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-020"
+  },
+  {
+    "id": "ags-cog-fiz-081",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisi İç Anadolu Bölgesi'nde yer alır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "A",
+    "solution": "Sivas İç Anadolu Bölgesi'ndedir; öteki iller sırasıyla İzmir (Ege Bölgesi), İstanbul (Marmara Bölgesi), Hatay (Akdeniz Bölgesi), Kars (Doğu Anadolu Bölgesi) bölgelerindedir. Haritada I = Sivas; II = İstanbul; III = Hatay; IV = Kars; V = İzmir. Doğru yanıt I.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-021"
+  },
+  {
+    "id": "ags-cog-fiz-082",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Haritada numaralanmış illerden hangisi Güneydoğu Anadolu Bölgesi'nde yer alır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "E",
+    "solution": "Mardin Güneydoğu Anadolu Bölgesi'ndedir; öteki iller sırasıyla Ankara (İç Anadolu Bölgesi), Çanakkale (Marmara Bölgesi), Samsun (Karadeniz Bölgesi), İzmir (Ege Bölgesi) bölgelerindedir. Haritada I = Ankara; II = Çanakkale; III = İzmir; IV = Samsun; V = Mardin. Doğru yanıt V.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: harita yorumlama (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-022"
+  },
+  {
+    "id": "ags-cog-fiz-083",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki karelaj haritada çizgisel ölçek gösterilmiştir. Buna göre A noktası ile B noktası arasındaki doğrusal uzaklık kaç kilometredir?",
+    "options": {
+      "A": "100 km",
+      "B": "140 km",
+      "C": "80 km",
+      "D": "60 km",
+      "E": "300 km"
+    },
+    "answer": "A",
+    "solution": "Çizgisel ölçekte 3 karelik çubuk 60 km'dir; 1 kare = 20 km. A ile B arasında yatayda 3, düşeyde 4 kare vardır; kuş uçuşu uzaklık √(3²+4²) = 5 kare → 5 × 20 = 100 km.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-023"
+  },
+  {
+    "id": "ags-cog-fiz-084",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Ölçeği 1/3.000.000 olan ve karelerinin kenar uzunluğu 1 cm olan aşağıdaki haritada A ile B noktaları arasındaki kuş uçuşu gerçek uzaklık kaç km'dir?",
+    "options": {
+      "A": "210 km",
+      "B": "90 km",
+      "C": "150 km",
+      "D": "120 km",
+      "E": "1500 km"
+    },
+    "answer": "C",
+    "solution": "1 cm = 3.000.000 cm = 30 km. A–B arasında yatay 3, düşey 4 kare vardır; haritadaki doğrusal uzaklık √(3²+4²) = 5 cm → gerçek uzaklık 5 × 30 = 150 km.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-024"
+  },
+  {
+    "id": "ags-cog-fiz-085",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Karelerinin kenar uzunluğu 1 cm olan aşağıdaki haritada A ile B noktaları arasındaki gerçek uzaklık 200 km'dir. Buna göre haritanın ölçeği aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "1/2.000.000",
+      "B": "1/1.000.000",
+      "C": "1/2.500.000",
+      "D": "1/20.000.000",
+      "E": "1/4.000.000"
+    },
+    "answer": "A",
+    "solution": "Haritada A–B arası √(8²+6²) = 10 cm, gerçekte 200 km = 20.000.000 cm. Ölçek = 10 / 20000000 = 1/2.000.000.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-025"
+  },
+  {
+    "id": "ags-cog-fiz-086",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıda eş yükselti (izohips) eğrileri verilen haritada A noktasının yüksekliği aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "1000 m",
+      "B": "970 m",
+      "C": "850 m",
+      "D": "1050 m",
+      "E": "900 m"
+    },
+    "answer": "B",
+    "solution": "A noktası 900 m ve 1000 m eş yükselti eğrileri arasındadır (eğri üzerinde değildir); yüksekliği 900 m'den büyük, 1000 m'den küçüktür. Bu aralıktaki tek seçenek 970 m'dir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-026"
+  },
+  {
+    "id": "ags-cog-fiz-087",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki eş yükselti (izohips) haritasında I, II, III, IV ve V ile gösterilen noktalardan hangisi en yüksektedir?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "A",
+    "solution": "Her noktanın yüksekliği çevresindeki eş yükselti eğrilerinden okunur: I = 300 m'den yüksek; II = 100–150 m arası; III = 50–100 m arası; IV = 150–200 m arası; V = 250–300 m arası. En yüksekte olan I'dir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-027"
+  },
+  {
+    "id": "ags-cog-fiz-088",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki eş yükselti (izohips) haritasında B noktası ile A noktası arasındaki yükselti farkı aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "600 m",
+      "B": "900 m",
+      "C": "400 m",
+      "D": "800 m",
+      "E": "300 m"
+    },
+    "answer": "A",
+    "solution": "A, 300–500 m; B, 900–1100 m aralığındadır. Fark en az 900 − 500 = 400 m'den büyük, en çok 1100 − 300 = 800 m'den küçüktür; eğri değerleri sınır olduğundan 400 ve 800 alınamaz. Bu aralıktaki tek seçenek 600 m'dir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-028"
+  },
+  {
+    "id": "ags-cog-fiz-089",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Yükselti–uzaklık profilinde işaretlenen A–F noktalarından ardışık olanlar arasındaki ortalama eğim karşılaştırıldığında hangi aralıkta eğim en büyüktür?",
+    "options": {
+      "A": "A–B",
+      "B": "B–C",
+      "C": "C–D",
+      "D": "D–E",
+      "E": "E–F"
+    },
+    "answer": "E",
+    "solution": "Ortalama eğim = yükselti farkı / yatay uzaklık. A–B: 150 m / 4 km = 37,5 m/km; B–C: 350 m / 2 km = 175 m/km; C–D: 0 m / 2 km = 0 m/km; D–E: 0 m / 1 km = 0 m/km; E–F: 800 m / 3 km = 266,67 m/km. En büyük değer E–F aralığındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-029"
+  },
+  {
+    "id": "ags-cog-fiz-090",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki topoğrafya profilinde B ile D noktaları arasındaki yükselti farkı kaç metredir?",
+    "options": {
+      "A": "1250 m",
+      "B": "300 m",
+      "C": "250 m",
+      "D": "650 m",
+      "E": "550 m"
+    },
+    "answer": "E",
+    "solution": "B noktası 900 m, D noktası 350 m yüksekliktedir (yatay eksen uzaklığı, düşey eksen yüksekliği verir). Yükselti farkı |350 − 900| = 550 m.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-030"
+  },
+  {
+    "id": "ags-cog-fiz-091",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "İzohips değerleri ve çizgisel ölçeği verilen aşağıdaki haritaya göre A noktasından B noktasına ortalama eğim yüzde kaçtır?",
+    "options": {
+      "A": "%40",
+      "B": "%2",
+      "C": "%200",
+      "D": "%20",
+      "E": "%10"
+    },
+    "answer": "D",
+    "solution": "A noktası 100 m, B noktası 300 m eğrisi üzerindedir: yükselti farkı 200 m. Çizgisel ölçeğe göre 40 birim = 1 km'dir; A–B arası 40 birim = 1 km = 1000 m. Eğim (%) = 200 / 1000 × 100 = %20.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-031"
+  },
+  {
+    "id": "ags-cog-fiz-092",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki eş yükselti (izohips) haritasında I, II, III, IV ve V ile gösterilen doğrultuların başlangıç ve bitiş noktaları arasındaki yükselti farkı farklıdır. Buna göre hangisinin boyunca ortalama eğim en fazladır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "C",
+    "solution": "Eş yükselti eğrileri arasındaki yükselti farkı aynıdır; doğrultu boyunca eğriler ne kadar sıksa eğim o kadar fazladır. Kesilen eğri sayısı / çizim uzunluğu: I: 2 eğri / 30 birim; II: 2 eğri / 30 birim; III: 3 eğri / 35 birim; IV: 3 eğri / 47 birim; V: 3 eğri / 49 birim. En sık eğrili (en dik) doğrultu III'dir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-032"
+  },
+  {
+    "id": "ags-cog-fiz-093",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Çizgisel ölçeği verilen aşağıdaki karelaj haritaya göre A ile B arasındaki kuş uçuşu uzaklık kaç km'dir?",
+    "options": {
+      "A": "25 km",
+      "B": "15 km",
+      "C": "20 km",
+      "D": "75 km",
+      "E": "35 km"
+    },
+    "answer": "A",
+    "solution": "Çizgisel ölçekte 3 karelik çubuk 15 km'dir; 1 kare = 5 km. A ile B arasında yatayda 4, düşeyde 3 kare vardır; kuş uçuşu uzaklık √(4²+3²) = 5 kare → 5 × 5 = 25 km.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-033"
+  },
+  {
+    "id": "ags-cog-fiz-094",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki eş yükselti (izohips) haritasında X noktasından Y noktasına doğru düz bir hat boyunca ilerlendiğinde yükselti nasıl değişir?",
+    "options": {
+      "A": "Yükselip alçalır, sonra yeniden yükselip alçalır",
+      "B": "Önce yükselir, sonra alçalır",
+      "C": "Önce alçalır, sonra yükselir, sonra yeniden alçalır",
+      "D": "Önce alçalır, sonra yükselir",
+      "E": "Sürekli alçalır"
+    },
+    "answer": "A",
+    "solution": "X'ten Y'ye giderken kesilen eğrilerin değerleri izlenir; yükselti şöyle değişir: yükselip alçalır, sonra yeniden yükselip alçalır. Kesilen eğrilerin değerleri arttıkça arazi yükselir, azaldıkça alçalır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-034"
+  },
+  {
+    "id": "ags-cog-fiz-095",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki eş yükselti (izohips) haritasında I, II, III, IV ve V ile gösterilen noktalardan hangisi en alçaktadır?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "Her noktanın yüksekliği çevresindeki eş yükselti eğrilerinden okunur: I = 300–400 m arası; II = 200 m'den alçak; III = 200–300 m arası; IV = 500–600 m arası; V = 400–500 m arası. En alçakta olan II'dir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-035"
+  },
+  {
+    "id": "ags-cog-fiz-096",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki topoğrafya profilinde B ile F noktaları arasındaki ortalama eğim yüzde kaçtır?",
+    "options": {
+      "A": "%11",
+      "B": "%3",
+      "C": "%60",
+      "D": "%12",
+      "E": "%6"
+    },
+    "answer": "E",
+    "solution": "B ile F arasında yükselti farkı 300 m, yatay uzaklık 5 km = 5000 m. Eğim (%) = 300 / 5000 × 100 = %6.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-036"
+  },
+  {
+    "id": "ags-cog-fiz-097",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Ölçeği 1/1.000.000 olan ve karelerinin kenar uzunluğu 1 cm olan aşağıdaki haritada A ile B noktaları arasındaki kuş uçuşu gerçek uzaklık kaç km'dir?",
+    "options": {
+      "A": "120 km",
+      "B": "1300 km",
+      "C": "170 km",
+      "D": "130 km",
+      "E": "50 km"
+    },
+    "answer": "D",
+    "solution": "1 cm = 1.000.000 cm = 10 km. A–B arasında yatay 12, düşey 5 kare vardır; haritadaki doğrusal uzaklık √(12²+5²) = 13 cm → gerçek uzaklık 13 × 10 = 130 km.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-037"
+  },
+  {
+    "id": "ags-cog-fiz-098",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Eş yükselti eğrileri gösterilen aşağıdaki haritada A noktasının deniz seviyesinden yüksekliği aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "700 m",
+      "B": "600 m",
+      "C": "550 m",
+      "D": "650 m",
+      "E": "750 m"
+    },
+    "answer": "D",
+    "solution": "A noktası 600 m ve 700 m eş yükselti eğrileri arasındadır (eğri üzerinde değildir); yüksekliği 600 m'den büyük, 700 m'den küçüktür. Bu aralıktaki tek seçenek 650 m'dir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-038"
+  },
+  {
+    "id": "ags-cog-fiz-099",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki eş yükselti (izohips) haritasında X–Y doğrultusunda alınacak topoğrafya kesitinde 100 m'lik eş yükselti eğrisi toplam kaç kez kesilir?",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "3",
+      "D": "6",
+      "E": "5"
+    },
+    "answer": "C",
+    "solution": "100 m'lik eğri birinci tepede 2, ikinci tepede 1 kez kesilir (hat bir eğrinin içinde bitiyorsa o eğri yalnız bir kez kesilir). Toplam 2 + 1 = 3 kez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-039"
+  },
+  {
+    "id": "ags-cog-fiz-100",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki topoğrafya profilinde A, B, C, D, E ve F noktaları işaretlenmiştir. Ardışık iki nokta arasındaki ortalama eğim göz önüne alındığında aşağıdaki aralıklardan hangisinde eğim en fazladır?",
+    "options": {
+      "A": "A–B",
+      "B": "B–C",
+      "C": "C–D",
+      "D": "D–E",
+      "E": "E–F"
+    },
+    "answer": "D",
+    "solution": "Ortalama eğim = yükselti farkı / yatay uzaklık. A–B: 550 m / 3 km = 183,33 m/km; B–C: 50 m / 1 km = 50 m/km; C–D: 50 m / 2 km = 25 m/km; D–E: 300 m / 1 km = 300 m/km; E–F: 200 m / 3 km = 66,67 m/km. En büyük değer D–E aralığındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-040"
+  },
+  {
+    "id": "ags-cog-fiz-101",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Aşağıdaki çizgisel ölçekli izohips haritasında A ile B arasındaki ortalama eğim yüzde kaç olarak hesaplanır?",
+    "options": {
+      "A": "%40",
+      "B": "%80",
+      "C": "%20",
+      "D": "%400",
+      "E": "%4"
+    },
+    "answer": "A",
+    "solution": "A noktası 100 m, B noktası 700 m eğrisi üzerindedir: yükselti farkı 600 m. Çizgisel ölçeğe göre 40 birim = 1 km'dir; A–B arası 60 birim = 1,5 km = 1500 m. Eğim (%) = 600 / 1500 × 100 = %40.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-041"
+  },
+  {
+    "id": "ags-cog-fiz-102",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Karelerinin kenar uzunluğu 1 cm olan aşağıdaki haritada A ile B noktaları arasındaki gerçek uzaklık 100 km'dir. Buna göre haritanın ölçeği aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "1/500.000",
+      "B": "1/1.000.000",
+      "C": "1/10.000.000",
+      "D": "1/2.000.000",
+      "E": "1/1.250.000"
+    },
+    "answer": "B",
+    "solution": "Haritada A–B arası √(8²+6²) = 10 cm, gerçekte 100 km = 10.000.000 cm. Ölçek = 10 / 10000000 = 1/1.000.000.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: ölçek, izohips ve kesit (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-cog-fiz-fig-042"
+  },
+  {
+    "id": "ags-cog-fiz-103",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bir coğrafya kitabında Türkiye'nin batısındaki bir yer şekli şöyle anlatılmıştır:\n\n“Yer kabuğunun kırılmasıyla bazı kesimler yükselmiş, aralarındaki kesimler çökmüştür. Çöken kesimler akarsuların taşıdığı alüvyonlarla dolarak doğu-batı doğrultulu verimli ovaları oluşturmuştur. Gediz ve Büyük Menderes bu ovalardan geçer. Bu bölgede depremler ve sıcak su kaynakları yaygındır.”\n\nBu açıklama aşağıdaki yer şekillerinden hangisine aittir?",
+    "options": {
+      "A": "Graben (çöküntü) ovaları",
+      "B": "Plato ovaları",
+      "C": "Delta ovaları",
+      "D": "Karstik ovalar",
+      "E": "Volkanik ovalar"
+    },
+    "answer": "A",
+    "solution": "Ege Bölgesi'nde fay hatları boyunca çöken alanlarda (graben) oluşan Gediz, Büyük ve Küçük Menderes ovaları graben ovalarıdır; horst alanları ise dağları oluşturur. Bölgede depremler ve jeotermal kaynaklar yaygındır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-104",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bir araştırmacı kalkerli arazilerdeki şekilleri şöyle tanıtmıştır:\n\n“Suların kalkeri çözmesiyle yüzeyde çanak biçimli küçük çukurlar oluşur. Bunlardan birkaçının birleşmesiyle daha geniş çukurluklar meydana gelir. Tabanı geniş, kapalı ve verimli çukur ovalar da bu bölgelerde görülür. Kayaların yüzeyinde ise suyun açtığı küçük oluklar, sivri çıkıntılar bulunur.”\n\nBu metinde aşağıdaki karstik şekillerden hangisine değinilmemiştir?",
+    "options": {
+      "A": "Uvala",
+      "B": "Dolin",
+      "C": "Polye",
+      "D": "Lapya",
+      "E": "Düden"
+    },
+    "answer": "E",
+    "solution": "Metinde dolin (çanak biçimli çukur), uvala (birkaç dolinin birleşmesi), polye (tabanı geniş kapalı çukur ova) ve lapya (kaya yüzeyindeki oluklar) anlatılmıştır; suyun yer altına indiği düdenden söz edilmemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-105",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bir deprem bilimci, bir fay hattını şöyle tanıtmıştır:\n\n“Doğuda Karlıova civarından başlayıp Anadolu'yu boydan boya geçer ve batıda Saros Körfezi'ne ulaşır. Sağ yönlü doğrultu atımlı bir faydır. 1939 Erzincan depremi bu hat üzerinde olmuş, 1999'daki Marmara depremleri de aynı sistemin bir parçasında meydana gelmiştir.”\n\nBu bilgiler aşağıdaki fay hatlarından hangisine aittir?",
+    "options": {
+      "A": "Doğu Anadolu Fayı",
+      "B": "Ege graben fayları",
+      "C": "Ölü Deniz Fayı",
+      "D": "Kuzey Anadolu Fayı",
+      "E": "Batı Toros Fayı"
+    },
+    "answer": "D",
+    "solution": "Kuzey Anadolu Fay Hattı (KAF), Karlıova'dan Saros Körfezi'ne uzanan sağ yönlü doğrultu atımlı bir faydır; 1939 Erzincan ve 1999 Marmara depremleri bu sistem üzerindedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-106",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bir coğrafya dersinde Türkiye'nin konumuyla ilgili şu bilgiler verilmiştir:\n\n“Türkiye, 26° ile 45° doğu boylamları arasında yer alır. Bir boylam derecesi güneş zamanında 4 dakikalık fark yaratır. Ülke genelinde ise tek bir saat (ortak saat) uygulanmaktadır.”\n\nBu bilgilere göre Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?",
+    "options": {
+      "A": "57",
+      "B": "38",
+      "C": "19",
+      "D": "76",
+      "E": "95"
+    },
+    "answer": "D",
+    "solution": "Boylam farkı 45° − 26° = 19°; her derece 4 dakika olduğundan yerel saat farkı 19 × 4 = 76 dakikadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-107",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bir toprak bilimci Akdeniz kıyılarında görülen bir toprak tipini şöyle anlatmıştır:\n\n“Kalkerli ana kayanın kimyasal ayrışmasıyla oluşur. Yazları kurak, kışları yağışlı iklimde, demir oksitlerin birikmesi nedeniyle kırmızı renk alır. Genellikle killi ve verimi sınırlıdır, makilerle kaplı yamaçlarda yaygındır.”\n\nBu açıklama aşağıdaki toprak tiplerinden hangisine aittir?",
+    "options": {
+      "A": "Kahverengi orman toprağı",
+      "B": "Kestanerengi step toprağı",
+      "C": "Terra rossa",
+      "D": "Alüvyal toprak",
+      "E": "Tuzlu-alkali toprak"
+    },
+    "answer": "C",
+    "solution": "Akdeniz ikliminde kalkerli arazilerde oluşan kırmızı renkli toprak terra rossadır; maki bitki örtüsü ile birlikte görülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-108",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bir coğrafya ders notunda bir gölle ilgili şu bilgi yer almaktadır:\n\n“Bir yanardağın püskürttüğü lav akıntıları, bir akarsu vadisinin önünü kapatmış ve suların birikmesiyle göl oluşmuştur. Gölün suyu sodalı olup tarıma elverişli değildir. Türkiye'nin yüzölçümü bakımından en büyük gölüdür.”\n\nBu bilgilerin ilişkin olduğu göl aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Van Gölü",
+      "B": "İznik Gölü",
+      "C": "Eğirdir Gölü",
+      "D": "Tuz Gölü",
+      "E": "Beyşehir Gölü"
+    },
+    "answer": "A",
+    "solution": "Nemrut Dağı lavlarının Murat vadisinin önünü kapatmasıyla oluşan (volkanik set gölü) Van Gölü, sodalı suyu olan ve Türkiye'nin yüzölçümü bakımından en büyük gölüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-109",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Doğu Karadeniz kıyılarında yıl boyunca bol yağış alınmaktadır.\n\nBu durumun;\n\nI. Akarsuların rejiminin düzenli olması,\n\nII. Heyelan ve sel olaylarının görülmesi,\n\nIII. Yazın belirgin bir kuraklığın yaşanması\n\ngelişmelerinden hangilerine ortam hazırlaması beklenebilir?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Yıl boyu yağış, akarsuların rejimini düzenli kılar ve eğimli arazide heyelan–sel riskini artırır; yaz kuraklığı Akdeniz ikliminin özelliğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-fiz-110",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_fiziki_cografyasi",
+    "stem": "Bir coğrafya kitabında bir bölgeyle ilgili şu bilgiler yer almaktadır:\n\n“Çevresi dağlarla çevrili geniş bir platodur. Akarsuların bir kısmı denize ulaşamadan göllerde ve bataklıklarda son bulur. Yaz kuraklığı belirgin, yağış azdır; doğal bitki örtüsü bozkırdır. Tarım, büyük ölçüde kuru tarıma dayanır.”\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Bozkırın yaygın olduğuna",
+      "B": "Akarsularının tamamının denize ulaştığına",
+      "C": "Kapalı havzaların bulunduğuna",
+      "D": "Kuru tarımın önemli olduğuna",
+      "E": "Yağışın az olduğuna"
+    },
+    "answer": "B",
+    "solution": "İç Anadolu gibi çevresi dağlarla çevrili platolarda akarsuların bir kısmı denize ulaşamaz (kapalı havza); bozkır ve kuru tarım yaygındır. Metin, akarsuların tamamının denize ulaştığı sonucuna götürmez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye fiziki coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

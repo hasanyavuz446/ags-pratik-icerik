@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "ags-say-grf-001",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir manavda dört ay boyunca satılan meyve miktarları (kg) aşağıdaki tabloda verilmiştir.\n\nÜrün | Nisan | Mayıs | Haziran | Temmuz\nKiraz | 100 | 110 | 75 | 60\nElma | 110 | 75 | 115 | 95\nNar | 30 | 75 | 70 | 60\n\nBuna göre, kiraz ile elma satışlarının 4 aylık toplamları arasındaki fark kaç kilogramdır?",
+    "options": {
+      "A": "740",
+      "B": "395",
+      "C": "60",
+      "D": "51",
+      "E": "50"
+    },
+    "answer": "E",
+    "solution": "kiraz: 345, elma: 395; fark 50.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-002",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir mahallede yaşayanların en çok yaptığı spor dallarının dağılımı aşağıdaki daire grafiğinde yüzde olarak gösterilmiştir: Futbol %25, Basketbol %15, Voleybol %5, Yüzme %25, Tenis %30. Toplam 160 kişi bulunduğuna göre Basketbol diliminde kaç kişi vardır?",
+    "options": {
+      "A": "15",
+      "B": "34",
+      "C": "24",
+      "D": "8",
+      "E": "32"
+    },
+    "answer": "C",
+    "solution": "160 × %15 = 24.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: daire grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-003",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kargo şirketinin hafta içi günlerde dağıttığı paket sayısı aşağıdaki tabloda verilmiştir.\n\nGün | Pazartesi | Salı | Çarşamba | Perşembe | Cuma\nSayı | 230 | 300 | 265 | 170 | 165\n\nBuna göre, Salı ve Çarşamba günlerindeki dağıtılan paket sayısı toplamı, haftanın toplamının yüzde kaçıdır?",
+    "options": {
+      "A": "113",
+      "B": "26",
+      "C": "45",
+      "D": "50",
+      "E": "565"
+    },
+    "answer": "D",
+    "solution": "İki günün toplamı 565, haftanın toplamı 1130; pay 565/1130 × 100 = %50.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tek serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-004",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okulun yıllara göre öğrenci sayısı aşağıdaki tabloda verilmiştir.\n\nYıl | 2019 | 2020\nDeğer | 150 | 105\n\nBuna göre, 2020 yılında öğrenci sayısı, 2019 yılına göre yüzde kaç azalmıştır?",
+    "options": {
+      "A": "130",
+      "B": "43",
+      "C": "30",
+      "D": "25",
+      "E": "70"
+    },
+    "answer": "C",
+    "solution": "Değişim 45; yüzdesi 45/150 × 100 = %30 (azalış).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: yüzde değişim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-005",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kitabevinde dört ay boyunca satılan kitap adetleri aşağıdaki tabloda verilmiştir.\n\nTür | Mayıs | Haziran | Temmuz | Ağustos\nHikâye | 60 | 25 | 110 | 80\nŞiir | 100 | 65 | 40 | 100\nDeneme | 60 | 25 | 35 | 20\n\nBuna göre, aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Haziran ayında hikâye satışı, deneme satışının 2 katıdır.",
+      "B": "Ağustos ayında deneme satışı, hikâye satışının 3 katıdır.",
+      "C": "Şiir satışının aylık ortalaması 76,25 adettir.",
+      "D": "Temmuz ayında en çok satılan kitap denemedir.",
+      "E": "Şiir satışının aylık ortalaması 81,25 adettir."
+    },
+    "answer": "C",
+    "solution": "“Şiir satışının aylık ortalaması 76,25 adettir.” yargısı için: şiir toplamı 305; ortalama 76,25. Öteki yargılar tablodaki değerlerle çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-006",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kitabevinde dört ay boyunca satılan kitap adetleri aşağıdaki tabloda verilmiştir.\n\nTür | Mayıs | Haziran | Temmuz | Ağustos\nSözlük | 120 | 100 | 85 | 75\nHikâye | 20 | 60 | 120 | 20\nDeneme | 105 | 120 | 25 | 50\n\nBuna göre, sözlük satışının Haziran ayındaki miktarı, deneme satışının Temmuz ayındaki miktarının kaç katıdır?",
+    "options": {
+      "A": "4",
+      "B": "75",
+      "C": "1",
+      "D": "2",
+      "E": "3"
+    },
+    "answer": "A",
+    "solution": "sözlük Haziran: 100; deneme Temmuz: 25; 100 ÷ 25 = 4.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-007",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kitap fuarında dört aylık dönemde satılan kitap adetleri aşağıdaki tabloda gösterilmiştir.\n\nTür | Ocak | Şubat | Mart | Nisan\nAnsiklopedi | 25 | 110 | 70 | 75\nSözlük | 115 | 65 | 110 | 90\nHikâye | 100 | 30 | 115 | 25\n\nBuna göre, sözlük satışının aylık ortalaması kaç adettir?",
+    "options": {
+      "A": "94",
+      "B": "95",
+      "C": "90",
+      "D": "65",
+      "E": "380"
+    },
+    "answer": "B",
+    "solution": "Toplam 380; ortalama 380 ÷ 4 = 95.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-008",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kitabevinde dört ay boyunca satılan kitap adetleri aşağıdaki tabloda verilmiştir.\n\nTür | Ocak | Şubat | Mart | Nisan\nHikâye | 25 | 45 | 50 | 55\nRoman | 95 | 30 | 40 | 90\nAnsiklopedi | 20 | 110 | 100 | 120\n\nBuna göre, aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Mart ayında ansiklopedi satışı, hikâye satışının 4 katıdır.",
+      "B": "Ansiklopedi satışında Şubat ile Mart ayları arasındaki fark 10 adettir.",
+      "C": "Hikâye satışı Nisan ayında Ocak ayına göre yüzde 115 artmıştır.",
+      "D": "Şubat ayında ansiklopedi satışı, hikâye satışının 3 katıdır.",
+      "E": "Mart ayında roman satışı, ansiklopedi satışının 3 katıdır."
+    },
+    "answer": "B",
+    "solution": "“Ansiklopedi satışında Şubat ile Mart ayları arasındaki fark 10 adettir.” yargısı için: ansiklopedi: 110 ve 100; fark 10. Öteki yargılar tablodaki değerlerle çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-009",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir şirketin 2018-2023 yıllarındaki satış gelirleri (milyon TL) aşağıda verilmiştir.\n\nYıl | 2018 | 2019 | 2020 | 2021 | 2022 | 2023\nDeğer | 290 | 120 | 210 | 120 | 390 | 290\n\nBuna göre, satış geliri hangi ardışık iki yıl arasında en çok artmıştır?",
+    "options": {
+      "A": "2022-2023",
+      "B": "2019-2020",
+      "C": "2020-2021",
+      "D": "2021-2022",
+      "E": "2018-2019"
+    },
+    "answer": "D",
+    "solution": "Yıllık değişimler: 2018-2019: -170, 2019-2020: +90, 2020-2021: -90, 2021-2022: +270, 2022-2023: -100. En büyük artış 2021-2022.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizgi grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-010",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir anketteki katılımcıların en çok tercih ettiği içeceklerin dağılımı aşağıdaki daire grafiğinde yüzde olarak gösterilmiştir: Çay %35, Kahve %5, Su %5, Meyve suyu %25, Süt %30. Meyve suyu diliminin katılımcı sayısı, Kahve diliminin kaç katıdır?",
+    "options": {
+      "A": "20",
+      "B": "6",
+      "C": "4",
+      "D": "3",
+      "E": "5"
+    },
+    "answer": "E",
+    "solution": "%25 ÷ %5 = 5.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: daire grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-011",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir üniversiteye 2018-2023 yıllarında başvuran aday sayısı (yüz kişi) aşağıda verilmiştir.\n\nYıl | 2018 | 2019 | 2020 | 2021 | 2022 | 2023\nDeğer | 190 | 140 | 100 | 310 | 150 | 300\n\nBuna göre, aday sayısı hangi ardışık iki yıl arasında en çok artmıştır?",
+    "options": {
+      "A": "2019-2020",
+      "B": "2020-2021",
+      "C": "2021-2022",
+      "D": "2022-2023",
+      "E": "2018-2019"
+    },
+    "answer": "B",
+    "solution": "Yıllık değişimler: 2018-2019: -50, 2019-2020: -40, 2020-2021: +210, 2021-2022: -160, 2022-2023: +150. En büyük artış 2020-2021.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizgi grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-012",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okul kantininde dört ay boyunca satılan ürün adetleri aşağıdaki tabloda verilmiştir.\n\nÜrün | Ocak | Şubat | Mart | Nisan\nTost | 85 | 80 | 25 | 70\nÇay | 105 | 80 | 115 | 105\nLimonata | 75 | 85 | 20 | 50\n\nBuna göre, Mart ve Nisan aylarında satılan toplam ürün miktarları arasındaki fark kaç adettir?",
+    "options": {
+      "A": "21",
+      "B": "55",
+      "C": "75",
+      "D": "65",
+      "E": "30"
+    },
+    "answer": "D",
+    "solution": "Mart: 160, Nisan: 225; fark 65.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-013",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kitabevinde dört ay boyunca satılan kitap adetleri aşağıdaki tabloda verilmiştir.\n\nTür | Mart | Nisan | Mayıs | Haziran\nHikâye | 70 | 110 | 105 | 100\nDeneme | 75 | 20 | 80 | 80\nŞiir | 120 | 80 | 80 | 45\n\nBuna göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": {
+      "A": "Deneme satışı Haziran ayında Mart ayına göre artmıştır.",
+      "B": "Deneme satışında Nisan ile Haziran ayları arasındaki fark 60 adettir.",
+      "C": "Şiir satışında Mart ile Haziran ayları arasındaki fark 65 adettir.",
+      "D": "Mart ayında üç kitabın toplam satışı 265 adettir.",
+      "E": "Şiir satışı Nisan ayında Mart ayına göre azalmıştır."
+    },
+    "answer": "C",
+    "solution": "“Şiir satışında Mart ile Haziran ayları arasındaki fark 65 adettir.” yargısı için: şiir: 120 ve 45; fark 75. Öteki yargılar tablodaki değerlerle uyumludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-014",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir mağazalar zincirinin 2018-2023 yıllarındaki mağaza sayısı aşağıda verilmiştir.\n\nYıl | 2018 | 2019 | 2020 | 2021 | 2022 | 2023\nDeğer | 300 | 100 | 200 | 190 | 350 | 320\n\nBuna göre, mağaza sayısı bir önceki yıla göre yüzde olarak en çok hangi ardışık iki yıl arasında artmıştır?",
+    "options": {
+      "A": "2022-2023",
+      "B": "2018-2019",
+      "C": "2019-2020",
+      "D": "2021-2022",
+      "E": "2020-2021"
+    },
+    "answer": "C",
+    "solution": "Yıllık yüzde artışlar: 2018-2019: %-66,7, 2019-2020: %100,0, 2020-2021: %-5,0, 2021-2022: %84,2, 2022-2023: %-8,6. En büyüğü 2019-2020.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizgi grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-015",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir barajın 2018-2023 yıllarındaki yıllık su seviyesi (metre) aşağıda verilmiştir.\n\nYıl | 2018 | 2019 | 2020 | 2021 | 2022 | 2023\nDeğer | 160 | 230 | 300 | 240 | 210 | 400\n\nBuna göre, su seviyesi hangi ardışık iki yıl arasında en çok azalmıştır?",
+    "options": {
+      "A": "2020-2021",
+      "B": "2019-2020",
+      "C": "2021-2022",
+      "D": "2018-2019",
+      "E": "2022-2023"
+    },
+    "answer": "A",
+    "solution": "Yıllık değişimler: 2018-2019: +70, 2019-2020: +70, 2020-2021: -60, 2021-2022: -30, 2022-2023: +190. En büyük azalış 2020-2021.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizgi grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-016",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir müzeyi hafta içi günlerde ziyaret eden kişi sayısı aşağıdaki tabloda gösterilmiştir.\n\nGün | Pazartesi | Salı | Çarşamba | Perşembe | Cuma\nSayı | 145 | 80 | 135 | 145 | 140\n\nBuna göre, ziyaretçi sayısı en çok olan gün ile en az olan gün arasındaki fark kaçtır?",
+    "options": {
+      "A": "70",
+      "B": "145",
+      "C": "65",
+      "D": "80",
+      "E": "225"
+    },
+    "answer": "C",
+    "solution": "En büyük değer 145, en küçük değer 80; fark 145 − 80 = 65.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tek serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-017",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okul malzemeleri mağazasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Şubat | Mart | Nisan | Mayıs\nÇanta | 55 | 60 | 60 | 85\nBoya | 30 | 90 | 120 | 105\nSilgi | 95 | 120 | 40 | 60\n\nBuna göre, silgi satışı Mayıs ayında Nisan ayına göre yüzde kaç artmıştır?",
+    "options": {
+      "A": "100",
+      "B": "150",
+      "C": "60",
+      "D": "50",
+      "E": "20"
+    },
+    "answer": "D",
+    "solution": "Nisan: 40, Mayıs: 60; artış (60 − 40)/40 × 100 = %50.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-018",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir üniversite kafeteryasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Nisan | Mayıs | Haziran | Temmuz\nAyran | 90 | 75 | 45 | 85\nSu | 30 | 110 | 80 | 120\nTost | 75 | 120 | 60 | 90\n\nBuna göre,\n\nI. Ayran satışı Haziran ayında Mayıs ayına göre azalmıştır.\n\nII. Tost satışında Haziran ile Temmuz ayları arasındaki fark 30 adettir.\n\nIII. Ayran satışında Mayıs ile Haziran ayları arasındaki fark 30 adettir.\n\nyargılarından hangileri doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "E",
+    "solution": "Doğru olan yargılar I ve II ve III: ayran: Mayıs 75, Haziran 45; tost: 60 ve 90; fark 30; ayran: 75 ve 45; fark 30. Diğerleri tabloyla çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-019",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okul malzemeleri mağazasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Mart | Nisan | Mayıs | Haziran\nCetvel | 60 | 30 | 65 | 120\nKitap | 95 | 75 | 110 | 45\nSilgi | 40 | 105 | 100 | 110\n\nBuna göre,\n\nI. Mart ayında üç ürünün toplam satışı 195 adettir.\n\nII. Mayıs ayında kitap satışı, silgi satışının 2 katıdır.\n\nIII. Nisan ayında cetvel satışı, kitap satışının 2 katıdır.\n\nyargılarından hangileri doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Doğru olan yargılar I: Mart ayı toplamı 195. Diğerleri tabloyla çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-020",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir fabrikanın hafta içi günlük üretim adedi aşağıdaki tabloda verilmiştir.\n\nGün | Pazartesi | Salı | Çarşamba | Perşembe | Cuma\nSayı | 190 | 225 | 215 | 205 | 255\n\nBuna göre, bu beş günde günlük ortalama üretilen ürün sayısı kaçtır?",
+    "options": {
+      "A": "218",
+      "B": "216",
+      "C": "215",
+      "D": "213",
+      "E": "217"
+    },
+    "answer": "A",
+    "solution": "Toplam 190 + 225 + 215 + 205 + 255 = 1090; ortalama 1090 ÷ 5 = 218.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tek serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-021",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir turizm bölgesine gelen ziyaretçilerin uyruklarına göre dağılımı aşağıdaki daire grafiğinde dilimlerin merkez açılarıyla gösterilmiştir: Alman 144°, Rus 90°, İngiliz 36°, Hollandalı 18°, Fransız 72°. Toplam 400 ziyaretçi bulunduğuna göre Fransız diliminde kaç ziyaretçi vardır?",
+    "options": {
+      "A": "90",
+      "B": "81",
+      "C": "100",
+      "D": "80",
+      "E": "288"
+    },
+    "answer": "D",
+    "solution": "Fransız diliminin payı 72/360; 400 × 72/360 = 80.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: daire grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-022",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kentteki hanelerin kullandığı ısınma türlerinin dağılımı aşağıdaki daire grafiğinde yüzde olarak gösterilmiştir: Doğal gaz %25, Kömür %35, Elektrik %15, Odun %5, Jeotermal %20. Kömür ve Odun dilimlerinin merkez açıları toplamı kaç derecedir?",
+    "options": {
+      "A": "147",
+      "B": "146",
+      "C": "162",
+      "D": "145",
+      "E": "144"
+    },
+    "answer": "E",
+    "solution": "(%35 + %5) × 360° = 144°.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: daire grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-023",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir mağazanın yıllık cirosu (bin TL), 2019 yılında 120 iken 2020 yılında yüzde 40 artmıştır. Buna göre 2020 yılındaki değer kaçtır?",
+    "options": {
+      "A": "160",
+      "B": "72",
+      "C": "168",
+      "D": "48",
+      "E": "216"
+    },
+    "answer": "C",
+    "solution": "120 × (100 + 40)/100 = 168.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: yüzde değişim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-024",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okul malzemeleri mağazasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Mart | Nisan | Mayıs | Haziran\nSilgi | 120 | 20 | 30 | 55\nÇanta | 30 | 100 | 115 | 70\nKalem | 105 | 115 | 100 | 45\n\nBuna göre, kalem satışının Nisan ve Mayıs ayları arasındaki farkı kaç adettir?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "13",
+      "D": "14",
+      "E": "15"
+    },
+    "answer": "E",
+    "solution": "kalem: Nisan 115, Mayıs 100; fark 15.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-025",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okul malzemeleri mağazasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Mart | Nisan | Mayıs | Haziran\nKitap | 25 | 35 | 85 | 80\nBoya | 110 | 35 | 25 | 65\nKalem | 100 | 45 | 75 | 60\n\nBuna göre, aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Nisan ayında boya satışı, kalem satışının 2 katıdır.",
+      "B": "Boya satışı Haziran ayında Mayıs ayına göre yüzde 170 artmıştır.",
+      "C": "Kalem satışında Nisan ile Mayıs ayları arasındaki fark 40 adettir.",
+      "D": "Mayıs ayında üç ürünün toplam satışı 195 adettir.",
+      "E": "Kitap satışı Haziran ayında Mart ayına göre yüzde 220 artmıştır."
+    },
+    "answer": "E",
+    "solution": "“Kitap satışı Haziran ayında Mart ayına göre yüzde 220 artmıştır.” yargısı için: kitap: 25 → 80; değişim %220. Öteki yargılar tablodaki değerlerle çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-026",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir manavda dört ay boyunca satılan meyve miktarları (kg) aşağıdaki tabloda verilmiştir.\n\nÜrün | Mart | Nisan | Mayıs | Haziran\nNar | 70 | 50 | 60 | 60\nLimon | 65 | 115 | 115 | 90\nArmut | 60 | 110 | 20 | 105\n\nBuna göre, aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Armut satışında Nisan ile Mayıs ayları arasındaki fark 90 kilogramdır.",
+      "B": "Armut satışında Mart ile Haziran ayları arasındaki fark 55 kilogramdır.",
+      "C": "Mart ayında nar satışı, limon satışının 2 katıdır.",
+      "D": "Mayıs ayında armut satışı, limon satışının 4 katıdır.",
+      "E": "Mart ayında üç meyvenin toplam satışı 185 kilogramdır."
+    },
+    "answer": "A",
+    "solution": "“Armut satışında Nisan ile Mayıs ayları arasındaki fark 90 kilogramdır.” yargısı için: armut: 110 ve 20; fark 90. Öteki yargılar tablodaki değerlerle çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-027",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir hâlde dört aylık dönemde satılan meyve miktarları (kg) aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Şubat | Mart | Nisan | Mayıs\nElma | 55 | 80 | 20 | 40\nNar | 90 | 45 | 70 | 60\nPortakal | 110 | 90 | 100 | 70\n\nBuna göre,\n\nI. Şubat ayında nar satışı, elma satışının 4 katıdır.\n\nII. Mart ayında portakal satışı, nar satışının 2 katıdır.\n\nIII. Elma satışı Nisan ayında Mart ayına göre azalmıştır.\n\nyargılarından hangileri doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Doğru olan yargılar II ve III: portakal 90, nar 45; elma: Mart 80, Nisan 20. Diğerleri tabloyla çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-028",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kursun üç grubunun deneme sınavı sonuçları şöyledir: 1. grup 25 kursiyer ve 58 ortalama; 2. grup 20 kursiyer ve 71 ortalama; 3. grup 10 kursiyer ve 76 ortalama.\n\nBuna göre, üç grup birlikte düşünüldüğünde genel deneme ortalaması kaçtır?",
+    "options": {
+      "A": "69",
+      "B": "64",
+      "C": "66",
+      "D": "76",
+      "E": "58"
+    },
+    "answer": "C",
+    "solution": "Genel ortalama = (25·58 + 20·71 + 10·76) ÷ 55 = 3630 ÷ 55 = 66.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: ağırlıklı ortalama"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-029",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir fabrikanın üç vardiyasındaki işçilerin günlük ortalama üretimleri şöyledir: 1. vardiya 25 işçi ve 76 ortalama; 2. vardiya 15 işçi ve 66 ortalama; 3. vardiya 10 işçi ve 91 ortalama.\n\nBuna göre, üç vardiya birlikte düşünüldüğünde genel günlük ortalama üretim kaçtır?",
+    "options": {
+      "A": "74",
+      "B": "76",
+      "C": "78",
+      "D": "77",
+      "E": "91"
+    },
+    "answer": "B",
+    "solution": "Genel ortalama = (25·76 + 15·66 + 10·91) ÷ 50 = 3800 ÷ 50 = 76.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: ağırlıklı ortalama"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-030",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir pastanenin hafta içi günlerde sattığı pasta sayısı aşağıdaki tabloda verilmiştir.\n\nGün | Pazartesi | Salı | Çarşamba | Perşembe | Cuma\nSayı | 50 | 40 | 65 | 65 | 80\n\nBuna göre, Pazartesi ve Salı günlerindeki satılan pasta sayısı toplamı, haftanın toplamının yüzde kaçıdır?",
+    "options": {
+      "A": "25",
+      "B": "70",
+      "C": "30",
+      "D": "90",
+      "E": "35"
+    },
+    "answer": "C",
+    "solution": "İki günün toplamı 90, haftanın toplamı 300; pay 90/300 × 100 = %30.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tek serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-031",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kitabevinde dört ay boyunca satılan kitap adetleri aşağıdaki tabloda verilmiştir.\n\nTür | Nisan | Mayıs | Haziran | Temmuz\nŞiir | 65 | 75 | 85 | 25\nDeneme | 35 | 65 | 30 | 55\nAnsiklopedi | 115 | 50 | 20 | 40\n\nBuna göre,\n\nI. Temmuz ayında deneme satışı, ansiklopedi satışının 3 katıdır.\n\nII. Haziran ayında en çok satılan kitap şiirdir.\n\nIII. Deneme satışı Mayıs ayında Nisan ayına göre azalmıştır.\n\nyargılarından hangileri doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Doğru olan yargılar II: Haziran ayında şiir 85, deneme 30, ansiklopedi 20. Diğerleri tabloyla çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-032",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir çiftliğin yıllık süt üretimi (ton), 2020 yılında 144 olmuştur ve bu değer 2019 yılına göre yüzde 20 artışı göstermektedir. Buna göre 2019 yılındaki değer kaçtır?",
+    "options": {
+      "A": "124",
+      "B": "120",
+      "C": "130",
+      "D": "122",
+      "E": "121"
+    },
+    "answer": "B",
+    "solution": "144 = 120 × (100 + 20)/100 olduğundan 2019 yılındaki değer 120'dır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: yüzde değişim"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-033",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir fabrikanın yıllık üretimi (bin adet) aşağıdaki tabloda verilmiştir.\n\nYıl | 2019 | 2020\nDeğer | 60 | 75\n\nBuna göre, 2020 yılında üretim miktarı, 2019 yılına göre yüzde kaç artmıştır?",
+    "options": {
+      "A": "25",
+      "B": "23",
+      "C": "15",
+      "D": "24",
+      "E": "20"
+    },
+    "answer": "A",
+    "solution": "Değişim 15; yüzdesi 15/60 × 100 = %25 (artış).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: yüzde değişim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-034",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kütüphanenin hafta içi günlerde ödünç verdiği kitap sayısı aşağıdaki tabloda verilmiştir.\n\nGün | Pazartesi | Salı | Çarşamba | Perşembe | Cuma\nSayı | 40 | 55 | 55 | 80 | 30\n\nBuna göre, bu beş günde günlük ortalama ödünç verilen kitap sayısı kaçtır?",
+    "options": {
+      "A": "55",
+      "B": "260",
+      "C": "65",
+      "D": "47",
+      "E": "52"
+    },
+    "answer": "E",
+    "solution": "Toplam 40 + 55 + 55 + 80 + 30 = 260; ortalama 260 ÷ 5 = 52.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tek serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-035",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir şirket çalışanlarının bölümlere göre dağılımı aşağıdaki daire grafiğinde yüzde olarak gösterilmiştir: Üretim %15, Satış %5, Muhasebe %25, Pazarlama %20, İnsan Kaynakları %35. Toplam 200 çalışan bulunduğuna göre Pazarlama ile Satış dilimleri arasındaki çalışan sayısı farkı kaçtır?",
+    "options": {
+      "A": "20",
+      "B": "28",
+      "C": "15",
+      "D": "29",
+      "E": "30"
+    },
+    "answer": "E",
+    "solution": "Pazarlama: 40, Satış: 10; fark 30.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: daire grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-036",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir sinemada hafta içi günlerde satılan bilet sayısı aşağıdaki tabloda verilmiştir.\n\nGün | Pazartesi | Salı | Çarşamba | Perşembe | Cuma\nSayı | 155 | 140 | 80 | 95 | 80\n\nBuna göre, satılan bilet sayısı en çok olan gün ile en az olan gün arasındaki fark kaçtır?",
+    "options": {
+      "A": "235",
+      "B": "73",
+      "C": "74",
+      "D": "75",
+      "E": "70"
+    },
+    "answer": "D",
+    "solution": "En büyük değer 155, en küçük değer 80; fark 155 − 80 = 75.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tek serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-037",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir sınıftaki öğrencilerin en çok sevdiği derslerin dağılımı aşağıdaki daire grafiğinde yüzde olarak gösterilmiştir: Matematik %10, Fen %25, Sosyal %5, Türkçe %30, İngilizce %30. Toplam 160 öğrenci bulunduğuna göre İngilizce diliminde kaç öğrenci vardır?",
+    "options": {
+      "A": "38",
+      "B": "48",
+      "C": "30",
+      "D": "4",
+      "E": "32"
+    },
+    "answer": "B",
+    "solution": "160 × %30 = 48.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: daire grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-038",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kırtasiyede dört ay boyunca satılan ürün adetleri aşağıdaki tabloda verilmiştir.\n\nÜrün | Mayıs | Haziran | Temmuz | Ağustos\nÇanta | 90 | 30 | 40 | 60\nKalem | 75 | 95 | 20 | 45\nBoya | 30 | 75 | 30 | 20\n\nBuna göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": {
+      "A": "Çanta satışının dört aylık toplamı, boya satışının toplamından fazladır.",
+      "B": "Boya satışı Ağustos ayında Temmuz ayına göre azalmıştır.",
+      "C": "Kalem satışında Haziran ile Temmuz ayları arasındaki fark 85 adettir.",
+      "D": "Boya satışında Haziran ile Temmuz ayları arasındaki fark 45 adettir.",
+      "E": "Çanta satışı Temmuz ayında Haziran ayına göre artmıştır."
+    },
+    "answer": "C",
+    "solution": "“Kalem satışında Haziran ile Temmuz ayları arasındaki fark 85 adettir.” yargısı için: kalem: 95 ve 20; fark 75. Öteki yargılar tablodaki değerlerle uyumludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-039",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir ilin yıllık turist sayısı (bin kişi) aşağıdaki tabloda verilmiştir.\n\nYıl | 2019 | 2020\nDeğer | 80 | 100\n\nBuna göre, 2020 yılında turist sayısı, 2019 yılına göre yüzde kaç artmıştır?",
+    "options": {
+      "A": "30",
+      "B": "24",
+      "C": "20",
+      "D": "125",
+      "E": "25"
+    },
+    "answer": "E",
+    "solution": "Değişim 20; yüzdesi 20/80 × 100 = %25 (artış).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: yüzde değişim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-040",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okul malzemeleri mağazasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Mart | Nisan | Mayıs | Haziran\nKitap | 35 | 105 | 90 | 60\nKalem | 55 | 100 | 75 | 25\nMakas | 25 | 25 | 75 | 55\n\nBuna göre, Mayıs ayında satılan üç ürünün ortalama satış miktarı kaç adettir?",
+    "options": {
+      "A": "240",
+      "B": "75",
+      "C": "46",
+      "D": "80",
+      "E": "79"
+    },
+    "answer": "D",
+    "solution": "Mayıs ayı toplamı 240; ortalama 240 ÷ 3 = 80.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-041",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir üniversite kafeteryasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Mart | Nisan | Mayıs | Haziran\nSoda | 90 | 30 | 60 | 90\nÇay | 105 | 20 | 35 | 55\nSimit | 35 | 60 | 120 | 115\n\nBuna göre, aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Soda satışında Mart ile Nisan ayları arasındaki fark 60 adettir.",
+      "B": "Nisan ayında soda satışı, simit satışının 3 katıdır.",
+      "C": "Mayıs ayında soda satışı, çay satışının 2 katıdır.",
+      "D": "Mayıs ayında en çok satılan ürün çaydır.",
+      "E": "Soda satışı Haziran ayında Mayıs ayına göre yüzde 45 artmıştır."
+    },
+    "answer": "A",
+    "solution": "“Soda satışında Mart ile Nisan ayları arasındaki fark 60 adettir.” yargısı için: soda: 90 ve 30; fark 60. Öteki yargılar tablodaki değerlerle çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-042",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir ilçenin 2018-2023 yıllarındaki nüfusu (bin kişi) aşağıda verilmiştir.\n\nYıl | 2018 | 2019 | 2020 | 2021 | 2022 | 2023\nDeğer | 390 | 190 | 350 | 400 | 320 | 310\n\nBuna göre, nüfus hangi ardışık iki yıl arasında en çok azalmıştır?",
+    "options": {
+      "A": "2022-2023",
+      "B": "2020-2021",
+      "C": "2021-2022",
+      "D": "2018-2019",
+      "E": "2019-2020"
+    },
+    "answer": "D",
+    "solution": "Yıllık değişimler: 2018-2019: -200, 2019-2020: +160, 2020-2021: +50, 2021-2022: -80, 2022-2023: -10. En büyük azalış 2018-2019.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizgi grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-043",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kütüphanede ödünç alınan kitapların türlere göre dağılımı aşağıdaki daire grafiğinde yüzde olarak gösterilmiştir: Roman %5, Şiir %20, Hikâye %15, Biyografi %20, Deneme %40. Biyografi diliminde 72 kitap olduğuna göre toplam kaç kitap vardır?",
+    "options": {
+      "A": "380",
+      "B": "360",
+      "C": "361",
+      "D": "72",
+      "E": "362"
+    },
+    "answer": "B",
+    "solution": "72 = toplam × %20 olduğundan toplam 72 × 100 ÷ 20 = 360.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: daire grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-044",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir hâlde dört aylık dönemde satılan meyve miktarları (kg) aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Mart | Nisan | Mayıs | Haziran\nİncir | 105 | 120 | 60 | 95\nElma | 40 | 30 | 80 | 30\nPortakal | 95 | 45 | 45 | 70\n\nBuna göre, 4 ayın toplamında en çok satılan meyvenin toplam satışı kaç kilogramdır?",
+    "options": {
+      "A": "180",
+      "B": "370",
+      "C": "815",
+      "D": "390",
+      "E": "380"
+    },
+    "answer": "E",
+    "solution": "Toplamlar: incir 380, elma 180, portakal 255; en büyüğü 380.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-045",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kitap fuarında dört aylık dönemde satılan kitap adetleri aşağıdaki tabloda gösterilmiştir.\n\nTür | Mart | Nisan | Mayıs | Haziran\nSözlük | 55 | 85 | 105 | 100\nAtlas | 70 | 55 | 40 | 110\nHikâye | 50 | 75 | 95 | 70\n\nBuna göre, hikâye ile sözlük satışlarının 4 aylık toplamları arasındaki fark kaç adettir?",
+    "options": {
+      "A": "635",
+      "B": "45",
+      "C": "345",
+      "D": "65",
+      "E": "55"
+    },
+    "answer": "E",
+    "solution": "hikâye: 290, sözlük: 345; fark 55.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-046",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir hâlde dört aylık dönemde satılan meyve miktarları (kg) aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Ocak | Şubat | Mart | Nisan\nNar | 120 | 110 | 55 | 55\nKavun | 40 | 35 | 100 | 35\nÜzüm | 40 | 60 | 20 | 60\n\nBuna göre, kavun satışının 4 aylık toplamı kaç kilogramdır?",
+    "options": {
+      "A": "210",
+      "B": "175",
+      "C": "135",
+      "D": "52",
+      "E": "200"
+    },
+    "answer": "A",
+    "solution": "40 + 35 + 100 + 35 = 210.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-047",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okul kantininde dört ay boyunca satılan ürün adetleri aşağıdaki tabloda verilmiştir.\n\nÜrün | Şubat | Mart | Nisan | Mayıs\nSimit | 40 | 50 | 20 | 105\nAyran | 115 | 20 | 80 | 60\nSu | 55 | 60 | 20 | 70\n\nBuna göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": {
+      "A": "Su satışında Şubat ile Nisan ayları arasındaki fark 35 adettir.",
+      "B": "Simit satışında Şubat ile Nisan ayları arasındaki fark 20 adettir.",
+      "C": "Mart ayında su satışı, simit satışının 2 katıdır.",
+      "D": "Su satışı Nisan ayında Şubat ayına göre azalmıştır.",
+      "E": "Su satışında Şubat ile Mart ayları arasındaki fark 5 adettir."
+    },
+    "answer": "C",
+    "solution": "“Mart ayında su satışı, simit satışının 2 katıdır.” yargısı için: su 60, simit 50. Öteki yargılar tablodaki değerlerle uyumludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-048",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir spor salonuna hafta içi günlerde gelen üye sayısı aşağıdaki tabloda gösterilmiştir.\n\nGün | Pazartesi | Salı | Çarşamba | Perşembe | Cuma\nSayı | 120 | 100 | 65 | 50 | 55\n\nBuna göre, gelen üye sayısı günlük ortalamanın üzerinde olan kaç gün vardır?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "0",
+      "E": "5"
+    },
+    "answer": "C",
+    "solution": "Ortalama 390 ÷ 5 = 78; bu değerden büyük 2 gün vardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tek serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-049",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir üniversite kafeteryasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Şubat | Mart | Nisan | Mayıs\nÇay | 40 | 90 | 95 | 60\nSu | 40 | 85 | 100 | 44\nSüt | 105 | 50 | 85 | 115\n\nBuna göre, su satışı Mayıs ayında Şubat ayına göre yüzde kaç artmıştır?",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "5",
+      "D": "4",
+      "E": "10"
+    },
+    "answer": "E",
+    "solution": "Şubat: 40, Mayıs: 44; artış (44 − 40)/40 × 100 = %10.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-050",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okul malzemeleri mağazasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Nisan | Mayıs | Haziran | Temmuz\nCetvel | 80 | 70 | 100 | 100\nKitap | 90 | 115 | 50 | 60\nÇanta | 65 | 55 | 25 | 20\n\nBuna göre, cetvel satışının Mayıs ve Temmuz ayları arasındaki farkı kaç adettir?",
+    "options": {
+      "A": "170",
+      "B": "31",
+      "C": "35",
+      "D": "100",
+      "E": "30"
+    },
+    "answer": "E",
+    "solution": "cetvel: Mayıs 70, Temmuz 100; fark 30.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-051",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir hâlde dört aylık dönemde satılan meyve miktarları (kg) aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Şubat | Mart | Nisan | Mayıs\nPortakal | 25 | 35 | 30 | 55\nArmut | 70 | 80 | 50 | 45\nÜzüm | 70 | 120 | 105 | 40\n\nBuna göre, üzüm satışının Şubat ayındaki miktarı, portakal satışının Mart ayındaki miktarının kaç katıdır?",
+    "options": {
+      "A": "35",
+      "B": "7",
+      "C": "4",
+      "D": "2",
+      "E": "1"
+    },
+    "answer": "D",
+    "solution": "üzüm Şubat: 70; portakal Mart: 35; 70 ÷ 35 = 2.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-052",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir şehirdeki kayıtlı araç sayısı (bin) aşağıdaki tabloda verilmiştir.\n\nYıl | 2019 | 2020 | 2021\nDeğer | 250 | 300 | 150\n\nBuna göre, 2021 yılındaki araç sayısı, 2019 yılına göre yüzde kaç değişmiştir? (Artış pozitif, azalış negatif olarak alınız.)",
+    "options": {
+      "A": "-43",
+      "B": "-42",
+      "C": "-40",
+      "D": "-41",
+      "E": "-45"
+    },
+    "answer": "C",
+    "solution": "2019: 250, 2021: 150; değişim (150 − 250)/250 × 100 = %-40.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: yüzde değişim"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-053",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir bankanın üç şubesindeki müşteri memnuniyet puanları şöyledir: 1. şube 15 müşteri ve 86 ortalama; 2. şube 25 müşteri ve 60 ortalama; 3. şube 10 müşteri ve 66 ortalama.\n\nBuna göre, üç şube birlikte düşünüldüğünde genel memnuniyet puanı kaçtır?",
+    "options": {
+      "A": "70",
+      "B": "69",
+      "C": "71",
+      "D": "86",
+      "E": "72"
+    },
+    "answer": "B",
+    "solution": "Genel ortalama = (15·86 + 25·60 + 10·66) ÷ 50 = 3450 ÷ 50 = 69.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: ağırlıklı ortalama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-054",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okulda öğrencilerin okula ulaşım biçimlerinin dağılımı aşağıdaki daire grafiğinde dilimlerin merkez açılarıyla gösterilmiştir: Yürüyerek 36°, Servis 90°, Otobüs 18°, Özel araç 90°, Bisiklet 126°. Toplam 240 öğrenci bulunduğuna göre Servis diliminde kaç öğrenci vardır?",
+    "options": {
+      "A": "60",
+      "B": "24",
+      "C": "216",
+      "D": "70",
+      "E": "50"
+    },
+    "answer": "A",
+    "solution": "Servis diliminin payı 90/360; 240 × 90/360 = 60.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: daire grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-055",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir otoparka hafta içi günlerde giren araç sayısı aşağıdaki tabloda verilmiştir.\n\nGün | Pazartesi | Salı | Çarşamba | Perşembe | Cuma\nSayı | 190 | 100 | 105 | 175 | 160\n\nBuna göre, Pazartesi ve Perşembe günlerindeki otoparka giren araç sayısı toplamı, haftanın toplamının yüzde kaçıdır?",
+    "options": {
+      "A": "45",
+      "B": "50",
+      "C": "26",
+      "D": "49",
+      "E": "55"
+    },
+    "answer": "B",
+    "solution": "İki günün toplamı 365, haftanın toplamı 730; pay 365/730 × 100 = %50.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tek serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-056",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okulda üç sınıfın matematik sınavı sonuçları şöyledir: 1. sınıf 25 öğrenci ve 53 ortalama; 2. sınıf 30 öğrenci ve 69 ortalama; 3. sınıf 20 öğrenci ve 74 ortalama.\n\nBuna göre, üç sınıf birlikte düşünüldüğünde genel sınav ortalaması kaçtır?",
+    "options": {
+      "A": "53",
+      "B": "66",
+      "C": "63",
+      "D": "65",
+      "E": "67"
+    },
+    "answer": "D",
+    "solution": "Genel ortalama = (25·53 + 30·69 + 20·74) ÷ 75 = 4875 ÷ 75 = 65.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: ağırlıklı ortalama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-057",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir hâlde dört aylık dönemde satılan meyve miktarları (kg) aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Ocak | Şubat | Mart | Nisan\nKiraz | 120 | 90 | 60 | 20\nElma | 20 | 55 | 35 | 90\nNar | 60 | 40 | 20 | 75\n\nBuna göre, aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Nar satışı Nisan ayında Ocak ayına göre yüzde 20 artmıştır.",
+      "B": "Nisan ayında üç meyvenin toplam satışı 185 kilogramdır.",
+      "C": "Ocak ayında elma satışı, nar satışının 4 katıdır.",
+      "D": "Nisan ayında kiraz satışı, elma satışının 2 katıdır.",
+      "E": "Mart ayında nar satışı, kiraz satışının 2 katıdır."
+    },
+    "answer": "B",
+    "solution": "“Nisan ayında üç meyvenin toplam satışı 185 kilogramdır.” yargısı için: Nisan ayı toplamı 185. Öteki yargılar tablodaki değerlerle çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-058",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir üniversite kafeteryasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Mart | Nisan | Mayıs | Haziran\nÇay | 50 | 105 | 85 | 65\nTost | 60 | 45 | 50 | 30\nSu | 35 | 100 | 20 | 45\n\nBuna göre, çay satışının 4 aylık toplamı kaç adettir?",
+    "options": {
+      "A": "315",
+      "B": "307",
+      "C": "308",
+      "D": "306",
+      "E": "305"
+    },
+    "answer": "E",
+    "solution": "50 + 105 + 85 + 65 = 305.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çok serili tablo"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-059",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir üniversite kafeteryasında dört aylık dönemde satılan ürün adetleri aşağıdaki tabloda gösterilmiştir.\n\nÜrün | Nisan | Mayıs | Haziran | Temmuz\nLimonata | 60 | 60 | 25 | 55\nSoda | 65 | 20 | 50 | 120\nÇay | 90 | 105 | 120 | 60\n\nBuna göre, aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Haziran ayında limonata satışı, soda satışının 3 katıdır.",
+      "B": "Haziran ayında limonata satışı, soda satışının 2 katıdır.",
+      "C": "Soda satışında Mayıs ile Temmuz ayları arasındaki fark 100 adettir.",
+      "D": "Çay satışında Mayıs ile Haziran ayları arasındaki fark 5 adettir.",
+      "E": "Mayıs ayında üç ürünün toplam satışı 195 adettir."
+    },
+    "answer": "C",
+    "solution": "“Soda satışında Mayıs ile Temmuz ayları arasındaki fark 100 adettir.” yargısı için: soda: 20 ve 120; fark 100. Öteki yargılar tablodaki değerlerle çelişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: tablo yorumu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-060",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir hastanenin 2018-2023 yıllarında yaptığı ameliyat sayısı (yüz adet) aşağıda verilmiştir.\n\nYıl | 2018 | 2019 | 2020 | 2021 | 2022 | 2023\nDeğer | 160 | 160 | 120 | 290 | 190 | 400\n\nBuna göre, ameliyat sayısı bir önceki yıla göre yüzde olarak en çok hangi ardışık iki yıl arasında artmıştır?",
+    "options": {
+      "A": "2021-2022",
+      "B": "2019-2020",
+      "C": "2018-2019",
+      "D": "2020-2021",
+      "E": "2022-2023"
+    },
+    "answer": "D",
+    "solution": "Yıllık yüzde artışlar: 2018-2019: %0,0, 2019-2020: %-25,0, 2020-2021: %141,7, 2021-2022: %-34,5, 2022-2023: %110,5. En büyüğü 2020-2021.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizgi grafiği"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-grf-061",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kitabevinin aylık satışları aşağıdaki grafikte gösterilmiştir. Grafiğe göre Ocak ile Mayıs değerleri arasındaki fark kaçtır? (adet)",
+    "options": {
+      "A": "40",
+      "B": "30",
+      "C": "160",
+      "D": "65",
+      "E": "35"
+    },
+    "answer": "B",
+    "solution": "Ocak: 95, Mayıs: 65. Fark = 95 − 65 = 30.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-001"
+  },
+  {
+    "id": "ags-say-grf-062",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir şirketin yıllık ihracatı aşağıdaki grafikte gösterilmiştir. Grafiğe göre 2020, 2021 ve 2022 değerlerinin toplamı kaçtır? (milyon ₺)",
+    "options": {
+      "A": "395",
+      "B": "435",
+      "C": "455",
+      "D": "415",
+      "E": "445"
+    },
+    "answer": "C",
+    "solution": "Okunan değerler: 2020 155, 2021 120, 2022 180. Toplam = 455.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-002"
+  },
+  {
+    "id": "ags-say-grf-063",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okulun aylık deneme sınavı katılımı aşağıdaki grafikte gösterilmiştir. Grafikteki 5 değerin aritmetik ortalaması kaçtır? (öğrenci)",
+    "options": {
+      "A": "120",
+      "B": "110",
+      "C": "145",
+      "D": "160",
+      "E": "130"
+    },
+    "answer": "E",
+    "solution": "Toplam = 650; ortalama = 650 ÷ 5 = 130.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-003"
+  },
+  {
+    "id": "ags-say-grf-064",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Okul türlerine göre öğrenci sayısı aşağıdaki grafikte gösterilmiştir. Grafikte en büyük değer, en küçük değerin kaç katıdır?",
+    "options": {
+      "A": "6",
+      "B": "3",
+      "C": "2",
+      "D": "1",
+      "E": "4"
+    },
+    "answer": "B",
+    "solution": "En büyük = 60 (D), en küçük = 20 (B). 60 ÷ 20 = 3.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-004"
+  },
+  {
+    "id": "ags-say-grf-065",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir üniversiteye yıllık başvuru aşağıdaki grafikte gösterilmiştir. Grafiğe göre 2022 değeri, grafikteki değerlerin toplamının yüzde kaçıdır?",
+    "options": {
+      "A": "57",
+      "B": "42",
+      "C": "32",
+      "D": "47",
+      "E": "72"
+    },
+    "answer": "B",
+    "solution": "Toplam = 250. 2022 = 105 → 105 ÷ 250 × 100 = %42.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-005"
+  },
+  {
+    "id": "ags-say-grf-066",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okulun aylık deneme sınavı katılımı aşağıdaki grafikte gösterilmiştir. Grafiğe göre, art arda iki kategori arasında artışın en fazla olduğu aralık hangisidir?",
+    "options": {
+      "A": "Mart – Nisan",
+      "B": "Şubat – Mart",
+      "C": "Nisan – Mayıs",
+      "D": "Mayıs – Haziran",
+      "E": "Ocak – Şubat"
+    },
+    "answer": "A",
+    "solution": "Ardışık farklar: Ocak→Şubat -95, Şubat→Mart +25, Mart→Nisan +45, Nisan→Mayıs -10, Mayıs→Haziran -30. En büyük artış Mart – Nisan arasında (45).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-006"
+  },
+  {
+    "id": "ags-say-grf-067",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir ilin yıllık yağış miktarı aşağıdaki grafikte gösterilmiştir. Grafiğe göre 2024 ile 2021 değerleri arasındaki fark kaçtır? (mm)",
+    "options": {
+      "A": "30",
+      "B": "60",
+      "C": "35",
+      "D": "80",
+      "E": "50"
+    },
+    "answer": "B",
+    "solution": "2024: 140, 2021: 80. Fark = 140 − 80 = 60.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-007"
+  },
+  {
+    "id": "ags-say-grf-068",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "İllere göre kurulan atölye sayısı aşağıdaki grafikte gösterilmiştir. Grafikteki 5 değerin aritmetik ortalaması kaçtır? (adet)",
+    "options": {
+      "A": "69",
+      "B": "79",
+      "C": "77",
+      "D": "74",
+      "E": "104"
+    },
+    "answer": "D",
+    "solution": "Toplam = 370; ortalama = 370 ÷ 5 = 74.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-008"
+  },
+  {
+    "id": "ags-say-grf-069",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "İllere göre kurulan atölye sayısı aşağıdaki grafikte gösterilmiştir. Grafiğe göre Ankara değerinin 2025'teki miktarı 2024'e göre yüzde kaç artmıştır?",
+    "options": {
+      "A": "25",
+      "B": "20",
+      "C": "15",
+      "D": "40",
+      "E": "10"
+    },
+    "answer": "A",
+    "solution": "Ankara: 2024 = 40, 2025 = 50. Artış = 10; 10 ÷ 40 × 100 = %25.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-009"
+  },
+  {
+    "id": "ags-say-grf-070",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "İllere göre kurulan atölye sayısı aşağıdaki grafikte gösterilmiştir. Grafiğe göre 2024 ile 2025 değerleri arasındaki mutlak fark en büyük olan kategori hangisidir?",
+    "options": {
+      "A": "Konya",
+      "B": "Ankara",
+      "C": "Bursa",
+      "D": "Van",
+      "E": "Samsun"
+    },
+    "answer": "E",
+    "solution": "Farklar: Ankara 10, Bursa 10, Konya 30, Samsun 35, Van 5. En büyüğü Samsun.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-010"
+  },
+  {
+    "id": "ags-say-grf-071",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Okul türlerine göre öğrenci sayısı aşağıdaki grafikte gösterilmiştir. Grafiğe göre D ve C kategorilerinin 2025 değerleri toplamı kaçtır? (bin)",
+    "options": {
+      "A": "130",
+      "B": "145",
+      "C": "115",
+      "D": "135",
+      "E": "160"
+    },
+    "answer": "C",
+    "solution": "2025: D = 30, C = 85 → toplam 115.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-011"
+  },
+  {
+    "id": "ags-say-grf-072",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Okul türlerine göre öğrenci sayısı aşağıdaki grafikte gösterilmiştir. Grafiğe göre A kategorisinin 2024 ve 2025 değerlerinin toplamı kaçtır? (bin)",
+    "options": {
+      "A": "90",
+      "B": "60",
+      "C": "70",
+      "D": "80",
+      "E": "110"
+    },
+    "answer": "A",
+    "solution": "A: 2024 = 65, 2025 = 25 → toplam 90.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-012"
+  },
+  {
+    "id": "ags-say-grf-073",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir üniversiteye yıllık başvuru aşağıdaki grafikte gösterilmiştir. Çizgi grafiğine göre art arda iki kategori arasında en büyük artışın yaşandığı aralık hangisidir?",
+    "options": {
+      "A": "2024 – 2025",
+      "B": "2020 – 2021",
+      "C": "2022 – 2023",
+      "D": "2021 – 2022",
+      "E": "2023 – 2024"
+    },
+    "answer": "A",
+    "solution": "Ardışık farklar: 2020→2021 +35, 2021→2022 +5, 2022→2023 -25, 2023→2024 -30, 2024→2025 +90. En büyük artış 2024 – 2025 arasındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-013"
+  },
+  {
+    "id": "ags-say-grf-074",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir okulun aylık deneme sınavı katılımı aşağıdaki grafikte gösterilmiştir. Çizgi grafiğine göre Ocak ile Mayıs arasında değer yüzde kaç artmıştır?",
+    "options": {
+      "A": "130",
+      "B": "35",
+      "C": "150",
+      "D": "140",
+      "E": "110"
+    },
+    "answer": "D",
+    "solution": "Ocak = 25, Mayıs = 60. Artış 35; 35 ÷ 25 × 100 = %140.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-014"
+  },
+  {
+    "id": "ags-say-grf-075",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir ilin yıllık yağış miktarı aşağıdaki grafikte gösterilmiştir. Çizgi grafiğinde art arda iki kategori arasındaki en büyük düşüş miktarı kaçtır? (mm)",
+    "options": {
+      "A": "135",
+      "B": "165",
+      "C": "155",
+      "D": "145",
+      "E": "140"
+    },
+    "answer": "A",
+    "solution": "Düşüşler: 2020→2021 -65, 2021→2022 35, 2022→2023 -55, 2023→2024 135. En büyük düşüş 135 (2023 → 2024).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-015"
+  },
+  {
+    "id": "ags-say-grf-076",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Toplam 800 kişinin dağılımı daire grafiğinde verilmiştir. Matematik diliminde kaç kişi vardır?",
+    "options": {
+      "A": "100",
+      "B": "110",
+      "C": "720",
+      "D": "80",
+      "E": "120"
+    },
+    "answer": "D",
+    "solution": "Matematik = %10 → 800 × 10 ÷ 100 = 80.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-016"
+  },
+  {
+    "id": "ags-say-grf-077",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Daire grafiğinde İlkokul dilimini gösteren merkez açı kaç derecedir?",
+    "options": {
+      "A": "106°",
+      "B": "126°",
+      "C": "105°",
+      "D": "116°",
+      "E": "96°"
+    },
+    "answer": "B",
+    "solution": "İlkokul = %35 → 360° × 35 ÷ 100 = 126°.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-017"
+  },
+  {
+    "id": "ags-say-grf-078",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Toplam 1000 kişinin dağılımı daire grafiğinde verilmiştir. Ortaokul ve Lise dilimlerindeki kişi sayısı toplam kaçtır?",
+    "options": {
+      "A": "450",
+      "B": "250",
+      "C": "400",
+      "D": "390",
+      "E": "100"
+    },
+    "answer": "A",
+    "solution": "%35 + %10 = %45 → 1000 × 45 ÷ 100 = 450.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-018"
+  },
+  {
+    "id": "ags-say-grf-079",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Daire grafiğinde Çevrimiçi dilimi dışındaki dilimlerin yüzdeleri verilmiştir. Çevrimiçi diliminin yüzdesi kaçtır?",
+    "options": {
+      "A": "%5",
+      "B": "%30",
+      "C": "%10",
+      "D": "%15",
+      "E": "%85"
+    },
+    "answer": "D",
+    "solution": "Diğer dilimler toplamı %85 → Çevrimiçi = 100 − 85 = %15.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-019"
+  },
+  {
+    "id": "ags-say-grf-080",
+    "ders": "sayisal_yetenek",
+    "konu": "grafik_tablo_yorumlama",
+    "stem": "Bir kütüphanenin aylık ödünç verdiği kitap sayısı aşağıdaki grafikte gösterilmiştir. Çizgi grafiğine göre art arda iki kategori arasında en büyük artışın yaşandığı aralık hangisidir?",
+    "options": {
+      "A": "Mayıs – Haziran",
+      "B": "Şubat – Mart",
+      "C": "Ocak – Şubat",
+      "D": "Nisan – Mayıs",
+      "E": "Mart – Nisan"
+    },
+    "answer": "A",
+    "solution": "Ardışık farklar: Ocak→Şubat -5, Şubat→Mart -5, Mart→Nisan +25, Nisan→Mayıs -35, Mayıs→Haziran +135. En büyük artış Mayıs – Haziran arasındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Grafik ve tablo yorumlama: çizilmiş grafik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-grf-fig-020"
+  }
+]

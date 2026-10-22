@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "ags-egt-tek-001",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Okulun bilişim öğretmeni Hülya Hanım, öğretme-öğrenme sürecini yalnızca cihazlardan ibaret görmemektedir. Öğrenme sorunlarını çözmek için gerekli kuram, kaynak ve süreçleri bir araya getirmekte; bunları sistemli biçimde tasarlayıp uygulamakta ve sonuçlarını değerlendirmektedir. Bu görüşünü okulun zümre toplantısında meslektaşlarıyla da paylaşmıştır.\n\nHülya Hanım'ın benimsediği bu yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Öğretim yöntemi",
+      "B": "Eğitim yönetimi",
+      "C": "Bilişim teknolojisi",
+      "D": "Eğitim araç-gereci",
+      "E": "Eğitim teknolojisi"
+    },
+    "answer": "E",
+    "solution": "Eğitim teknolojisi, öğrenme süreçlerini kuram, kaynak ve süreçleri sistemli kullanarak tasarlama, uygulama ve değerlendirme çalışmasıdır; yalnız cihazları değil, süreci de kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel kavramlar: eğitim teknolojisi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-002",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Sosyal bilgiler öğretmeni Kemal Bey, dersini projeksiyon cihazı aracılığıyla yansıttığı hazır slaytlarla işlemektedir. Öğrenciler slaytlardaki haritaları ve görselleri inceleyerek konuyu izlemektedir. Kemal Bey, öğretim teknolojileri dersinde öğrendiği araç ve gereç ayrımını bu örnek üzerinde göstermek istemektedir.\n\nBu örnekte projeksiyon cihazı ile slaytlar sırasıyla aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Araç - yöntem",
+      "B": "Gereç - araç",
+      "C": "Araç - gereç",
+      "D": "Gereç - yöntem",
+      "E": "Yöntem - araç"
+    },
+    "answer": "C",
+    "solution": "Donanım niteliğindeki cihazlar araç, bu araçlarla kullanılan slayt, film, saydam gibi yazılım ve içerik ürünleri ise gereçtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel kavramlar: araç ve gereç ayrımı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-003",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Sınıf öğretmeni Nilay Hanım, okula yeni gelen tabletleri her derste kullanmak istemektedir. Ancak ders hedeflerini ve etkinlikleri belirlemeden önce tabletlerle ne yapacağına karar vermeye çalışmaktadır. Müdür yardımcısı, teknolojinin öğrenmeyi desteklemesi için izlenecek sırayı kendisine hatırlatmıştır. Okulun teknoloji planı henüz hazırlanmadığı için kararını nasıl vereceğini bilememektedir.\n\nBu hatırlatma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Önce öğrencilerin tablet kullanma becerisi ölçülmeli, sonra ders işlenmelidir",
+      "B": "Önce öğrenme hedefleri belirlenmeli, sonra hedeflere uygun teknoloji seçilmelidir",
+      "C": "Önce ders kitabı içeriği tabletlere yüklenmeli, sonra hedefler belirlenmelidir",
+      "D": "Önce teknoloji seçilmeli, sonra bu teknolojiye uygun hedefler yazılmalıdır",
+      "E": "Önce velilerin tablet satın alması sağlanmalı, sonra etkinlikler planlanmalıdır"
+    },
+    "answer": "B",
+    "solution": "Teknoloji amaç değil araçtır: önce kazanım ve hedefler belirlenir, ardından bu hedeflere ulaşmayı en iyi destekleyen araç ve gereçler seçilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel kavramlar: teknoloji amaç değil araçtır"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-004",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Fen bilimleri öğretmeni Cemal Bey bir deneyi anlatırken sınıfın hemen yanındaki bahçede yapılan inşaat çalışmalarının sesi yükselmiş, öğrencilerin bir kısmı anlatılanları duyamamış, bir kısmı da mesajın bölümlerini yanlış anlamıştır. Böylece Cemal Bey'in aktarmak istediği mesaj alıcıya eksik ulaşmıştır.\n\nİletişim sürecinde mesajın bozulmasına yol açan bu etken aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Alıcı",
+      "B": "Kaynak",
+      "C": "Kodlama",
+      "D": "Gürültü",
+      "E": "Kanal"
+    },
+    "answer": "D",
+    "solution": "İletişim modellerinde mesajın kaynaktan alıcıya ulaşırken bozulmasına veya eksik iletilmesine yol açan her türlü fiziksel ya da psikolojik engel gürültüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel kavramlar: iletişim süreci ve gürültü"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-005",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğrencilerin hazırladığı etkileşimli sunuda metin, fotoğraf, ses ve video öğeleri bağlantılarla birbirine bağlanmıştır. İzleyici istediği bağlantıya tıklayarak sıra izlemeden dilediği bölüme geçebilmekte ve içeriği kendi ilgisine göre keşfedebilmektedir. Böylece sunum doğrusal bir akış izlememektedir.\n\nBu özelliğe sahip ortam aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tepegöz yansıtması",
+      "B": "Hipermedya ortamı",
+      "C": "Radyo yayını ortamı",
+      "D": "Sanal gerçeklik ortamı",
+      "E": "Doğrusal slayt sunumu"
+    },
+    "answer": "B",
+    "solution": "Hipermedya, metin, ses, görüntü ve video gibi öğelerin bağlantılarla birbirine bağlandığı, kullanıcının doğrusal olmayan biçimde gezinebildiği ortamdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel kavramlar: hipermedya"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-006",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Tarih öğretmeni Yasemin Hanım, ünitesinde kullanacağı video, harita ve belgesel gibi çok sayıda materyal arasından seçim yapacaktır. Öğrencilerinin düzeyine, sınıfın teknik donanımına, hazırlama maliyetine ve materyalin erişilebilirliğine bakmaktadır.\n\nYasemin Hanım'ın materyal seçerken öncelikle dikkate alması gereken en temel ölçüt aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Materyalin görsel olarak çekici olması",
+      "B": "Materyalin diğer öğretmenlerce tercih edilmesi",
+      "C": "Materyalin ticari olarak yaygın kullanılması",
+      "D": "Materyalin ders kazanımlarına uygun olması",
+      "E": "Materyalin hazırlanma maliyetinin düşük olması"
+    },
+    "answer": "D",
+    "solution": "Materyal seçiminde temel ölçüt, materyalin hedef ve kazanımlara uygunluğudur; maliyet, çekicilik ve yaygınlık bunun ardından değerlendirilen ikincil ölçütlerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel kavramlar: materyal seçim ölçütleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-007",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Fen bilgisi öğretmeni Aylin Hanım, üretim süreçlerini anlatmak yerine öğrencileri bir süt işletmesine götürmüştür. Öğrenciler sütün işlenip paketlenmesini yerinde gözlemlemiş, çalışanlara sorular sormuş ve not almıştır. Etkinlik sonrasında kazanımlar sınıfta tartışılmıştır.\n\nBu etkinlik Dale'nin deneyim konisinde aşağıdakilerden hangisine karşılık gelir?",
+    "options": {
+      "A": "Sinema",
+      "B": "Sergi",
+      "C": "Gösteri",
+      "D": "Gezi",
+      "E": "Televizyon"
+    },
+    "answer": "D",
+    "solution": "Dale'nin deneyim konisinde öğrencilerin gerçek ortamı yerinde gözlemlediği etkinlikler gezi basamağında yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dale deneyim konisi: gezi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-008",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Sosyal bilgiler dersinde öğrenciler Erzurum Kongresi'ni sınıfta canlandırmıştır. Kimi öğrenci delege rolünü, kimi kongre başkanlığını üstlenmiş; konuşmalarını kendileri hazırlayıp sınıfa sunmuştur. Öğretmen, öğrencilerin olayı yaşıyormuş gibi deneyimlediğini belirtmiştir. Etkinlik iki ders saati sürmüş ve sınıf düzenli biçimde yürütülmüştür.\n\nBu çalışma Dale'nin deneyim konisinde aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Sergiler ve gösteriler",
+      "B": "Dramatize edilmiş deneyimler",
+      "C": "Görsel semboller",
+      "D": "Tasarlanmış deneyimler",
+      "E": "Doğrudan amaçlı deneyimler"
+    },
+    "answer": "B",
+    "solution": "Dale'nin konisinde rol oynama, canlandırma ve dramatizasyon gibi etkinlikler dramatize edilmiş deneyimler basamağında yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dale deneyim konisi: dramatize edilmiş deneyimler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-009",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Coğrafya öğretmeni Bülent Bey, Karadeniz kıyıları konusunda dört farklı öğrenme etkinliği planlamıştır:\n\nI. Bölgeyle ilgili bir belgesel izlemek\n\nII. Bölgeye bir alan gezisi düzenlemek\n\nIII. Bölgenin haritasını incelemek\n\nIV. Bölgedeki bir olayı sınıfta canlandırmak\n\nBülent Bey bu etkinlikleri Dale'nin deneyim konisine göre somuttan soyuta doğru sıralamak istemektedir.\n\nBu sıralama aşağıdakilerden hangisi olmalıdır?",
+    "options": {
+      "A": "I - IV - II - III",
+      "B": "IV - II - III - I",
+      "C": "II - I - IV - III",
+      "D": "IV - II - I - III",
+      "E": "III - I - II - IV"
+    },
+    "answer": "D",
+    "solution": "Dale'nin konisinde somuttan soyuta sıra: dramatize edilmiş deneyimler (IV), gezi (II), televizyon ve film (I), görsel semboller (III) biçimindedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dale deneyim konisi: somuttan soyuta sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-010",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Edebiyat öğretmeni Ferhat Bey, bir şiirin özelliklerini dersinde yalnızca anlatım yoluyla aktarmakta; öğrencilerden de ders kitabındaki metni sessizce okumalarını istemektedir. Derste görsel, işitsel ya da somut hiçbir araç kullanılmamaktadır. Ferhat Bey'in dersi Dale'nin deneyim konisiyle değerlendirilmiştir.\n\nBu ders koninin hangi basamağında yer almaktadır?",
+    "options": {
+      "A": "Sözel semboller",
+      "B": "Radyo ve ses kaydı",
+      "C": "Sergi",
+      "D": "Sinema",
+      "E": "Görsel semboller"
+    },
+    "answer": "A",
+    "solution": "Dale'nin konisinde konuşma ve yazılı metin gibi tamamen sözcüklere dayalı öğrenmeler en soyut basamak olan sözel sembollerde yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dale deneyim konisi: sözel semboller"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-011",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir üniversite öğretmenlere yönelik çevrim içi bir hizmet içi kurs hazırlayacaktır. Ekip, geliştirmeye başlamadan önce katılacak öğretmenlerin ön bilgilerini, eğitim ihtiyaçlarını, teknolojiye erişimlerini ve kurs için mevcut kaynakları belirlemek üzere anket ve görüşmeler yapmaktadır.\n\nEkip ADDIE modelinin hangi aşamasında çalışmaktadır?",
+    "options": {
+      "A": "Analiz aşaması",
+      "B": "Tasarım aşaması",
+      "C": "Geliştirme aşaması",
+      "D": "Uygulama aşaması",
+      "E": "Değerlendirme aşaması"
+    },
+    "answer": "A",
+    "solution": "ADDIE modelinin ilk aşaması olan analizde hedef kitle, ihtiyaçlar, mevcut koşullar ve kaynaklar belirlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ADDIE analiz"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-012",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Aynı kurs ekibi hedefleri yazmış, konu akışını ve ölçme planını belirlemiştir. Şimdi video dersleri çekmekte, etkileşimli sunumları ve çalışma yapraklarını hazırlamakta, hazırlanan materyalleri küçük bir öğretmen grubuna göstererek eksiklerini gidermektedir. Ekibin çalışmaları kurs takvimine uygun biçimde ilerlemektedir.\n\nEkip ADDIE modelinin hangi aşamasında çalışmaktadır?",
+    "options": {
+      "A": "Tasarım aşaması",
+      "B": "Geliştirme aşaması",
+      "C": "Değerlendirme aşaması",
+      "D": "Analiz aşaması",
+      "E": "Uygulama aşaması"
+    },
+    "answer": "B",
+    "solution": "ADDIE'de geliştirme aşamasında tasarım aşamasında planlanan materyaller üretilir, deneme gruplarıyla sınanır ve gözden geçirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ADDIE geliştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-013",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Kurs bittikten sonra ekip, katılımcıların kurs sonu başarı puanlarını, memnuniyet anketlerini ve kazanımlara ulaşma düzeylerini incelemiştir. Kursun etkililiğini belirleyen ekip, bulgulara göre sonraki dönem için kurs içeriğinde ve etkinliklerinde düzenlemeler planlamaktadır. Çalışma, kursun tamamlanmasının hemen ardından yürütülmüştür.\n\nEkibin bu çalışması ADDIE modelinin hangi aşamasına örnektir?",
+    "options": {
+      "A": "Analiz aşaması",
+      "B": "Uygulama aşaması",
+      "C": "Tasarım aşaması",
+      "D": "Geliştirme aşaması",
+      "E": "Değerlendirme aşaması"
+    },
+    "answer": "E",
+    "solution": "Değerlendirme aşamasında öğretimin etkililiği ölçülür; elde edilen bulgular tasarımın gözden geçirilmesinde kullanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ADDIE değerlendirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-014",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Merve Hanım, 6. sınıf fen dersi için ders planı yapmadan önce öğrencilerinin sınıf düzeyi, ön bilgileri, ilgileri ve öğrenme tercihleri hakkında bilgi toplamaktadır. Anket uygulamakta ve önceki sınav sonuçlarını incelemektedir. Bu çalışmalar ASSURE modelinin ilk adımını oluşturmaktadır.\n\nAşağıdakilerden hangisi bu adımdır?",
+    "options": {
+      "A": "Yöntem ve materyal seçme",
+      "B": "Öğrenen özelliklerini çözümleme",
+      "C": "Hedefleri belirleme",
+      "D": "Materyalleri kullanma",
+      "E": "Öğrenen katılımını sağlama"
+    },
+    "answer": "B",
+    "solution": "ASSURE modeli öğrenenlerin özelliklerini çözümlemeyle başlar; ardından hedefler belirlenir, yöntem ve materyal seçilir, materyal kullanılır, öğrenen katılımı sağlanır ve değerlendirme yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ASSURE öğrenen özellikleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-015",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Kaan Bey, derste kullanacağı videoyu önceden izlemiş, bağlantı ve ses sistemini sınıfta denemiş ve öğrencilere videoda dikkat edecekleri noktaları açıklayacak kısa bir hazırlık konuşması planlamıştır. Ardından dersini bu düzenlemeyle işlemiştir. Sınıf mevcudu yirmi sekiz öğrenci olup ders saati kırk dakikadır.\n\nBu çalışmalar ASSURE modelinin hangi adımına örnektir?",
+    "options": {
+      "A": "Hedefleri belirtme",
+      "B": "Öğrenen katılımını isteme",
+      "C": "Teknolojiyi ve materyali kullanma",
+      "D": "Değerlendirme ve gözden geçirme",
+      "E": "Öğrenenleri analiz etme"
+    },
+    "answer": "C",
+    "solution": "ASSURE'un kullanma adımında öğretmen materyali önceden inceler, ortamı ve araçları hazırlar, öğrencileri hazırlar ve materyali sunar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ASSURE kullanma"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-016",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Matematik öğretmeni Selim Bey dersin başında sınıfa içinde farklı renklerde toplar bulunan bir kutu getirmiş ve gözleri kapalı bir top çekerek “Sizce çektiğim topun kırmızı olma olasılığı nedir?” diye sormuştur. Öğrenciler merakla dersi izlemeye başlamıştır.\n\nSelim Bey Gagné'nin öğretim olaylarından hangisini gerçekleştirmiştir?",
+    "options": {
+      "A": "Ön öğrenmeleri hatırlatma",
+      "B": "Performansı değerlendirme",
+      "C": "Geri bildirim verme",
+      "D": "Dikkati çekme",
+      "E": "Hedefi bildirme"
+    },
+    "answer": "D",
+    "solution": "Gagné'nin ilk öğretim olayı olan dikkati çekme, öğrencilerin ilgisini derse yöneltmeyi amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: Gagné dikkati çekme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-017",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Ünite sonunda öğretmen Pınar Hanım, öğrencilerden üçgenin alanını bulma kuralını okulun bahçesine yeni bir çiçek tarhı tasarlamak gibi daha önce görmedikleri bir durumda uygulamalarını istemiştir. Ayrıca konuyu özetleyen bir kavram haritası hazırlatmıştır. Etkinlik iki ders saati sürmüş ve öğrenciler gruplar hâlinde çalışmıştır.\n\nBu çalışma Gagné'nin hangi öğretim olayına örnektir?",
+    "options": {
+      "A": "Geri bildirim sağlama",
+      "B": "Ön öğrenmeleri hatırlatma",
+      "C": "Öğrenme rehberliği sağlama",
+      "D": "Performansı ortaya çıkarma",
+      "E": "Kalıcılığı ve aktarımı artırma"
+    },
+    "answer": "E",
+    "solution": "Gagné'nin dokuzuncu olayı olan kalıcılığı ve aktarımı artırma, öğrenilenlerin özetlenmesini ve yeni durumlara uygulanmasını kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: Gagné kalıcılık ve aktarım"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-018",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Sosyal bilgiler öğretmeni Aslı Hanım, öğrencilerin kendi yaşamlarından örnekler seçmekte ve işlediği konunun onlara gelecekte nasıl yarar sağlayacağını anlatmaktadır. Öğrenciler konuyu kendileri için anlamlı bulduklarını söylemektedir. Bu yaklaşım dersin başından sonuna kadar sürdürülmüştür.\n\nAslı Hanım Keller'in ARCS modelinde hangi bileşeni güçlendirmektedir?",
+    "options": {
+      "A": "Pekiştirme",
+      "B": "Memnuniyet",
+      "C": "İlgililik",
+      "D": "Güven",
+      "E": "Dikkat"
+    },
+    "answer": "C",
+    "solution": "ARCS modelinde ilgililik, öğrencinin öğrenilecek konuyu kendi gereksinimleri ve yaşamıyla ilişkili bulmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ARCS ilgililik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-019",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Dilek Hanım, görevleri kolaydan zora doğru sıralamakta, beklentilerini ve ölçütleri başlangıçta öğrencilerle açıkça paylaşmaktadır. Böylece öğrenciler ne yaparlarsa başarılı olacaklarını bilmekte ve başarabileceklerine dair inanç geliştirmektedir. Bu uygulama yarıyıl boyunca düzenli olarak sürdürülmüştür.\n\nDilek Hanım ARCS modelinde hangi bileşeni güçlendirmektedir?",
+    "options": {
+      "A": "İlgililik",
+      "B": "Hatırlama",
+      "C": "Dikkat",
+      "D": "Memnuniyet",
+      "E": "Güven"
+    },
+    "answer": "E",
+    "solution": "ARCS modelinde güven, öğrencinin başarabileceğine inanmasıdır; açık beklentiler ve kolaydan zora sıralı görevler güveni artırır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ARCS güven"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-020",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Tuğba Hanım, konuyu çok küçük adımlara bölmüş ve her adımın ardından öğrencilerden bir soruyu yanıtlamasını istemektedir. Öğrenci doğru yanıtı hemen görmekte, kendi hızında ilerlemekte ve bir sonraki adıma yalnız yanıtını kontrol ettikten sonra geçmektedir.\n\nBu öğretim materyali hangi yaklaşıma göre hazırlanmıştır?",
+    "options": {
+      "A": "Programlı öğretim",
+      "B": "Buluş yoluyla öğretim",
+      "C": "Probleme dayalı öğretim",
+      "D": "Tam öğrenme",
+      "E": "İşbirlikli öğretim"
+    },
+    "answer": "A",
+    "solution": "Skinner'ın davranışçı ilkelerine dayanan programlı öğretimde konu küçük adımlara bölünür, öğrenci etkin katılır, anında dönüt alır ve kendi hızında ilerler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: programlı öğretim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-021",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Cansu Hanım, Skinner'ın ilkelerine dayalı bir programlı öğretim materyali hazırlamaktadır. Materyalin öğrencilerin bireysel farklılıklarına ve davranışçı ilkelere uygun olmasına özen göstermektedir. Materyal, ünite sonunda öğrencilere bireysel çalışma için verilecektir ve bilgisayarda kullanılacaktır.\n\nCansu Hanım'ın materyalinde aşağıdakilerden hangisinin yer alması beklenmez?",
+    "options": {
+      "A": "Öğrencinin yanıtına anında dönüt verilmesi",
+      "B": "Konunun küçük adımlara bölünmesi",
+      "C": "Öğrencinin kendi hızında ilerleyebilmesi",
+      "D": "Öğrencinin etkin biçimde yanıt vermesi",
+      "E": "Tüm öğrencilerin her adımı aynı sürede tamamlaması"
+    },
+    "answer": "E",
+    "solution": "Programlı öğretimde öğrenci kendi hızında ilerler; tüm öğrencilerin her adımı aynı sürede tamamlaması bireysel hızı yok sayar ve programlı öğretim ilkelerine aykırıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: programlı öğretim ilkeleri (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-022",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir bilgisayar destekli öğretim programında öğrenci sorulara verdiği yanıta göre farklı yollara yönlendirilmektedir. Yanıtı doğruysa yeni bilgiye geçmekte, yanlışsa yanlışının nedenini açıklayan ek bir bölüme ve ardından tekrar edilecek sorulara gitmektedir. Program, öğrencilerin kendi başlarına çalışabilmeleri için okulun bilgisayar laboratuvarında kullanılmaktadır.\n\nBu programın yapısı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Rastgele programlı öğretim",
+      "B": "Dallanmış programlı öğretim",
+      "C": "Doğrusal programlı öğretim",
+      "D": "Açık uçlu programlı öğretim",
+      "E": "Grup tabanlı programlı öğretim"
+    },
+    "answer": "B",
+    "solution": "Crowder'ın dallanmış programında öğrenci yanıtına göre farklı yollara yönlendirilir; Skinner'ın doğrusal programında ise herkes aynı sırayı izler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: dallanmış programlı öğretim"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-023",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Ece Hanım, kalbin yapısını anlatan etkileşimli ders materyalinde yalnızca metin kullanmak yerine metni ilgili çizimle birlikte sunmuştur. Araştırmalar, sözcük ve resimlerin birlikte sunulduğunda öğrencilerin yalnızca sözcüklerle sunulana göre daha iyi öğrendiğini göstermektedir.\n\nEce Hanım'ın uyguladığı bu düzenleme Mayer'in hangi ilkesine dayanmaktadır?",
+    "options": {
+      "A": "Modalite ilkesi",
+      "B": "Bitişiklik ilkesi",
+      "C": "Çoklu ortam ilkesi",
+      "D": "Tutarlılık ilkesi",
+      "E": "Fazlalık ilkesi"
+    },
+    "answer": "C",
+    "solution": "Mayer'in çoklu ortam ilkesine göre sözcükler ve resimler birlikte sunulduğunda öğrenme yalnız sözcüklerle sunulduğundakinden daha etkilidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: Mayer çoklu ortam ilkesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-024",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Ali Bey, bir çizime ait açıklamaları ekranın alt köşesinde toplamak yerine her açıklamayı çizimin ilgili parçasının hemen yanına yerleştirmiştir. Böylece öğrenciler çizimle açıklamayı eşleştirmek için gözlerini sürekli ekranın iki ucu arasında gezdirmek zorunda kalmamaktadır.\n\nAli Bey'in bu düzenlemesi Mayer'in hangi ilkesine dayanmaktadır?",
+    "options": {
+      "A": "Fazlalık ilkesi",
+      "B": "Bitişiklik ilkesi",
+      "C": "Tutarlılık ilkesi",
+      "D": "Çoklu ortam ilkesi",
+      "E": "Bölümleme ilkesi"
+    },
+    "answer": "B",
+    "solution": "Bitişiklik ilkesine göre birbiriyle ilişkili sözcükler ve resimler ekranda birbirine yakın yerleştirildiğinde öğrenme artar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: Mayer bitişiklik ilkesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-025",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Meltem Hanım, animasyonlu bir ders sunusu hazırlarken Mayer'in çoklu ortamla öğrenme ilkelerine uygun davranmak istemektedir. Sunuyu gözden geçiren meslektaşı, yapılan bazı düzenlemelerin bu ilkelere uygun olmadığını belirtmiştir. Meslektaşı sunuyu dikkatle incelemiş ve görüşlerini yazılı olarak iletmiştir.\n\nMeltem Hanım'ın aşağıdaki düzenlemelerinden hangisi bu ilkelere uygun değildir?",
+    "options": {
+      "A": "İlgili resim ve açıklamayı birbirine yakın yerleştirmek",
+      "B": "Animasyona eşlik eden açıklamayı sesli anlatımla sunmak",
+      "C": "Dikkat çekmesi için konuyla ilgisiz eğlenceli animasyonlar ve arka plan müziği eklemek",
+      "D": "Gereksiz ayrıntıları ve süs öğelerini sunudan çıkarmak",
+      "E": "Uzun bir konuyu kullanıcı denetimli küçük bölümlere ayırmak"
+    },
+    "answer": "C",
+    "solution": "Tutarlılık ilkesine göre konuyla ilgisiz süs öğeleri, müzik ve ayrıntılar öğrenmeyi azaltır; bunların çıkarılması önerilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: Mayer tutarlılık ilkesi (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-026",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir mekanizmayı gösteren animasyonu sunan öğretmen, ekranın altına uzun açıklama metinleri koymak yerine açıklamayı ses kaydıyla vermiştir. Böylece öğrencilerin görsel kanalı animasyonu izlemeye ayrılmış, işitsel kanal ise açıklamayı dinlemek için kullanılmıştır. Öğrenciler sunumu sınıfın projeksiyon perdesinden takip etmektedir.\n\nÖğretmenin bu düzenlemesi Mayer'in hangi ilkesine dayanmaktadır?",
+    "options": {
+      "A": "Bölümleme ilkesi",
+      "B": "Tutarlılık ilkesi",
+      "C": "Modalite ilkesi",
+      "D": "Fazlalık ilkesi",
+      "E": "Bitişiklik ilkesi"
+    },
+    "answer": "C",
+    "solution": "Modalite ilkesine göre animasyonla birlikte açıklama yazılı metin yerine sesli anlatımla verildiğinde görsel kanal aşırı yüklenmez ve öğrenme artar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: Mayer modalite ilkesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-027",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Hasan Bey, animasyonlu ders anlatımında anlatımdaki cümlelerin tamamını hem ekrana yazı olarak koymuş hem de aynı cümleleri seslendirmiştir. Öğrenciler okuma ile dinlemeyi eşleştirmeye çalışırken animasyonu izlemekte zorlanmıştır. Ders sonunda yapılan kısa değerlendirmede öğrencilerin başarısı beklenenin altında kalmıştır.\n\nBu durumda Mayer'in hangi ilkesine uyulmamıştır?",
+    "options": {
+      "A": "Tutarlılık ilkesi",
+      "B": "Fazlalık ilkesi",
+      "C": "Bitişiklik ilkesi",
+      "D": "Çoklu ortam ilkesi",
+      "E": "Modalite ilkesi"
+    },
+    "answer": "B",
+    "solution": "Fazlalık ilkesine göre animasyonla birlikte aynı açıklamanın hem sesli hem yazılı verilmesi görsel kanalı yükleyerek öğrenmeyi azaltır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: Mayer fazlalık ilkesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-028",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Ahmet Bey, ders materyalinin aynı sayfasında çok sayıda renk, yazı tipi, süslü çerçeve ve hareketli simge kullanmıştır. Öğrenciler asıl içeriğe odaklanmakta zorlanmış, çalışma belleklerini bu gereksiz öğelerle meşgul etmişlerdir.\n\nBilişsel yük kuramına göre bu durumda öğrencilerin yaşadığı yük aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Dışsal bilişsel yük",
+      "B": "İşe yarar bilişsel yük",
+      "C": "İçsel bilişsel yük",
+      "D": "Uzun süreli bellek yükü",
+      "E": "Duyusal bellek yükü"
+    },
+    "answer": "A",
+    "solution": "Sweller'in bilişsel yük kuramında dışsal yük, materyalin kötü tasarımından kaynaklanan ve öğrenmeye katkısı olmayan yüktür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: bilişsel yük kuramı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-029",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Matematik öğretmeni Nazan Hanım'ın hazırladığı slaytların her sayfasında on beş satırlık paragraflar ve küçük punto yazılar bulunmaktadır. Arka sıradaki öğrenciler slaytları okuyamamakta, ilgisini kaybetmektedir. Okul rehberi, sunumun etkili olması için önerilerde bulunmuştur. Durum zümre öğretmenler kurulunda da görüşülmüştür.\n\nAşağıdakilerden hangisi önerilen en uygun düzenlemedir?",
+    "options": {
+      "A": "Sayfaya süs olarak çok sayıda renk ve çerçeve eklemek",
+      "B": "Daha çok bilgi sığdırmak için yazı boyutunu daha da küçültmek",
+      "C": "Metni slaytlardan çıkarıp öğrencilerin kitaptan okumasını istemek",
+      "D": "Metni anahtar sözcüklerle özetleyip yazı boyutunu okunaklı hâle getirmek",
+      "E": "Slayt sayısını azaltıp tüm içeriği tek sayfada vermek"
+    },
+    "answer": "D",
+    "solution": "Etkili sunularda her slaytta kısa ve anahtar ifadeler yer alır, yazı boyutu ve kontrast okunaklı tutulur, süs öğelerinden kaçınılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: sunu tasarım ilkeleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-030",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Seçil Hanım, sınıfındaki görme ve işitme güçlüğü olan öğrencilerle birlikte sınıfın tümüne yönelik olarak aynı içeriği metin, sesli betimleme ve altyazılı video biçiminde sunmaktadır. Öğrencilerin öğrendiklerini yazı, çizim ya da sözlü sunumla göstermesine de olanak tanımaktadır.\n\nBu yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Evrensel öğrenme tasarımı",
+      "B": "Bireyselleştirilmiş eğitim programı",
+      "C": "Tam öğrenme modeli",
+      "D": "Uzaktan eğitim modeli",
+      "E": "Programlı öğretim"
+    },
+    "answer": "A",
+    "solution": "Evrensel öğrenme tasarımı, çoklu sunum, çoklu ifade ve çoklu katılım olanaklarıyla öğrenme ortamını baştan tüm öğrencilerin erişebileceği biçimde planlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: evrensel öğrenme tasarımı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-031",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Burcu Hanım, bir çoklu ortam sunusu hazırlarken şu düzenlemeleri yapmıştır:\n\nI. Konuyla ilgisiz, dikkat çekici bir arka plan müziği eklemek\n\nII. Resmin açıklamasını resmin hemen yanına yerleştirmek\n\nIII. Animasyona eşlik eden açıklamayı sesli anlatımla vermek\n\nBurcu Hanım'ın bu düzenlemelerinden hangileri Mayer'in çoklu ortam ilkeleriyle uyumludur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I ve III"
+    },
+    "answer": "D",
+    "solution": "Bitişiklik (II) ve modalite (III) ilkeleri öğrenmeyi artırır; konuyla ilgisiz müzik (I) ise tutarlılık ilkesine aykırıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Materyal tasarımı: Mayer ilkeleri uyum"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-032",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir lise, uzaktan eğitim sürecinde derslerini belirlenen saatlerde sanal sınıf uygulamasıyla yürütmektedir. Öğretmen ve öğrenciler aynı anda çevrim içidir. Öğrenciler konuşarak soru sorabilmekte ve öğretmen anlık yanıt verebilmektedir. Uygulama, öğrencilerin tamamına duyurulan ders programına göre yürütülmektedir.\n\nBu uzaktan eğitim türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Eşzamanlı uzaktan eğitim",
+      "B": "Eşzamansız uzaktan eğitim",
+      "C": "Programlı öğretim",
+      "D": "Yüz yüze geleneksel eğitim",
+      "E": "Harmanlanmış öğrenme"
+    },
+    "answer": "A",
+    "solution": "Eşzamanlı uzaktan eğitimde öğretmen ve öğrenciler aynı anda çevrim içi bir araya gelir ve anlık etkileşim kurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme ortamları: eşzamanlı uzaktan eğitim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-033",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir açıköğretim programında öğrenciler kayıtlı ders videolarını, okuma metinlerini ve tartışma forumlarını kendi uygun zamanlarında kullanmaktadır. Öğretmenle aynı anda çevrim içi olmak gerekmemekte, forumdaki sorulara yanıtlar bir gün içinde verilmektedir. Programa katılan öğrencilerin çoğu çalışmakta olup ders çalışma saatleri birbirinden farklıdır.\n\nBu uzaktan eğitim türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yüz yüze geleneksel eğitim",
+      "B": "Programlı öğretim",
+      "C": "Eşzamansız uzaktan eğitim",
+      "D": "Harmanlanmış öğrenme",
+      "E": "Eşzamanlı uzaktan eğitim"
+    },
+    "answer": "C",
+    "solution": "Eşzamansız uzaktan eğitimde öğretmen ve öğrenci aynı anda çevrim içi olmak zorunda değildir; içeriğe ve etkileşime istenen zamanda erişilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme ortamları: eşzamansız uzaktan eğitim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-034",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir ortaokul haftada iki gün dersleri okulda yüz yüze, diğer günlerde ise çevrim içi platform üzerinden işlemektedir. Öğrenciler konuyu çevrim içi çalışıp okulda uygulama ve tartışma etkinlikleri yapmaktadır. İki ortamın birbirini tamamlaması amaçlanmaktadır. Uygulama okul yönetimi tarafından planlanmış ve velilere de duyurulmuştur.\n\nBu uygulama aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Eşzamansız uzaktan eğitim",
+      "B": "Açık ve uzaktan öğrenme",
+      "C": "Harmanlanmış öğrenme",
+      "D": "Eşzamanlı uzaktan eğitim",
+      "E": "Mobil öğrenme"
+    },
+    "answer": "C",
+    "solution": "Harmanlanmış öğrenme, yüz yüze eğitim ile çevrim içi öğrenmenin birbirini tamamlayacak biçimde birlikte kullanıldığı yaklaşımdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme ortamları: harmanlanmış öğrenme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-035",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Sevgi Hanım, öğrencilerinin akıllı telefonlarını ve tabletlerini kullanarak zaman ve mekâna bağlı olmadan, okul çıkışında otobüste ya da evde dil öğrenme uygulamalarıyla çalışmalarını sağlamaktadır. Öğrenciler kısa etkinliklerle günlük kelime tekrarları yapmaktadır. Uygulama ücretsizdir ve öğrencilerin çoğu bu cihazlara sahiptir.\n\nBu yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Programlı öğretim",
+      "B": "Uzaktan eğitim",
+      "C": "Harmanlanmış öğrenme",
+      "D": "Açık öğretim",
+      "E": "Mobil öğrenme"
+    },
+    "answer": "E",
+    "solution": "Mobil öğrenme, taşınabilir cihazlar aracılığıyla zaman ve mekândan bağımsız yürütülen öğrenme etkinlikleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme ortamları: mobil öğrenme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-036",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Fizik öğretmeni Zafer Bey, öğrencilere konuyu anlatan kısa videoları ev ödevi olarak izletmekte; ders saatinde ise soru çözümü, deney ve grup çalışmaları yaptırmaktadır. Böylece ders saati, bilgi aktarımı yerine uygulama ve tartışmaya ayrılmıştır. Videolar bir hafta önceden sınıfın ortak paylaşım alanına yüklenmektedir.\n\nBu yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tam öğrenme modeli",
+      "B": "Eşzamanlı sanal sınıf modeli",
+      "C": "Ters yüz sınıf modeli",
+      "D": "Programlı öğretim modeli",
+      "E": "Buluş yoluyla öğrenme modeli"
+    },
+    "answer": "C",
+    "solution": "Ters yüz sınıf modelinde bilgi aktarımı sınıf dışında videolarla, uygulama ve etkileşim ise sınıf içinde yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme ortamları: ters yüz sınıf"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-037",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir okulda öğretmenler ders içeriklerini, ödevleri ve duyuruları tek bir çevrim içi platformda yayımlamaktadır. Öğrenciler aynı platformdan ödevlerini teslim etmekte, sınavlara girmekte; öğretmenler de öğrencilerin ilerlemesini ve notlarını izlemektedir. Platform, okulun tüm sınıf düzeylerinde ve bütün derslerde aynı biçimde kullanılmaktadır.\n\nBu platform aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sosyal imleme uygulaması",
+      "B": "Öğrenme yönetim sistemi",
+      "C": "Kitlesel açık çevrim içi ders",
+      "D": "Hipermedya uygulaması",
+      "E": "Benzetim yazılımı"
+    },
+    "answer": "B",
+    "solution": "Öğrenme yönetim sistemi, içerik sunumu, ödev, sınav, iletişim ve ilerleme izlemeyi tek çevrim içi platformda birleştiren yazılımdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme ortamları: öğrenme yönetim sistemi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-038",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Dünyanın çeşitli ülkelerinden on binlerce kişi, bir üniversitenin yayımladığı yapay zekâ dersine çevrim içi kaydolmuştur. Katılım herkese açıktır, çoğunlukla ücretsizdir ve katılımcı sayısı sınırlı değildir. Ders videoları, ödevler ve forumlar internet üzerinden sunulmaktadır. Dersi tamamlayan katılımcılar isteğe bağlı bir katılım belgesi alabilmektedir.\n\nBu ders türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Harmanlanmış öğrenme programı",
+      "B": "Mobil öğrenme uygulaması",
+      "C": "Öğrenme yönetim sistemi",
+      "D": "Kitlesel açık çevrim içi ders",
+      "E": "Çevrim içi sanal sınıf"
+    },
+    "answer": "D",
+    "solution": "MOOC, çok sayıda katılımcıya açık, genellikle ücretsiz ve internet üzerinden sunulan kitlesel çevrim içi derslerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme ortamları: MOOC"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-039",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Derya Hanım, öğrencilerin ortak bir sınıf kitabı hazırlamasını istemiştir. Öğrenciler aynı sayfaya girerek bölümler yazmakta, birbirlerinin yazılarını düzenlemekte ve değişikliklerin geçmişini görebilmektedir. Böylece bilgi birlikte oluşturulmaktadır. Çalışma, kısa bir bilgilendirmenin ardından öğrenci gruplarıyla yürütülmüştür.\n\nBu çalışmada kullanılan Web 2.0 aracı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Viki",
+      "B": "Sosyal imleme",
+      "C": "Forum",
+      "D": "Blog",
+      "E": "Podcast"
+    },
+    "answer": "A",
+    "solution": "Viki, birden çok kişinin aynı sayfayı birlikte düzenleyip sürüm geçmişini görebildiği ortak içerik oluşturma aracıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme araçları: viki"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-040",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Edebiyat öğretmeni Gizem Hanım, öğrencilerinin okuma günlüklerini internet üzerinde tutmalarını istemiştir. Yazılar tarih sırasına göre en yeniden eskiye doğru listelenmekte, arkadaşlar yazılara yorum bırakabilmektedir. Her öğrenci kendi sayfasının yazarıdır. Öğretmen, yazıları ders dışında düzenli aralıklarla incelemektedir.\n\nBu çalışmada kullanılan Web 2.0 aracı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bulut depolama",
+      "B": "Sosyal imleme",
+      "C": "Viki",
+      "D": "Çevrim içi sözlük",
+      "E": "Blog"
+    },
+    "answer": "E",
+    "solution": "Blog, bireyin yazılarını tarih sırasıyla yayımladığı ve okuyucuların yorum yapabildiği kişisel bir çevrim içi günlüktür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme araçları: blog"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-041",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Kimya öğretmeni Ufuk Bey, asit ve baz tepkimelerini tehlikeli maddeler bulunmadan öğrencilerin gözlemleyebilmesi için bilgisayarda çalışan sanal bir laboratuvar kullanmaktadır. Öğrenciler maddelerin miktarını değiştirip sonucu hemen görmekte ve deneyi istedikleri kadar tekrarlayabilmektedir.\n\nBu etkinlikte kullanılan bilgisayar destekli öğretim türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Eğitsel oyun",
+      "B": "Özel öğretici",
+      "C": "Alıştırma-uygulama",
+      "D": "Benzetim",
+      "E": "Problem çözme"
+    },
+    "answer": "D",
+    "solution": "Benzetim, gerçek bir olay ya da süreci tehlikesiz, ucuz ve tekrarlanabilir biçimde modelleyen bilgisayar destekli öğretim türüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme araçları: benzetim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-042",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Biyoloji öğretmeni Naz Hanım'ın sınıfında öğrenciler, kitaptaki kalp resminin üzerine telefonlarının kamerasını tuttuklarında ekranda gerçek sınıf ortamının üzerinde dönebilen üç boyutlu bir kalp modeli görmektedir. Öğrenciler modeli büyütüp küçültebilmektedir. Etkinliğin sonunda öğrenciler gördüklerini defterlerine çizerek not almıştır.\n\nBu teknoloji aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sanal gerçeklik",
+      "B": "Benzetim",
+      "C": "Artırılmış gerçeklik",
+      "D": "Hipermedya",
+      "E": "Karma öğrenme"
+    },
+    "answer": "C",
+    "solution": "Artırılmış gerçeklik, gerçek dünya görüntüsünün üzerine bilgisayar tarafından üretilen sanal nesnelerin bindirilmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme araçları: artırılmış gerçeklik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-043",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Tarih öğretmeni Barış Bey'in sınıfında öğrenciler başlıklarını takarak tamamen bilgisayarla üretilmiş bir antik kentte gezinmekte, çevrelerini her yönden görebilmektedir. Gerçek sınıf ortamını bu sırada görmemektedirler. Etkinlik için okulun donanımı ve öğrencilerin yaş grubuna uygun içerik hazırlanmıştır. Uygulama yaklaşık on beş dakika sürmektedir.\n\nBu teknoloji aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Hipermedya",
+      "B": "Açık öğretim",
+      "C": "Artırılmış gerçeklik",
+      "D": "Karma öğrenme",
+      "E": "Sanal gerçeklik"
+    },
+    "answer": "E",
+    "solution": "Sanal gerçeklik, kullanıcının gerçek dünyadan yalıtılarak bilgisayarla üretilmiş üç boyutlu bir ortamın içinde bulunmasını sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme araçları: sanal gerçeklik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-044",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Pelin Hanım, matematik dersinde öğrencilere doğru yanıt için puan, belirli başarılar için rozet ve sınıf içi ilerleme tablosu vermiştir. Dersin kendisi bir oyun değildir; ancak oyunlardaki ödül ve ilerleme öğeleri öğrencilerin katılımını artırmak için kullanılmaktadır.\n\nBu uygulama aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Oyunlaştırma",
+      "B": "Programlı öğretim",
+      "C": "Eğitsel oyun geliştirme",
+      "D": "Benzetim",
+      "E": "Oyun tabanlı öğrenme"
+    },
+    "answer": "A",
+    "solution": "Oyunlaştırma, oyun olmayan bir bağlamda puan, rozet ve liderlik tablosu gibi oyun öğelerinin motivasyon amacıyla kullanılmasıdır; oyun tabanlı öğrenme ise oyunun kendisinin öğrenme aracı olmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme araçları: oyunlaştırma"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-045",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Kübra Hanım, kâğıt üzerinde dağıttığı çalışma yaprağını hiçbir değişiklik yapmadan PDF olarak öğrencilerin tabletlerine göndermiş ve öğrencilerden aynı soruları kâğıttaki gibi cevaplamalarını istemiştir. Etkinliğin işlevinde bir değişiklik olmamıştır. Öğrencilerin tamamı tablete sahiptir ve etkinlik tek ders saatinde tamamlanmıştır.\n\nBu kullanım SAMR modelinin hangi düzeyine örnektir?",
+    "options": {
+      "A": "Yeniden tanımlama",
+      "B": "İkame",
+      "C": "Artırma",
+      "D": "Değiştirme",
+      "E": "Uyarlama"
+    },
+    "answer": "B",
+    "solution": "SAMR'ın ikame düzeyinde teknoloji, geleneksel aracın yerine geçer ancak görevin işlevinde bir değişiklik olmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Entegrasyon modelleri: SAMR ikame"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-046",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğrenciler kompozisyonlarını kâğıt yerine kelime işlemcide yazmaktadır. Yazım denetimi, sözlük ve biçimlendirme araçlarıyla metinlerini düzeltmekte; ancak görev yine tek başına yazılan bir kompozisyon olarak kalmaktadır. Teknoloji, görevi işlevsel olarak geliştirmiştir. Çalışma bir ders saati boyunca sürmüş ve öğretmen tarafından değerlendirilmiştir.\n\nBu kullanım SAMR modelinin hangi düzeyine örnektir?",
+    "options": {
+      "A": "Artırma",
+      "B": "Değiştirme",
+      "C": "Yeniden tanımlama",
+      "D": "Uyarlama",
+      "E": "İkame"
+    },
+    "answer": "A",
+    "solution": "SAMR'ın artırma düzeyinde teknoloji geleneksel aracın yerine geçer ve işlevsel bir iyileştirme sağlar; görevin kendisi ise büyük ölçüde aynı kalır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Entegrasyon modelleri: SAMR artırma"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-047",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğrenciler, çevre sorunları üzerine hazırladıkları belgeseli başka bir ilin öğrencileriyle bulut ortamında eşzamanlı olarak birlikte kurgulamış, yerel yönetime sunmuş ve kamuoyuyla paylaşmıştır. Teknoloji olmadan bu görevin bu biçimde yapılması mümkün olmayacaktı. Çalışma, dönem projesi kapsamında altı hafta boyunca sürdürülmüştür.\n\nBu kullanım SAMR modelinin hangi düzeyine örnektir?",
+    "options": {
+      "A": "İkame",
+      "B": "Değiştirme",
+      "C": "Uyarlama",
+      "D": "Artırma",
+      "E": "Yeniden tanımlama"
+    },
+    "answer": "E",
+    "solution": "SAMR'ın en üst düzeyi olan yeniden tanımlamada teknoloji, teknoloji olmadan tasarlanamayacak yeni görevlerin oluşturulmasını sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Entegrasyon modelleri: SAMR yeniden tanımlama"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-048",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Matematik öğretmeni Özge Hanım, kesirler konusunu işlerken konunun öğrenci hatalarını bilmekte, kesir kavramını görselleştirmek için dinamik bir yazılım seçmekte ve yazılımı öğrencilerin keşfetmesine olanak veren bir öğretim stratejisiyle bütünleştirmektedir. Dersin sonunda öğrencilerin kavramı daha iyi anladığı gözlenmiştir.\n\nÖzge Hanım'ın sahip olduğu bu bilgi TPAB modelinde aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Pedagojik alan bilgisi",
+      "B": "Genel pedagoji bilgisi",
+      "C": "Teknolojik alan bilgisi",
+      "D": "Teknolojik pedagojik alan bilgisi",
+      "E": "Teknolojik pedagojik bilgi"
+    },
+    "answer": "D",
+    "solution": "Teknolojik pedagojik alan bilgisi, alan bilgisi, pedagoji ve teknolojinin bütünleştirilerek öğretimde kullanılmasını ifade eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Entegrasyon modelleri: TPAB"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-049",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Coğrafya öğretmeni Mehmet Bey, coğrafi bilgi sistemlerinin yer şekillerini ve nüfus dağılımını nasıl yeni biçimlerde gösterebildiğini çok iyi bilmektedir. Bu bilgi, alanının içeriğiyle ilgili teknolojik temsil olanaklarını kapsamakta; ancak öğretim stratejisiyle ilişkilendirmeyi içermemektedir.\n\nMehmet Bey'in bu bilgisi TPAB modelinde aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Pedagojik alan bilgisi",
+      "B": "Teknolojik pedagojik alan bilgisi",
+      "C": "Teknolojik pedagojik bilgi",
+      "D": "Genel teknoloji bilgisi",
+      "E": "Teknolojik alan bilgisi"
+    },
+    "answer": "E",
+    "solution": "Teknolojik alan bilgisi, bir alanın içeriğinin teknoloji aracılığıyla nasıl sunulup dönüştürülebileceğini bilmektir; pedagojiyi içermez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Entegrasyon modelleri: TPAB bileşenleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-050",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Okulda kullanıma açılan yeni bir ölçme-değerlendirme platformunu bazı öğretmenler işlerine yaradığını kabul etmelerine rağmen kullanmamaktadır. Öğretmenler arayüzün karmaşık olduğunu ve öğrenmesinin çok zaman alacağını söylemektedir. Platformun kullanımı okul yönetimi tarafından bir eğitimle de desteklenmiştir.\n\nTeknoloji kabul modeline göre öğretmenlerin platformu kullanmamasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Öğretmenlerin mesleki doyumunun yüksek olması",
+      "B": "Öğrencilerin teknoloji merakının yüksek olması",
+      "C": "Algılanan kullanım kolaylığının düşük olması",
+      "D": "Algılanan yararın yüksek olması",
+      "E": "Platformun maliyetinin düşük olması"
+    },
+    "answer": "C",
+    "solution": "Teknoloji kabul modelinde kullanım niyetini algılanan yarar ve algılanan kullanım kolaylığı belirler; burada yarar kabul edilmiş, kullanım kolaylığı ise düşük algılanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Entegrasyon modelleri: teknoloji kabul modeli"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-051",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Lale Hanım, internette bulduğu bir fotoğrafı etkinlik kâğıdında kullanmak istemektedir. Fotoğrafın altında Creative Commons lisansının atıf koşulunu belirten bir ibare vardır; yani fotoğraf sahibine atıf yapılması koşuluyla kullanıma izin verilmektedir.\n\nLale Hanım'ın fotoğrafı yasal olarak kullanabilmesi için ne yapması gerekir?",
+    "options": {
+      "A": "Fotoğraf için telif ücreti ödemesi",
+      "B": "Fotoğraf sahibinden her kullanım için ayrıca yazılı izin alması",
+      "C": "Fotoğrafı değiştirip kendi eseri olarak yayımlaması",
+      "D": "Fotoğrafın sahibine lisansta belirtilen biçimde atıf yapması",
+      "E": "Fotoğrafı sınıf içinde atıf yapmadan kullanması"
+    },
+    "answer": "D",
+    "solution": "Creative Commons atıf lisansı, eserin sahibine belirtilen biçimde atıf yapıldığı sürece ayrıca izin alınmadan kullanımına olanak tanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dijital okuryazarlık: telif ve Creative Commons"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-052",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir lisede öğrencilerden biri, sınıf arkadaşını aşağılayan mesajları ve kötü bir görüntüsünü sınıfın mesajlaşma grubunda paylaşmış, grup üyeleri de mesajlara gülen simgelerle karşılık vermiştir. Mağdur öğrenci okula gitmek istemez hâle gelmiştir. Olay, öğretmenlerin fark etmesiyle okul rehberlik servisine bildirilmiştir.\n\nBu davranış aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Oltalama saldırısı",
+      "B": "Telif hakkı ihlali",
+      "C": "Siber zorbalık",
+      "D": "Bilgi kirliliği",
+      "E": "Dijital ayak izi"
+    },
+    "answer": "C",
+    "solution": "Siber zorbalık, dijital ortamlarda bir kişiyi kasıtlı ve tekrarlı biçimde aşağılama, tehdit etme ya da dışlama davranışlarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dijital okuryazarlık: siber zorbalık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-053",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Funda Hanım'ın okul e-posta adresine “Hesabınız kapatılacaktır; bağlantıya tıklayıp kullanıcı adı ve parolanızı girin” yazan, okulun yönetim sistemini taklit eden bir ileti gelmiştir. Bağlantı okulun gerçek adresine benzer ancak farklı bir sitedir. İleti, mesai saatleri dışında ve acil bir uyarı gibi görünerek gönderilmiştir.\n\nBu ileti aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Hizmet dışı bırakma saldırısı",
+      "B": "Telif hakkı ihlali",
+      "C": "Siber zorbalık",
+      "D": "Fidye yazılımı saldırısı",
+      "E": "Oltalama saldırısı"
+    },
+    "answer": "E",
+    "solution": "Oltalama, güvenilir bir kurumu taklit ederek kullanıcıdan parola gibi gizli bilgileri elde etmeyi amaçlayan sahte ileti ve sitelerle yapılan saldırıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dijital okuryazarlık: oltalama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-054",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bilişim teknolojileri öğretmeni Sevgi Hanım, 7. sınıf öğrencilerine çevrim içi hesaplarını korumaları için öneriler sunmaktadır. Ancak bir öğrenci, önerilerin bazılarının güvenli olmadığını düşündüğünü belirtmiştir. Öğrenciler önerileri defterlerine not almış ve ardından sınıfta tartışmıştır.\n\nSevgi Hanım'ın aşağıdaki önerilerinden hangisi hesap güvenliği açısından doğru değildir?",
+    "options": {
+      "A": "Hatırlaması kolay olsun diye tüm hesaplarda doğum tarihinden oluşan aynı parolayı kullanmak",
+      "B": "Ortak bilgisayarlarda işi bitince oturumu kapatmak",
+      "C": "Hesaplarda iki adımlı doğrulamayı etkinleştirmek",
+      "D": "Bilmediği kişilerden gelen bağlantılara tıklamamak",
+      "E": "Parolaları başkalarıyla paylaşmamak"
+    },
+    "answer": "A",
+    "solution": "Tüm hesaplarda aynı ve tahmin edilmesi kolay bir parola kullanmak, bir hesabın ele geçirilmesi hâlinde diğer hesapları da tehlikeye atar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dijital okuryazarlık: hesap güvenliği (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-055",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğrenci Eren, sosyal medyada gördüğü bir yazıya dayanarak ödevinde bir iklim olayının nedenini yazmıştır. Yazıyı paylaşanın kim olduğu belli değildir, kaynak gösterilmemiştir ve yazının tarihi de yoktur. Öğretmeni bilginin doğruluğunu kontrol etmesini istemiştir.\n\nEren'in bilginin doğruluğunu sınaması için en uygun adım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yazının başlığının etkileyici olup olmadığına bakmak",
+      "B": "Yazıdaki bilgiyi arkadaşlarına sorup çoğunluğa uymak",
+      "C": "Yazının sosyal medyada çok paylaşıldığını kanıt saymak",
+      "D": "Bilgiyi bağımsız ve güvenilir birkaç kaynakla karşılaştırmak",
+      "E": "Yazıyı paylaşan hesabın takipçi sayısına bakmak"
+    },
+    "answer": "D",
+    "solution": "Bilgi okuryazarlığında doğrulama, bilginin kaynağı, yazarı ve tarihi değerlendirilerek bağımsız ve güvenilir başka kaynaklarla karşılaştırılmasıyla yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dijital okuryazarlık: bilgiyi doğrulama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-056",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Bora Bey, üretken bir yapay zekâ aracından 8. sınıf fen dersi için on soruluk bir sınav hazırlamasını istemiştir. Araç soruları saniyeler içinde üretmiş; ancak bir sorunun cevabı bilimsel olarak yanlıştır ve araç var olmayan bir kaynağa atıf yapmıştır.\n\nBora Bey sınavı kullanmadan önce aşağıdakilerden hangisini yapmalıdır?",
+    "options": {
+      "A": "Yanlış çıkan sorunun doğruluğunu aynı araca sorup onaylatmalıdır",
+      "B": "Çıktıyı alan bilgisiyle ve güvenilir kaynaklarla kontrol edip gerekli düzeltmeleri yapmalıdır",
+      "C": "Yalnızca yanlış çıkan soruyu atıp kalan soruları incelemeden kullanmalıdır",
+      "D": "Araç en güncel bilgiyi ürettiğinden çıktıyı değiştirmeden kullanmalıdır",
+      "E": "Aracın ürettiği tüm soruları öğrencilere önce çözdürüp yanıtları aracın cevabıyla karşılaştırmalıdır"
+    },
+    "answer": "B",
+    "solution": "Üretken yapay zekâ yanlış ya da uydurma bilgi üretebilir; öğretmen çıktıyı alan bilgisi ve güvenilir kaynaklarla denetlemeden kullanmamalıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yapay zekâ: çıktının doğrulanması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-057",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Rehber öğretmen Ayşe Hanım, öğrencilerin ad-soyad, kimlik numarası ve not bilgilerini içeren bir tabloyu sınıf analizi yaptırmak için herkese açık bir yapay zekâ sohbet aracına yüklemeyi düşünmektedir. Araç, yüklenen verileri kendi hizmetini geliştirmek için kullanabilmektedir.\n\nBu girişimin öncelikli riski aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tablonun dosya biçiminin araç tarafından okunamaması",
+      "B": "Analiz sonuçlarının sınıf düzeyinde genelleştirilememesi",
+      "C": "Aracın yanıt süresinin uzaması",
+      "D": "Öğrencilerin kişisel verilerinin izinsiz üçüncü taraflarla paylaşılması",
+      "E": "Öğrencilerin teknolojiye bağımlı hâle gelmesi"
+    },
+    "answer": "D",
+    "solution": "Kişisel verilerin izinsiz biçimde herkese açık bir yapay zekâ aracına yüklenmesi, verilerin korunması ve gizlilik açısından öncelikli risktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yapay zekâ: kişisel veri gizliliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-058",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir çevrim içi matematik platformu, öğrencinin her yanıtını anlık olarak analiz etmekte; öğrenci zorlandığında daha kolay sorular ve ek açıklamalar sunmakta, başarılı olduğunda ise izleyen etkinliğin zorluğunu artırmaktadır. Her öğrencinin çalışma yolu böylece farklılaşmaktadır. Platform ücretsizdir ve öğrenciler evde de bu platformu kullanabilmektedir.\n\nBu platform aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kitlesel açık çevrim içi ders",
+      "B": "Eşzamanlı sanal sınıf",
+      "C": "Uyarlanabilir öğrenme sistemi",
+      "D": "Açık eğitim kaynağı",
+      "E": "Öğrenme nesnesi deposu"
+    },
+    "answer": "C",
+    "solution": "Uyarlanabilir öğrenme sistemleri, öğrencinin performansını izleyerek içerik, zorluk düzeyi ve geri bildirimi öğrenciye göre ayarlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yapay zekâ: uyarlanabilir öğrenme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-059",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Millî Eğitim Bakanlığı, okullara etkileşimli tahta ve tablet bilgisayar dağıtılmasını, okulların ağ altyapısının güçlendirilmesini, eğitsel e-içeriklerin hazırlanmasını ve öğretmenlere hizmet içi eğitim verilmesini kapsayan ulusal bir bilişim projesi yürütmüştür. Proje, ülke genelinde birçok ilde ve kademeli olarak uygulanmıştır.\n\nBu proje aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "FATİH Projesi",
+      "B": "DYNED",
+      "C": "Eğitim Bilişim Ağı",
+      "D": "e-Okul Yönetim Bilgi Sistemi",
+      "E": "MEBBİS"
+    },
+    "answer": "A",
+    "solution": "FATİH Projesi (Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi), eğitimde BİT altyapısını, e-içeriği, öğretmen yeterliğini ve etkin kullanımı kapsayan bütüncül bir projedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "FATİH ve EBA: FATİH Projesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-060",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Uzaktan eğitim döneminde öğrenciler, sınıf düzeylerine göre hazırlanmış ders videolarına, etkileşimli çalışma içeriklerine ve canlı derslere Millî Eğitim Bakanlığı'nın çevrim içi bir platformu üzerinden erişmiştir. Platform hem öğrencilere hem de öğretmenlere hizmet vermektedir. Öğrenciler bu platforma okul numaralarıyla giriş yapabilmiştir.\n\nBu platform aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "FATİH Projesi",
+      "B": "Eğitim Bilişim Ağı",
+      "C": "e-Okul Yönetim Bilgi Sistemi",
+      "D": "Öğretmen Bilgi Ağı",
+      "E": "MEBBİS"
+    },
+    "answer": "B",
+    "solution": "EBA (Eğitim Bilişim Ağı), MEB'in öğrenci ve öğretmenlere ders içeriği, etkileşimli kaynaklar ve canlı ders olanağı sunan çevrim içi eğitim platformudur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "FATİH ve EBA: Eğitim Bilişim Ağı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-061",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir kurum çevrimiçi eğitim materyali hazırlayacaktır. Öğretim tasarım ekibi işe, hedef kitlenin ihtiyaçlarını, mevcut bilgi düzeyini ve öğrenme ortamını inceleyerek başlamıştır; ardından hedefleri yazacak, içeriği geliştirecek, uygulayacak ve sonuçları değerlendirecektir. Ekip çalışmayı daha sonra kuruma sunacaktır.\n\nADDIE modelinde ekibin işe başladığı aşama aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Uygulama",
+      "B": "Analiz",
+      "C": "Değerlendirme",
+      "D": "Geliştirme",
+      "E": "Tasarım"
+    },
+    "answer": "B",
+    "solution": "ADDIE: Analiz, Tasarım, Geliştirme, Uygulama (Implementation), Değerlendirme (Evaluation). İlk aşama analizdir; ihtiyaç, hedef kitle ve bağlam incelenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ADDIE modeli"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-062",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Ayla Hanım, ASSURE modelini kullanarak ders planlamaktadır. Öğrencilerinin yaşını, ön bilgilerini ve öğrenme stillerini çözümlemiş; şimdi hangi kazanımlara ulaşılacağını açık davranışlarla yazmaya geçmektedir. Planlamayı yaparken derste kullanacağı yöntem ve materyalleri henüz belirlememiş, yalnızca sınıfın profilini çıkarmıştır.\n\nAyla Hanım'ın geçtiği ASSURE aşaması aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Amaçların belirlenmesi",
+      "B": "Materyallerin kullanılması",
+      "C": "Katılımın sağlanması",
+      "D": "Değerlendirme ve gözden geçirme",
+      "E": "Yöntem ve materyallerin seçilmesi"
+    },
+    "answer": "A",
+    "solution": "ASSURE: Öğrenenleri çözümle, Amaçları belirle, Yöntem-araç-gereç seç, Kullan, Katılım iste, Değerlendir ve gözden geçir. Öğrenen analizinden sonra amaçlar belirlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarımı: ASSURE modeli"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-063",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen, öğrencilerin ortak bir belge üzerinde eşzamanlı çalışabildiği, sınıf blogunu yorumlayabildiği, kendi hazırladıkları videoları paylaşabildiği ve birbirlerinin içeriklerini değerlendirebildiği etkileşimli çevrimiçi ortamları derslerinde kullanmaktadır. Kullanıcılar yalnızca okuyucu değil, aynı zamanda içerik üreticisidir. Bu uygulamalar öğrenciler arasındaki iş birliğini de artırmaktadır.\n\nBu anlayış aşağıdakilerden hangisini ifade eder?",
+    "options": {
+      "A": "Web 1.0",
+      "B": "Açık kaynak kodlu yazılım",
+      "C": "Anlamsal ağ",
+      "D": "Uzaktan eğitim",
+      "E": "Web 2.0"
+    },
+    "answer": "E",
+    "solution": "Web 2.0, kullanıcıların içerik ürettiği, paylaştığı ve etkileşime girdiği (blog, wiki, sosyal ağ gibi) web anlayışıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Web 2.0 teknolojileri"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-064",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Pandemi döneminde Millî Eğitim Bakanlığı, öğrencilerin ders videolarını izleyebildiği, etkileşimli içeriklere ulaşabildiği ve öğretmenlerin sanal sınıf oluşturabildiği çevrimiçi bir eğitim platformu işletmiştir. Platform, öğrenci ve öğretmenlere kimlik bilgileriyle ücretsiz erişim sağlamıştır. Platform ders saatleri dışında da kullanılabilmektedir.\n\nBakanlığın bu çevrimiçi platformu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "FATİH Projesi",
+      "B": "Okul Gelişim Modeli",
+      "C": "EBA",
+      "D": "e-Okul",
+      "E": "MEBBİS"
+    },
+    "answer": "C",
+    "solution": "EBA (Eğitim Bilişim Ağı), MEB'in öğrenci ve öğretmenlere sunduğu çevrimiçi eğitim platformudur; e-Okul ise öğrenci bilgi yönetim sistemidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Eğitimde teknoloji: EBA"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-065",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Millî Eğitim Bakanlığı, okullardaki derslikleri etkileşimli tahtalarla, öğretmen ve öğrencileri tablet bilgisayarlarla donatmayı, ağ altyapısını güçlendirmeyi, e-içerik üretmeyi ve öğretmenlere bu araçları kullanma eğitimi vermeyi amaçlayan büyük ölçekli bir teknoloji projesi yürütmüştür. Proje aynı zamanda öğretmenlerin mesleki gelişimini de desteklemiştir.\n\nBu proje aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Okullarda Bilişim Sınıfı",
+      "B": "e-Okul",
+      "C": "MEBBİS",
+      "D": "FATİH Projesi",
+      "E": "EBA"
+    },
+    "answer": "D",
+    "solution": "FATİH (Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi) projesi, okullarda etkileşimli tahta, tablet, ağ altyapısı ve e-içerik yoluyla teknoloji kullanımını yaygınlaştırmayı amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Eğitimde teknoloji: FATİH Projesi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-066",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretmen Hakan Bey, sınıfa dokunmatik ekranlı bir tahta getirmiştir. Bilgisayara bağlı olan tahtada, dijital kalemle yazı yazılabilmekte, ekrandaki nesneler parmakla taşınabilmekte, yapılan çalışmalar kaydedilip sonraki derslerde yeniden açılabilmektedir. Hakan Bey, tahtayı farklı derslerde de kullanmayı planlamaktadır.\n\nBu araç aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tepegöz",
+      "B": "Bilgisayar destekli test sistemi",
+      "C": "Opak projektör",
+      "D": "Slayt makinesi",
+      "E": "Etkileşimli (akıllı) tahta"
+    },
+    "answer": "E",
+    "solution": "Dokunmatik yüzeyi sayesinde yazma, çizme, nesne taşıma ve kaydetme olanağı veren, bilgisayara bağlı araca etkileşimli (akıllı) tahta denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim araçları: etkileşimli tahta"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-067",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir öğretmen, hücre bölünmesi konusu için hazırladığı sunuda yalnızca uzun bir metin kullanmak yerine, konuyu anlatan resim ve animasyonları metinle birlikte sunmuş; öğrencilerin kelime ve resimleri birlikte işleyerek daha iyi öğrendiğini görmüştür. Bu düzenlemeyi Mayer'in ilkelerinden birine dayandırmıştır.\n\nÖğretmenin dayandığı ilke aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bitişiklik ilkesi",
+      "B": "Sinyal ilkesi",
+      "C": "Bölümleme ilkesi",
+      "D": "Gereksizlik ilkesi",
+      "E": "Çoklu ortam ilkesi"
+    },
+    "answer": "E",
+    "solution": "Mayer'in çoklu ortam ilkesine göre öğrenciler yalnızca sözcüklerle sunulan bilgiden çok, sözcük ve resimle birlikte sunulan bilgiden daha iyi öğrenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çoklu ortam öğrenme ilkeleri (Mayer)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-068",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir lisede öğrenciler yeni konuyu, evde öğretmenin hazırladığı kısa videoyu izleyerek öğrenmekte; ders saatinde ise sınıfta problem çözme, tartışma ve uygulamalı etkinlikler yapmaktadır. Böylece ders saatinin tamamı öğretmen eşliğinde uygulamaya ayrılmaktadır. Öğrenciler videoyu izlerken sorularını not almaktadır.\n\nBu öğretim modeli aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Açık öğretim",
+      "B": "Ters yüz edilmiş sınıf",
+      "C": "Uzaktan eğitim",
+      "D": "Mobil öğrenme",
+      "E": "Eşzamansız öğrenme"
+    },
+    "answer": "B",
+    "solution": "Ters yüz (flipped) sınıfta içerik evde video gibi araçlarla öğrenilir; sınıf zamanı uygulama, tartışma ve problem çözmeye ayrılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim modelleri: ters yüz sınıf"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-069",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Öğretim tasarımcısı Pelin Hanım, tasarım çalışmasına öğretim hedeflerini belirleyerek başlamış; ardından öğretim analizi yapmış, öğrencilerin giriş davranışlarını belirlemiş, performans hedeflerini yazmış, ölçüt bağımlı test maddeleri geliştirmiş, öğretim stratejisini oluşturmuş ve formatif değerlendirme sonuçlarına göre öğretimi gözden geçirmiştir.\n\nPelin Hanım'ın izlediği bu sistematik tasarım modeli aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Dick-Carey modeli",
+      "B": "ASSURE modeli",
+      "C": "Gagné-Briggs modeli",
+      "D": "ADDIE modeli",
+      "E": "Kemp modeli"
+    },
+    "answer": "A",
+    "solution": "Dick-Carey modeli, öğretim hedefleri, öğretim analizi, giriş davranışları, performans hedefleri, ölçüt bağımlı test maddeleri, öğretim stratejisi ve formatif değerlendirme gibi aşamaları sistematik biçimde ilişkilendiren bir öğretim tasarım modelidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarım modelleri: Dick-Carey"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tek-070",
+    "ders": "egitim_bilimleri",
+    "konu": "egitim_ogretim_teknolojileri",
+    "stem": "Bir üniversitenin öğretim tasarım ekibi, tasarım aşamalarının belirli bir sırayla değil, ihtiyaca göre istenen yerden başlatılabildiği ve her aşamada sürekli gözden geçirme ve değerlendirmenin yapıldığı, doğrusal olmayan ve döngüsel bir tasarım modelini tercih etmiştir. Ekip, öğretim tasarımı çalışmalarının esnek yürütülmesini önemsemektedir.\n\nEkibin tercih ettiği bu model aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kemp modeli",
+      "B": "Dick-Carey modeli",
+      "C": "Gagné-Briggs modeli",
+      "D": "ADDIE modeli",
+      "E": "ASSURE modeli"
+    },
+    "answer": "A",
+    "solution": "Kemp modeli, bileşenlerin doğrusal bir sıra izlemediği, istenen yerden başlanabilen ve sürekli gözden geçirme ile değerlendirmeyi merkezine alan döngüsel bir öğretim tasarım modelidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim tasarım modelleri: Kemp"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  }
+]

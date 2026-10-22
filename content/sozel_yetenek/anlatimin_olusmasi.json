@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "ags-soz-anl-001",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Ancak bu bağı kurmak, çocuğa kitap almakla tek başına mümkün olmaz. (II) Okuma alışkanlığı, çocukluk yıllarında kazanıldığında ömür boyu sürer. (III) Böylece okuma, çocuğun gözünde bir ödev değil, isteyerek yaptığı bir etkinlik hâline gelir. (IV) Bu alışkanlığı edinen çocuklar, kitaplarla kurdukları bağı yetişkinlikte de korur. (V) Bunun için ailenin de okuyan bir örnek olması ve evde okumaya ayrılmış sessiz bir köşenin bulunması gerekir.",
+    "options": {
+      "A": "II - IV - I - V - III",
+      "B": "IV - II - I - V - III",
+      "C": "IV - I - V - III - II",
+      "D": "III - V - I - IV - II",
+      "E": "II - IV - I - III - V"
+    },
+    "answer": "A",
+    "solution": "Zincir: “okuma alışkanlığı” → “Bu alışkanlığı” → “bu bağı” → “Bunun için” → “Böylece”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-002",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Örneğin damla sulama yöntemi, bitkinin ihtiyaç duyduğu suyu doğrudan köküne ulaştırarak israfı önler. (II) Bu azalma, özellikle kurak bölgelerde tarımı ve içme suyu temini ciddi biçimde tehdit etmektedir. (III) Dünyadaki tatlı su kaynakları, nüfus artışıyla birlikte hızla azalmaktadır. (IV) Bu yöntem yaygınlaştırıldığında mevcut kaynaklar çok daha uzun süre yeterli olacaktır. (V) Bu tehdidi azaltmanın en etkili yollarından biri, su kullanımını verimli hâle getirmektir.",
+    "options": {
+      "A": "III - II - V - IV - I",
+      "B": "II - III - V - I - IV",
+      "C": "IV - I - V - II - III",
+      "D": "II - V - I - IV - III",
+      "E": "III - II - V - I - IV"
+    },
+    "answer": "E",
+    "solution": "Zincir: “azalmaktadır” → “Bu azalma” → “Bu tehdidi” → “Örneğin … verimli” → “Bu yöntem”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-003",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Alınacak önlemler, bu araştırmaların sonuçlarına göre belirlenecektir. (II) Dolayısıyla arı sayısındaki azalma, bal üretimini olduğu kadar tarımsal verimi de tehlikeye atar. (III) Bu sayede meyve ve sebze türlerinin büyük bölümünün üretimi mümkün olur. (IV) Bilim insanları bu nedenle arıların neden azaldığını araştırmakta, ilaçlı tarımın etkisini incelemektedir. (V) Arılar, çiçekten çiçeğe konarak bitkilerin döllenmesine yardımcı olan canlılardır.",
+    "options": {
+      "A": "III - II - IV - I - V",
+      "B": "V - III - II - I - IV",
+      "C": "V - III - II - IV - I",
+      "D": "III - V - II - IV - I",
+      "E": "I - IV - II - III - V"
+    },
+    "answer": "C",
+    "solution": "Zincir: “döllenme” → “Bu sayede” → “Dolayısıyla … azalma” → “bu nedenle … araştırmakta” → “bu araştırmaların”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-004",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Uykusuzluk ise bu yenilenme sürecini aksatır. (II) Bu belirtiler uzun süre devam ederse bağışıklık sistemi de zayıflar. (III) Yeterli uyku, bedenin ve zihnin kendini yenilemesi için gereklidir. (IV) Bağışıklığı korumak için yetişkinlerin gecede yedi sekiz saat uyumaya özen göstermesi önerilir. (V) Dikkat dağınıklığı, unutkanlık ve çabuk öfkelenme bu aksamanın ilk belirtileridir.",
+    "options": {
+      "A": "IV - II - V - I - III",
+      "B": "I - V - II - IV - III",
+      "C": "III - I - V - II - IV",
+      "D": "III - I - V - IV - II",
+      "E": "I - III - V - II - IV"
+    },
+    "answer": "C",
+    "solution": "Zincir: “uyku … yenilenme” → “bu yenilenme sürecini” → “bu aksamanın” → “Bu belirtiler” → “Bağışıklığı”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-005",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Ayrıca yaz aylarında gölge sağlayarak sıcaklığın düşmesine de katkıda bulunurlar. (II) Bu çabanın başarılı olması ise türlerin bölge koşullarına uygun seçilmesine bağlıdır. (III) Kentlerde yeşil alanların azalması, hava kalitesini olumsuz etkiliyor. (IV) Ağaçlar, havadaki zararlı gazları emerek bu olumsuzluğu bir ölçüde gideren doğal filtrelerdir. (V) Bu nedenle belediyeler, yeni yapılaşma planlarında ağaçlandırmaya da yer vermelidir.",
+    "options": {
+      "A": "III - IV - I - V - II",
+      "B": "III - IV - I - II - V",
+      "C": "IV - III - I - V - II",
+      "D": "II - V - I - IV - III",
+      "E": "IV - I - V - II - III"
+    },
+    "answer": "A",
+    "solution": "Zincir: “hava kalitesini olumsuz” → “bu olumsuzluğu” → “Ayrıca (ağaçlar)” → “Bu nedenle” → “Bu çabanın”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-006",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu çok yönlü katkı nedeniyle birçok ülke, müziği zorunlu dersler arasına almıştır. (II) Müzik eğitimi, çocukların dinleme becerisini geliştirir. (III) Bizim okullarımızda da müzik derslerinin saatleri azaltılmamalıdır. (IV) Müzik, bu dikkatin yanı sıra el-göz koordinasyonunu ve ritim duygusunu da güçlendirir. (V) Dinleme becerisi gelişen çocuk, derste de öğretmeni daha dikkatli izler.",
+    "options": {
+      "A": "V - II - IV - I - III",
+      "B": "V - IV - I - III - II",
+      "C": "II - V - IV - I - III",
+      "D": "III - I - IV - V - II",
+      "E": "II - V - IV - III - I"
+    },
+    "answer": "C",
+    "solution": "Zincir: “dinleme becerisi” → “dinleme becerisi gelişen” → “bu dikkatin” → “Bu çok yönlü katkı” → “Bizim okullarımızda da”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-007",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu uzun yolculuk sırasında onlara rehberlik eden başlıca etkenlerden biri güneşin ve yıldızların konumudur. (II) Bu buluş, canlıların yön bulma yeteneğine ilişkin bilgilerimizi önemli ölçüde genişletmiştir. (III) Bilim insanları bu doğal pusulanın nasıl çalıştığını anlamak için kuşların beyinlerini incelemiştir. (IV) Göçmen kuşlar, mevsim değişimiyle birlikte binlerce kilometre uzağa uçar. (V) İncelemeler sonucunda kuşların yerküremizin manyetik alanını da algılayabildiği ortaya çıkmıştır.",
+    "options": {
+      "A": "II - V - III - I - IV",
+      "B": "IV - I - III - V - II",
+      "C": "I - IV - III - V - II",
+      "D": "I - III - V - II - IV",
+      "E": "IV - I - III - II - V"
+    },
+    "answer": "B",
+    "solution": "Zincir: “uçar” → “Bu uzun yolculuk” → “bu doğal pusulanın” → “İncelemeler sonucunda” → “Bu buluş”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-008",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu yüzden gönderilmeden önce her iletinin bir kez daha okunması yararlı olur. (II) Elektronik posta, yazışma biçimimizi kökten değiştirmiştir. (III) Özensiz yazılmış bir ileti ise karşı tarafta yanlış bir izlenim bırakabilir. (IV) Eskiden birkaç gün süren bir mektup alışverişi, artık birkaç saniyede tamamlanabilmektedir. (V) Ancak bu hız, iletilerin özensiz ve düşünülmeden yazılmasına da yol açmaktadır.",
+    "options": {
+      "A": "II - IV - V - III - I",
+      "B": "II - IV - V - I - III",
+      "C": "IV - V - III - I - II",
+      "D": "IV - II - V - III - I",
+      "E": "I - III - V - IV - II"
+    },
+    "answer": "A",
+    "solution": "Zincir: “yazışma biçimimiz” → “Eskiden … artık” → “bu hız” → “Özensiz yazılmış bir ileti” → “Bu yüzden”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-009",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu işleme geri dönüşüm denir ve doğal kaynakların korunmasına büyük katkı sağlar. (II) Bu tasarruf, aynı zamanda üretim sürecinde harcanan enerjinin azalmasıyla da sonuçlanır. (III) Enerjiden sağlanan bu kazanç göz önüne alındığında, atıkları ayırmak en basit çevre görevlerinden biri sayılmalıdır. (IV) Atıkların bir bölümü doğru ayrıştırıldığında yeniden değerlendirilebilir. (V) Örneğin bir ton kâğıdın geri dönüştürülmesi, çok sayıda ağacın kesilmesini önleyerek ciddi bir tasarruf sağlar.",
+    "options": {
+      "A": "III - II - V - I - IV",
+      "B": "IV - I - V - III - II",
+      "C": "IV - I - V - II - III",
+      "D": "I - IV - V - II - III",
+      "E": "I - V - II - III - IV"
+    },
+    "answer": "C",
+    "solution": "Zincir: “yeniden değerlendirilebilir” → “Bu işleme” → “Örneğin … tasarruf” → “Bu tasarruf … enerji” → “Enerjiden sağlanan bu kazanç”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-010",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Düzenli spor yapan bireylerde kalp ve damar hastalıkları daha seyrek görülür. (II) Güçlenen kalp, aynı miktardaki kanı daha az çalışarak vücuda pompalar. (III) Doktorlar bu sebeple haftada en az üç gün hareketli olmayı önerir. (IV) Bu durumun temel nedeni, egzersizin kalp kasını güçlendirmesidir. (V) Bu verimlilik, dinlenme sırasında nabzın düşük kalmasını sağlar.",
+    "options": {
+      "A": "IV - I - II - V - III",
+      "B": "I - IV - II - V - III",
+      "C": "I - IV - II - III - V",
+      "D": "III - V - II - IV - I",
+      "E": "IV - II - V - III - I"
+    },
+    "answer": "B",
+    "solution": "Zincir: “seyrek görülür” → “Bu durumun” → “Güçlenen kalp” → “Bu verimlilik” → “bu sebeple”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-011",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu üstünlük, ülkemizi fındıkta dünyanın önde gelen ihracatçılarından biri yapmıştır. (II) Bu yemişlerin başında fındık, ceviz ve badem gelir. (III) Anadolu'da yüzyıllardır yetiştirilen kuru yemişler, mutfağımızın vazgeçilmez öğelerindendir. (IV) Yine de üreticiler, fiyat dalgalanmalarından korunmak için yeni pazarlar aramaktadır. (V) Fındık özellikle Karadeniz kıyılarında yetiştirilir ve dünya üretiminde önemli bir paya sahiptir.",
+    "options": {
+      "A": "II - III - V - I - IV",
+      "B": "II - V - I - IV - III",
+      "C": "III - II - V - IV - I",
+      "D": "III - II - V - I - IV",
+      "E": "IV - I - V - II - III"
+    },
+    "answer": "D",
+    "solution": "Zincir: “kuru yemişler” → “Bu yemişlerin” → “Fındık” → “Bu üstünlük” → “Yine de”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-012",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu hatalar, dil bilgisinin hangi noktalarda pekiştirilmesi gerektiğini gösterir. (II) Sonuçta öğrenme, hem öğrenci hem öğretmen açısından daha verimli hâle gelir. (III) Yabancı dil öğrenmek, ezberle değil kullanarak kolaylaşır. (IV) Öğretmen de bu bilgiden yararlanarak etkinlikleri öğrencinin ihtiyacına göre düzenler. (V) Kullanma fırsatı bulan öğrenci, yaptığı hatalardan da ders çıkarır.",
+    "options": {
+      "A": "III - V - I - II - IV",
+      "B": "II - IV - I - V - III",
+      "C": "V - III - I - IV - II",
+      "D": "III - V - I - IV - II",
+      "E": "V - I - IV - II - III"
+    },
+    "answer": "D",
+    "solution": "Zincir: “kullanarak” → “Kullanma fırsatı” → “Bu hatalar” → “bu bilgiden” → “Sonuçta”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle sıralama"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-013",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parça iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) Bal arıları, buldukları yiyecek kaynağının yerini birbirlerine bir dansla anlatır. (II) Bu dansın biçimi, kaynağın uzaklığını ve yönünü gösterir. (III) Danstaki dönüş sayısı da kaynağın ne kadar uzakta olduğu hakkında bilgi verir. (IV) Yunuslar ise sesli işaretlerle haberleşen akıllı deniz memelileridir. (V) Bu işaretler, ıslık ve tıkırtı seslerinden oluşur. (VI) Her yunusun kendine özgü bir ıslık sesi bulunur. (VII) Yavrular, anneleriyle bu sesler sayesinde birbirlerini bulur.",
+    "options": {
+      "A": "III",
+      "B": "IV",
+      "C": "V",
+      "D": "VI",
+      "E": "VII"
+    },
+    "answer": "B",
+    "solution": "I–III arıların dansını anlatır; IV yunuslara geçer. V–VII “Bu işaretler”, “ıslık”, “bu sesler” göndermeleriyle IV'ün konusunu sürdürür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: paragraf bölme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-014",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parça iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) Kutup ayıları, kalın yağ tabakaları sayesinde dondurucu soğukta bile üşümez. (II) Bu tabaka, onların buzlu sularda saatlerce yüzmesine de olanak tanır. (III) Bu özellik, ayıların buz üzerinde avlanmasını da kolaylaştırır. (IV) Pandalar ise Çin'in dağlık ve nemli ormanlarında yaşar. (V) Bu hayvanların beslenmesi neredeyse tamamen bambuya dayanır. (VI) Bambu ormanlarının azalması da onların soyunu doğrudan tehdit etmektedir.",
+    "options": {
+      "A": "II",
+      "B": "III",
+      "C": "IV",
+      "D": "V",
+      "E": "VI"
+    },
+    "answer": "C",
+    "solution": "I–III kutup ayısını anlatır (zincir: yağ tabakası → “Bu tabaka” → “Bu özellik”); IV yeni bir hayvana (panda) geçer, V–VI “Bu hayvanların”, “onların” ile IV'e bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: paragraf bölme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-015",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parça iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) Orman yangınlarının büyük bölümü insan ihmalinden kaynaklanmaktadır. (II) Özellikle yaz aylarında söndürülmeden bırakılan bir sigara izmariti bile büyük bir yangını başlatabilir. (III) Başlayan yangın, rüzgârın etkisiyle kısa sürede geniş alanlara yayılır. (IV) Bu yayılma, yangınla mücadeleyi çok güçleştirir. (V) Bu yüzden yaz aylarında ormanlık alanlarda ateş yakmak yasaklanmıştır. (VI) Denizlerdeki plastik atıklar ise bambaşka bir çevre sorunudur. (VII) Bu atıklar balıkların ve kuşların yaşamını tehdit eder.",
+    "options": {
+      "A": "III",
+      "B": "IV",
+      "C": "V",
+      "D": "VI",
+      "E": "VII"
+    },
+    "answer": "D",
+    "solution": "I–V orman yangınları üzerinedir; VI “bambaşka bir çevre sorunu” diyerek plastik atıklara geçer, VII ona bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: paragraf bölme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-016",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parça iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) Mimar Sinan, Osmanlı mimarisinin en büyük ustası kabul edilir. (II) Yaşamı boyunca yüzlerce yapı inşa etmiştir. (III) Bu yapıların en bilinenleri Süleymaniye ve Selimiye camileridir. (IV) Çağdaş Türk edebiyatında Yaşar Kemal'in adı, destansı anlatımıyla anılır. (V) Onun İnce Memed romanı, birçok dile çevrilmiştir. (VI) Bu roman, Çukurova köylülerinin yaşamını yansıtır. (VII) Yazar, eserleriyle birçok ödüle layık görülmüştür.",
+    "options": {
+      "A": "III",
+      "B": "IV",
+      "C": "V",
+      "D": "VI",
+      "E": "VII"
+    },
+    "answer": "B",
+    "solution": "I–III Mimar Sinan'ı anlatır; IV yeni bir kişiye (Yaşar Kemal) geçer. V “Onun”, VI “Bu roman” ile IV'ten sonra gelir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: paragraf bölme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-017",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parça iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) İstanbul'un Tarihî Yarımadası, farklı dönemlere ait yapıları bir arada barındırır. (II) Bu yapılardan Ayasofya, Bizans döneminin en etkileyici eserlerinden biridir. (III) Sultanahmet Camii ise onun karşısında Osmanlı mimarisinin zirvesini temsil eder. (IV) Kapadokya'nın en dikkat çekici özelliği, volkanik tüflerin rüzgâr ve yağmurla şekillenmesiyle oluşan peri bacalarıdır. (V) Bu kayalar, yüzyıllar boyunca insanlar tarafından oyularak evlere ve kiliselere dönüştürülmüştür. (VI) Bugün bölge, sıcak hava balonlarıyla yapılan gezilerle de tanınmaktadır.",
+    "options": {
+      "A": "II",
+      "B": "III",
+      "C": "IV",
+      "D": "V",
+      "E": "VI"
+    },
+    "answer": "C",
+    "solution": "I–III İstanbul'un tarihî yapılarını anlatır (III “onun” ile II'ye bağlı); IV Kapadokya'ya geçerek yeni bir konu başlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: paragraf bölme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-018",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parça iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) Türkiye'nin en uzun nehri olan Kızılırmak, Sivas yakınlarından doğar. (II) Doğduğu yerden Karadeniz'e kadar yüzlerce kilometre yol alır. (III) Bu uzun güzergâh boyunca birçok ilin topraklarından geçer. (IV) Nehrin üzerinde kurulan barajlar, bölgeye enerji ve sulama sağlar. (V) Bu sayede çevredeki tarım alanları daha verimli hâle gelmiştir. (VI) Cazın kökleri, yirminci yüzyılın başında ABD'nin New Orleans kentine dayanır. (VII) Bu tür, doğaçlama çalma özelliğiyle diğer müzik türlerinden ayrılır.",
+    "options": {
+      "A": "III",
+      "B": "IV",
+      "C": "V",
+      "D": "VI",
+      "E": "VII"
+    },
+    "answer": "D",
+    "solution": "I–V Kızılırmak'ı anlatır (zincir: nehir → güzergâh → barajlar → “Bu sayede”); VI caz müziğine geçer, VII ona bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: paragraf bölme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-019",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parça iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) Çevrim içi alışveriş, son yıllarda büyük bir yükseliş yaşamıştır. (II) Bu yükselişin en önemli nedeni, tüketicilere sunulan zaman tasarrufudur. (III) İnsanlar evlerinden çıkmadan yüzlerce ürünü karşılaştırabilmektedir. (IV) Kuş gözlemciliği ise doğaya duyulan ilgiyle büyüyen bir hobidir. (V) Gözlemciler, dürbün ve rehber kitaplar yardımıyla kuş türlerini tanır. (VI) Bu uğraş, sabır ve dikkat gerektirir. (VII) Yeni başlayanlara yerel kuş kulüpleri rehberlik eder.",
+    "options": {
+      "A": "III",
+      "B": "IV",
+      "C": "V",
+      "D": "VI",
+      "E": "VII"
+    },
+    "answer": "B",
+    "solution": "I–III çevrim içi alışverişi anlatır; IV kuş gözlemciliğiyle yeni bir konuya geçer. V–VII IV'e bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: paragraf bölme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-020",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parça iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) Satranç, iki oyuncu arasında oynanan stratejik bir zekâ oyunudur. (II) Oyun, altmış dört kareli bir tahta üzerinde oynanır. (III) Her oyuncunun on altı taşı bulunur. (IV) Bu taşlar, farklı hareket kurallarına sahiptir. (V) Amaç, rakibin şahını kaçacak yer bırakmadan sıkıştırmaktır. (VI) Mantı ise Orta Asya kökenli bir yemek olarak kabul edilir. (VII) Bu yemekte hamur küçük parçalara bölünür ve içi kıymayla doldurulur.",
+    "options": {
+      "A": "III",
+      "B": "IV",
+      "C": "V",
+      "D": "VI",
+      "E": "VII"
+    },
+    "answer": "D",
+    "solution": "I–V satranç üzerinedir (IV “Bu taşlar” ile III'e bağlıdır); VI mantı ile tamamen yeni bir konu açar, VII ona bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: paragraf bölme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-021",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?\n\n(I) Türk kahvesi, 2013'te UNESCO tarafından Somut Olmayan Kültürel Miras Listesi'ne alınmıştır. (II) Bir kuvars kristali, atomlarının düzenli dizilmesiyle tanınır. (III) Geleneksel yöntemle kahve, cezvede ve kısık ateşte pişirilir. (IV) Pişen kahvenin üzerindeki köpük, ustalığın göstergesi sayılır. (V) Bu özel pişirme biçimi, kahveye kendine özgü bir tat verir.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "II numaralı cümle kuvars kristalinden söz eder; diğer dört cümle Türk kahvesinin pişirilmesi ve tadı üzerinedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: akışı bozan cümle"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-022",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?\n\n(I) Bitkiler, güneş ışığını kullanarak kendi besinlerini üretir. (II) Kış aylarında bazı kuşlar daha sıcak bölgelere göç eder. (III) Bu sürece fotosentez adı verilir. (IV) Fotosentez sırasında bitkiler, havadaki karbondioksiti alıp oksijen verir. (V) Bu nedenle bitkiler, yeryüzündeki yaşamın sürmesi için vazgeçilmezdir.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "II numaralı cümle kuşların göçünden söz eder; “Bu sürece” ifadesi I. cümledeki besin üretimine, diğer cümleler fotosentezine bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: akışı bozan cümle"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-023",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?\n\n(I) Trafik kazalarının önemli bir bölümü hız sınırının aşılmasından kaynaklanır. (II) Hız arttıkça aracın fren mesafesi de uzar. (III) Bu nedenle ani bir engel karşısında durmak güçleşir. (IV) Everest Dağı, deniz seviyesinden sekiz bin metreden fazla yüksektedir. (V) Dolayısıyla sürücülerin hız sınırlarına uymaları hayati önem taşır.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "D",
+    "solution": "IV numaralı cümle dağ yüksekliğinden söz eder; “Dolayısıyla” ile başlayan V, III'ün sonucudur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: akışı bozan cümle"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-024",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?\n\n(I) Mevsimlerin oluşmasında Dünya'nın eksen eğikliği belirleyicidir. (II) Eksen eğik olduğu için Güneş ışınları yıl boyunca farklı açılarla gelir. (III) Işınların dik geldiği yarım kürede yaz yaşanır. (IV) Işınların eğik geldiği yarım kürede ise kış hüküm sürer. (V) Satranç tahtasındaki kareler siyah ve beyaz renklerde sıralanır.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "E",
+    "solution": "V numaralı cümle satranç tahtasından söz eder; diğer dört cümle mevsimlerin oluşumunu açıklar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: akışı bozan cümle"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-025",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?\n\n(I) Orhun Yazıtları, bilinen en eski Türkçe yazılı metinler arasında yer alır. (II) Bu yazıtlar, sekizinci yüzyılda dikilmiştir. (III) Yazıtların çözümü, Danimarkalı bilgin Vilhelm Thomsen tarafından 1893'te yapılmıştır. (IV) Okyanuslardaki su, güneş ısısıyla buharlaşarak bulutları oluşturur. (V) Bu çözüm, Türk dilinin tarihî gelişimi açısından büyük önem taşır.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "D",
+    "solution": "IV numaralı cümle su döngüsünden söz eder; “Bu çözüm” ifadesi III'teki yazıt çözümüne bağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: akışı bozan cümle"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-026",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?\n\n(I) Düzenli kitap okumak, kelime dağarcığını genişletir. (II) Geniş bir kelime dağarcığı, düşünceleri daha açık ifade etmeyi sağlar. (III) Okuyan kişi aynı zamanda farklı bakış açılarıyla da tanışır. (IV) Akdeniz ikliminde yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçer. (V) Bu yönüyle kitap, insanın hem dilini hem de düşünce dünyasını geliştirir.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "D",
+    "solution": "IV numaralı cümle iklimden söz eder; diğer cümleler kitap okumanın dil ve düşünceye katkısı üzerinedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: akışı bozan cümle"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-027",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?\n\n(I) Müzeler, geçmişin izlerini gelecek kuşaklara taşıyan kurumlardır. (II) Pilav, Türk mutfağında hem günlük hem de şölen yemeklerinin başında gelir. (III) Ziyaretçiler burada eski dönemlere ait eserleri yakından inceleme fırsatı bulur. (IV) Bu eserler, o çağın yaşam biçimi hakkında önemli ipuçları verir. (V) Bu yüzden müze gezileri, eğitimin ayrılmaz bir parçası sayılmalıdır.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "B",
+    "solution": "II numaralı cümle pilavdan söz eder; “burada” sözcüğü III'te müzeye gönderme yapar, bu yüzden II dışarıda kalmalıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: akışı bozan cümle"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-028",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?\n\n(I) Yeryüzündeki su, bir döngü içinde sürekli yer değiştirir. (II) Güneşin ısıttığı deniz suyu buharlaşarak yükselir. (III) Yükselen buhar soğuyunca bulutlara dönüşür. (IV) Bulutlardaki damlacıklar yağmur veya kar hâlinde yeryüzüne geri düşer. (V) Birçok tiyatro oyunu, yazıldığı dönemin toplumsal sorunlarını yansıtır.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "E",
+    "solution": "V numaralı cümle tiyatrodan söz eder; diğer dört cümle suyun döngüsünü sırasıyla anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: akışı bozan cümle"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-029",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangi ikisinin yeri değiştirilirse parçadaki anlam akışı düzelir?\n\n(I) Buharlaşan madde, cismin arkasında parlak bir kuyruk oluşturur. (II) Bu cisimler Güneş'e yaklaştıkça yüzeylerindeki buz buharlaşmaya başlar. (III) Kuyruklu yıldızlar, Güneş çevresinde dolanan buz ve toz topluluklarıdır. (IV) Bu kuyruk, Güneş'ten uzaklaştıkça yeniden küçülür. (V) Bu döngü düzenli olduğundan bazı kuyruklu yıldızların geri dönüşü önceden hesaplanabilir.",
+    "options": {
+      "A": "I ile III",
+      "B": "I ile IV",
+      "C": "II ile III",
+      "D": "II ile IV",
+      "E": "III ile V"
+    },
+    "answer": "A",
+    "solution": "Doğru sıra: kuyruklu yıldız (1) → “Bu cisimler” (2) → buharlaşan madde, kuyruk (3) → “Bu kuyruk” (4) → “Bu döngü” (5). Yeri değişen I ve III'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerini değiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-030",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangi ikisinin yeri değiştirilirse parçadaki anlam akışı düzelir?\n\n(I) İklim değişikliği, yeryüzündeki ortalama sıcaklığın uzun vadede artmasıdır. (II) Atmosferde biriken bu gazlar, Güneş ısısının uzaya geri dönmesini engeller. (III) Bu artışın başlıca nedeni, fosil yakıtların yakılmasıyla atmosfere salınan sera gazlarıdır. (IV) Tutulan ısı, buzulların erimesine ve deniz seviyesinin yükselmesine neden olur. (V) Bu gelişme, kıyı kentlerini ciddi biçimde tehdit etmektedir.",
+    "options": {
+      "A": "I ile II",
+      "B": "II ile III",
+      "C": "II ile IV",
+      "D": "III ile IV",
+      "E": "IV ile V"
+    },
+    "answer": "B",
+    "solution": "Doğru sıra: sıcaklık artışı (1) → “Bu artışın … sera gazları” (2) → “biriken bu gazlar” (3) → “Tutulan ısı” (4) → “Bu gelişme” (5). Yeri değişen II ve III'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerini değiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-031",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangi ikisinin yeri değiştirilirse parçadaki anlam akışı düzelir?\n\n(I) Oradan Avrupa'ya geçen bu teknik, matbaanın gelişmesinin de zeminini hazırlamıştır. (II) Bu buluş, yazının ipek ve bambu gibi pahalı malzemelerden kurtulmasını sağlamıştır. (III) Kâğıt yapım tekniği, Araplar aracılığıyla İslam dünyasına yayılmıştır. (IV) Kâğıdı ilk kez Çinliler icat etmiştir. (V) Böylece bilgi, çok daha geniş kitlelere ulaşabilmiştir.",
+    "options": {
+      "A": "I ile IV",
+      "B": "I ile V",
+      "C": "II ile III",
+      "D": "II ile IV",
+      "E": "III ile IV"
+    },
+    "answer": "A",
+    "solution": "Doğru sıra: icat (1) → “Bu buluş” (2) → yayılış (3) → “Oradan Avrupa'ya” (4) → “Böylece” (5). Yeri değişen I ve IV'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerini değiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-032",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangi ikisinin yeri değiştirilirse parçadaki anlam akışı düzelir?\n\n(I) Okul bahçeleri, çocukların sosyal becerilerini geliştirdiği önemli alanlardır. (II) Kurallara uymayı öğrenen çocuk, arkadaşlarıyla çatışma yaşadığında çözüm bulmaya yönelir. (III) Burada oynanan grup oyunları, çocuklara kuralları paylaşmayı öğretir. (IV) Bu çözüm arayışı, empati duygusunu güçlendirir. (V) Güçlenen empati ise sınıf içi ilişkilere de olumlu yansır. (VI) Bu yüzden okul bahçelerinin planlanmasında oyun alanlarına yeterli yer ayrılmalıdır.",
+    "options": {
+      "A": "I ile II",
+      "B": "II ile III",
+      "C": "III ile IV",
+      "D": "III ile V",
+      "E": "IV ile V"
+    },
+    "answer": "B",
+    "solution": "Doğru sıra: bahçe (1) → “Burada … oyunlar” (2) → “Kurallara uymayı öğrenen … çözüm” (3) → “Bu çözüm arayışı” (4) → “Güçlenen empati” (5) → “Bu yüzden” (6). Yeri değişen II ve III'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerini değiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-033",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangi ikisinin yeri değiştirilirse parçadaki anlam akışı düzelir?\n\n(I) Mekanik saatler, zamanı ölçmek için dişli çarklardan yararlanır. (II) Bunu önlemek için saatin belirli aralıklarla kurulması gerekir. (III) Yayın gevşemesi ise saatin durmasına yol açar. (IV) Bu çarklar, ana yaydan aldıkları enerjiyi düzenli bir hızla aktarır. (V) Kurma işlemi bazı modellerde elle, bazılarında ise kol hareketiyle yapılır.",
+    "options": {
+      "A": "II ile IV",
+      "B": "II ile V",
+      "C": "III ile IV",
+      "D": "III ile V",
+      "E": "IV ile V"
+    },
+    "answer": "A",
+    "solution": "Doğru sıra: çarklar (1) → “Bu çarklar … ana yay” (2) → “Yayın gevşemesi” (3) → “Bunu önlemek için” (4) → “Kurma işlemi” (5). Yeri değişen II ve IV'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerini değiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-034",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangi ikisinin yeri değiştirilirse parçadaki anlam akışı düzelir?\n\n(I) Mercan resifleri, denizlerin en zengin yaşam alanlarından biridir. (II) Bu alanlarda binlerce balık türü barınır. (III) Ancak su sıcaklığının artması, resiflerdeki mercanların renklerini kaybetmesine neden olur. (IV) Mercanlar ölünce resife bağlı canlılar da barınaklarını yitirir. (V) Bu renk kaybı, mercanların ölüm sürecinin başladığının işaretidir.",
+    "options": {
+      "A": "I ile II",
+      "B": "II ile III",
+      "C": "III ile IV",
+      "D": "III ile V",
+      "E": "IV ile V"
+    },
+    "answer": "E",
+    "solution": "Doğru sıra: resif (1) → “Bu alanlarda” (2) → “Ancak … renk kaybetme” (3) → “Bu renk kaybı” (4) → “Mercanlar ölünce” (5). Yeri değişen IV ve V'tir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerini değiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-035",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangi ikisinin yeri değiştirilirse parçadaki anlam akışı düzelir?\n\n(I) Bu tasarruf, yalıtım masrafını birkaç yıl içinde karşılar. (II) Bu kaybı azaltmanın yolu, dış cephenin yalıtım malzemeleriyle kaplanmasıdır. (III) Yalıtımı tamamlanmış bir bina, kışın daha az yakıt harcar. (IV) Binalarda ısı kaybının büyük bölümü duvarlardan ve pencerelerden olur. (V) Üstelik yaz aylarında iç mekânın serin kalmasına da yardımcı olur.",
+    "options": {
+      "A": "I ile III",
+      "B": "I ile IV",
+      "C": "I ile V",
+      "D": "II ile III",
+      "E": "II ile IV"
+    },
+    "answer": "B",
+    "solution": "Doğru sıra: ısı kaybı (1) → “Bu kaybı” (2) → yalıtımlı bina (3) → “Bu tasarruf” (4) → “Üstelik” (5). Yeri değişen I ve IV'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerini değiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-036",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada numaralanmış cümlelerden hangi ikisinin yeri değiştirilirse parçadaki anlam akışı düzelir?\n\n(I) Malatya, Türkiye'nin kayısı üretiminde ilk sırada yer alır. (II) Böylece Malatya kayısısı, dünyanın birçok ülkesine ulaşmaktadır. (III) Kışları soğuk, yazları sıcak ve kurak geçen iklim, meyvenin şekerini artırır. (IV) Şekeri yüksek meyve, kurutulduğunda uzun süre bozulmadan saklanabilir. (V) Bu özellik, kayısıyı önemli bir ihracat ürünü yapmıştır. (VI) Bu üstünlük, bölgenin iklim ve toprak koşullarına dayanır.",
+    "options": {
+      "A": "I ile VI",
+      "B": "II ile V",
+      "C": "II ile VI",
+      "D": "III ile V",
+      "E": "IV ile VI"
+    },
+    "answer": "C",
+    "solution": "Doğru sıra: ilk sıra (1) → “Bu üstünlük” (2) → iklim (3) → “Şekeri yüksek meyve” (4) → “Bu özellik” (5) → “Böylece” (6). Yeri değişen II ve VI'dır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerini değiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-037",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\nBirçok şehirde kütüphaneler, kitap ödünç vermenin ötesinde çeşitli etkinlikler düzenliyor. ( … ) Bu atölyelerde çocuklar hem eğleniyor hem de kitaplarla tanışıyor. Böylece okuma alışkanlığı erken yaşta kazanılıyor.",
+    "options": {
+      "A": "Örneğin hafta sonları çocuklar için masal ve resim atölyeleri açılıyor.",
+      "B": "Kitap ödünç almak için bir üyelik kartı çıkarmak gerekiyor.",
+      "C": "Bazı kütüphanelerin binaları tarihî yapılar olarak korunuyor.",
+      "D": "Kütüphanelerde sessizlik kuralına uyulması isteniyor.",
+      "E": "Bu kurumlar genellikle sabah dokuzda kapılarını açıyor."
+    },
+    "answer": "A",
+    "solution": "Sonraki cümledeki “Bu atölyelerde” ifadesi, boşluğa atölyelerden söz eden cümlenin gelmesini gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-038",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\n( … ) Bu bitkiler, kuraklığa dayanıklı olduğu için yarı kurak bölgelerde rahatça yetişir. Yetiştiricilik de bu bölgelerde yaşayanlara ek bir gelir sağlar.",
+    "options": {
+      "A": "Gelir düzeyi arttıkça beslenme alışkanlıkları değişiyor.",
+      "B": "Köylerde yaşayan insanların sayısı her yıl azalıyor.",
+      "C": "Nohut ve mercimek gibi baklagiller, ülkemizde yaygın olarak ekilen bitkilerdir.",
+      "D": "Kuraklık, dünyanın birçok yerinde tarımı etkiliyor.",
+      "E": "Yarı kurak bölgelerde yağış miktarı yıllara göre değişir."
+    },
+    "answer": "C",
+    "solution": "“Bu bitkiler” göndermesi için ilk cümlede bitkilerin tanıtılması gerekir; diğer şıklarda bitki adı geçmez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-039",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\nSinema, bir ülkenin kültürünü dünyaya tanıtmanın etkili yollarından biridir. ( … ) Bu başarı, yönetmenlerin yerel hikâyeleri evrensel bir dille anlatabilmesinden kaynaklanır. Dolayısıyla sinema, desteklenmesi gereken bir sanat dalıdır.",
+    "options": {
+      "A": "Bilet fiyatları kentten kente değişmektedir.",
+      "B": "Filmlerin yapımında yüzlerce kişi görev alır.",
+      "C": "Nitekim ülkemizde çekilen birkaç film, uluslararası festivallerde ödül kazanmıştır.",
+      "D": "Film çekimleri çoğunlukla birkaç ay sürer.",
+      "E": "Birçok izleyici filmleri evde izlemeyi tercih ediyor."
+    },
+    "answer": "C",
+    "solution": "“Bu başarı” ifadesi, boşluğa bir başarıdan (ödül) söz eden cümlenin gelmesini gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-040",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\nEski denizciler, açık denizde yönlerini bulmak için gökyüzünden yararlanırdı. ( … ) Bunlara ek olarak rüzgârın ve akıntıların yönünü de dikkate alırlardı. Bu bilgiler sayesinde haritasız bile okyanusları aşabiliyorlardı.",
+    "options": {
+      "A": "Gemilerin ana yapı malzemesi çoğunlukla meşe ağacıydı.",
+      "B": "Limanlarda yapılan ticaret, kentlerin zenginleşmesini sağlardı.",
+      "C": "Denizcilerin birçoğu yıllarca evlerinden uzak kalırdı.",
+      "D": "Uzun yolculuklarda en büyük sorun taze yiyecek bulmaktı.",
+      "E": "Gündüzleri güneşin, geceleri ise yıldızların konumuna bakarak rotalarını belirlerlerdi."
+    },
+    "answer": "E",
+    "solution": "“Bunlara ek olarak” ifadesi, daha önce sayılmış yön bulma araçlarını (güneş, yıldız) gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-041",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\nBir yaşındaki bebeklerin çoğu henüz konuşamaz. ( … ) Bu yüzden ebeveynler, bebeğin ağlamasının nedenini tahmin etmeye çalışır. Zamanla bebek ve ebeveyn birbirlerinin işaretlerini tanımaya başlar.",
+    "options": {
+      "A": "Ebeveynlerin ilk aylarda yeterince uyuyamaması olağandır.",
+      "B": "Yeni doğan bebeklerin kemikleri henüz tam sertleşmemiştir.",
+      "C": "Konuşamadıkları için açlık, yorgunluk ya da rahatsızlık gibi ihtiyaçlarını ağlayarak bildirirler.",
+      "D": "Bebek bakımı konusunda birçok kitap yayımlanmıştır.",
+      "E": "Bebeklerin uyku düzeni yaşa göre değişir."
+    },
+    "answer": "C",
+    "solution": "“Bu yüzden … ağlamasının” ifadesi, boşluğa bebeğin ağlayarak ihtiyaç bildirdiğini söyleyen cümlenin gelmesini gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-042",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\n( … ) Bu iki yöntemden ilki, bitkileri tohumdan yetiştirmektir. İkincisi ise var olan bir bitkinin dalını toprağa gömerek yeni bir bitki elde etmektir.",
+    "options": {
+      "A": "Bazı çiçekler ilkbaharda açar.",
+      "B": "Bitkiler büyüyebilmek için su ve ışığa ihtiyaç duyar.",
+      "C": "Bahçecilik, yüzyıllardır sürdürülen bir uğraştır.",
+      "D": "İyi bir bahçıvan toprağın yapısını iyi tanımalıdır.",
+      "E": "Bahçıvanlar yeni bitki elde etmek için genellikle iki yöntemden yararlanır."
+    },
+    "answer": "E",
+    "solution": "“Bu iki yöntem” göndermesi, ilk cümlede iki yöntemden söz edilmesini gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: cümle yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-043",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": {
+      "A": "Şirket, bu yıl kârını yaklaşık yüzde on kadar artırdığını duyurdu.",
+      "B": "Kütüphane, hafta sonları da öğrencilere hizmet veriyor.",
+      "C": "Yarışmaya katılanlar arasında en genç yarışmacı on yedi yaşındaydı.",
+      "D": "Eski mahallelerde komşuluk ilişkileri bugün de güçlüdür.",
+      "E": "Bu proje, üç ay içinde tamamlanacak."
+    },
+    "answer": "A",
+    "solution": "“Yaklaşık” ve “kadar” sözcükleri aynı anlamı iki kez verir (gereksiz sözcük).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (gereksiz sözcük)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-044",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerden hangisi, gereksiz sözcük kullanımı nedeniyle anlatım bakımından kusurludur?",
+    "options": {
+      "A": "Tatilden geri dönünce arkadaşlarımla buluşacağım.",
+      "B": "Müzede sergilenen eserler bu ay yenileniyor.",
+      "C": "Sınav sonuçları önümüzdeki hafta açıklanacak.",
+      "D": "Köyün girişindeki çınar ağacı yüz yıldan fazla yaşındaydı.",
+      "E": "Ahmet, kardeşine yeni bir bisiklet aldı."
+    },
+    "answer": "A",
+    "solution": "“Dönmek” sözcüğü zaten geri gelmeyi anlatır; “geri” gereksizdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (gereksiz sözcük)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-045",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Gereksiz sözcük kullanıldığı için anlatımı bozuk olan cümle aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Öğretmen, ödevleri hafta başında topladı.",
+      "B": "Çocuklar, yağmur dinince yeniden sokağa çıktı.",
+      "C": "Yeni açılan kafe öğrencilerin uğrak yeri oldu.",
+      "D": "Pazar yerinde taze meyve ve sebze satılıyordu.",
+      "E": "İki takımın oyuncuları, maçtan sonra karşılıklı birbirlerine sarıldı."
+    },
+    "answer": "E",
+    "solution": "“Karşılıklı” ve “birbirlerine” aynı karşılıklılık anlamını iki kez verir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (gereksiz sözcük)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-046",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdakilerden hangisinde, aynı anlamı taşıyan sözcüklerin birlikte kullanılması anlatımı bozmuştur?",
+    "options": {
+      "A": "Bahçedeki güller bu yıl erken açtı.",
+      "B": "Yarın sabah erkenden yola çıkacağız.",
+      "C": "Toplantı salonunun kapısı kilitliydi.",
+      "D": "Merdivenlerden aşağı inerken ayağım takıldı.",
+      "E": "Kardeşim bana güzel bir kitap hediye etti."
+    },
+    "answer": "D",
+    "solution": "“İnmek” zaten aşağıya doğru hareketi anlatır; “aşağı” gereksizdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (gereksiz sözcük)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-047",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde öznenin kişisi ile yüklemin kişisi uyuşmamaktadır?",
+    "options": {
+      "A": "Ben ve arkadaşlarım dün akşam sinemaya gitti.",
+      "B": "Annem ve babam bu yaz tatile çıkacak.",
+      "C": "Sen ve ben yarın erken kalkacağız.",
+      "D": "Siz ve arkadaşlarınız toplantıya katıldınız.",
+      "E": "Kardeşimle ben dün akşam sinemaya gittik."
+    },
+    "answer": "A",
+    "solution": "Özne “ben ve arkadaşlarım” birinci çoğul kişidir; yüklem “gittik” olmalıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (özne-yüklem uyumsuzluğu)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-048",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerden hangisinde özne ile yüklem kişi bakımından uyumsuzdur?",
+    "options": {
+      "A": "Kardeşin ve sen akşam yemeğine kalın.",
+      "B": "Ayşe ve ailesi bizimle birlikte tatile çıkacak.",
+      "C": "Ali ve Ayşe yarın bizimle yemeğe gelecek.",
+      "D": "Ben ve kardeşim yarın size gelip yardım edeceğiz.",
+      "E": "Sen ve kardeşin yarın bizimle yemeğe gelecekler."
+    },
+    "answer": "E",
+    "solution": "Özne “sen ve kardeşin” ikinci çoğul kişidir; yüklem “geleceksiniz” olmalıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (özne-yüklem uyumsuzluğu)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-049",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerden hangisinde gereksiz bir sözcük anlatımı bozmaktadır?",
+    "options": {
+      "A": "Yıl boyunca nehrin su seviyesi sık sık değişir.",
+      "B": "Bu bölgede yağışlar çoğunlukla kış aylarında görülür.",
+      "C": "Yaz aylarında bölgeye birçok turist gelir.",
+      "D": "Bölge halkı geçimini daha çok tarımdan sağlar.",
+      "E": "Bu bölgeye yılda ortalama yaklaşık beş yüz milimetre yağış düşer."
+    },
+    "answer": "E",
+    "solution": "“Ortalama” ve “yaklaşık” sözcükleri birbirini karşılar; biri gereksizdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (gereksiz sözcük)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-050",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu, gereksiz sözcük kullanımından kaynaklanmaktadır?",
+    "options": {
+      "A": "Bu kitap bana yeni bir bakış açısı kazandırdı.",
+      "B": "Yazar, romanını bir yılda tamamlamış.",
+      "C": "Kitap, birçok dile çevrilmiş.",
+      "D": "Bu kitap bana çok yararlı faydalar sağladı.",
+      "E": "Kitabın son bölümü beni çok etkiledi."
+    },
+    "answer": "D",
+    "solution": "“Yararlı” ve “fayda” aynı anlamı taşır; birlikte kullanılması gereksiz tekrardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (gereksiz sözcük)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-051",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+    "options": {
+      "A": "Pek çok öğrenci sınava hazırlanıyor.",
+      "B": "Herşey yolunda gittiği için çok mutluyuz.",
+      "C": "Bu konuda birçok kişi aynı fikirde.",
+      "D": "Bir şey söylemeden odadan çıktı.",
+      "E": "Yarın sabah erkenden yola çıkacağız."
+    },
+    "answer": "B",
+    "solution": "“Her şey” ayrı yazılır; “herşey” yanlıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-052",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerden hangisi yazım bakımından yanlıştır?",
+    "options": {
+      "A": "Yinede başarılı olacağına inanıyorum.",
+      "B": "Kimse bu soruyu çözemedi.",
+      "C": "Onu ben de çok severim.",
+      "D": "Konuşmanın ardından salonda derin bir sessizlik oldu.",
+      "E": "Yağmur yağdığı hâlde yine de dışarı çıktık."
+    },
+    "answer": "A",
+    "solution": "“Yine de” bağlacı ayrı yazılır; “yinede” yanlıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-053",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde bir sözcük yanlış yazılmıştır?",
+    "options": {
+      "A": "Sınavdan önce birkaç saat dinlendik.",
+      "B": "Hiçbir şey beni bu kadar etkilememişti.",
+      "C": "Birkaç gün sonra tatile çıkacağız.",
+      "D": "Bir kaç kişi kapının önünde bekliyordu.",
+      "E": "Her gün yarım saat yürüyüş yapıyorum."
+    },
+    "answer": "D",
+    "solution": "“Birkaç” bitişik yazılır; “bir kaç” yanlıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-054",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde yazım hatası yapılmıştır?",
+    "options": {
+      "A": "Sana da teşekkür ederim.",
+      "B": "Hava soğuk ama yine de dışarı çıktık.",
+      "C": "Ben de sinemaya gideceğim.",
+      "D": "Bu kitabı sende okumalısın.",
+      "E": "Evde kimse yoktu."
+    },
+    "answer": "D",
+    "solution": "“Sen de” bağlacı ayrı yazılır; “sende” yazımı bu anlamda yanlıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-055",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde noktalama (kesme işareti) yanlışı vardır?",
+    "options": {
+      "A": "Türkiye'nin başkenti Ankara'dır.",
+      "B": "Ali, Ayşe'ye kitabı verdi.",
+      "C": "Eskişehir'den gelen tren geç kaldı.",
+      "D": "Atatürk'ün sözleri bugün de yol gösteriyor.",
+      "E": "Ankara'lı arkadaşım yarın bize gelecek."
+    },
+    "answer": "E",
+    "solution": "Yapım eki alan sözcüklerde (Ankaralı) kesme işareti kullanılmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: noktalama (kesme işareti)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-056",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı vardır?",
+    "options": {
+      "A": "Dün akşam yemekte; çorba, pilav ve salata yedik.",
+      "B": "Kitabı okudum ama beğenmedim.",
+      "C": "Kardeşim, annem ve ben sofrayı hazırladık.",
+      "D": "Toplantıya şunlar katıldı: müdür, müdür yardımcısı ve öğretmenler.",
+      "E": "Neden geç kaldığını bana söyler misin?"
+    },
+    "answer": "A",
+    "solution": "Cümlenin tümleci olan “yemekte” sözcüğünden sonra noktalı virgül konmaz; noktalı virgül burada yanlış kullanılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: noktalama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-057",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Birçok hayvan, çevresine uyum sağlayarak hayatta kalır. Örneğin bukalemun, bulunduğu ortama göre rengini değiştirir. Kutup tilkisi de kışın beyaz tüylere bürünür.\n\nBu parçada düşünceyi geliştirme yollarından hangisine başvurulmuştur?",
+    "options": {
+      "A": "Karşılaştırma",
+      "B": "Tanık gösterme",
+      "C": "Örneklendirme",
+      "D": "Sayısal verilerden yararlanma",
+      "E": "Tanımlama"
+    },
+    "answer": "C",
+    "solution": "Yazar, ilk cümledeki genel yargıyı bukalemun ve kutup tilkisi örnekleriyle somutlaştırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: düşünceyi geliştirme yolları"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-058",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Kentte yaşam hızlı akar; kırsalda ise saatler daha ağır işler. Kentte komşuluk ilişkileri zayıflarken köyde herkes birbirini tanır.\n\nBu parçada düşünceyi geliştirme yollarından hangisine başvurulmuştur?",
+    "options": {
+      "A": "Tanımlama",
+      "B": "Tanık gösterme",
+      "C": "Karşılaştırma",
+      "D": "Sayısal verilerden yararlanma",
+      "E": "Örneklendirme"
+    },
+    "answer": "C",
+    "solution": "Kent ve köy yaşamı, benzerlik ve farklılıkları ortaya koyacak biçimde karşılaştırılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: düşünceyi geliştirme yolları"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-059",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Eğitimin önemi herkes tarafından kabul edilir. Atatürk'ün \"Hayatta en hakiki mürşit ilimdir.\" sözü bu kabulün en açık ifadesidir.\n\nBu parçada düşünceyi geliştirme yollarından hangisine başvurulmuştur?",
+    "options": {
+      "A": "Tanımlama",
+      "B": "Örneklendirme",
+      "C": "Karşılaştırma",
+      "D": "Sayısal verilerden yararlanma",
+      "E": "Tanık gösterme"
+    },
+    "answer": "E",
+    "solution": "Yazar, görüşünü güçlendirmek için Atatürk'ün bir sözüne dayanmıştır; bu, tanık gösterme yoludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: düşünceyi geliştirme yolları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-060",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Okulumuzdaki 400 öğrencinin 260'ı servisle gelmektedir. Bu oran, öğrencilerin yarıdan fazlasının ulaşım için servise bağımlı olduğunu göstermektedir.\n\nBu parçada düşünceyi geliştirme yollarından hangisine başvurulmuştur?",
+    "options": {
+      "A": "Örneklendirme",
+      "B": "Tanımlama",
+      "C": "Karşılaştırma",
+      "D": "Tanık gösterme",
+      "E": "Sayısal verilerden yararlanma"
+    },
+    "answer": "E",
+    "solution": "Yargı, öğrenci sayısı ve oranlar gibi sayısal verilerle desteklenmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: düşünceyi geliştirme yolları"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  }
+]

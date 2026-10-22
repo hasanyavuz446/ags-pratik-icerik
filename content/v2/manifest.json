@@ -1,0 +1,240 @@
+{
+  "version": "2",
+  "curriculum": "curriculum.json",
+  "packs": [
+    {
+      "ders": "sozel_yetenek",
+      "konu": "sozcukte_anlam",
+      "file": "sozel_yetenek/sozcukte_anlam.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "sozel_yetenek",
+      "konu": "cumlede_anlam",
+      "file": "sozel_yetenek/cumlede_anlam.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "sozel_yetenek",
+      "konu": "anlatimin_olusmasi",
+      "file": "sozel_yetenek/anlatimin_olusmasi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "sozel_yetenek",
+      "konu": "paragrafta_anlam",
+      "file": "sozel_yetenek/paragrafta_anlam.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "sozel_yetenek",
+      "konu": "sozel_mantik",
+      "file": "sozel_yetenek/sozel_mantik.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "sayisal_yetenek",
+      "konu": "temel_matematik",
+      "file": "sayisal_yetenek/temel_matematik.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "sayisal_yetenek",
+      "konu": "grafik_tablo_yorumlama",
+      "file": "sayisal_yetenek/grafik_tablo_yorumlama.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "sayisal_yetenek",
+      "konu": "mantiksal_muhakeme",
+      "file": "sayisal_yetenek/mantiksal_muhakeme.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "tarih",
+      "konu": "osmanli_oncesi_turk_devletleri",
+      "file": "tarih/osmanli_oncesi_turk_devletleri.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "tarih",
+      "konu": "osmanli_tarihi",
+      "file": "tarih/osmanli_tarihi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "tarih",
+      "konu": "ataturk_ilkeleri_inkilap_tarihi",
+      "file": "tarih/ataturk_ilkeleri_inkilap_tarihi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "tarih",
+      "konu": "cagdas_turk_dunya_tarihi",
+      "file": "tarih/cagdas_turk_dunya_tarihi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "turkiye_cografyasi",
+      "konu": "turkiye_fiziki_cografyasi",
+      "file": "turkiye_cografyasi/turkiye_fiziki_cografyasi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "turkiye_cografyasi",
+      "konu": "turkiye_beseri_ekonomik_cografyasi",
+      "file": "turkiye_cografyasi/turkiye_beseri_ekonomik_cografyasi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "egitimin_temelleri",
+      "file": "egitim_bilimleri/egitimin_temelleri.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "ogretim_yontem_teknikleri",
+      "file": "egitim_bilimleri/ogretim_yontem_teknikleri.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "sinif_yonetimi",
+      "file": "egitim_bilimleri/sinif_yonetimi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "program_okuryazarligi",
+      "file": "egitim_bilimleri/program_okuryazarligi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "olcme_degerlendirme",
+      "file": "egitim_bilimleri/olcme_degerlendirme.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "ogrenme_psikolojisi",
+      "file": "egitim_bilimleri/ogrenme_psikolojisi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "gelisim_psikolojisi",
+      "file": "egitim_bilimleri/gelisim_psikolojisi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "rehberlik",
+      "file": "egitim_bilimleri/rehberlik.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "egitim_ogretim_teknolojileri",
+      "file": "egitim_bilimleri/egitim_ogretim_teknolojileri.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "tmes_genel_yapisi",
+      "file": "egitim_bilimleri/tmes_genel_yapisi.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "egitim_bilimleri",
+      "konu": "maarif_modeli",
+      "file": "egitim_bilimleri/maarif_modeli.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "mevzuat",
+      "konu": "anayasa_insan_haklari",
+      "file": "mevzuat/anayasa_insan_haklari.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "mevzuat",
+      "konu": "milli_egitim_temel_kanunu",
+      "file": "mevzuat/milli_egitim_temel_kanunu.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "mevzuat",
+      "konu": "ilkogretim_ve_egitim_kanunu",
+      "file": "mevzuat/ilkogretim_ve_egitim_kanunu.json",
+      "programIds": [
+        "ags"
+      ]
+    },
+    {
+      "ders": "mevzuat",
+      "konu": "ogretmenlik_meslek_kanunu",
+      "file": "mevzuat/ogretmenlik_meslek_kanunu.json",
+      "programIds": [
+        "ags"
+      ]
+    }
+  ],
+  "revisions": "content_revisions.json",
+  "stimuli": "stimuli.json"
+}

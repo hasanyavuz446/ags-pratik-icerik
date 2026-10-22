@@ -1,0 +1,2256 @@
+[
+  {
+    "id": "ags-mev-7528-001",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Öğretmenlik Meslek Kanununda “dönem” kavramı aşağıdakilerden hangisiyle tanımlanmıştır?",
+    "options": {
+      "A": "Uygulamalı derslerin yapıldığı eğitim kurumunda geçirilen on altı haftalık süre",
+      "B": "Akademi tarafından yürütülen hazırlık eğitiminin tamamını kapsayan ve Bakanlıkça belirlenen takvimde dört yarıyıldan oluşan süre",
+      "C": "Programı ve takvimi Bakanlıkça belirlenen hazırlık eğitiminin, on haftadan az on dört haftadan fazla olmayacak şekilde planlanan her bir bölümü",
+      "D": "Derslerin başladığı günden derslerin kesildiği güne kadar geçen süre",
+      "E": "Bir ders yılının başladığı tarihten ertesi ders yılının başladığı tarihe kadar geçen süre"
+    },
+    "answer": "C",
+    "solution": "Kanunun 3. maddesine göre dönem, programı ve takvimi Bakanlıkça belirlenen hazırlık eğitiminin on haftadan az, on dört haftadan fazla olmayacak şekilde planlanan her bir bölümüdür. Derslerin başlama ve kesilme günleri arasındaki süre “ders yılı”, bir ders yılının başından ertesi ders yılının başına kadar geçen süre “eğitim öğretim yılı” kavramıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 3/1-(e)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-002",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Özel öğretim kurumlarında görev yapan öğretmenler bakımından 7528 sayılı Kanunun aşağıdaki maddelerinden hangisinin hükümleri uygulanmaz?",
+    "options": {
+      "A": "24. madde (disiplin hükümleri)",
+      "B": "18. madde (öğretmenlerin yer değiştirmesi)",
+      "C": "5. madde (öğretmenlerin hak, ödev ve sorumlulukları)",
+      "D": "20. madde (öğretmenlik mesleğinde kariyer)",
+      "E": "33. madde (eğitim çalışanlarının şiddetten korunması)"
+    },
+    "answer": "B",
+    "solution": "Kanunun 2. maddesinin birinci fıkrasının (b) bendine göre özel öğretim kurumlarındaki öğretmenler ve öğretmenliğe atanma şartını taşıyan yöneticiler bakımından yalnızca 5, 6, 20, 24, 25 ve 33. madde hükümleri uygulanır. Yer değiştirme (18. madde) bu sayımda yer almaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 2/1-(b)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-003",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir okul müdürü, öğretmenlerin eğitim öğretim faaliyetleriyle ilgili kararlara katılabilmesi için düzenli kurul toplantıları yapıyor ve bu toplantılarda öğretmenlerin görüş bildirmesini teşvik ediyor. Bu uygulama, 7528 sayılı Kanundaki aşağıdaki temel ilkelerden hangisiyle doğrudan ilgilidir?",
+    "options": {
+      "A": "Mesleğe giriş öncesi yetiştirilme ve meslekte sürekli gelişimin sağlanması",
+      "B": "Nitelikler ile görev, yetki ve sorumlulukların mesleğin gereklerine uygun belirlenmesi",
+      "C": "Yöneticilerin görev sürelerinin sınırlandırılması",
+      "D": "Atama, görevlendirme ve meslekte ilerlemede liyakat ve kariyer esaslarına uyulması",
+      "E": "Eğitim öğretim faaliyetleri ve meslekle ilgili kararlara katılımın teşvik edilmesi"
+    },
+    "answer": "E",
+    "solution": "Kanunun 4. maddesi; nitelik ve görevlerin mesleğin gereklerine uygun belirlenmesi, liyakat ve kariyer esasları, karar süreçlerine katılımın teşvik edilmesi ve ön/sürekli yetiştirmeyi temel ilke sayar. Senaryodaki uygulama katılım ilkesine dayanır; yöneticilerin görev süresini sınırlama ise 4. maddedeki ilkelerden biri değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 4/1-(c)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-004",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanunun amacı kapsamında sayılan konulardan biridir?",
+    "options": {
+      "A": "Özel öğretim kurumlarının açılış ve denetim esaslarının belirlenmesi",
+      "B": "Millî Eğitim Akademisinin kurulması, görevleri, teşkilat yapısı ve personeline ilişkin konuların düzenlenmesi",
+      "C": "Öğrencilerin ders başarısını değerlendirecek ulusal sınav sisteminin kurulması",
+      "D": "Okul öncesi eğitim kurumlarının fiziki standartlarının düzenlenmesi",
+      "E": "Yükseköğretim kurumlarında görev yapan öğretim elemanlarının atanma, yükselme ve görev süreleri esaslarının belirlenmesi"
+    },
+    "answer": "B",
+    "solution": "Kanunun 1. maddesine göre amaç; öğretmenlerin seçilmesi, yetiştirilmesi, atanması, hakları, ödev ve sorumlulukları, ödül ve cezaları, kariyer basamaklarında ilerlemeleri ile öğretmenlik mesleğine ilişkin diğer hususlar ve Millî Eğitim Akademisinin kurulması, görevleri, teşkilat yapısı ve personeline ilişkin konuların düzenlenmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 1/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-005",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir ilçe millî eğitim müdürlüğü, bir kamu kurumunun düzenlediği kermesin organizasyonunda görevlendirmek üzere bir ortaokul öğretmenini görevlendirmek istemektedir. Öğretmen bu görevlendirmeyi kabul etmemektedir. Olağanüstü hâl, genel afet veya salgın hastalık durumu yoktur ve mevzuatta bu görevi açıkça belirleyen bir hüküm bulunmamaktadır. Buna göre aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Meslekle ilgili olmayan bu görev, öğretmenin rızası olmadan verilemez.",
+      "B": "Görevlendirme için öğretmenin kıdem sırasında en alttaki öğretmen olması gerekir.",
+      "C": "Müdürlüğün yazılı emri yeterli olduğundan öğretmen görevlendirilebilir.",
+      "D": "Görevlendirme, ancak öğretmenin yıllık izin hakkından feragat etmesiyle yapılabilir.",
+      "E": "Öğretmen rıza göstermese de bir ders yılında en fazla bir kez görevlendirilebilir."
+    },
+    "answer": "A",
+    "solution": "Kanunun 5. maddesinin üçüncü fıkrasına göre öğretmenler; mevzuatta açıkça belirlenen hususlar ile olağanüstü hâl, genel afet ve salgın hastalık durumları dışında, meslekleriyle ilgili olmayan iş ve faaliyetlerde rızaları dışında görevlendirilemez. Senaryoda bu istisnaların hiçbiri yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 5/3"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-006",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmenlerin hak, ödev ve sorumluluklarına ilişkin usul ve esaslar ile eğitim öğretim süreçlerindeki diğer görevleri, 7528 sayılı Kanuna göre aşağıdakilerden hangisiyle belirlenir?",
+    "options": {
+      "A": "Okul tür ve kademelerine göre Bakanlıkça çıkarılacak yönetmelik",
+      "B": "Akademi Başkanlığınca çıkarılacak ve Akademik Kurul onayına sunulacak genelge",
+      "C": "Talim ve Terbiye Kurulunca alınacak ve Resmî Gazetede yayımlanacak ilke kararı",
+      "D": "Valiliklerce çıkarılacak yönerge",
+      "E": "Cumhurbaşkanı kararı"
+    },
+    "answer": "A",
+    "solution": "Kanunun 5. maddesinin dördüncü fıkrası, öğretmenlerin hak, ödev ve sorumluluklarına ilişkin usul ve esasların ve eğitim öğretim süreçlerindeki diğer görevlerin okul tür ve kademelerine göre Bakanlıkça çıkarılacak yönetmelikle belirleneceğini söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 5/4"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-007",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmenler, eğitim öğretim faaliyetlerini planlarken ve yürütürken aşağıdaki kanunların hangisinde düzenlenen Türk millî eğitiminin genel amaçları ve temel ilkelerine uygun davranmak zorundadır?",
+    "options": {
+      "A": "657 sayılı Devlet Memurları Kanunu",
+      "B": "222 sayılı İlköğretim ve Eğitim Kanunu",
+      "C": "2547 sayılı Yükseköğretim Kanunu",
+      "D": "1739 sayılı Millî Eğitim Temel Kanunu",
+      "E": "5580 sayılı Özel Öğretim Kurumları Kanunu"
+    },
+    "answer": "D",
+    "solution": "Kanunun 5. maddesinin birinci fıkrasının (e) bendine göre öğretmenler eğitim öğretim faaliyetlerini, 1739 sayılı Millî Eğitim Temel Kanununda düzenlenen Türk millî eğitiminin genel amaçları ve temel ilkeleri ile Bakanlıkça belirlenen öğretim programlarına uygun olarak planlar ve yürütür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 5/1-(e)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-008",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanunun 6. maddesinde yöneticilerin sorumlulukları arasında sayılan bir görev değildir?",
+    "options": {
+      "A": "Kaynakların etkin, etkili ve verimli kullanılmasını sağlamak",
+      "B": "Eğitim öğretim programlarının amaçlarına uygun yürütülmesini sağlamak",
+      "C": "Öğretmenlerin hizmet puanlarını belirlemek ve yer değiştirme tercihlerini sonuçlandırmak",
+      "D": "Eğitim öğretim faaliyetlerinin sağlıklı, güvenli ve huzurlu bir ortamda yürütülmesi için gerekli tedbirleri almak",
+      "E": "Öğretmen ve diğer çalışanların ilgi ve yeteneklerini esas alarak iş bölümü yapmak"
+    },
+    "answer": "C",
+    "solution": "Kanunun 6. maddesi yöneticilerin yönetim ve denetim görevlerini, programların amaçlarına uygun yürütülmesini, güvenli ortam tedbirlerini, kurumun sürekli gelişimini ve kaynakların verimli kullanımını, iş bölümü yapmayı sayar. Hizmet puanı ve yer değiştirme işlemleri 17 ve 18. maddelerde Bakanlık yönetmeliğine bırakılmıştır; yönetici görevi olarak sayılmamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 6/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-009",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangileri 7528 sayılı Kanunun 5. maddesinin ikinci fıkrasında öğretmenlerin görevleri arasında sayılmıştır?\n\nI. Nöbet tutmak\n\nII. Kurul ve komisyonlara katılmak\n\nIII. Okul müdürlüğüne atama yapmak",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Birinci fıkradaki sayım derse girmek, nöbet tutmak, sınavlarda görev almak, kurul ve komisyonlara, tören ve toplantılara katılmak, kulüp faaliyetleri, rehberlik hizmetleri ve uygulama gerektiren eğitimleri koordine etmeyi içerir. Bina bakım ve onarımı öğretmenin değil okul yönetiminin/ilgili birimlerin işidir; sayılmamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 5/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-010",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanunun 5. maddesinde öğretmenlerin öğrencilere karşı sorumlulukları arasında yer almaz?",
+    "options": {
+      "A": "Öğrencilerin sınıf tekrarı ve başarısızlık kararlarını tek başına vermek",
+      "B": "Öğrencilerin bedensel, zihinsel, duygusal, sosyal ve ahlaki gelişimi için meslektaşları, aile ve veli ile iş birliği yapmak",
+      "C": "Öğrencilerin eğitim öğretim ortamında her türlü olumsuz söz, tavır ve davranıştan korunması için çaba göstermek",
+      "D": "Öğrencilerin öğrenme biçimleri ile ilgi ve yeteneklerini dikkate almak ve kişilik haklarına saygı göstermek",
+      "E": "Öğrencilerin gelişim özelliklerine ve öğrenme ihtiyaçlarına uygun eğitim araç ve gereçlerini seçmek"
+    },
+    "answer": "A",
+    "solution": "5. maddenin birinci fıkrası öğretmenin; öğrencileri erdemli insanlar olarak yetiştirmesini, gelişimleri için çaba göstermesini ve iş birliği yapmasını, öğrenme biçimleri ile ilgi ve yeteneklerini dikkate almasını, olumsuz söz ve davranışlardan korumasını ve gelişim özelliklerine uygun araç-gereç ile yöntem-tekniği seçmesini sayar. Sınıf tekrarı kararını tek başına vermek bu hükümler arasında değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 5/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-011",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre öğretmenlik mesleğinin niteliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Mesleğe giriş için genel kültür ve alan bilgisi bakımından yazılı bir sınavı yeterli sayan bir memuriyet türüdür.",
+      "B": "Özel alan eğitimi bakımından hazırlık gerektiren, genel kültür ve meslek bilgisi aranmayan teknik bir meslektir.",
+      "C": "Genel kültür, özel alan eğitimi ve öğretmenlik meslek bilgisi hazırlığı gerektiren özel bir ihtisas mesleğidir.",
+      "D": "Meslek yeterlikleri, her okul türü için ayrı bir kanunla belirlenen bir uzmanlık alanıdır.",
+      "E": "Öğretmenlik meslek bilgisi yeterliği, meslek içinde kariyer basamağına çıkışta aranan bir ölçüttür."
+    },
+    "answer": "C",
+    "solution": "7. maddenin birinci fıkrasına göre öğretmenlik; genel kültür, özel alan eğitimi ve öğretmenlik meslek bilgisi bakımından hazırlığı gerektiren özel bir ihtisas mesleğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 7/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-012",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen adayının mezun olduğu yükseköğretim programına göre 7528 sayılı Kanundaki hazırlık eğitimi süresi en az kaç dönem olarak uygulanabilir?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "2",
+      "D": "6",
+      "E": "4"
+    },
+    "answer": "A",
+    "solution": "8. maddenin üçüncü fıkrasına göre hazırlık eğitiminin süresi dört dönemdir; bu süre, adayın mezun olduğu yükseköğretim programına göre üç dönem olarak uygulanabilir. Dolayısıyla uygulanabilecek en kısa süre üç dönemdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 8/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-013",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre hazırlık eğitimini veren kurum ile öğretmenlik mesleği yeterliklerini belirleyen kurum aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+    "options": {
+      "A": "Hazırlık eğitimini Akademi verir; yeterlikleri Ölçme, Seçme ve Yerleştirme Merkezi belirler.",
+      "B": "Hazırlık eğitimini Akademi verir; yeterlikleri Bakanlık belirler.",
+      "C": "Hazırlık eğitimini il millî eğitim müdürlükleri verir; yeterlikleri Talim ve Terbiye Kurulu belirler.",
+      "D": "Hazırlık eğitimini Bakanlık verir; yeterlikleri Akademi belirler.",
+      "E": "Hazırlık eğitimini üniversiteler verir; yeterlikleri Yükseköğretim Kurulu belirler."
+    },
+    "answer": "B",
+    "solution": "8. maddeye göre teorik ve uygulamalı derslerden oluşan hazırlık eğitimi Akademi tarafından verilir; bilgi, beceri, tutum ve değerleri içeren öğretmenlik mesleği yeterlikleri ise Bakanlıkça belirlenir. (27. maddenin (ç) bendi Akademiye yeterlikleri güncelleme görevi verir, ancak belirleme yetkisi 8. maddede Bakanlıktadır.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 8/1-2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-014",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmen olarak istihdam edilecekler, 7528 sayılı Kanuna göre aşağıdaki niteliklere sahip olanlar arasından seçilir:",
+    "options": {
+      "A": "Önlisans düzeyinde öğretmenlik alanına kaynak teşkil eden programlardan mezun olanlar",
+      "B": "En az lisans mezunu olup hazırlık eğitiminde başarılı olanlar",
+      "C": "Eğitim fakültelerinden mezun olan ve merkezî sınavda belirlenen puanı alanlar",
+      "D": "En az yüksek lisans düzeyinde eğitim bilimleri alanında mezun olan ve Akademide görev alanlar",
+      "E": "Lisans mezunu olup Bakanlıkça yapılacak mülakatta başarılı olanlar"
+    },
+    "answer": "B",
+    "solution": "7. maddenin ikinci fıkrasına göre öğretmen olarak istihdam edilecekler, öğretmenlik mesleğine kaynak teşkil eden en az lisans düzeyinde yükseköğretim programlarından veya denkliği kabul edilen yurt dışı programlardan mezun olan ve hazırlık eğitiminde başarılı olanlar arasından seçilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 7/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-015",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanunun 9. maddesine göre hazırlık eğitimine alınacaklarda aranan şartlardan biri değildir?",
+    "options": {
+      "A": "Askerlikle ilgisi bulunmamak",
+      "B": "Sağlık durumu yönünden öğretmenlik görevini yapmasına engel bir durumu olmamak",
+      "C": "Kamu haklarından mahrum bulunmamak",
+      "D": "Daha önce herhangi bir kamu kurumunda en az bir yıl görev yapmış olmak",
+      "E": "Öğretmenliğe atanacağı alan için Bakanlıkça belirlenen yükseköğretim programlarından mezun olmak"
+    },
+    "answer": "D",
+    "solution": "9. maddenin birinci fıkrası; Türk vatandaşı olmayı, kamu haklarından mahrum olmamayı, sayılan suçlardan mahkûm olmamayı, memuriyetten çıkarılmamış veya öğretmenliği 25. maddeye göre sona ermemiş olmayı, askerlikle ilgisi bulunmamayı, alana uygun yükseköğretim programından mezun olmayı, ÖSYM sınavından belirlenen puana sahip olmayı ve sağlık şartını sayar. Kamuda belirli süre görev yapmış olmak şart değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 9/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-016",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimine alınacak adaylar 7528 sayılı Kanuna göre nasıl belirlenir?",
+    "options": {
+      "A": "Hizmet puanı ve mezuniyet yılı üstünlüğüne göre",
+      "B": "Lisans not ortalaması üstünlüğüne göre, atama izni verilen pozisyon sayısına bağlı kalmaksızın",
+      "C": "Atama izni verilen pozisyon sayısını geçmemek üzere, ÖSYM sınav puanı üstünlüğüne göre",
+      "D": "Başvuranlar arasında Bakanlıkça yapılacak kura ile",
+      "E": "Akademi tarafından yapılan sözlü sınavdaki başarı sırasına göre"
+    },
+    "answer": "C",
+    "solution": "9. maddenin ikinci fıkrasına göre hazırlık eğitimine alınacak adaylar, atama izni verilen pozisyon sayısını geçmemek üzere, ÖSYM sınavından alınan puanın üstünlüğüne göre belirlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 9/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-017",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Millî sporcu statüsündeki bir öğretmen adayının 7528 sayılı Kanuna göre hazırlık eğitimine alınmasında aşağıdakilerden hangisi uygulanır?",
+    "options": {
+      "A": "Güvenlik soruşturması ve arşiv araştırması hariç tüm şartlar aranır.",
+      "B": "Vatandaşlık, sağlık ve askerlik şartları aranır; sınav puanı ve diğer şartlar aranmaz.",
+      "C": "Sınav puanı şartı dışındaki diğer şartlar aranır.",
+      "D": "Sınav puanı şartı aranır; diğer şartlar millî sporcu belgesiyle karşılanır.",
+      "E": "Bütün şartlar aranır, ancak sınav puanı şartı Bakanlıkça düşürülebilir."
+    },
+    "answer": "C",
+    "solution": "9. maddenin üçüncü fıkrasına göre 2828 sayılı Sosyal Hizmetler Kanunu ve 3713 sayılı Terörle Mücadele Kanunu kapsamındaki ile millî sporcu statüsündeki öğretmen adaylarının hazırlık eğitimine alınmasında sınav puanı şartı (f bendi) dışındaki diğer şartlar aranır. Güvenlik soruşturması ve arşiv araştırması ise dördüncü fıkra gereği herkese yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 9/3-4"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-018",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimine alınacaklara, 7528 sayılı Kanuna göre hangi kanun uyarınca güvenlik soruşturması ve arşiv araştırması yapılır?",
+    "options": {
+      "A": "5237 sayılı Türk Ceza Kanunu",
+      "B": "7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
+      "C": "3713 sayılı Terörle Mücadele Kanunu",
+      "D": "657 sayılı Devlet Memurları Kanunu",
+      "E": "6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun"
+    },
+    "answer": "B",
+    "solution": "9. maddenin dördüncü fıkrası, hazırlık eğitimine alınacaklara 7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanununa göre güvenlik soruşturması ve arşiv araştırması yapılacağını belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 9/4"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-019",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Kasten işlediği bir suçtan dolayı bir yıl hapis cezası almış olan ve bu cezası affa uğramış bulunan bir kişi, ilgili ceza sürelerinin geçmiş olmasına karşın 7528 sayılı Kanuna göre hazırlık eğitimine alınabilmek için hangi suçlardan mahkûm olmamış olmalıdır?",
+    "options": {
+      "A": "Disiplin cezası gerektiren fiillerden",
+      "B": "Kamu görevlisinin görevi sırasında işlediği ve en az bir yıl hapis gerektiren suçlardan",
+      "C": "Zimmet, rüşvet ve dolandırıcılık gibi 9. maddede sayılan suçlardan",
+      "D": "Taksirle işlenen suçlardan",
+      "E": "Para cezasıyla sonuçlanan suçlardan"
+    },
+    "answer": "C",
+    "solution": "9. maddenin birinci fıkrasının (c) bendi, TCK m. 53'te belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan bir yıl veya daha fazla hapis cezasına ya da affa uğramış olsa bile devletin güvenliğine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık gibi sayılan suçlardan mahkûm olmamayı şart koşar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 9/1-(c)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-020",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimindeki bir öğretmen adayı teorik derslerden birinden başarısız olmuş, bu ders için verilen ek sınavda da 55 puan almıştır. Buna göre aşağıdakilerden hangisi gerçekleşir?",
+    "options": {
+      "A": "Adayın Akademiyle ilişiği kesilir.",
+      "B": "Aday bir sonraki dönemde dersi yeniden alma hakkı kazanır.",
+      "C": "Aday ikinci bir ek sınava girebilir.",
+      "D": "Aday bir ödeme kesintisi cezasıyla eğitime devam ettirilir.",
+      "E": "Aday uygulamalı derslerdeki başarısıyla bu dersi telafi eder."
+    },
+    "answer": "A",
+    "solution": "10. maddenin birinci fıkrasına göre teorik derslerden başarısız olanlara her ders için bir ek sınav hakkı verilir; ek sınavdan altmış ve üzeri alanlar başarılı sayılır. Ek sınavlar sonunda herhangi bir dersten başarısız olanların Akademiyle ilişiği kesilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 10/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-021",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen adayının uygulamalı eğitimde üç değerlendirmeden aldığı puanlar sırasıyla 60, 70 ve 80’dir. 7528 sayılı Kanundaki ağırlıklar uygulandığında adayın uygulamalı ders başarı puanı kaçtır?",
+    "options": {
+      "A": "67",
+      "B": "71",
+      "C": "75",
+      "D": "73",
+      "E": "70"
+    },
+    "answer": "D",
+    "solution": "10. maddenin ikinci fıkrasına göre uygulamalı ders başarı puanı; birinci değerlendirmenin %20'si, ikincinin %30'u ve üçüncünün %50'si alınarak bulunur: 0,20×60 + 0,30×70 + 0,50×80 = 12 + 21 + 40 = 73. Aritmetik ortalama (70) bu hesabın karşılığı değildir; ağırlıklar ters kullanılırsa 67 çıkar. Başarı için yüz üzerinden en az yetmiş gerekir; aday başarılıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 10/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-022",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitiminde öğretmen adayının uygulamalı derslerdeki üç değerlendirmesi hangi kişilerce doldurulan formlar üzerinden yapılır?",
+    "options": {
+      "A": "Disiplin Kurulu üyeleri, uygulama öğretmeni ve aday öğretmenler",
+      "B": "Akademik Kurul üyeleri, okul müdür yardımcısı ve öğrenci temsilcisi",
+      "C": "Akademi Başkanı, il millî eğitim müdürü ve okul aile birliği başkanı",
+      "D": "İlçe millî eğitim müdürü, Akademi eğitim ve uygulama merkezi müdürü ve il müfettişi",
+      "E": "Uygulamadan sorumlu eğitim personeli, eğitim kurumunun müdürü ve uygulama öğretmeni"
+    },
+    "answer": "E",
+    "solution": "10. maddenin ikinci fıkrasına göre öğretmen adayı üç defa değerlendirilir; değerlendirme uygulamadan sorumlu eğitim personeli, uygulamanın yapıldığı eğitim kurumunun müdürü ve uygulama öğretmeni tarafından, Akademi tarafından oluşturulan değerlendirme formları üzerinden ayrı ayrı yapılır ve puanların aritmetik ortalaması alınır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 10/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-023",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen adayının teorik derslerinin başarı notlarının aritmetik ortalaması 80, uygulamalı derslerinin başarı notlarının aritmetik ortalaması 90’dır. 7528 sayılı Kanuna göre atamaya esas başarı puanı kaçtır?",
+    "options": {
+      "A": "88",
+      "B": "84",
+      "C": "82",
+      "D": "86",
+      "E": "85"
+    },
+    "answer": "D",
+    "solution": "10. maddenin üçüncü fıkrasına göre atamaya esas başarı puanı, teorik derslerin ortalamasının %40'ı ile uygulamalı derslerin ortalamasının %60'ı toplanarak bulunur: 0,40×80 + 0,60×90 = 32 + 54 = 86. Ağırlıklar ters alınırsa 84, aritmetik ortalama alınırsa 85 bulunur; ikisi de yanlıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 10/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-024",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Belgeye dayalı sağlık mazereti nedeniyle hazırlık eğitimi süresince toplam 25 gün eğitime katılamayan bir öğretmen adayı hakkında 7528 sayılı Kanuna göre aşağıdakilerden hangisi uygulanır?",
+    "options": {
+      "A": "Eksik günler uygulamalı derslerin ağırlığı artırılarak ve ek ders saatleriyle telafi edilir; eğitimi kesintisiz sürer.",
+      "B": "Kaydı dondurulur ancak dondurma süresince aylık ödeme tam tutarda yapılmaya devam eder.",
+      "C": "Mazereti ortadan kalkınca ilk programa tekrar alınmak üzere kaydı dondurulur; bu süre boyunca ödeme yapılmaz.",
+      "D": "Eğitime devam eder ve eksik gün sayısı kadar hazırlık eğitimi süresi uzatılır; ödemesi sürer.",
+      "E": "Akademiyle ilişiği kesilir ve bir yıl süreyle hazırlık eğitimine başvuramaz."
+    },
+    "answer": "C",
+    "solution": "10. maddenin dördüncü fıkrasına göre belgeye dayalı sağlık mazeretleri sebebiyle toplam yirmi gün ve üzeri eğitime katılamayanların kayıtları, mazeretin ortadan kalkmasını izleyen ilk programa tekrar alınmak üzere dondurulur. 14. maddenin birinci fıkrası gereği bu süre boyunca ödeme yapılmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 10/4, m. 14/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-025",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitiminde uygulama öğretmeninin belirlenmesinde, öğretmen adayıyla aynı alanda olmak şartıyla, uygulamalı eğitimin yapıldığı eğitim kurumundaki öğretmenler arasında hangi sıra gözetilir?",
+    "options": {
+      "A": "Sırasıyla başöğretmen, uzman öğretmen, en fazla hizmet süresi bulunan öğretmen",
+      "B": "Sırasıyla uzman öğretmen, başöğretmen, en az hizmet süresi bulunan öğretmen",
+      "C": "Sırasıyla başöğretmen, hizmet puanı en yüksek öğretmen, uzman öğretmen",
+      "D": "Sırasıyla en fazla hizmet süresi bulunan öğretmen, uzman öğretmen, başöğretmen",
+      "E": "Sırasıyla yönetici olarak görev yapan öğretmen, başöğretmen, uzman öğretmen"
+    },
+    "answer": "A",
+    "solution": "10. maddenin beşinci fıkrasına göre uygulama öğretmeninin, aynı alanda olmak şartıyla, uygulamalı eğitimin yapıldığı kurumdaki sırasıyla başöğretmen, uzman öğretmen, en fazla hizmet süresi bulunan öğretmenler arasından belirlenmesi esastır; aynı alanda öğretmen bulunamazsa aynı sıralama dikkate alınarak farklı alandan görevlendirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 10/5"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-026",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanuna göre öğretmen adayının Akademi ile ilişiğinin kesilmesi sonucunu doğurur?",
+    "options": {
+      "A": "Hazırlık eğitimine mazeretsiz olarak toplam iki gün katılmamak",
+      "B": "Akademi personelini tehdit etmek",
+      "C": "Hazırlık eğitiminde başarısız olmak",
+      "D": "Sınavlarda kopya çekmeye teşebbüs etmek",
+      "E": "Akademinin düzen ve işleyişini olumsuz etkileyen davranışlarda bulunmak"
+    },
+    "answer": "C",
+    "solution": "11. maddeye göre hazırlık eğitiminde başarısız olanların Akademi ile ilişiği kesilir. Diğer seçeneklerdeki fiiller 12. maddede kınama veya ödeme kesintisi cezasını gerektirir; ilişik kesilmesi için ayrıca Akademiden çıkarma cezası veya başka bir 11. madde nedeni gerekir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 11/1-(c)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-027",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimi sırasında kasten işlenen bir suçtan dolayı bir yıl hapis cezasına mahkûm olan bir öğretmen adayı hakkında 7528 sayılı Kanuna göre aşağıdakilerden hangisi uygulanır?",
+    "options": {
+      "A": "Ödeme kesintisi cezası verilir; ödemesinin onda biri kesilir.",
+      "B": "Disiplin soruşturması sonuçlanıncaya kadar uygulamalı derslerden muaf tutulur.",
+      "C": "Kınama cezası verilir ve eğitimine devam eder.",
+      "D": "Aranan şartlardan birini kaybettiği için Akademi ile ilişiği kesilir.",
+      "E": "Kaydı dondurulur ve mazereti ortadan kalkınca eğitimine devam eder."
+    },
+    "answer": "D",
+    "solution": "11. maddenin (a) bendine göre 9. maddenin birinci fıkrasındaki şartlardan birini taşımadığı sonradan anlaşılanların veya hazırlık eğitimi sırasında bu şartlardan birini kaybedenlerin Akademi ile ilişiği kesilir. Sayılan türden bir suçtan mahkûm olmamak 9. maddede şarttır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 11/1-(a), m. 9/1-(c)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-028",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre öğretmen adayına uygulanan “kınama” cezası aşağıdakilerden hangisini ifade eder?",
+    "options": {
+      "A": "Öğretmen adayının aylık ödemesinden onda bir oranında kesinti yapılması",
+      "B": "Öğretmen adayının hazırlık eğitiminin bir dönem süreyle durdurulması",
+      "C": "Öğretmen adayına, fiil ve davranışında kusurlu olduğunun bildirilmesi",
+      "D": "Öğretmen adayının uygulamalı derslerdeki puanından düşüş yapılması",
+      "E": "Öğretmen adayının Akademi ile ilişiğinin kesilmesi"
+    },
+    "answer": "C",
+    "solution": "12. maddenin birinci fıkrasının (a) bendine göre kınama, öğretmen adayına fiil ve davranışında kusurlu olduğunun bildirilmesidir. Ödeme kesintisi 14. maddedeki ödemeden 1/10 oranında kesinti, Akademiden çıkarma ise ilişiğin kesilmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(a)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-029",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre öğretmen adayına verilen “ödeme kesintisi” cezası aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "14. maddede düzenlenen ödemenin bir ay süreyle durdurulması",
+      "B": "14. maddede düzenlenen ödemeden 1/8 oranında kesinti yapılması",
+      "C": "Aylıktan iki günlük tutar kadar kesinti yapılması",
+      "D": "14. maddedeki ödemeden 1/10 oranında kesinti yapılması",
+      "E": "Sağlık sigortası primlerinin adaya yükletilmesi"
+    },
+    "answer": "D",
+    "solution": "12. maddenin birinci fıkrasının (b) bendine göre ödeme kesintisi, 14. maddede düzenlenen ödemeden 1/10 oranında kesinti yapılmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(b)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-030",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimine mazeretsiz olarak toplam dört gün katılmayan bir öğretmen adayına 7528 sayılı Kanuna göre verilecek disiplin cezası aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Akademiden çıkarma",
+      "B": "Uyarma",
+      "C": "Kınama",
+      "D": "Aylıktan kesme",
+      "E": "Ödeme kesintisi"
+    },
+    "answer": "E",
+    "solution": "Mazeretsiz devamsızlıkta eşikler; toplam iki gün için kınama, toplam dört gün için ödeme kesintisi, toplam altı gün için Akademiden çıkarmadır (12/1-(a)-3, (b)-3, (c)-10).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(b)-3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-031",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmen adaylarının mazeretsiz devamsızlığı ve buna karşılık gelen disiplin cezaları ile ilgili aşağıdaki eşleştirmelerden hangileri 7528 sayılı Kanuna uygundur?\n\nI. Toplam iki gün — kınama\n\nII. Toplam dört gün — ödeme kesintisi\n\nIII. Toplam beş gün — Akademiden çıkarma",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "C",
+    "solution": "12. maddeye göre toplam iki gün devamsızlık kınama, toplam dört gün ödeme kesintisi, toplam altı gün Akademiden çıkarma cezasını gerektirir. Beş gün için ayrı bir eşik yoktur; Akademiden çıkarma eşiği altı gündür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-032",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir sınavda öğretmen adayları için şu durumlar yaşanmıştır: A adayı kopya çekmeye teşebbüs etmiş, B adayı kopya çekmiş, C adayı ise başkasının yerine sınava girmiştir. 7528 sayılı Kanuna göre bu adaylara verilecek cezalar aşağıdakilerden hangisinde doğru sıralanmıştır?",
+    "options": {
+      "A": "A: ödeme kesintisi · B: Akademiden çıkarma · C: Akademiden çıkarma",
+      "B": "A: kınama · B: ödeme kesintisi · C: Akademiden çıkarma",
+      "C": "A: ödeme kesintisi · B: ödeme kesintisi · C: Akademiden çıkarma",
+      "D": "A: kınama · B: Akademiden çıkarma · C: Akademiden çıkarma",
+      "E": "A: kınama · B: kınama · C: ödeme kesintisi"
+    },
+    "answer": "B",
+    "solution": "Sınavlarda kopya çekmeye teşebbüs kınama (12/1-(a)-2); kopya çekmek veya çektirmek ödeme kesintisi (12/1-(b)-7); kendi yerine başkasını sınava sokmak veya başkasının yerine sınava girmek Akademiden çıkarma (12/1-(c)-11) cezasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-033",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Akademiye ait alanlarda alkollü içki içen bir öğretmen adayına 7528 sayılı Kanuna göre uygulanacak ceza aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Akademiden çıkarma",
+      "B": "Ödeme kesintisi",
+      "C": "Hazırlık eğitiminin tekrarı",
+      "D": "Uyarma",
+      "E": "Kınama"
+    },
+    "answer": "B",
+    "solution": "12. maddenin birinci fıkrasının (b) bendinin 2. alt bendine göre Akademiye ait alanlarda alkollü içki içmek veya Akademiye sarhoş gelmek ödeme kesintisi cezasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(b)-2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-034",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimine giriş başvurusunda istenen bir belgeyi tahrif edilmiş olarak sunduğu sonradan anlaşılan öğretmen adayına 7528 sayılı Kanuna göre verilecek disiplin cezası aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Atamaya esas başarı puanının düşürülmesi",
+      "B": "Kınama",
+      "C": "Akademiden çıkarma",
+      "D": "Uyarma",
+      "E": "Ödeme kesintisi"
+    },
+    "answer": "C",
+    "solution": "12. maddenin birinci fıkrasının (c) bendinin 9. alt bendine göre hazırlık eğitimine giriş başvurusunda veya eğitim sürecinde istenilen belgeleri gerçeğe aykırı düzenlenmiş veya tahrif edilmiş olarak sunmak Akademiden çıkarma cezasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(c)-9"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-035",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanuna göre öğretmen adayına “kınama” cezası verilmesini gerektiren fiil ve davranışlardan biri değildir?",
+    "options": {
+      "A": "Akademi personelini ya da öğretmen adaylarını kaba veya yaralayıcı sözle rencide etmek",
+      "B": "Akademinin sunduğu imkânlardan hakkı olmaksızın yararlanmak",
+      "C": "Akademinin düzen ve işleyişini olumsuz etkileyen davranışlarda bulunmak",
+      "D": "Sınavlarda kopya çekmeye teşebbüs etmek",
+      "E": "Akademi personelini veya öğretmen adaylarını tehdit etmek"
+    },
+    "answer": "E",
+    "solution": "Tehdit, 12/1-(b)-6 uyarınca ödeme kesintisi cezasını gerektirir. Diğer dört fiil ise kınama cezasını gerektiren davranışlar arasında sayılmıştır (12/1-(a)).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(a), (b)-6"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-036",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanuna göre öğretmen adayına “ödeme kesintisi” cezası verilmesini gerektiren fiil ve davranışlardan biri değildir?",
+    "options": {
+      "A": "Sınavlarda kopya çekmek veya çektirmek",
+      "B": "Akademi personelini ya da öğretmen adaylarını kaba veya yaralayıcı sözle rencide etmek",
+      "C": "Kasıtlı olarak Akademi bünyesindeki bina, demirbaş eşya ve benzeri malzemeyi tahrip etmek",
+      "D": "Akademi yetkililerince istenilen bilgileri kasıtlı olarak eksik veya gerçeğe aykırı bildirmek",
+      "E": "Kişilerin şeref ve haysiyetini zedeleyen söz, davranış veya yazılı eylemlerde bulunmak"
+    },
+    "answer": "B",
+    "solution": "Kaba veya yaralayıcı sözle rencide etmek 12/1-(a)-5 uyarınca kınama cezasını gerektirir; şeref ve haysiyeti zedeleyen söz ve eylemler ise (b)-5 uyarınca ödeme kesintisi cezasını gerektirir. İkisi birbirine benzese de ayrı kademelerdedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(a)-5, (b)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-037",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanuna göre öğretmen adayına “Akademiden çıkarma” cezası verilmesini gerektiren fiil ve davranışlardan biridir?",
+    "options": {
+      "A": "Kişilerin şeref ve haysiyetini zedeleyen söz, davranış veya yazılı eylemlerde bulunmak",
+      "B": "Sınavlarda kopya çekmek veya çektirmek",
+      "C": "Akademi görevlilerine veya öğretmen adaylarına karşı cebir ve şiddet kullanmak",
+      "D": "Akademinin düzen ve işleyişini olumsuz etkileyen davranışlarda bulunmak",
+      "E": "Akademi personelini veya öğretmen adaylarını tehdit etmek"
+    },
+    "answer": "C",
+    "solution": "Akademi görevlilerine veya öğretmen adaylarına karşı cebir ve şiddet kullanmak 12/1-(c)-4 uyarınca Akademiden çıkarma cezasını gerektirir. Tehdit ve şeref/haysiyeti zedeleme ödeme kesintisi, düzen ve işleyişi bozma kınama, kopya çekmek veya çektirmek ödeme kesintisi cezası kapsamındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(c)-4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-038",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Kanunda tek tek sayılmayan, ancak nitelik ve ağırlıkları itibarıyla 12. maddede sayılan bir fiile benzeyen bir eylemde bulunan öğretmen adayı hakkında 7528 sayılı Kanuna göre hangi yol izlenir?",
+    "options": {
+      "A": "Fiil sayılmadığı için disiplin cezası verilemez.",
+      "B": "Disiplin soruşturması açılmaksızın kınama cezası verilir.",
+      "C": "Benzerlik Akademik Kurulca belirlenir ve Akademiden çıkarma cezası verilir.",
+      "D": "Ceza verilmez; eksik kalan hazırlık eğitimi ek dönemle tamamlattırılır.",
+      "E": "Benzer olduğu fiile ilişkin aynı neviden disiplin cezası verilir."
+    },
+    "answer": "E",
+    "solution": "12. maddenin ikinci fıkrasına göre birinci fıkrada sayılan ve disiplin cezası verilmesini gerektiren fiil ve davranışlara nitelik ve ağırlıkları itibarıyla benzer eylemlerde bulunanlara da aynı neviden disiplin cezaları verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-039",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen adayı Akademide yürütülen derslerin görüntülerini ilgili mevzuatta belirlenmiş usuller dışında paylaşmıştır; bir öğretmen de öğrencilere ilişkin görüntüleri aynı biçimde paylaşmıştır. 7528 sayılı Kanuna göre bu iki kişiye verilecek ceza aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İkisine de kınama",
+      "B": "Adaya Akademiden çıkarma, öğretmene kınama",
+      "C": "Adaya ödeme kesintisi, öğretmene kınama",
+      "D": "İkisine de ödeme kesintisi",
+      "E": "Adaya kınama, öğretmene aylıktan kesme"
+    },
+    "answer": "A",
+    "solution": "Akademide yürütülen eğitim faaliyetlerine ilişkin ses veya görüntüleri usuller dışında paylaşmak aday için 12. maddenin (a)-7 bendi uyarınca; öğrencilere ve eğitim süreçlerine ilişkin ses veya görüntüleri usuller dışında paylaşmak ise öğretmen ve yöneticiler için 24. maddenin birinci fıkrasının (a) bendi uyarınca kınama cezasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(a)-7, m. 24/1-(a)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-040",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdaki fiillerden hangileri 7528 sayılı Kanuna göre öğretmen adayına “ödeme kesintisi” cezası verilmesini gerektirir?\n\nI. Sınavlarda kopya çekmek veya çektirmek\n\nII. Akademinin düzen ve işleyişini olumsuz etkileyen davranışlarda bulunmak\n\nIII. Kişilerin şeref ve haysiyetini zedeleyen söz veya davranışlarda bulunmak",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "D",
+    "solution": "Sınavlarda kopya çekmek veya çektirmek (b-7) ve şeref ve haysiyeti zedeleyen söz ve davranışlar (b-5) ödeme kesintisi cezasını gerektirir. Akademinin düzen ve işleyişini olumsuz etkileyen davranışlar ise kınama cezası kapsamındadır (a-6).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(a)-6, (b)-5, (b)-7"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-041",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdaki fiillerden hangileri 7528 sayılı Kanuna göre öğretmen adayına “Akademiden çıkarma” cezası verilmesini gerektirir?\n\nI. Hazırlık eğitimine mazeretsiz olarak toplam altı gün katılmamak\n\nII. Sınavlarda kopya çekmeye teşebbüs etmek\n\nIII. Akademi personelini ya da öğretmen adaylarını kaba veya yaralayıcı sözle rencide etmek",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Yalnızca toplam altı gün mazeretsiz devamsızlık Akademiden çıkarmayı gerektirir (c-10). Kopya çekmeye teşebbüs (a-2) ve kaba veya yaralayıcı sözle rencide etmek (a-5) ise kınama cezası kapsamındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(a)-2, (a)-5, (c)-10"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-042",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen adayının aşağıdaki iki eylemi için 7528 sayılı Kanuna göre hangi cezalar verilir? A: Akademi yetkililerince istenilen bilgileri kasıtlı olarak eksik bildirmiştir. B: Hazırlık eğitimine giriş başvurusunda istenen belgeyi gerçeğe aykırı düzenlenmiş olarak sunmuştur.",
+    "options": {
+      "A": "A için ödeme kesintisi, B için Akademiden çıkarma",
+      "B": "A için ödeme kesintisi, B için kınama",
+      "C": "A için Akademiden çıkarma, B için ödeme kesintisi",
+      "D": "A için kınama, B için ödeme kesintisi",
+      "E": "A için kınama, B için Akademiden çıkarma"
+    },
+    "answer": "A",
+    "solution": "Yetkililerce istenen bilgilerin kasıtlı olarak eksik veya gerçeğe aykırı bildirilmesi 12/1-(b)-1 uyarınca ödeme kesintisi; başvuruda veya eğitim sürecinde belgeleri gerçeğe aykırı düzenlenmiş ya da tahrif edilmiş olarak sunmak (c)-9 uyarınca Akademiden çıkarma cezasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(b)-1, (c)-9"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-043",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen adayı derslere geç gelmeyi alışkanlık hâline getirmiştir. Bu davranışı 7528 sayılı Kanuna göre hangi disiplin cezasını gerektirir?",
+    "options": {
+      "A": "Akademiden çıkarma",
+      "B": "Hazırlık eğitiminin tekrarı",
+      "C": "Ödeme kesintisi",
+      "D": "Kınama",
+      "E": "Uyarma"
+    },
+    "answer": "D",
+    "solution": "12/1-(a)-1 uyarınca ders, seminer, sınav, uygulama ve diğer eğitim öğretim ortamlarında yürütülen çalışmaların düzenini bozmak; bu çalışmalara geç gelmeyi veya erken ayrılmayı alışkanlık hâline getirmek kınama cezasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(a)-1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-044",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Akademinin bilişim sistemine ilişkin aşağıdaki iki eylemden hangisi hangi cezayı gerektirir? A: Kasıtlı olarak bilişim sistemine zarar vermek. B: Bilişim sistemine yasal olmayan yollarla girerek kendisine haksız bir çıkar sağlamak.",
+    "options": {
+      "A": "A kınama, B ödeme kesintisi",
+      "B": "A kınama, B Akademiden çıkarma",
+      "C": "A ödeme kesintisi, B Akademiden çıkarma",
+      "D": "A Akademiden çıkarma, B ödeme kesintisi",
+      "E": "A ödeme kesintisi, B kınama"
+    },
+    "answer": "C",
+    "solution": "Kasıtlı olarak Akademi bünyesindeki bina, demirbaş eşya ve benzeri malzemeyi tahrip etmek veya bilişim sistemine zarar vermek ödeme kesintisi (b-4); bilişim sistemine yasal olmayan yollarla girerek kendisine veya başkasının yararına haksız çıkar sağlamak ya da kişilerin mağduriyetine neden olmak Akademiden çıkarma (c-7) cezasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(b)-4, (c)-7"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-045",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre Akademi Disiplin Kurulu hangi üyelerden oluşur?",
+    "options": {
+      "A": "Akademi Başkanı tarafından belirlenen yedi eğitim personeli",
+      "B": "Akademik Kurul üyeleri arasından beş üye",
+      "C": "Akademik Kurul üyeleri arasından dört, daire başkanları arasından bir olmak üzere beş üye",
+      "D": "Akademik Kurul üyeleri arasından üç, daire başkanları arasından iki olmak üzere beş üye",
+      "E": "Akademi Başkanı, iki başkan yardımcısı ve iki daire başkanı olmak üzere beş üye"
+    },
+    "answer": "D",
+    "solution": "13. maddenin birinci fıkrasına göre Disiplin Kurulu, Akademi Başkanı tarafından Akademik Kurul üyeleri arasından üç, Akademide görevli daire başkanları arasından iki üye olmak üzere her bir eğitim programı süresi için belirlenecek beş üyeden oluşur; aynı usulle beş yedek üye belirlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-046",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre öğretmen adayına verilecek “kınama” ve “Akademiden çıkarma” cezalarını sırasıyla hangi merciler verir?",
+    "options": {
+      "A": "Eğitim ve uygulama merkezi müdürü · Disiplin Kurulu",
+      "B": "Akademik Kurul · Akademi İzleme ve Yönlendirme Kurulu",
+      "C": "Disiplin Kurulu · Akademik Kurul",
+      "D": "Eğitim ve uygulama merkezi müdürü · Akademik Kurul",
+      "E": "Akademi Başkanı · Disiplin Kurulu"
+    },
+    "answer": "A",
+    "solution": "13. maddenin ikinci fıkrasının (c) bendine göre kınama ve ödeme kesintisi cezaları eğitim ve uygulama merkezi müdürü tarafından; Akademiden çıkarma cezası Disiplin Kurulu tarafından verilir. Akademik Kurul ise çıkarma cezasına yapılan itirazı karara bağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/2-(c)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-047",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen adayı hakkında yürütülen disiplin soruşturmasının, soruşturmaya başlanılmasından itibaren en geç kaç gün içinde sonuçlandırılması esastır ve gerekçeli ek süre en fazla kaç güne kadar verilebilir?",
+    "options": {
+      "A": "10 gün · 10 güne kadar",
+      "B": "30 gün · 30 güne kadar",
+      "C": "15 gün · 30 güne kadar",
+      "D": "30 gün · 60 güne kadar",
+      "E": "45 gün · 15 güne kadar"
+    },
+    "answer": "B",
+    "solution": "13. maddenin üçüncü fıkrasına göre disiplin soruşturmasının soruşturmaya başlanılmasından itibaren en geç otuz gün içinde sonuçlandırılması esastır; tamamlanamazsa muhakkikler gerekçeli ek süre talep edebilir ve eğitim ve uygulama merkezi müdürü otuz güne kadar ek süre verebilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-048",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Disiplin cezası verilmeden önce savunması alınacak öğretmen adayına savunma için verilecek süre 7528 sayılı Kanuna göre en az kaç gün olmalıdır?",
+    "options": {
+      "A": "15",
+      "B": "7",
+      "C": "5",
+      "D": "10",
+      "E": "3"
+    },
+    "answer": "D",
+    "solution": "13. maddenin sekizinci fıkrasına göre disiplin cezaları öğretmen adayının savunması alındıktan sonra verilir ve savunma için verilen süre on günden az olamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/8-(a)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-049",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Akademiden çıkarma cezası verilen bir öğretmen adayı bu cezaya karşı 7528 sayılı Kanuna göre hangi sürede, hangi merciye itiraz edebilir ve itiraz hangi sürede karara bağlanır?",
+    "options": {
+      "A": "Tebliğden sonraki on beş gün içinde Akademi Başkanına · Başkan otuz gün içinde karar verir",
+      "B": "Tebliğden sonraki beş iş günü içinde Disiplin Kuruluna · Disiplin Kurulu otuz gün içinde karar verir",
+      "C": "Tebliğden sonraki beş iş günü içinde Akademik Kurula · Akademik Kurul otuz gün içinde karar verir",
+      "D": "Tebliğden sonraki on gün içinde Disiplin Kuruluna · Disiplin Kurulu yirmi gün içinde karar verir",
+      "E": "Tebliğden sonraki beş iş günü içinde Akademik Kurula · Akademik Kurul yirmi gün içinde karar verir"
+    },
+    "answer": "C",
+    "solution": "13. maddenin dokuzuncu fıkrasına göre ceza tebliğini izleyen beş iş günü içinde itiraz edilebilir; kınama ve ödeme kesintisine karşı Disiplin Kuruluna, Akademiden çıkarmaya karşı Akademik Kurula. Disiplin Kurulu yirmi gün, Akademik Kurul otuz gün içinde karar verir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/9"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-050",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimi süresinde işlenen ve Akademiden çıkarma cezasını gerektiren bir fiil ve davranışın öğrenildiği tarihten itibaren ne kadar süre içinde disiplin cezası verilmezse ceza verme yetkisi zamanaşımına uğrar?",
+    "options": {
+      "A": "Altı ay",
+      "B": "İki yıl",
+      "C": "Üç ay",
+      "D": "Beş yıl",
+      "E": "Bir yıl"
+    },
+    "answer": "E",
+    "solution": "13. maddenin altıncı fıkrasına göre kınama ve ödeme kesintisi gerektiren fiil ve davranışlarda öğrenildiği tarihten itibaren altı ay, Akademiden çıkarma gerektirenlerde bir yıl içinde ceza verilmezse yetki zamanaşımına uğrar. Ayrıca fiilin işlendiği tarihten itibaren nihayet iki yıl geçmesiyle de zamanaşımı gerçekleşir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/6"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-051",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen adayı hazırlık eğitimi süresi içinde birbirinden farklı üç fiil nedeniyle aynı derecede, yani kınama cezası gerektiren davranışta bulunmuş ve bunlar için sırasıyla kınama cezası almıştır. 7528 sayılı Kanuna göre üçüncü uygulamada ne yapılır?",
+    "options": {
+      "A": "Kınama cezası aynen verilir.",
+      "B": "Bir derece ağır ceza, yani ödeme kesintisi verilir.",
+      "C": "Ceza ağırlaştırılmaz; aday bir dönem hazırlık eğitimine ara verir.",
+      "D": "Akademiden çıkarma cezası verilir.",
+      "E": "Üçüncü fiil için ceza verilmez, ilk iki ceza birleştirilir."
+    },
+    "answer": "B",
+    "solution": "13. maddenin onuncu fıkrasına göre hazırlık eğitimi süresi içinde aynı derecede cezayı gerektiren farklı fiil veya davranışlar nedeniyle verilen disiplin cezalarının üçüncü uygulamasında bir derece ağır ceza verilir. Kınamadan bir derece ağır ceza ödeme kesintisidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/10"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-052",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmen adaylarına yönelik disiplin soruşturmasıyla ilgili aşağıdaki ifadelerden hangileri 7528 sayılı Kanuna uygundur?\n\nI. Soruşturmada gizlilik esastır.\n\nII. Aynı olaydan dolayı hakkında ceza kovuşturması başlamış olan adayın disiplin soruşturması bu kovuşturma sonuçlanıncaya kadar bekletilir.\n\nIII. Adayın disiplin suçunu işledikten sonra Akademiden ayrılmış olması soruşturma açılmasına engel değildir.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "13. maddenin dördüncü fıkrasına göre disiplin soruşturmasında gizlilik esastır; adayın disiplin suçunu işledikten sonra Akademiden ayrılmış olması soruşturmaya ve cezaların uygulanmasına engel değildir. Aynı olaydan dolayı ceza kovuşturmasının başlamış olması ise disiplin soruşturmasını geciktirmez; bu nedenle II. ifade yanlıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/4"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-053",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimini tamamladıktan sonra Akademiden çıkarma cezası uygulanan bir kişi hakkında 7528 sayılı Kanuna göre aşağıdakilerden hangisi geçerlidir?",
+    "options": {
+      "A": "Sözleşmeli öğretmen olarak istihdam edilmez.",
+      "B": "Cezanın kesinleşmesinden itibaren bir yıl sonra yeniden istihdam edilebilir.",
+      "C": "Hazırlık eğitimini yeniden alarak sözleşmeli öğretmen olabilir.",
+      "D": "Atama izni verilirse iki yıl sonra sözleşmeli öğretmen olarak istihdam edilebilir.",
+      "E": "Sözleşmeli öğretmen olarak istihdam edilir ancak kadroya atanamaz."
+    },
+    "answer": "A",
+    "solution": "13. maddenin yedinci fıkrasına göre Akademide hazırlık eğitimini tamamladıktan sonra Akademiden çıkarma cezası uygulananlar sözleşmeli öğretmen olarak istihdam edilmez; istihdam edildikten sonra Akademiden çıkarma cezası uygulananların sözleşmesi feshedilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 13/7"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-054",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimi sürecinde öğretmen adaylarına yapılan aylık ödeme hakkında 7528 sayılı Kanuna göre aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Hazırlık eğitimi süresince kaydı dondurulan adaylara da tam tutarda ödenmeye devam edilir.",
+      "B": "Gelir vergisi ve sosyal güvenlik kesintisine tabi tutulur.",
+      "C": "Gelir vergisinden muaftır; damga vergisi ve diğer kesintiler yapılır.",
+      "D": "Damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaz.",
+      "E": "Ödemenin tutarı her ay Akademi Başkanlığınca ayrıca belirlenir."
+    },
+    "answer": "D",
+    "solution": "14. maddenin birinci fıkrasına göre öğretmen adaylarına her ay 23.310 gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarda ödeme yapılır; bu ödeme damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaz. Kaydı dondurulanlara ödeme yapılmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 14/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-055",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmen adaylarının hazırlık eğitimi süresindeki sağlık güvencesi ile ilgili 7528 sayılı Kanuna göre aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Primlerin yarısı Bakanlık bütçesinden, yarısı adayın aylık ödemesinden karşılanır.",
+      "B": "Genel sağlık sigortalısı sayılırlar; primlerini kendileri öderler.",
+      "C": "Anne ve babaları bakmakla yükümlü olunan kişi sayılmadığı için sigortadan yararlanamaz.",
+      "D": "Sağlık sigortası kapsamına ancak sözleşmeli öğretmen olarak atandıktan sonra girerler.",
+      "E": "Genel sağlık sigortalısı sayılırlar; primleri Bakanlık bütçesinden karşılanır."
+    },
+    "answer": "E",
+    "solution": "14. maddenin üçüncü fıkrasına göre öğretmen adayları hazırlık eğitim sürelerinde 5510 sayılı Kanun kapsamında genel sağlık sigortalısı sayılır; adlarına Sosyal Güvenlik Kurumuna ödenecek primler, birinci fıkradaki ödemeden bağımsız olarak Bakanlık bütçesinden karşılanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 14/3"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-056",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimini başarıyla tamamlayan öğretmen adaylarının eğitim kurumlarına yerleştirilmesi 7528 sayılı Kanuna göre nasıl yapılır?",
+    "options": {
+      "A": "Bakanlıkça yapılan kura ile yapılır; adayların tercihleri ve atamaya esas başarı puanları dikkate alınmaz.",
+      "B": "Lisans mezuniyet notu esas alınarak yapılır.",
+      "C": "Hizmet puanı esas alınarak yapılır.",
+      "D": "Akademi Başkanlığının önerisiyle ve valilerin onayıyla il millî eğitim müdürlüklerince yapılır.",
+      "E": "Atamaya esas başarı puanı esas alınarak tercihleri doğrultusunda yapılır; tercih yapmayan veya yerleşemeyenlere boş kalan kurumlar için yeniden tercih hakkı verilir."
+    },
+    "answer": "E",
+    "solution": "15. maddenin birinci fıkrasına göre yerleştirme, 10. maddenin üçüncü fıkrasına göre belirlenen atamaya esas başarı puanı esas alınarak tercihler doğrultusunda yapılır; tercihte bulunmayan ve yerleşemeyenlere boş kalan kurumlar için yeniden tercih hakkı verilir, ikinci tercih döneminde de yerleşemeyenler Bakanlıkça kura ile yerleştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 15/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-057",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Yerleştirildiği eğitim kurumunda mazeretsiz olarak göreve başlamayan bir sözleşmeli öğretmen hakkında 7528 sayılı Kanuna göre aşağıdakilerden hangisi uygulanır?",
+    "options": {
+      "A": "Aynı başarı puanıyla sözleşmeli öğretmenliğe yeniden başvuramaz ve yerleştirildiği tarih itibarıyla bir yıl süreyle hazırlık eğitimine alınmaz.",
+      "B": "İki yıl süreyle kamu görevine atanamaz.",
+      "C": "Bir ders yılı boyunca aylık ödemesinin onda biri kesilir ve yeniden yerleştirilmesi için kura çekilir.",
+      "D": "Yerleştirmesi iptal edilir, ancak ikinci tercih döneminde yeniden tercih yapma hakkını kullanabilir.",
+      "E": "Üç yıl süreyle özel öğretim kurumlarında çalışamaz."
+    },
+    "answer": "A",
+    "solution": "15. maddenin birinci fıkrasına göre yerleştirildikleri eğitim kurumlarında mazeretsiz olarak göreve başlamayanlar ile göreve başladığı hâlde mazeretsiz olarak görevlerinden ayrılanlar, aldıkları atamaya esas başarı puanıyla sözleşmeli öğretmenlik için yeniden başvuruda bulunamaz ve yerleştirildikleri tarih itibarıyla bir yıl süreyle hazırlık eğitimine alınmazlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 15/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-058",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Sözleşmeli öğretmenler, can güvenliği ve sağlık mazeretleri hariç olmak üzere, 7528 sayılı Kanuna göre kaç yıl süreyle başka bir yere atanamaz?",
+    "options": {
+      "A": "10",
+      "B": "6",
+      "C": "5",
+      "D": "3",
+      "E": "4"
+    },
+    "answer": "D",
+    "solution": "15. maddenin ikinci fıkrasına göre sözleşmeli öğretmenler, can güvenliği ve sağlık mazeretleri hariç olmak üzere, üç yıl süreyle başka bir yere atanamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 15/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-059",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Sözleşmeli öğretmen olarak üç yıllık çalışma süresini tamamlayan bir öğretmen, talebi hâlinde 7528 sayılı Kanuna göre kadroya atandığında aşağıdakilerden hangisi uygulanır?",
+    "options": {
+      "A": "Sözleşmeli olarak geçirdiği süre için iş sonu tazminatı ödenir ve adaylık hükümleri uygulanır.",
+      "B": "Atandığı yerden hemen yer değiştirme talebinde bulunabilir; adaylık süresi altı aydır.",
+      "C": "Atanan yerde bir yıl, mazerete bağlı yer değiştirmeler hariç, yer değiştiremez; adaylık hükümleri uygulanmaz.",
+      "D": "Kadroya atanma talebi ancak başka bir ilde yapılabilir ve bir yıl adaylık sürecine tabi olur.",
+      "E": "Sağlık ve can güvenliği dışındaki mazeretler nedeniyle üç yıl yer değiştiremez; ayrıca bir yıl adaylık sürecine tabi tutulur."
+    },
+    "answer": "C",
+    "solution": "16. maddeye göre üç yıllık çalışma süresini tamamlayan sözleşmeli öğretmenler talepleri hâlinde görev yaptıkları yerde öğretmen kadrolarına atanır; mazerete bağlı yer değiştirmeler hariç bir yıl yer değiştiremezler. Bunlara 657 sayılı Kanundaki adaylık hükümleri uygulanmaz ve iş sonu tazminatı ödenmez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 16/1, 16/3-4"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-060",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Kadroya atanan eski sözleşmeli öğretmenlerin iş sonu tazminatı ile ilgili 7528 sayılı Kanuna göre aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "İş sonu tazminatı, sözleşmeli kalmayı tercih edenlere ödenir.",
+      "B": "İş sonu tazminatı ödenmez; önceden ödenmiş süreler hariç iş sonu tazminatına esas toplam hizmet süreleri emekli ikramiyesine esas hizmet süresinin hesabında dikkate alınır.",
+      "C": "İş sonu tazminatı ödenir ancak aylık derece ve kademe hesabında sözleşmeli hizmet süresi sayılmaz.",
+      "D": "İş sonu tazminatı ödenmez ve sözleşmeli olarak geçen süre emeklilik hesaplarında dikkate alınmaz.",
+      "E": "İş sonu tazminatı kadroya atandıkları tarihte peşin olarak ödenir."
+    },
+    "answer": "B",
+    "solution": "16. maddenin üçüncü fıkrası, öğretmen kadrolarına atananlara iş sonu tazminatı ödenmeyeceğini; önceden iş sonu tazminatı ödenmiş süreler hariç, iş sonu tazminatına esas toplam hizmet sürelerinin 5434 sayılı Kanun uyarınca ödenecek emekli ikramiyesine esas toplam hizmet süresinin hesabında dikkate alınacağını düzenler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 16/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-061",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hizmet puanı 7528 sayılı Kanuna göre hangi öğretmen ve yöneticilere, ne karşılığında verilir?",
+    "options": {
+      "A": "Bütün öğretmenlere, görev yaptıkları her kademe değişikliği karşılığında",
+      "B": "Yöneticilere, her yeni görevlendirme karşılığında",
+      "C": "Sözleşmeli öğretmenlere, görev yaptıkları her ders yılı karşılığında",
+      "D": "657 sayılı Kanunun 4. maddesinin (B) fıkrası kapsamındakilere, her dönem karşılığında",
+      "E": "657 sayılı Kanunun 4. maddesinin (A) fıkrası kapsamındakilere, her takvim yılı karşılığında"
+    },
+    "answer": "E",
+    "solution": "17. maddenin birinci fıkrasına göre 657 sayılı Kanunun 4. maddesinin (A) fıkrası kapsamında görev yapan öğretmen ve yöneticilere, görev yerlerinin coğrafi durumu, ekonomik ve sosyal gelişmişlik düzeyi, kurumun özellikleri, ulaşım şartları ve hizmet gerekleri göz önünde bulundurularak görev yaptıkları her takvim yılı karşılığında hizmet puanı verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 17/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-062",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Sağlık ve can güvenliği mazeretlerine bağlı yer değiştirmeler ile diğer mazeretlere bağlı yer değiştirmeler 7528 sayılı Kanuna göre hangi dönemlerde yapılır?",
+    "options": {
+      "A": "Bütün mazeretler ders yılının ilk iki ayı içinde",
+      "B": "Sağlık ve can güvenliği mazeretleri yıl içinde takvime tabi olmaksızın; diğer mazeretler yarıyıl ve/veya yaz tatilinde",
+      "C": "Bütün mazeretler yaz tatilinde",
+      "D": "Sağlık mazeretleri yaz tatilinde; can güvenliği mazeretleri yarıyıl tatilinde",
+      "E": "Sağlık ve can güvenliği mazeretleri yarıyıl tatilinde; diğer mazeretler yıl içinde takvime tabi olmaksızın"
+    },
+    "answer": "B",
+    "solution": "18. maddenin ikinci fıkrasına göre öğretmenlerin sağlık ve can güvenliği mazeretlerine bağlı yer değiştirmeleri yıl içinde yer değiştirme takvimine tabi olmaksızın, diğer mazeretlere bağlı yer değiştirmeleri ise yarıyıl ve/veya yaz tatilinde yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 18/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-063",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmenlerin mazeret durumlarına ve isteğe bağlı yer değiştirmeleri, 7528 sayılı Kanuna göre Bakanlığın öğretmen ihtiyacı ve öğretmenin tercihi dikkate alınarak neye göre yapılır?",
+    "options": {
+      "A": "Kura ile",
+      "B": "Hizmet puanı üstünlüğüne göre",
+      "C": "Akademi başarı puanı üstünlüğüne göre",
+      "D": "Mesleki kıdem ve yaş üstünlüğüne göre",
+      "E": "Okul müdürünün sıralamasına göre"
+    },
+    "answer": "B",
+    "solution": "18. maddenin üçüncü fıkrasına göre öğretmenlerin mazeret durumlarına ve isteğe bağlı yer değiştirmeleri, Bakanlığın öğretmen ihtiyacı ve öğretmenin tercihi dikkate alınarak hizmet puanı üstünlüğüne göre yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 18/3"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-064",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bakanlıkça öğretmen ve yöneticilerin kişisel ve mesleki gelişimleri için hazırlanan bireysel mesleki gelişim planları, 7528 sayılı Kanuna göre kaç yıllık dönemleri içerir?",
+    "options": {
+      "A": "3",
+      "B": "1",
+      "C": "2",
+      "D": "5",
+      "E": "10"
+    },
+    "answer": "D",
+    "solution": "19. maddenin üçüncü fıkrasına göre Bakanlıkça öğretmen ve yöneticilerin kişisel ve mesleki gelişimleri için, görev yaptıkları okul türü ve kademesi ile atama alanları dikkate alınarak beşer yıllık dönemleri içeren bireysel mesleki gelişim planları hazırlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 19/3"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-065",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre öğretmenlik mesleğinin kariyer basamakları aşağıdakilerden hangisinde doğru sıralanmıştır?",
+    "options": {
+      "A": "Öğretmen, başöğretmen, uzman öğretmen",
+      "B": "Sözleşmeli öğretmen, kadrolu öğretmen, başöğretmen",
+      "C": "Aday öğretmen, öğretmen, uzman öğretmen",
+      "D": "Öğretmen, uzman öğretmen, yönetici öğretmen",
+      "E": "Öğretmen, uzman öğretmen, başöğretmen"
+    },
+    "answer": "E",
+    "solution": "20. maddenin birinci fıkrasına göre öğretmenlik mesleği; öğretmen, uzman öğretmen ve başöğretmen olmak üzere üç kariyer basamağından oluşur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 20/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-066",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmenlikte on iki yıllık hizmeti bulunan, Akademinin uzman öğretmenlik için düzenlediği eğitimi tamamlayan ve hakkında yalnızca aylıktan kesme cezası bulunan bir öğretmen, 7528 sayılı Kanunun 20. maddesi bakımından uzman öğretmen unvanı için aşağıdaki şartlardan hangisini taşımaktadır?",
+    "options": {
+      "A": "Hizmet süresi şartını taşımamaktadır; en az yirmi yıl gerekir.",
+      "B": "Hizmet süresi şartını taşımamaktadır; en az on beş yıl gerekir.",
+      "C": "Ceza durumu şartını taşımamaktadır; aylıktan kesme cezası özlük dosyasından silinmeden başvurulamaz.",
+      "D": "Eğitim şartını taşımamaktadır; eğitim uzman öğretmen unvanından sonra alınır.",
+      "E": "Hizmet süresi, ceza durumu ve eğitim şartlarının üçünü de taşımaktadır."
+    },
+    "answer": "E",
+    "solution": "20. maddenin ikinci fıkrasına göre uzman öğretmen unvanı için öğretmenlikte en az on yıl hizmeti olmak, kademe ilerlemesinin durdurulması cezası bulunmamak ve Akademice uzman öğretmenlik için düzenlenen eğitimi tamamlamak gerekir. Aranan ceza kademe ilerlemesinin durdurulmasıdır; aylıktan kesme bu şartı engellemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 20/2, 20/4"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-067",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Uzman öğretmenlikte 9 yıl 6 ay hizmeti bulunan, kademe ilerlemesinin durdurulması cezası olmayan ve Akademinin başöğretmenlik eğitimini tamamlayan bir uzman öğretmen için 7528 sayılı Kanuna göre aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Altı ay sonra ek bir başvuru aranmaksızın unvan resen verilir.",
+      "B": "Uzman öğretmenlikte on yıl hizmet şartını henüz sağlamadığı için unvanı alamaz.",
+      "C": "Eğitimi tamamladığı için unvanı hemen alabilir.",
+      "D": "Unvan, kademe ilerlemesi cezası olmadığı için on yıl şartı aranmaksızın verilir.",
+      "E": "Unvanı almak için ayrıca on yıl öğretmenlik hizmeti göstermesi yeterlidir."
+    },
+    "answer": "B",
+    "solution": "20. maddenin üçüncü fıkrasına göre başöğretmen unvanı; uzman öğretmenlikte en az on yıl hizmeti olan, kademe ilerlemesinin durdurulması cezası bulunmayan ve Akademi tarafından başöğretmenlik için düzenlenen eğitimi tamamlayan uzman öğretmenlere verilir. Senaryodaki öğretmen hizmet süresi şartını henüz sağlamamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 20/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-068",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre aşağıdaki unvanlardan hangisinden, atamaya yetkili amirin atamayı onayladığı tarihten itibaren yararlanılır?",
+    "options": {
+      "A": "Uzman öğretmen",
+      "B": "Aday öğretmen",
+      "C": "Yönetici",
+      "D": "Başöğretmen",
+      "E": "Öğretmen"
+    },
+    "answer": "E",
+    "solution": "20. maddenin beşinci fıkrasına göre öğretmen unvanından bu göreve atanmanın atamaya yetkili amir tarafından onaylandığı tarihten, uzman öğretmen veya başöğretmen unvanından ise uzman öğretmen/başöğretmen sertifikasının düzenlendiği tarihten itibaren yararlanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 20/5"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-069",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanunun yürürlüğe girdiği tarihte görevde bulunan bir öğretmen, öğretmenlikte yirmi yıllık çalışma süresini tamamlamıştır ve kademe ilerlemesinin durdurulması cezası yoktur. 7528 sayılı Kanunun geçici 3. maddesine göre başöğretmen unvanı için aşağıdakilerden hangisi geçerlidir?",
+    "options": {
+      "A": "Uzman öğretmenlikte on yıl hizmet şartı aranmaksızın, diğer şartlarla başvurabilir.",
+      "B": "Uzman öğretmenlik unvanını almadan başvuru yapamaz.",
+      "C": "Yirmi yıllık süre dolsa bile yönetici olarak görev yapmış olması gerekir.",
+      "D": "Başvuru için on beş yıllık çalışma süresi yeterlidir.",
+      "E": "Başöğretmen unvanı yirmi yıllık süre dolunca ek şart aranmaksızın verilir."
+    },
+    "answer": "A",
+    "solution": "Geçici 3. maddeye göre kanunun yürürlüğe girdiği tarihte görevde bulunan öğretmen ve uzman öğretmenler, öğretmenlikte ve/veya uzman öğretmenlikte yirmi yıllık çalışma süresini tamamlamaları ve 20. maddenin üçüncü fıkrasındaki şartlardan uzman öğretmenlikte en az on yıl hizmeti olma şartı hariç diğer şartları sağlamaları kaydıyla başöğretmen unvanı için başvuruda bulunabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun geçici m. 3/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-070",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Eğitim kurumu müdürü veya müdür yardımcısı olarak ilk defa görevlendirilecek adaylar 7528 sayılı Kanuna göre hangi programa alınır ve bu programa katılacak adaylar nasıl belirlenir?",
+    "options": {
+      "A": "Akademi tarafından düzenlenen yönetici yetiştirme programına; yazılı ve/veya sözlü sınavlardan altmış ve üzerinde puan alanlar arasından puan üstünlüğüne göre",
+      "B": "Bakanlık tarafından düzenlenen hizmet içi eğitime; kıdem üstünlüğüne göre",
+      "C": "Akademi tarafından düzenlenen hazırlık eğitimine; hizmet puanı üstünlüğüne göre",
+      "D": "Akademi tarafından düzenlenen yönetici yetiştirme programına; yetmiş ve üzerinde puan alanlar arasından kura ile belirlenir",
+      "E": "Valilik tarafından düzenlenen yönetici kursuna; yaş üstünlüğüne göre"
+    },
+    "answer": "A",
+    "solution": "21. maddenin birinci fıkrasına göre ilk defa yönetici olarak görevlendirilecek adaylar, Akademi tarafından düzenlenen yönetici yetiştirme programına alınır; programa katılacak adaylar yazılı ve/veya sözlü sınavlardan altmış ve üzerinde puan alanlar arasından puan üstünlüğüne göre belirlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 21/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-071",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Yöneticilerin görev süresi ile ilgili 7528 sayılı Kanuna göre aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "İki ders yılı için görevlendirilirler; aynı kurumda aynı unvanla en fazla dört ders yılı görev yapabilirler.",
+      "B": "Dört ders yılı için görevlendirilirler; aynı kurumda aynı unvanla en fazla sekiz ders yılı görev yapabilirler.",
+      "C": "Dört ders yılı için görevlendirilirler; aynı kurumda aynı unvanla en fazla on iki ders yılı görev yapabilirler.",
+      "D": "Beş ders yılı için görevlendirilirler; aynı kurumda aynı unvanla süre sınırı yoktur.",
+      "E": "Üç ders yılı için görevlendirilirler; aynı kurumda aynı unvanla en fazla altı ders yılı görev yapabilirler."
+    },
+    "answer": "B",
+    "solution": "21. maddenin üçüncü fıkrasına göre yöneticiler dört ders yılı için görevlendirilir ve aynı eğitim kurumunda aynı unvanla en fazla sekiz ders yılı görev yapabilirler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 21/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-072",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Yönetici yetiştirme programının sonunda yapılan yazılı sınavda başarılı sayılanlar, 7528 sayılı Kanuna göre kimin onayıyla yönetici olarak görevlendirilir?",
+    "options": {
+      "A": "Akademi Başkanı",
+      "B": "İl millî eğitim müdürü",
+      "C": "Bakan",
+      "D": "Vali",
+      "E": "Millî Eğitim Bakan Yardımcısı"
+    },
+    "answer": "D",
+    "solution": "21. maddenin ikinci fıkrasına göre programa alınanlardan program sonunda yapılan yazılı sınavda altmış ve üzeri alanlar başarılı sayılır; bunlar tercihleri de dikkate alınarak sınavda alınan puan üstünlüğüne göre vali onayı ile yönetici olarak görevlendirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 21/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-073",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bakan onayı ile özel program ve proje uygulayan okul olarak seçilen eğitim kurumlarına yapılacak öğretmen atamaları ve yönetici görevlendirmeleri 7528 sayılı Kanuna göre kim tarafından yapılır?",
+    "options": {
+      "A": "İl millî eğitim müdürü",
+      "B": "Akademik Kurul",
+      "C": "Bakan",
+      "D": "Vali",
+      "E": "Akademi Başkanı"
+    },
+    "answer": "C",
+    "solution": "22. maddenin birinci fıkrasına göre Bakan onayı ile özel program ve proje uygulayan okul ve kurum olarak seçilenlere yapılacak öğretmen atamaları ve yönetici görevlendirmeleri Bakan tarafından yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 22/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-074",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmen ve yöneticilere başarı belgesi, üstün başarı belgesi ve ödül verilmesi 7528 sayılı Kanuna göre hangi kanunun hükümleri kapsamında yapılır?",
+    "options": {
+      "A": "657 sayılı Devlet Memurları Kanununun 122. maddesi",
+      "B": "1739 sayılı Millî Eğitim Temel Kanununun 43. maddesi",
+      "C": "5580 sayılı Özel Öğretim Kurumları Kanununun 10. maddesi",
+      "D": "2547 sayılı Yükseköğretim Kanununun 38. maddesi",
+      "E": "3797 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanunun 10. maddesi"
+    },
+    "answer": "A",
+    "solution": "23. maddeye göre öğretmen ve yöneticilere 657 sayılı Kanunun 122. maddesi kapsamında başarı belgesi, üstün başarı belgesi ve ödül verilebilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 23/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-075",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen, ders sırasında kaydettiği öğrenci görüntülerini ilgili mevzuatta belirlenmiş usuller dışında sosyal medya hesabında paylaşmıştır. 7528 sayılı Kanunun 24. maddesine göre bu öğretmene hangi disiplin cezası verilir?",
+    "options": {
+      "A": "Devlet memurluğundan çıkarma",
+      "B": "Kınama",
+      "C": "Aylıktan kesme",
+      "D": "Kademe ilerlemesinin durdurulması",
+      "E": "Uyarma"
+    },
+    "answer": "B",
+    "solution": "24. maddenin birinci fıkrasının (a) bendine göre öğrencilere ve eğitim süreçlerine ilişkin ses veya görüntüleri ilgili mevzuatında belirlenmiş usuller dışında paylaşanlara kınama cezası verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 24/1-(a)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-076",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanunun 24. maddesine göre öğretmene “aylıktan kesme” cezası verilmesini gerektiren fiillerden biri değildir?",
+    "options": {
+      "A": "Öğrencilere ve eğitim süreçlerine ilişkin ses veya görüntüleri mevzuatında belirlenmiş usuller dışında paylaşmak",
+      "B": "Yasal istisnalar dışında öğrencilere çıkar karşılığında özel ders vermek",
+      "C": "Öğretmenlik mesleğiyle bağdaşmayacak şekilde öğrencilere olumsuz örnek teşkil edecek söz, davranış, hâl ve hareketlerde bulunmak",
+      "D": "Eğitim öğretim sürecinde Bakanlıkça onaylanan öğretim programının amaç ve hedeflerine aykırı faaliyet ve uygulamalar yapmak",
+      "E": "Öğrencilerin ders başarılarının değerlendirilmesinde taraflı davranmak"
+    },
+    "answer": "A",
+    "solution": "Ses veya görüntü paylaşımı 24. maddenin (a) bendinde kınama cezasına bağlanmıştır. Özel ders, olumsuz örnek teşkil etme, taraflı değerlendirme ve programa aykırı uygulama ise (b) bendinde aylıktan kesme cezasını gerektiren fiiller arasında sayılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 24/1-(a), (b)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-077",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir sınıf öğretmeni, yazılı sınav notlarını belirlerken velisiyle yakın ilişkisi olan öğrencilerin kâğıtlarını daha yüksek puanla değerlendirmiştir. 7528 sayılı Kanunun 24. maddesine göre bu öğretmene hangi disiplin cezası verilir?",
+    "options": {
+      "A": "Aylıktan kesme",
+      "B": "Ceza verilmez; idari soruşturma açılır",
+      "C": "Uyarma",
+      "D": "Kademe ilerlemesinin durdurulması",
+      "E": "Kınama"
+    },
+    "answer": "A",
+    "solution": "24. maddenin birinci fıkrasının (b) bendine göre öğrencilerin ders başarılarının değerlendirilmesinde taraflı davrananlara aylıktan kesme cezası verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 24/1-(b)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-078",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir öğretmen, Bakanlıkça onaylanan öğretim programında yer alan kazanımların yerine kendi belirlediği, programın amaç ve hedeflerine aykırı bir içeriği derste işlemektedir. Bu davranış 7528 sayılı Kanunun 24. maddesine göre hangi disiplin cezasını gerektirir?",
+    "options": {
+      "A": "Kınama",
+      "B": "Uyarma",
+      "C": "Öğretmenliğin sona ermesi",
+      "D": "Kademe ilerlemesinin durdurulması",
+      "E": "Aylıktan kesme"
+    },
+    "answer": "E",
+    "solution": "24. maddenin birinci fıkrasının (b) bendine göre eğitim öğretim sürecinde Bakanlıkça onaylanan öğretim programının belirlediği amaç ve hedeflere aykırı faaliyet ve uygulamalar yapanlara aylıktan kesme cezası verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 24/1-(b)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-079",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdaki fiillerden hangileri 7528 sayılı Kanunun 24. maddesine göre öğretmenlere “aylıktan kesme” cezası verilmesini gerektirir?\n\nI. Öğrencilere menfaat karşılığında özel ders vermek veya özel ders için yönlendirme yapmak\n\nII. Öğrencilere ilişkin ses veya görüntüleri usuller dışında paylaşmak\n\nIII. Öğrencilerin ders başarılarının değerlendirilmesinde taraflı davranmak",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "D",
+    "solution": "Menfaat karşılığı özel ders veya yönlendirme ile taraflı değerlendirme 24/1-(b) uyarınca aylıktan kesme cezasını gerektirir. Ses veya görüntüleri usuller dışında paylaşmak ise (a) bendine göre kınama cezası kapsamındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 24/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-080",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Öğretmen ve yöneticiler hakkında 7528 sayılı Kanunun 24. maddesinde ayrıca düzenlenen fiiller dışında hangi kanunun disiplin hükümleri uygulanır?",
+    "options": {
+      "A": "657 sayılı Devlet Memurları Kanunu",
+      "B": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+      "C": "222 sayılı İlköğretim ve Eğitim Kanunu",
+      "D": "1739 sayılı Millî Eğitim Temel Kanunu",
+      "E": "5580 sayılı Özel Öğretim Kurumları Kanunu"
+    },
+    "answer": "A",
+    "solution": "24. maddenin birinci fıkrası, öğretmen ve yöneticiler hakkında 657 sayılı Devlet Memurları Kanununun disiplin hükümlerinin uygulanacağını, ancak maddede sayılan fiiller için kınama ve aylıktan kesme cezalarının verileceğini söyler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 24/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-081",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdaki suçlardan hangisinden mahkûm olmak, 7528 sayılı Kanunun 25. maddesine göre öğretmenin öğretmenliğinin sona ermesine yol açmaz?",
+    "options": {
+      "A": "Cinsel dokunulmazlığa karşı suçlar",
+      "B": "Uyuşturucu veya uyarıcı madde imal ve ticareti",
+      "C": "Uyuşturucu veya uyarıcı madde kullanmak",
+      "D": "Müstehcenlik",
+      "E": "Zimmet"
+    },
+    "answer": "E",
+    "solution": "25. madde, 657 sayılı Kanunun ilgili hükümleri saklı kalmak kaydıyla, uyuşturucu veya uyarıcı madde imal ve ticareti, bunların kullanılmasını kolaylaştırma, kullanmak için satın alma, kabul etme veya bulundurma ya da kullanma, hayâsızca hareketler, müstehcenlik, fuhuş ve cinsel dokunulmazlığa karşı suçlardan mahkûm olanların öğretmenliğinin sona ereceğini belirtir. Zimmet, 9. maddede hazırlık eğitimine alınma şartı olarak sayılsa da 25. maddede yer almaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 25/1, m. 9/1-(c)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-082",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Akademi İzleme ve Yönlendirme Kurulu 7528 sayılı Kanuna göre kaç üyeden oluşur ve yılda en az kaç kez toplanır?",
+    "options": {
+      "A": "On bir üyeden oluşur · yılda en az üç kez toplanır",
+      "B": "Yedi üyeden oluşur · yılda en az iki kez toplanır",
+      "C": "Dokuz üyeden oluşur · yılda en az bir kez toplanır",
+      "D": "Beş üyeden oluşur · yılda en az iki kez toplanır",
+      "E": "Yedi üyeden oluşur · yılda en az dört kez toplanır"
+    },
+    "answer": "B",
+    "solution": "28. maddeye göre kurul, Bakanın ya da görevlendireceği bir bakan yardımcısının başkanlığında yedi üyeden oluşur ve yılda en az iki kez toplanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 28/1, 28/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-083",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Akademik Kurul 7528 sayılı Kanuna göre kaç üyeden oluşur ve Akademiden çıkarma cezalarına karşı yapılan itirazları hangi kurul karara bağlar?",
+    "options": {
+      "A": "Bir başkan ve beş üyeden oluşur · İtirazları Disiplin Kurulu karara bağlar.",
+      "B": "Bir başkan ve yedi üyeden oluşur · İtirazları Akademik Kurul karara bağlar.",
+      "C": "Bir başkan ve on üyeden oluşur · İtirazları Akademik Kurul karara bağlar.",
+      "D": "Bir başkan ve on üyeden oluşur · İtirazları Akademi İzleme ve Yönlendirme Kurulu karara bağlar.",
+      "E": "Bir başkan ve on beş üyeden oluşur · İtirazları Bakan karara bağlar."
+    },
+    "answer": "C",
+    "solution": "29. maddenin dördüncü ve altıncı fıkralarına göre Akademik Kurula Akademi Başkanı başkanlık eder ve kurul bir başkan ile on üyeden oluşur; Akademik Kurul Akademiden çıkarma cezalarına karşı yapılan itirazları inceleyerek karara bağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 29/4, 29/6"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-084",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Akademide eğitim personeli olarak istihdam edilenlerle imzalanan hizmet sözleşmesi ile ilgili 7528 sayılı Kanuna göre aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Yazılı olarak altı aylık yapılır; her dönem başında yenilenmesi zorunludur.",
+      "B": "Yazılı olarak beş yıllık yapılır; süre sonunda ek bir sözleşme yapılamaz.",
+      "C": "Yazılı olarak üç yıllık yapılır ve süre sonunda aynı koşullarla yenilenir.",
+      "D": "Sözlü olarak iki yıllık yapılır; süre sonunda sözleşme sona erer.",
+      "E": "Yazılı olarak bir yıllık yapılır; süre sonunda yeniden imzalanabilir."
+    },
+    "answer": "E",
+    "solution": "30. maddenin üçüncü fıkrasına göre hizmet sözleşmesi yazılı olarak bir yıllık yapılır; bu süre sonunda tekrar sözleşme imzalanabilir. Süre sona erince yeni sözleşme yapılıncaya kadar sözleşme süresi üç aya kadar uzatılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 30/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-085",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanunun 27. maddesinde Akademinin görevleri arasında sayılmıştır?",
+    "options": {
+      "A": "Öğretmenlerin disiplin cezalarına ilişkin yargı kararlarını denetlemek",
+      "B": "Eğitim kurumlarının fiziki yapılarını denetlemek ve ruhsatlandırmak",
+      "C": "Öğretmen atamalarında kadro dağılımını belirlemek",
+      "D": "Yönetici yetiştirme programlarını hazırlamak ve uygulamak",
+      "E": "Öğrencilere yönelik ulusal merkezî sınavları yürütmek"
+    },
+    "answer": "D",
+    "solution": "27. maddenin birinci fıkrasına göre Akademinin görevleri arasında öğretmenlik mesleğine hazırlık eğitimi programlarını ve yönetici yetiştirme programlarını hazırlamak ve uygulamak, kariyer basamaklarında ilerlemeye yönelik eğitim programlarını yürütmek ve yeterlikleri belirlemek ve güncellemek yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 27/1-(b)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-086",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Bir eğitim kurumunda görevli öğretmeni, görevi sebebiyle tehdit eden kişi hakkında 7528 sayılı Kanunun 33. maddesine göre aşağıdakilerden hangisi uygulanır?",
+    "options": {
+      "A": "Verilecek ceza üçte bir oranında artırılır; ertelenme hükümleri uygulanır.",
+      "B": "Ceza yarı oranında artırılır ve hapis cezasının ertelenmesi uygulanmaz.",
+      "C": "Verilecek ceza iki katına çıkarılır ancak hapis cezasının ertelenmesi hükümleri uygulanır.",
+      "D": "Verilecek ceza yarı oranında artırılır ancak ertelenme hükümleri uygulanır.",
+      "E": "Ceza artırılmaz; hapis cezasının ertelenmesi hükümleri uygulanmaz."
+    },
+    "answer": "B",
+    "solution": "33. maddeye göre resmî eğitim kurumlarında görev yapan yönetici ve öğretmenlere karşı görevleri sebebiyle işlenen TCK'nın 86. (kasten yaralama), 106. (tehdit), 125. (hakaret) ve 265. (görevi yaptırmamak için direnme) maddeleri kapsamındaki suçlarda cezalar yarı oranında artırılır ve TCK m. 51'deki hapis cezasının ertelenmesi hükümleri uygulanmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 33/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-087",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanunda hüküm bulunmayan hâllerde, bu Kanun kapsamındaki personel bakımından hangi kanun ve ilgili diğer mevzuat hükümleri uygulanır ve hangi grup bu hükmün dışındadır?",
+    "options": {
+      "A": "657 sayılı Devlet Memurları Kanunu · hazırlık eğitimi alan öğretmen adayları",
+      "B": "657 sayılı Devlet Memurları Kanunu · özel öğretim kurumlarında görevli öğretmenler",
+      "C": "222 sayılı İlköğretim ve Eğitim Kanunu · sözleşmeli öğretmenler",
+      "D": "1739 sayılı Millî Eğitim Temel Kanunu · uzman öğretmenler",
+      "E": "5580 sayılı Özel Öğretim Kurumları Kanunu · yöneticiler"
+    },
+    "answer": "A",
+    "solution": "34. maddeye göre bu Kanunda hüküm bulunmayan hâllerde, hazırlık eğitimi alan öğretmen adayları hariç, bu Kanun kapsamındaki personel bakımından 657 sayılı Devlet Memurları Kanunu ve ilgili diğer mevzuat hükümleri uygulanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 34/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-088",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanunun hazırlık eğitimine ilişkin 7, 8, 9, 10, 11, 12, 13, 14 ve 15. maddeleri ile 21. maddesi hangi tarihte yürürlüğe girmiştir?",
+    "options": {
+      "A": "1 Eylül 2024",
+      "B": "18 Ekim 2024",
+      "C": "1 Ocak 2025",
+      "D": "1 Eylül 2025",
+      "E": "1 Ocak 2026"
+    },
+    "answer": "D",
+    "solution": "37. maddeye göre 7, 8, 9, 10, 11, 12, 13, 14, 15 ve 21. maddeler 1/9/2025 tarihinde; 26, 27, 28, 29, 30, 31 ve 32. maddeler (Akademiye ilişkin hükümler) 1/1/2025 tarihinde; diğer maddeler yayımı tarihinde (18/10/2024) yürürlüğe girmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 37/1-(a)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-089",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanunun geçici 2. maddesinde düzenlenen Aday Öğretmen Yetiştirme Programına tabi tutulan aday öğretmenler için aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "En az dört yüz seksen ders saati hizmet içi eğitimi kapsar; adaylık süreci bir yıldır.",
+      "B": "En az yüz yirmi ders saati hizmet içi eğitimi kapsar; adaylık süreci iki yıldan az, üç yıldan çok olamaz.",
+      "C": "En az iki yüz kırk ders saati hizmet içi eğitimi kapsar; adaylık süreci üç yıl sürer.",
+      "D": "Uygulamalardan oluşur; adaylık süreci altı aydan az, bir yıldan çok olamaz.",
+      "E": "En az iki yüz kırk ders saatlik hizmet içi eğitimi kapsar; adaylık bir yıldan az, iki yıldan çok olamaz."
+    },
+    "answer": "E",
+    "solution": "Geçici 2. maddeye göre Aday Öğretmen Yetiştirme Programı; kişisel ve mesleki gelişime katkı sağlayan, memuriyete ve mesleğe hazırlığı içeren ve en az iki yüz kırk ders saati olacak şekilde planlanan hizmet içi eğitim ile danışman nezaretinde yapılan uygulamalardan oluşur; adaylık süreci bir yıldan az iki yıldan çok olamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun geçici m. 2/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-090",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanunun 3. maddesinde “kademe” olarak tanımlanan eğitim kurumu düzeylerinden biri değildir?",
+    "options": {
+      "A": "Lise",
+      "B": "Anaokulu",
+      "C": "Önlisans",
+      "D": "Ortaokul",
+      "E": "İlkokul"
+    },
+    "answer": "C",
+    "solution": "3. maddenin birinci fıkrasının (j) bendine göre kademe, eğitim kurumlarının anaokulu, ilkokul, ortaokul ve lise şeklindeki düzeyleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 3/1-(j)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-091",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanunda “yönetici” aşağıdakilerden hangisi olarak tanımlanmıştır?",
+    "options": {
+      "A": "Okul müdürlüğü görevini asıl görev olarak yürüten ve öğretmen kadrosunda bulunmayanlar",
+      "B": "Öğretmen kadro ve pozisyonlarında görev yapanlardan resmî eğitim kurumları ile Akademiye bağlı eğitim ve uygulama merkezlerinde müdürlük ve müdür yardımcılığı görevlerini ikinci görev kapsamında yürütenler",
+      "C": "Bakanlığa bağlı resmî eğitim kurumlarında müfettiş olarak görev yapan Bakanlık personeli",
+      "D": "Özel öğretim kurumlarında kurucu temsilcisi olarak görev yapan kişiler",
+      "E": "Akademi Başkanlığında daire başkanı olarak görev yapan eğitim personeli"
+    },
+    "answer": "B",
+    "solution": "3. maddenin birinci fıkrasının (o) bendine göre yönetici; öğretmen kadro ve pozisyonlarında görev yapanlardan Bakanlığa bağlı resmî eğitim kurumları ile Akademiye bağlı eğitim ve uygulama merkezlerinde müdürlük ve müdür yardımcılığı görevlerini ikinci görev kapsamında yürütenlerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 3/1-(o)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-092",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitiminde teorik derslerin her birinden, öğretmen adayları için kaç yazılı sınav yapılması ve başarı için kaç puan alınması 7528 sayılı Kanuna göre gereklidir?",
+    "options": {
+      "A": "En az bir yazılı sınav · not ortalaması yüz üzerinden elli ve üzeri",
+      "B": "En az bir yazılı sınav · not ortalaması yüz üzerinden altmış ve üzeri",
+      "C": "En az iki yazılı sınav · not ortalaması yüz üzerinden altmış ve üzeri",
+      "D": "En az iki yazılı sınav · not ortalaması yüz üzerinden yetmiş ve üzeri",
+      "E": "En az üç yazılı sınav · not ortalaması yüz üzerinden yetmiş ve üzeri"
+    },
+    "answer": "C",
+    "solution": "10. maddenin birinci fıkrasına göre hazırlık eğitiminde her bir teorik dersten en az iki yazılı sınav yapılır ve her bir dersten not ortalaması yüz üzerinden altmış ve üzerinde olanlar başarılı sayılır. (Uygulamalı derslerde başarı sınırı ise yetmiştir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 10/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-093",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Hazırlık eğitimine belgeye dayalı sağlık mazeretleri dışında bir mazereti nedeniyle katılamayan bir öğretmen adayına, hazırlık eğitimi süresince en fazla kaç güne kadar izin verilebilir?",
+    "options": {
+      "A": "20",
+      "B": "5",
+      "C": "15",
+      "D": "30",
+      "E": "10"
+    },
+    "answer": "E",
+    "solution": "10. maddenin dördüncü fıkrasına göre belgeye dayalı sağlık mazeretleri dışında öğretmen adaylarına mazeretlerine bağlı olarak hazırlık eğitimi süresince on güne kadar izin verilebilir. Belgeli sağlık mazereti toplam yirmi gün ve üzeri olursa kayıt dondurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 10/4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-094",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Aşağıdakilerden hangisi 7528 sayılı Kanunun 12. maddesine göre öğretmen adayına “Akademiden çıkarma” cezası verilmesini gerektiren bir davranış değildir?",
+    "options": {
+      "A": "Hazırlık eğitimine mazeretsiz olarak toplam altı gün katılmamak",
+      "B": "Yüz kızartıcı ve utanç verici fiil ve davranışlarda bulunmak",
+      "C": "Soruşturma ile görevlendirilenleri tehdit etmek veya bunlara saldırıda bulunmak",
+      "D": "Hazırlık eğitimine mazeretsiz olarak toplam dört gün katılmamak",
+      "E": "Kendi yerine başkasını sınava sokmak"
+    },
+    "answer": "D",
+    "solution": "Mazeretsiz toplam dört gün devamsızlık ödeme kesintisi cezasını (b-3) gerektirir; Akademiden çıkarma eşiği toplam altı gündür (c-10). Soruşturmacıları tehdit veya onlara saldırı (c-12), yüz kızartıcı ve utanç verici fiiller (c-13) ve kendi yerine başkasını sınava sokmak (c-11) çıkarma cezası kapsamındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 12/1-(b)-3, (c)-10-11-12-13"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-095",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre Akademi İzleme ve Yönlendirme Kurulu kimin başkanlığında toplanır?",
+    "options": {
+      "A": "Akademi Başkanının",
+      "B": "Talim ve Terbiye Kurulu Başkanının",
+      "C": "Yükseköğretim Kurulu Başkanının",
+      "D": "Personel Genel Müdürünün",
+      "E": "Bakanın ya da Bakanın görevlendireceği bir bakan yardımcısının"
+    },
+    "answer": "E",
+    "solution": "28. maddenin birinci fıkrasına göre Kurul, Bakanın ya da Bakanın görevlendireceği bir bakan yardımcısının başkanlığında toplanır; yedi üyeden oluşur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 28/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-096",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanuna göre Akademi Başkanı, görevini yürütürken hangi makama doğrudan bağlıdır?",
+    "options": {
+      "A": "Bakana",
+      "B": "Akademik Kurula",
+      "C": "Personel Genel Müdürüne",
+      "D": "Bakan yardımcısına",
+      "E": "Akademi İzleme ve Yönlendirme Kuruluna"
+    },
+    "answer": "A",
+    "solution": "29. maddenin ikinci fıkrasına göre Akademi Başkanı, Akademinin en üst amiri olup doğrudan Bakana bağlı olarak görev yapar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 29/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-097",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "Kadrosu 657 sayılı Kanunun 4 üncü maddesinin (A) fıkrasına tabi olan bir memur, 7528 sayılı Kanunun 30. maddesi kapsamında Akademide sözleşmeli personel olarak istihdam edilmiştir. Bu memurun asıl kadrosuyla ilişkisi hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Kadrosunda aylıksız izinli kabul edilir",
+      "B": "Kadrosu dondurularak saklı tutulur",
+      "C": "Görev yerinde geçici görevlendirilmiş sayılır",
+      "D": "İki yıl süreyle izinli sayılır",
+      "E": "Kadrosuyla ilişiği kesilir"
+    },
+    "answer": "E",
+    "solution": "30. maddenin ikinci fıkrasına göre 657 sayılı Kanunun 4/A kadrolarında bulunanların bu madde kapsamında sözleşmeli personel pozisyonlarında istihdam edilmeleri hâlinde kadrolarıyla ilişiği kesilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 30/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-7528-098",
+    "ders": "mevzuat",
+    "konu": "ogretmenlik_meslek_kanunu",
+    "stem": "7528 sayılı Kanunun Akademiyle ilgili 26 ila 32. maddeleri hangi tarihte yürürlüğe girmiştir?",
+    "options": {
+      "A": "1 Eylül 2025",
+      "B": "1 Ocak 2025",
+      "C": "1 Ocak 2026",
+      "D": "18 Ekim 2024",
+      "E": "1 Eylül 2024"
+    },
+    "answer": "B",
+    "solution": "37. maddeye göre 26, 27, 28, 29, 30, 31 ve 32. maddeler 1/1/2025'te; 7 ila 15 ve 21. maddeler 1/9/2025'te; diğer maddeler yayımı tarihinde yürürlüğe girer.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "7528 sayılı Kanun m. 37/1-(b)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  }
+]

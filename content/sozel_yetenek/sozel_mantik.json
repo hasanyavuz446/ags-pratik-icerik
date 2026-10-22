@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "ags-soz-man-001",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHer dalgıç doktordur.\nBazı dalgıçlar müzisyen değildir.\nHer müzisyen dalgıçtır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Hem doktor hem müzisyen olan kimse yoktur.",
+      "B": "Hem dalgıç hem müzisyen olan kimse yoktur.",
+      "C": "Bazı dalgıçlar müzisyendir.",
+      "D": "Bazı doktorlar dalgıçtır.",
+      "E": "Bazı doktorlar müzisyendir."
+    },
+    "answer": "D",
+    "solution": "“Bazı doktorlar dalgıçtır.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Bazı dalgıçlar müzisyen değildir; Her dalgıç doktordur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-002",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir sırada yan yana oturan Selin, Fatma, Ayşe, Kaan ve Gül ile ilgili şunlar bilinmektedir:\n\nGül, Selin'den daha solda oturur.\nSelin, Gül ile Ayşe arasında oturur.\nGül, soldan 2. sırada oturmaz.\nKaan, Gül ile Ayşe arasında oturur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Fatma, Kaan ile Ayşe arasında oturur.",
+      "B": "Kaan, Gül'ün hemen solunda oturur.",
+      "C": "Fatma, soldan 4. sırada oturmaz.",
+      "D": "Kaan, Fatma'nın hemen solunda oturur.",
+      "E": "Selin, soldan 4. sırada oturmaz."
+    },
+    "answer": "B",
+    "solution": "“Kaan, Gül'ün hemen solunda oturur.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Selin, Gül ile Ayşe arasında oturur; Kaan, Gül ile Ayşe arasında oturur; Gül, Selin'den daha solda oturur. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-003",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "İrem, Hakan, Gül, Deniz ve Okan adlı beş arkadaşın boyları birbirinden farklıdır. Boylarla ilgili şunlar bilinmektedir:\n\nHakan, boyca Deniz ile Gül arasındadır.\nHakan, boyca Deniz ile İrem arasındadır.\nDeniz, boyca Okan ile Gül arasındadır.\nİrem, boyca Okan ile Gül arasındadır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Gül, en kısadır.",
+      "B": "Gül, en uzundur.",
+      "C": "Deniz, Okan'dan daha uzundur.",
+      "D": "Deniz, boyca Okan ile İrem arasındadır.",
+      "E": "Deniz, İrem'den daha uzundur."
+    },
+    "answer": "D",
+    "solution": "“Deniz, boyca Okan ile İrem arasındadır.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Hakan, boyca Deniz ile İrem arasındadır; Deniz, boyca Okan ile Gül arasındadır; Hakan, boyca Deniz ile Gül arasındadır. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Okan – Deniz – Hakan – İrem – Gül | Gül – İrem – Hakan – Deniz – Okan.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-004",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHem avukat hem dalgıç olan kimse yoktur.\nBazı dalgıçlar çiftçi değildir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Bazı çiftçiler dalgıçtır.",
+      "B": "Her çiftçi dalgıçtır.",
+      "C": "Her çiftçi avukattır.",
+      "D": "Bazı çiftçiler dalgıç değildir.",
+      "E": "Her dalgıç avukattır."
+    },
+    "answer": "E",
+    "solution": "“Her dalgıç avukattır.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Bazı dalgıçlar çiftçi değildir; Hem avukat hem dalgıç olan kimse yoktur. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-005",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir sırada yan yana oturan Tuna, Fatma, Zeynep ve Burcu ile ilgili şunlar bilinmektedir:\n\nTuna, Fatma'dan daha solda oturur.\nFatma ile Zeynep yan yana oturur.\nTuna, soldan 2. sırada oturmaz.\nFatma, Tuna ile Zeynep arasında oturur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Tuna ile Fatma yan yana oturur.",
+      "B": "Burcu, en sağda oturur.",
+      "C": "Burcu, Fatma'nın hemen solunda oturur.",
+      "D": "Zeynep, en solda oturmaz.",
+      "E": "Fatma, Burcu'dan daha solda oturur."
+    },
+    "answer": "D",
+    "solution": "“Zeynep, en solda oturmaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Fatma, Tuna ile Zeynep arasında oturur; Tuna, Fatma'dan daha solda oturur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Tuna – Burcu – Fatma – Zeynep | Tuna – Fatma – Zeynep – Burcu.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-006",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Ece, Pelin ve Cem adlı üç kişinin meslekleri şef, ressam ve avukat olup her meslek yalnızca bir kişiye aittir. Bu kişilerle ilgili şunlar bilinmektedir:\n\nEce şef ya da ressamdır.\nPelin avukat değildir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Cem şef ya da ressamdır.",
+      "B": "Ece şeftir.",
+      "C": "Pelin şeftir.",
+      "D": "Pelin şef değildir.",
+      "E": "Ece ressamdır."
+    },
+    "answer": "A",
+    "solution": "“Cem şef ya da ressamdır.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Ece şef ya da ressamdır; Pelin avukat değildir. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir. Koşullara uyan olası durumlar: Ece: şef, Cem: avukat, Pelin: ressam | Ece: ressam, Cem: avukat, Pelin: şef.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-007",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Umut, Cem, Arda, Burcu ve Ayşe adlı beş arkadaşın boyları birbirinden farklıdır. Boylarla ilgili şunlar bilinmektedir:\n\nBurcu, boyca Ayşe ile Cem arasındadır.\nArda, en kısa değildir.\nUmut, Arda'dan daha uzundur.\nAyşe, Burcu'dan daha uzundur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Umut, en uzundur.",
+      "B": "Umut, en uzun değildir.",
+      "C": "Cem, Ayşe'den daha uzundur.",
+      "D": "Ayşe, Umut'tan daha uzundur.",
+      "E": "Umut, boyca Ayşe ile Cem arasındadır."
+    },
+    "answer": "C",
+    "solution": "“Cem, Ayşe'den daha uzundur.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Burcu, boyca Ayşe ile Cem arasındadır; Ayşe, Burcu'dan daha uzundur. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-008",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Gül, Nil, Fatma ve Ayşe adlı dört kişinin meslekleri müzisyen, mühendis, doktor ve avukat olup her meslek yalnızca bir kişiye aittir. Bu kişilerle ilgili şunlar bilinmektedir:\n\nNil doktor ya da müzisyendir.\nGül avukat ya da doktordur.\nGül avukat değildir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Nil avukat ya da müzisyendir.",
+      "B": "Ayşe mühendis değildir.",
+      "C": "Ayşe avukattır.",
+      "D": "Ayşe mühendis ya da doktordur.",
+      "E": "Ayşe avukat değildir."
+    },
+    "answer": "A",
+    "solution": "“Nil avukat ya da müzisyendir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Gül avukat değildir; Gül avukat ya da doktordur; Nil doktor ya da müzisyendir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Gül: doktor, Fatma: mühendis, Nil: müzisyen, Ayşe: avukat | Gül: doktor, Fatma: avukat, Nil: müzisyen, Ayşe: mühendis.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-009",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir futbol karşılaşmasıyla ilgili şunlar bilinmektedir:\n\nMaç ertelenmezse, yağmur yağmaz.\nMaç ertelenirse, seyirciler statta toplanmaz.\nYağmur yağmaz veya seyirciler statta toplanır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Maç ertelenirse, yağmur yağar.",
+      "B": "Maç ertelenmez ve seyirciler statta toplanır.",
+      "C": "Yağmur yağmaz ve maç ertelenmez.",
+      "D": "Yağmur yağmaz.",
+      "E": "Seyirciler statta toplanırsa, maç ertelenir."
+    },
+    "answer": "D",
+    "solution": "“Yağmur yağmaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Maç ertelenmezse, yağmur yağmaz; Yağmur yağmaz veya seyirciler statta toplanır; Maç ertelenirse, seyirciler statta toplanmaz. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-010",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Arda, Gül, Berk ve Umut adlı dört kişinin meslekleri berber, öğretmen, gazeteci ve hemşire olup her meslek yalnızca bir kişiye aittir. Bu kişilerle ilgili şunlar bilinmektedir:\n\nUmut öğretmen ya da hemşiredir.\nGül gazeteci değildir.\nGül berber değildir.\nArda gazeteci değildir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Arda hemşire ya da berberdir.",
+      "B": "Gül öğretmen değildir.",
+      "C": "Umut gazeteci ya da hemşiredir.",
+      "D": "Umut hemşire değildir.",
+      "E": "Umut hemşire ya da berberdir."
+    },
+    "answer": "A",
+    "solution": "“Arda hemşire ya da berberdir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Gül gazeteci değildir; Umut öğretmen ya da hemşiredir; Arda gazeteci değildir; Gül berber değildir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Berk: gazeteci, Gül: öğretmen, Arda: berber, Umut: hemşire | Berk: gazeteci, Gül: hemşire, Arda: berber, Umut: öğretmen.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-011",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHer dalgıç yazardır.\nBazı dalgıçlar pilottur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Her dalgıç pilottur.",
+      "B": "Bazı dalgıçlar pilot değildir.",
+      "C": "Her yazar dalgıçtır.",
+      "D": "Bazı yazarlar pilot değildir.",
+      "E": "Bazı dalgıçlar yazardır."
+    },
+    "answer": "E",
+    "solution": "“Bazı dalgıçlar yazardır.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Her dalgıç yazardır; Bazı dalgıçlar pilottur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-012",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Kaan'ın sınav süreciyle ilgili şunlar bilinmektedir:\n\nKaan tatile çıkmazsa, Kaan düzenli çalışır.\nKaan düzenli çalışırsa, Kaan sınavı geçer.\nKaan sınavı geçemez veya Kaan tatile çıkar.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Kaan düzenli çalışmaz ve Kaan tatile çıkar.",
+      "B": "Kaan sınavı geçerse, Kaan düzenli çalışmaz.",
+      "C": "Kaan düzenli çalışır ve Kaan tatile çıkar.",
+      "D": "Kaan düzenli çalışmaz ve Kaan sınavı geçer.",
+      "E": "Kaan tatile çıkmaz."
+    },
+    "answer": "E",
+    "solution": "“Kaan tatile çıkmaz.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Kaan düzenli çalışırsa, Kaan sınavı geçer; Kaan tatile çıkmazsa, Kaan düzenli çalışır; Kaan sınavı geçemez veya Kaan tatile çıkar. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-013",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir şirketteki toplantı süreciyle ilgili şunlar bilinmektedir:\n\nToplantı ertelenirse, Ece toplantıya katılmaz.\nEce toplantıya katılmazsa, Cem raporu hazırlamaz.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Ece toplantıya katılır ve Cem raporu hazırlar.",
+      "B": "Cem raporu hazırlamaz veya toplantı ertelenmez.",
+      "C": "Ece toplantıya katılır veya toplantı ertelenir.",
+      "D": "Ece toplantıya katılırsa, toplantı ertelenir.",
+      "E": "Toplantı ertelenmezse, Cem raporu hazırlar."
+    },
+    "answer": "B",
+    "solution": "“Cem raporu hazırlamaz veya toplantı ertelenmez.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Ece toplantıya katılmazsa, Cem raporu hazırlamaz; Toplantı ertelenirse, Ece toplantıya katılmaz. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-014",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Ayşe, Berk, Gül, Derya ve Emre adlı beş koşucu bir yarışı beraberlik olmadan tamamlamıştır. Yarışla ilgili şunlar bilinmektedir:\n\nDerya, Emre ile Gül arasında bitirmiştir.\nBerk, 4. sırada bitirmemiştir.\nAyşe, Derya'nın hemen önünde bitirmiştir.\nGül, Emre'den önce bitirmiştir.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Gül, Ayşe'nin hemen önünde bitirmiştir.",
+      "B": "Berk, yarışı sonuncu bitirmemiştir.",
+      "C": "Emre, Berk ile Derya arasında bitirmiştir.",
+      "D": "Berk ile Derya ardışık sıralarda bitirmiştir.",
+      "E": "Berk, 5. sırada bitirmiştir."
+    },
+    "answer": "D",
+    "solution": "“Berk ile Derya ardışık sıralarda bitirmiştir.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Berk, 4. sırada bitirmemiştir; Derya, Emre ile Gül arasında bitirmiştir; Ayşe, Derya'nın hemen önünde bitirmiştir. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir. Koşullara uyan olası durumlar: Berk – Gül – Ayşe – Derya – Emre | Gül – Ayşe – Derya – Emre – Berk | Gül – Berk – Ayşe – Derya – Emre.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-015",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Fatma, Okan, Emre ve Pelin adlı dört koşucu bir yarışı beraberlik olmadan tamamlamıştır. Yarışla ilgili şunlar bilinmektedir:\n\nFatma, Okan ile Pelin arasında bitirmiştir.\nFatma ile Emre ardışık sıralarda bitirmiştir.\nEmre, Pelin'den önce bitirmiştir.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Emre, Pelin'in hemen önünde bitirmiştir.",
+      "B": "Emre, Okan ile Fatma arasında bitirmiştir.",
+      "C": "Okan ile Emre ardışık sıralarda bitirmiştir.",
+      "D": "Okan, Fatma'nın hemen önünde bitirmiştir.",
+      "E": "Okan, 3. sırada bitirmemiştir."
+    },
+    "answer": "E",
+    "solution": "“Okan, 3. sırada bitirmemiştir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Emre, Pelin'den önce bitirmiştir; Fatma, Okan ile Pelin arasında bitirmiştir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Okan – Fatma – Emre – Pelin | Okan – Emre – Fatma – Pelin.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-016",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir işletmedeki gelişmelerle ilgili şunlar bilinmektedir:\n\nŞirket yeni proje başlatmazsa, Mert işten ayrılır.\nZeynep terfi almaz veya şirket yeni proje başlatmaz.\nŞirket yeni proje başlatırsa, Zeynep terfi alır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Zeynep terfi almaz ve Mert işten ayrılır.",
+      "B": "Zeynep terfi almazsa, Mert işten ayrılmaz.",
+      "C": "Mert işten ayrılmazsa, Zeynep terfi almaz.",
+      "D": "Mert işten ayrılırsa, Zeynep terfi alır.",
+      "E": "Zeynep terfi almaz ve şirket yeni proje başlatmaz."
+    },
+    "answer": "C",
+    "solution": "“Mert işten ayrılmazsa, Zeynep terfi almaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Şirket yeni proje başlatmazsa, Mert işten ayrılır; Zeynep terfi almaz veya şirket yeni proje başlatmaz. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-017",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Pelin, Fatma, Ece ve Ali adlı dört kişinin meslekleri doktor, hemşire, berber ve fotoğrafçı olup her meslek yalnızca bir kişiye aittir. Bu kişilerle ilgili şunlar bilinmektedir:\n\nAli hemşire ya da fotoğrafçıdır.\nEce hemşire değildir.\nEce doktor değildir.\nFatma fotoğrafçı ya da berberdir.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Fatma berberdir.",
+      "B": "Pelin hemşire ya da doktordur.",
+      "C": "Ece berber değildir.",
+      "D": "Ece fotoğrafçı ya da doktordur.",
+      "E": "Ece hemşire ya da fotoğrafçıdır."
+    },
+    "answer": "B",
+    "solution": "“Pelin hemşire ya da doktordur.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Ali hemşire ya da fotoğrafçıdır; Ece doktor değildir; Fatma fotoğrafçı ya da berberdir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Pelin: doktor, Ali: hemşire, Ece: fotoğrafçı, Fatma: berber | Pelin: doktor, Ali: hemşire, Ece: berber, Fatma: fotoğrafçı.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-018",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHem öğrenci hem öğretmen olan kimse yoktur.\nBazı fotoğrafçılar öğretmendir.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Her öğretmen fotoğrafçıdır.",
+      "B": "Bazı öğrenciler öğretmen değildir.",
+      "C": "Bazı fotoğrafçılar öğrenci değildir.",
+      "D": "Bazı öğretmenler fotoğrafçı değildir.",
+      "E": "Her öğrenci öğretmendir."
+    },
+    "answer": "C",
+    "solution": "“Bazı fotoğrafçılar öğrenci değildir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Bazı fotoğrafçılar öğretmendir; Hem öğrenci hem öğretmen olan kimse yoktur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-019",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Hakan, Emre, Leyla, Pelin ve Umut adlı beş koşucu bir yarışı beraberlik olmadan tamamlamıştır. Yarışla ilgili şunlar bilinmektedir:\n\nLeyla, 5. sırada bitirmemiştir.\nUmut, Emre ile Pelin arasında bitirmiştir.\nLeyla, 4. sırada bitirmemiştir.\nHakan, Pelin'den önce bitirmiştir.\nEmre, Umut'tan önce bitirmiştir.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Hakan, yarışı birinci bitirmemiştir.",
+      "B": "Umut, 4. sırada bitirmemiştir.",
+      "C": "Leyla, Emre ile Pelin arasında bitirmiştir.",
+      "D": "Hakan, Umut ile Pelin arasında bitirmiştir.",
+      "E": "Pelin, yarışı sonuncu bitirmiştir."
+    },
+    "answer": "E",
+    "solution": "“Pelin, yarışı sonuncu bitirmiştir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Umut, Emre ile Pelin arasında bitirmiştir; Leyla, 5. sırada bitirmemiştir; Emre, Umut'tan önce bitirmiştir; Hakan, Pelin'den önce bitirmiştir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-020",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir okuldaki yarışmayla ilgili şunlar bilinmektedir:\n\nDeniz birinci olamaz veya Deniz ödül almaz.\nDeniz ödül almazsa, okul kutlama düzenlemez.\nDeniz birinci olur veya Deniz ödül alır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Okul kutlama düzenlerse, Deniz birinci olamaz.",
+      "B": "Okul kutlama düzenlemez.",
+      "C": "Okul kutlama düzenlemezse, Deniz birinci olur.",
+      "D": "Deniz ödül almaz.",
+      "E": "Deniz birinci olamaz ve Deniz ödül alır."
+    },
+    "answer": "A",
+    "solution": "“Okul kutlama düzenlerse, Deniz birinci olamaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Deniz ödül almazsa, okul kutlama düzenlemez; Deniz birinci olamaz veya Deniz ödül almaz. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-021",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir fabrikanın sevkiyat düzeniyle ilgili şunlar bilinmektedir:\n\nMüdür toplantı yapmazsa, vardiya geç başlamaz.\nVardiya geç başlamazsa, servis geç kalır.\nServis geç kalmazsa, vardiya geç başlamaz.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Servis geç kalır ve vardiya geç başlamaz.",
+      "B": "Servis geç kalır ve vardiya geç başlar.",
+      "C": "Vardiya geç başlarsa, müdür toplantı yapmaz.",
+      "D": "Vardiya geç başlar.",
+      "E": "Servis geç kalmazsa, müdür toplantı yapar."
+    },
+    "answer": "E",
+    "solution": "“Servis geç kalmazsa, müdür toplantı yapar.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Vardiya geç başlamazsa, servis geç kalır; Servis geç kalmazsa, vardiya geç başlamaz. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-022",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nBazı pilotlar doktordur.\nBazı pilotlar çiftçi değildir.\nHer doktor çiftçidir.\n\nBuna göre,\n\nI. Bazı çiftçiler pilottur.\n\nII. Bazı pilotlar doktor değildir.\n\nIII. Bazı çiftçiler doktordur.\n\nyargılarından hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "E",
+    "solution": "Verilen bilgilere uyan bütün durumlarda doğru olan yargılar: I ve II ve III (“Bazı çiftçiler pilottur. / Bazı pilotlar doktor değildir. / Bazı çiftçiler doktordur.”). Öteki yargılar bir durumda yanlış olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-023",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Selin'in kütüphane kullanımıyla ilgili şunlar bilinmektedir:\n\nSelin ceza ödemezse, Selin kitabı zamanında teslim etmez.\nSelin ceza ödemezse, Selin kitabı zamanında teslim eder.\nSelin kitabı zamanında teslim etmezse, Selin yeni kitap ödünç alır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Selin yeni kitap ödünç almaz ve Selin ceza öder.",
+      "B": "Selin kitabı zamanında teslim eder ve Selin yeni kitap ödünç almaz.",
+      "C": "Selin ceza ödemezse, Selin yeni kitap ödünç almaz.",
+      "D": "Selin kitabı zamanında teslim ederse, Selin ceza ödemez.",
+      "E": "Selin kitabı zamanında teslim eder veya Selin ceza ödemez."
+    },
+    "answer": "C",
+    "solution": "“Selin ceza ödemezse, Selin yeni kitap ödünç almaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Selin ceza ödemezse, Selin kitabı zamanında teslim etmez; Selin ceza ödemezse, Selin kitabı zamanında teslim eder. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-024",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Fatma, Okan ve Umut adlı üç kişinin meslekleri hemşire, berber ve şef olup her meslek yalnızca bir kişiye aittir. Bu kişilerle ilgili şunlar bilinmektedir:\n\nOkan hemşire değildir.\nFatma şef ya da berberdir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Umut şef değildir.",
+      "B": "Fatma şeftir.",
+      "C": "Okan şeftir.",
+      "D": "Fatma şef değildir.",
+      "E": "Okan şef değildir."
+    },
+    "answer": "A",
+    "solution": "“Umut şef değildir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Okan hemşire değildir; Fatma şef ya da berberdir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Okan: şef, Fatma: berber, Umut: hemşire | Okan: berber, Fatma: şef, Umut: hemşire.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-025",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHer avukat şairdir.\nHem yazar hem avukat olan kimse yoktur.\nBazı yazarlar şairdir.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Bazı yazarlar avukat değildir.",
+      "B": "Bazı şairler yazar değildir.",
+      "C": "Her avukat yazardır.",
+      "D": "Hem şair hem avukat olan kimse yoktur.",
+      "E": "Her şair yazardır."
+    },
+    "answer": "A",
+    "solution": "“Bazı yazarlar avukat değildir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Bazı yazarlar şairdir; Hem yazar hem avukat olan kimse yoktur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-026",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir şirketteki toplantı süreciyle ilgili şunlar bilinmektedir:\n\nEce toplantıya katılmazsa, toplantı ertelenir.\nEce toplantıya katılırsa, toplantı ertelenmez.\nToplantı ertelenirse, Cem raporu hazırlamaz.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Cem raporu hazırlamaz veya toplantı ertelenir.",
+      "B": "Cem raporu hazırlar ve toplantı ertelenmez.",
+      "C": "Toplantı ertelenmez.",
+      "D": "Ece toplantıya katılmaz ve Cem raporu hazırlar.",
+      "E": "Toplantı ertelenmezse, Cem raporu hazırlar."
+    },
+    "answer": "D",
+    "solution": "“Ece toplantıya katılmaz ve Cem raporu hazırlar.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Ece toplantıya katılmazsa, toplantı ertelenir; Toplantı ertelenirse, Cem raporu hazırlamaz. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-027",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Fatma, Leyla, Burcu, Okan ve Hakan adlı beş arkadaşın boyları birbirinden farklıdır. Boylarla ilgili şunlar bilinmektedir:\n\nOkan, boyca Hakan ile Burcu arasındadır.\nOkan, boyca Leyla ile Hakan arasındadır.\nHakan, Okan'dan daha uzundur.\nFatma, boyca Hakan ile Okan arasındadır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Fatma, Burcu'dan daha uzundur.",
+      "B": "Burcu, boyca Leyla ile Hakan arasındadır.",
+      "C": "Leyla, en kısadır.",
+      "D": "Burcu, Leyla'dan daha uzundur.",
+      "E": "Burcu, boyca Leyla ile Okan arasındadır."
+    },
+    "answer": "A",
+    "solution": "“Fatma, Burcu'dan daha uzundur.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Hakan, Okan'dan daha uzundur; Fatma, boyca Hakan ile Okan arasındadır; Okan, boyca Hakan ile Burcu arasındadır. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Hakan – Fatma – Okan – Leyla – Burcu | Hakan – Fatma – Okan – Burcu – Leyla.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-028",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHer ressam çiftçidir.\nBazı pilotlar ressam değildir.\nHer çiftçi pilottur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Bazı çiftçiler ressamdır.",
+      "B": "Bazı ressamlar pilot değildir.",
+      "C": "Bazı pilotlar ressamdır.",
+      "D": "Bazı pilotlar çiftçi değildir.",
+      "E": "Hem çiftçi hem ressam olan kimse yoktur."
+    },
+    "answer": "B",
+    "solution": "“Bazı ressamlar pilot değildir.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Her çiftçi pilottur; Her ressam çiftçidir. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-029",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bardağı Ece, Emre, Pelin, Leyla ve Deniz adlı beş kişiden biri kırmıştır. Kişilerden dörtü şöyle konuşmuştur:\n\nEce: “Bardağı Emre kırdı.”\nEmre: “Bardağı Leyla kırdı.”\nPelin: “Bardağı Deniz ya da Emre kırdı.”\nLeyla: “Bardağı Deniz kırdı.”\n\nBu söylenenlerden yalnızca biri doğru olduğuna göre, bardağı kim kırmıştır?",
+    "options": {
+      "A": "Leyla",
+      "B": "Emre",
+      "C": "Pelin",
+      "D": "Ece",
+      "E": "Deniz"
+    },
+    "answer": "A",
+    "solution": "Her aday kırıcı kabul edilip söylenenlerden kaçının doğru çıktığı sayılır: Ece → 0, Emre → 2, Pelin → 0, Leyla → 1, Deniz → 2. Beklenen doğru sayısı 1 olduğundan yalnız Leyla uygundur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: doğruluk ve kim yaptı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-030",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir sırada yan yana oturan Umut, Emre, Berk, Gül ve Tuna ile ilgili şunlar bilinmektedir:\n\nUmut, soldan 5. sırada oturmaz.\nBerk, Umut'tan daha solda oturur.\nBerk, Tuna'nın hemen solunda oturur.\nBerk, Emre'den daha solda oturur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Umut, Gül ile Emre arasında oturur.",
+      "B": "Gül, Umut ile Emre arasında oturur.",
+      "C": "Tuna, soldan 4. sırada oturmaz.",
+      "D": "Emre, soldan 3. sırada oturmaz.",
+      "E": "Umut ile Emre yan yana oturur."
+    },
+    "answer": "C",
+    "solution": "“Tuna, soldan 4. sırada oturmaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Berk, Umut'tan daha solda oturur; Umut, soldan 5. sırada oturmaz; Berk, Tuna'nın hemen solunda oturur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-031",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir futbol karşılaşmasıyla ilgili şunlar bilinmektedir:\n\nYağmur yağmaz veya maç ertelenmez.\nMaç ertelenir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Maç ertelenmez veya seyirciler statta toplanır.",
+      "B": "Yağmur yağmaz ve seyirciler statta toplanır.",
+      "C": "Yağmur yağmaz ve maç ertelenir.",
+      "D": "Seyirciler statta toplanırsa, yağmur yağar.",
+      "E": "Maç ertelenir ve seyirciler statta toplanır."
+    },
+    "answer": "C",
+    "solution": "“Yağmur yağmaz ve maç ertelenir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Yağmur yağmaz veya maç ertelenmez; Maç ertelenir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-032",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHer yazar dalgıçtır.\nBazı dalgıçlar yazar değildir.\nHer öğrenci yazardır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Hem dalgıç hem öğrenci olan kimse yoktur.",
+      "B": "Her öğrenci dalgıçtır.",
+      "C": "Hem dalgıç hem yazar olan kimse yoktur.",
+      "D": "Her yazar öğrencidir.",
+      "E": "Bazı öğrenciler yazardır."
+    },
+    "answer": "B",
+    "solution": "“Her öğrenci dalgıçtır.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Her yazar dalgıçtır; Her öğrenci yazardır. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-033",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nBazı pilotlar şair değildir.\nHer şair pilottur.\nHer avukat şairdir.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Hem pilot hem avukat olan kimse yoktur.",
+      "B": "Hem şair hem pilot olan kimse yoktur.",
+      "C": "Bazı şairler avukat değildir.",
+      "D": "Her pilot avukattır.",
+      "E": "Hem şair hem avukat olan kimse yoktur."
+    },
+    "answer": "D",
+    "solution": "“Her pilot avukattır.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Her avukat şairdir; Bazı pilotlar şair değildir. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-034",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Vazoyu Arda, Fatma, Mert, Ali ve Berk adlı beş kişiden biri kırmıştır. Kişilerden üçü şöyle konuşmuştur:\n\nArda: “Vazoyu Mert ya da Berk kırdı.”\nFatma: “Vazoyu Ali kırmadı.”\nMert: “Vazoyu Berk kırmadı.”\n\nBu söylenenlerden yalnızca biri doğru olduğuna göre, vazoyu kim kırmıştır?",
+    "options": {
+      "A": "Berk",
+      "B": "Ali",
+      "C": "Arda",
+      "D": "Fatma",
+      "E": "Mert"
+    },
+    "answer": "B",
+    "solution": "Her aday kırıcı kabul edilip söylenenlerden kaçının doğru çıktığı sayılır: Arda → 2, Fatma → 2, Mert → 3, Ali → 1, Berk → 2. Beklenen doğru sayısı 1 olduğundan yalnız Ali uygundur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: doğruluk ve kim yaptı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-035",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Mert, Burcu, Ece ve Leyla adlı dört kişinin meslekleri hemşire, ressam, avukat ve pilot olup her meslek yalnızca bir kişiye aittir. Bu kişilerle ilgili şunlar bilinmektedir:\n\nLeyla hemşire değildir.\nMert ressam değildir.\nMert avukat ya da ressamdır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Ece hemşire ya da ressamdır.",
+      "B": "Leyla pilot değildir.",
+      "C": "Leyla hemşire ya da avukattır.",
+      "D": "Ece ressam değildir.",
+      "E": "Burcu hemşiredir."
+    },
+    "answer": "C",
+    "solution": "“Leyla hemşire ya da avukattır.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Leyla hemşire değildir; Mert avukat ya da ressamdır; Mert ressam değildir. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir. Koşullara uyan olası durumlar: Ece: hemşire, Burcu: ressam, Leyla: pilot, Mert: avukat | Ece: hemşire, Burcu: pilot, Leyla: ressam, Mert: avukat | Ece: ressam, Burcu: hemşire, Leyla: pilot, Mert: avukat | Ece: pilot, Burcu: hemşire, Leyla: ressam, Mert: avukat.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-036",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Gül, Deniz, Emre, İrem ve Ayşe adlı beş arkadaşın boyları birbirinden farklıdır. Boylarla ilgili şunlar bilinmektedir:\n\nGül, boyca Ayşe ile Deniz arasındadır.\nİrem, Gül'den daha uzundur.\nDeniz, Emre'den daha uzundur.\nEmre, boyca Ayşe ile İrem arasındadır.\nDeniz, boyca Gül ile İrem arasındadır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Gül, boyca Emre ile Deniz arasındadır.",
+      "B": "İrem, boyca Emre ile Deniz arasındadır.",
+      "C": "Emre, boyca Gül ile İrem arasındadır.",
+      "D": "Gül, boyca Emre ile İrem arasındadır.",
+      "E": "Gül, boyca Ayşe ile Emre arasındadır."
+    },
+    "answer": "B",
+    "solution": "“İrem, boyca Emre ile Deniz arasındadır.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Deniz, Emre'den daha uzundur; İrem, Gül'den daha uzundur; Deniz, boyca Gül ile İrem arasındadır. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir. Koşullara uyan olası durumlar: İrem – Deniz – Emre – Gül – Ayşe | İrem – Deniz – Gül – Emre – Ayşe.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-037",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Mert, Umut, Ali, Gül ve Selin adlı beş koşucu bir yarışı beraberlik olmadan tamamlamıştır. Yarışla ilgili şunlar bilinmektedir:\n\nUmut, Selin'den önce bitirmiştir.\nUmut, 2. sırada bitirmemiştir.\nGül, 4. sırada bitirmemiştir.\nMert, Ali ile Selin arasında bitirmiştir.\nMert, 4. sırada bitirmemiştir.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Umut, Ali'den önce bitirmiştir.",
+      "B": "Umut, Mert ile Selin arasında bitirmiştir.",
+      "C": "Selin, 3. sırada bitirmemiştir.",
+      "D": "Selin, 2. sırada bitirmiştir.",
+      "E": "Mert, Gül'ün hemen önünde bitirmiştir."
+    },
+    "answer": "C",
+    "solution": "“Selin, 3. sırada bitirmemiştir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Umut, Selin'den önce bitirmiştir; Mert, Ali ile Selin arasında bitirmiştir; Mert, 4. sırada bitirmemiştir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-038",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Derya, Arda, Burcu ve Deniz adlı dört kişinin meslekleri doktor, fotoğrafçı, berber ve öğretmen olup her meslek yalnızca bir kişiye aittir. Bu kişilerle ilgili şunlar bilinmektedir:\n\nBurcu doktor değildir.\nDerya öğretmen ya da berberdir.\nArda öğretmen ya da berberdir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Arda doktor ya da berberdir.",
+      "B": "Derya berber ya da fotoğrafçıdır.",
+      "C": "Arda öğretmen değildir.",
+      "D": "Deniz doktordur.",
+      "E": "Derya berberdir."
+    },
+    "answer": "D",
+    "solution": "“Deniz doktordur.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Burcu doktor değildir; Derya öğretmen ya da berberdir; Arda öğretmen ya da berberdir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Derya: öğretmen, Burcu: fotoğrafçı, Deniz: doktor, Arda: berber | Derya: berber, Burcu: fotoğrafçı, Deniz: doktor, Arda: öğretmen.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-039",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir sırada yan yana oturan Gül, Nil, Derya, Hakan ve Selin ile ilgili şunlar bilinmektedir:\n\nNil, Gül'den daha solda oturur.\nDerya, Hakan'dan daha solda oturur.\nGül, Hakan'dan daha solda oturur.\nHakan, Selin'in hemen solunda oturur.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Nil, soldan 1. sırada oturur.",
+      "B": "Hakan, soldan 3. sırada oturmaz.",
+      "C": "Gül, Derya'dan daha solda oturur.",
+      "D": "Derya, Nil'in hemen solunda oturur.",
+      "E": "Derya, Nil'den daha solda oturur."
+    },
+    "answer": "B",
+    "solution": "“Hakan, soldan 3. sırada oturmaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Gül, Hakan'dan daha solda oturur; Nil, Gül'den daha solda oturur; Derya, Hakan'dan daha solda oturur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Nil – Derya – Gül – Hakan – Selin | Nil – Gül – Derya – Hakan – Selin | Derya – Nil – Gül – Hakan – Selin.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-040",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Kaan'ın sınav süreciyle ilgili şunlar bilinmektedir:\n\nKaan tatile çıkmazsa, Kaan sınavı geçemez.\nKaan sınavı geçemezse, Kaan tatile çıkar.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Kaan düzenli çalışır veya Kaan sınavı geçer.",
+      "B": "Kaan düzenli çalışmaz ve Kaan sınavı geçer.",
+      "C": "Kaan sınavı geçerse, Kaan tatile çıkmaz.",
+      "D": "Kaan sınavı geçemezse, Kaan düzenli çalışmaz.",
+      "E": "Kaan tatile çıkmaz."
+    },
+    "answer": "E",
+    "solution": "“Kaan tatile çıkmaz.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: Kaan sınavı geçemezse, Kaan tatile çıkar; Kaan tatile çıkmazsa, Kaan sınavı geçemez. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-041",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir işletmedeki gelişmelerle ilgili şunlar bilinmektedir:\n\nŞirket yeni proje başlatmazsa, Zeynep terfi alır.\nMert işten ayrılmaz veya şirket yeni proje başlatmaz.\nŞirket yeni proje başlatmazsa, Mert işten ayrılır.\nMert işten ayrılmazsa, Zeynep terfi alır.\n\nBuna göre,\n\nI. Şirket yeni proje başlatırsa, Mert işten ayrılır.\n\nII. Zeynep terfi alır veya Mert işten ayrılmaz.\n\nIII. Zeynep terfi alır ve Mert işten ayrılmaz.\n\nyargılarından hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Verilen bilgilere uyan bütün durumlarda doğru olan yargılar: II (“Zeynep terfi alır veya Mert işten ayrılmaz.”). Öteki yargılar bir durumda yanlış olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-042",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nBazı öğretmenler yazardır.\nHer ressam öğretmendir.\nHer öğretmen ressamdır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Bazı yazarlar öğretmen değildir.",
+      "B": "Her yazar öğretmendir.",
+      "C": "Bazı ressamlar yazardır.",
+      "D": "Bazı yazarlar ressam değildir.",
+      "E": "Bazı ressamlar yazar değildir."
+    },
+    "answer": "C",
+    "solution": "“Bazı ressamlar yazardır.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Her öğretmen ressamdır; Bazı öğretmenler yazardır. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-043",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir sırada yan yana oturan Deniz, Umut, Leyla, Berk, Gül ve Pelin ile ilgili şunlar bilinmektedir:\n\nDeniz, Pelin ile Umut arasında oturur.\nBerk, soldan 6. sırada oturmaz.\nGül, Pelin ile Berk arasında oturur.\nUmut, Leyla'nın hemen solunda oturur.\nLeyla, Umut ile Gül arasında oturur.\nLeyla, soldan 3. sırada oturmaz.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Berk ile Gül yan yana oturur.",
+      "B": "Berk, Leyla ile Gül arasında oturur.",
+      "C": "Berk, soldan 4. sırada oturmaz.",
+      "D": "Berk, Deniz'den daha solda oturur.",
+      "E": "Leyla, Deniz'in hemen solunda oturur."
+    },
+    "answer": "B",
+    "solution": "“Berk, Leyla ile Gül arasında oturur.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Leyla, soldan 3. sırada oturmaz; Berk, soldan 6. sırada oturmaz; Gül, Pelin ile Berk arasında oturur; Leyla, Umut ile Gül arasında oturur; Deniz, Pelin ile Umut arasında oturur; Umut, Leyla'nın hemen solunda oturur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Umut – Leyla – Deniz – Berk – Gül – Pelin | Umut – Leyla – Berk – Deniz – Gül – Pelin | Umut – Leyla – Berk – Gül – Deniz – Pelin.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-044",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Mert, Okan, Tuna, İrem ve Zeynep adlı beş arkadaşın boyları birbirinden farklıdır. Boylarla ilgili şunlar bilinmektedir:\n\nMert, İrem'den daha uzundur.\nİrem, boyca Mert ile Tuna arasındadır.\nİrem, boyca Zeynep ile Tuna arasındadır.\nİrem, boyca Zeynep ile Okan arasındadır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Mert, en uzundur.",
+      "B": "İrem, boyca Mert ile Okan arasındadır.",
+      "C": "Tuna, boyca Mert ile Okan arasındadır.",
+      "D": "Zeynep, en uzundur.",
+      "E": "Mert, boyca Zeynep ile Tuna arasındadır."
+    },
+    "answer": "B",
+    "solution": "“İrem, boyca Mert ile Okan arasındadır.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: İrem, boyca Zeynep ile Tuna arasındadır; İrem, boyca Mert ile Tuna arasındadır; İrem, boyca Zeynep ile Okan arasındadır. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Mert – Zeynep – İrem – Okan – Tuna | Mert – Zeynep – İrem – Tuna – Okan | Zeynep – Mert – İrem – Okan – Tuna | Zeynep – Mert – İrem – Tuna – Okan.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-045",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Camı Tuna, Gül, Hakan, Leyla ve Cem adlı beş kişiden biri kırmıştır. Kişilerden üçü şöyle konuşmuştur:\n\nTuna: “Camı Cem ya da Hakan kırdı.”\nGül: “Camı Tuna kırmadı.”\nHakan: “Camı Leyla kırmadı.”\n\nBu söylenenlerden tam olarak ikisi doğru olduğuna göre, camı kim kırmıştır?",
+    "options": {
+      "A": "Leyla",
+      "B": "Hakan",
+      "C": "Tuna",
+      "D": "Cem",
+      "E": "Gül"
+    },
+    "answer": "E",
+    "solution": "Her aday kırıcı kabul edilip söylenenlerden kaçının doğru çıktığı sayılır: Tuna → 1, Gül → 2, Hakan → 3, Leyla → 1, Cem → 3. Beklenen doğru sayısı 2 olduğundan yalnız Gül uygundur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: doğruluk ve kim yaptı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-046",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Pelin, Emre, Burcu, Ali ve Selin adlı beş kişi, beş katlı bir apartmanın her katında birer kişi olacak biçimde oturmaktadır (katlar aşağıdan yukarıya numaralanmıştır). Bu kişilerle ilgili şunlar bilinmektedir:\n\nPelin, Ali'nin hemen alt katında oturur.\nEmre, Burcu'dan daha alt katta oturur.\nBurcu, Pelin'in hemen alt katında oturur.\nBurcu, Pelin ile Selin arasındaki katlardan birinde oturur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Burcu ile Emre ardışık katlarda oturur.",
+      "B": "Ali, 4. katta oturmaz.",
+      "C": "Emre, en alt katta oturur.",
+      "D": "Emre, Pelin ile Selin arasındaki katlardan birinde oturur.",
+      "E": "Emre, Selin'den daha alt katta oturur."
+    },
+    "answer": "B",
+    "solution": "“Ali, 4. katta oturmaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Burcu, Pelin'in hemen alt katında oturur; Emre, Burcu'dan daha alt katta oturur; Burcu, Pelin ile Selin arasındaki katlardan birinde oturur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Emre – Selin – Burcu – Pelin – Ali | Selin – Emre – Burcu – Pelin – Ali.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-047",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir sırada yan yana oturan Fatma, Leyla, Cem, Pelin ve Zeynep ile ilgili şunlar bilinmektedir:\n\nCem, Pelin'den daha solda oturur.\nFatma, Zeynep'ten daha solda oturur.\nPelin, Leyla ile Fatma arasında oturur.\nZeynep, soldan 2. sırada oturmaz.\nZeynep, Leyla ile Fatma arasında oturur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Leyla, soldan 5. sırada oturur.",
+      "B": "Cem, Pelin'in hemen solunda oturur.",
+      "C": "Cem, soldan 2. sırada oturmaz.",
+      "D": "Cem, en solda oturmaz.",
+      "E": "Pelin, Leyla ile Zeynep arasında oturur."
+    },
+    "answer": "A",
+    "solution": "“Leyla, soldan 5. sırada oturur.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Cem, Pelin'den daha solda oturur; Zeynep, Leyla ile Fatma arasında oturur; Pelin, Leyla ile Fatma arasında oturur; Fatma, Zeynep'ten daha solda oturur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Cem – Fatma – Pelin – Zeynep – Leyla | Cem – Fatma – Zeynep – Pelin – Leyla | Fatma – Cem – Pelin – Zeynep – Leyla | Fatma – Cem – Zeynep – Pelin – Leyla.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-048",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aynayı Deniz, İrem, Arda, Ayşe ve Emre adlı beş kişiden biri kırmıştır. Kişilerden üçü şöyle konuşmuştur:\n\nDeniz: “Aynayı Arda ya da İrem kırdı.”\nİrem: “Aynayı Arda ya da Deniz kırdı.”\nArda: “Aynayı Emre kırmadı.”\n\nBu söylenenlerden yalnızca biri doğru olduğuna göre, aynayı kim kırmıştır?",
+    "options": {
+      "A": "İrem",
+      "B": "Arda",
+      "C": "Deniz",
+      "D": "Emre",
+      "E": "Ayşe"
+    },
+    "answer": "E",
+    "solution": "Her aday kırıcı kabul edilip söylenenlerden kaçının doğru çıktığı sayılır: Deniz → 2, İrem → 2, Arda → 3, Ayşe → 1, Emre → 0. Beklenen doğru sayısı 1 olduğundan yalnız Ayşe uygundur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: doğruluk ve kim yaptı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-049",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Tuna, Okan, Zeynep, Selin ve Nil adlı beş koşucu bir yarışı beraberlik olmadan tamamlamıştır. Yarışla ilgili şunlar bilinmektedir:\n\nSelin, Nil'den önce bitirmiştir.\nOkan, 4. sırada bitirmemiştir.\nNil, Tuna ile Zeynep arasında bitirmiştir.\nOkan, 5. sırada bitirmemiştir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Tuna, Nil ile Selin arasında bitirmiştir.",
+      "B": "Selin, 1. sırada bitirmemiştir.",
+      "C": "Selin, 2. sırada bitirmiştir.",
+      "D": "Zeynep, 4. sırada bitirmemiştir.",
+      "E": "Tuna ile Selin ardışık sıralarda bitirmiştir."
+    },
+    "answer": "D",
+    "solution": "“Zeynep, 4. sırada bitirmemiştir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Selin, Nil'den önce bitirmiştir; Okan, 5. sırada bitirmemiştir; Nil, Tuna ile Zeynep arasında bitirmiştir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-050",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Derya, Hakan, Umut, Arda ve Cem adlı beş kişi, beş katlı bir apartmanın her katında birer kişi olacak biçimde oturmaktadır (katlar aşağıdan yukarıya numaralanmıştır). Bu kişilerle ilgili şunlar bilinmektedir:\n\nDerya, 2. katta oturur.\nDerya, Cem'in hemen alt katında oturur.\nHakan, 1. katta oturmaz.\nUmut, 1. katta oturmaz.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Cem, Umut'un hemen alt katında oturur.",
+      "B": "Hakan, Umut'un hemen alt katında oturur.",
+      "C": "Cem, Umut ile Derya arasındaki katlardan birinde oturur.",
+      "D": "Hakan, Umut ile Derya arasındaki katlardan birinde oturur.",
+      "E": "Umut, Cem ile Hakan arasındaki katlardan birinde oturur."
+    },
+    "answer": "C",
+    "solution": "“Cem, Umut ile Derya arasındaki katlardan birinde oturur.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Derya, 2. katta oturur; Umut, 1. katta oturmaz; Derya, Cem'in hemen alt katında oturur. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Arda – Derya – Cem – Umut – Hakan | Arda – Derya – Cem – Hakan – Umut.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-051",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Ece, Nil, Tuna, Kaan, Derya ve İrem adlı altı kişi, altı katlı bir apartmanın her katında birer kişi olacak biçimde oturmaktadır (katlar aşağıdan yukarıya numaralanmıştır). Bu kişilerle ilgili şunlar bilinmektedir:\n\nİrem, en alt katta oturmaz.\nDerya, 6. katta oturur.\nNil, Derya ile Ece arasındaki katlardan birinde oturur.\nKaan, Derya'nın hemen alt katında oturur.\nEce, Tuna ile Derya arasındaki katlardan birinde oturur.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Tuna, Kaan ile İrem arasındaki katlardan birinde oturur.",
+      "B": "Ece, Nil'in hemen alt katında oturur.",
+      "C": "Nil ile Ece ardışık katlarda oturur.",
+      "D": "İrem, 4. katta oturmaz.",
+      "E": "Nil, Tuna ile İrem arasındaki katlardan birinde oturur."
+    },
+    "answer": "A",
+    "solution": "“Tuna, Kaan ile İrem arasındaki katlardan birinde oturur.” yargısı, şu bilgiler birlikte değerlendirildiğinde gerçekleşemez: İrem, en alt katta oturmaz; Ece, Tuna ile Derya arasındaki katlardan birinde oturur; Kaan, Derya'nın hemen alt katında oturur; Nil, Derya ile Ece arasındaki katlardan birinde oturur; Derya, 6. katta oturur. Öteki yargılar verilen bilgilere uyan en az bir durumda doğru olabilir. Koşullara uyan olası durumlar: Tuna – İrem – Ece – Nil – Kaan – Derya | Tuna – Ece – Nil – İrem – Kaan – Derya | Tuna – Ece – İrem – Nil – Kaan – Derya.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-052",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir sırada yan yana oturan Gül, Cem, İrem, Arda ve Emre ile ilgili şunlar bilinmektedir:\n\nCem ile Emre yan yana oturur.\nGül, Arda ile İrem arasında oturur.\nEmre, soldan 4. sırada oturmaz.\nİrem, en sağda oturmaz.\n\nBuna göre,\n\nI. İrem, Gül ile Emre arasında oturur.\n\nII. İrem, soldan 4. sırada oturmaz.\n\nIII. Cem, en sağda oturmaz.\n\nyargılarından hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Verilen bilgilere uyan bütün durumlarda doğru olan yargılar: II ve III (“İrem, soldan 4. sırada oturmaz. / Cem, en sağda oturmaz.”). Öteki yargılar bir durumda yanlış olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-053",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir bahçedeki doğa olaylarıyla ilgili şunlar bilinmektedir:\n\nÇiçekler açmazsa, hava ısınır.\nArılar bahçeye gelmezse, çiçekler açmaz.\nÇiçekler açmazsa, hava ısınmaz.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Hava ısınır.",
+      "B": "Hava ısınmaz veya arılar bahçeye gelmez.",
+      "C": "Arılar bahçeye gelmezse, hava ısınır.",
+      "D": "Hava ısınmaz veya çiçekler açmaz.",
+      "E": "Hava ısınmazsa, çiçekler açmaz."
+    },
+    "answer": "C",
+    "solution": "“Arılar bahçeye gelmezse, hava ısınır.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Arılar bahçeye gelmezse, çiçekler açmaz; Çiçekler açmazsa, hava ısınır. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: koşullu önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-054",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Emre, Gül, Ece, Zeynep ve Pelin adlı beş kişi, beş katlı bir apartmanın her katında birer kişi olacak biçimde oturmaktadır (katlar aşağıdan yukarıya numaralanmıştır). Bu kişilerle ilgili şunlar bilinmektedir:\n\nEmre, Gül ile Zeynep arasındaki katlardan birinde oturur.\nGül, 4. katta oturmaz.\nGül, Ece'den daha alt katta oturur.\nPelin, 4. katta oturmaz.\nZeynep ile Emre ardışık katlarda oturur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Pelin, 5. katta oturmaz.",
+      "B": "Gül, 3. katta oturmaz.",
+      "C": "Pelin, Zeynep'ten daha alt katta oturur.",
+      "D": "Zeynep, 2. katta oturmaz.",
+      "E": "Pelin, Gül ile Emre arasındaki katlardan birinde oturur."
+    },
+    "answer": "D",
+    "solution": "“Zeynep, 2. katta oturmaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Emre, Gül ile Zeynep arasındaki katlardan birinde oturur; Gül, Ece'den daha alt katta oturur; Gül, 4. katta oturmaz. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-055",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHer pilot müzisyendir.\nBazı pilotlar müzisyendir.\nHer doktor pilottur.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Hem müzisyen hem doktor olan kimse yoktur.",
+      "B": "Her müzisyen doktordur.",
+      "C": "Bazı pilotlar doktor değildir.",
+      "D": "Bazı müzisyenler doktordur.",
+      "E": "Her doktor müzisyendir."
+    },
+    "answer": "E",
+    "solution": "“Her doktor müzisyendir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Her doktor pilottur; Her pilot müzisyendir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-056",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir sırada yan yana oturan Cem, Burcu, Arda ve Kaan ile ilgili şunlar bilinmektedir:\n\nCem, soldan 1. sırada oturmaz.\nCem, soldan 3. sırada oturmaz.\nKaan, Cem ile Arda arasında oturur.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Cem, en sağda oturmaz.",
+      "B": "Burcu, Kaan'dan daha solda oturur.",
+      "C": "Burcu, en solda oturur.",
+      "D": "Arda, soldan 3. sırada oturmaz.",
+      "E": "Kaan, Arda'nın hemen solunda oturur."
+    },
+    "answer": "D",
+    "solution": "“Arda, soldan 3. sırada oturmaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Kaan, Cem ile Arda arasında oturur; Cem, soldan 1. sırada oturmaz. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Arda – Kaan – Burcu – Cem | Arda – Burcu – Kaan – Cem | Burcu – Cem – Kaan – Arda | Burcu – Arda – Kaan – Cem.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-057",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Fatma, Arda, Ali, Kaan ve Deniz adlı beş kişi, beş katlı bir apartmanın her katında birer kişi olacak biçimde oturmaktadır (katlar aşağıdan yukarıya numaralanmıştır). Bu kişilerle ilgili şunlar bilinmektedir:\n\nAli, 1. katta oturmaz.\nKaan, Fatma'nın hemen alt katında oturur.\nAli, Deniz'den daha alt katta oturur.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Arda, Kaan'ın hemen alt katında oturur.",
+      "B": "Deniz, Fatma ile Ali arasındaki katlardan birinde oturur.",
+      "C": "Deniz, 2. katta oturmaz.",
+      "D": "Fatma, Ali'den daha alt katta oturur.",
+      "E": "Ali, Arda ile Deniz arasındaki katlardan birinde oturur."
+    },
+    "answer": "C",
+    "solution": "“Deniz, 2. katta oturmaz.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Ali, Deniz'den daha alt katta oturur; Ali, 1. katta oturmaz. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-058",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Arda, Deniz, Okan, Gül ve Ece adlı beş kişi, beş katlı bir apartmanın her katında birer kişi olacak biçimde oturmaktadır (katlar aşağıdan yukarıya numaralanmıştır). Bu kişilerle ilgili şunlar bilinmektedir:\n\nDeniz, Ece'den daha alt katta oturur.\nEce ile Arda ardışık katlarda oturur.\nArda, 4. katta oturmaz.\nGül, Arda'dan daha alt katta oturur.\nOkan, Deniz ile Arda arasındaki katlardan birinde oturur.\n\nBuna göre,\n\nI. Ece, Arda'nın hemen alt katında oturur.\n\nII. Gül, 3. katta oturmaz.\n\nIII. Okan, Ece ile Gül arasındaki katlardan birinde oturur.\n\nyargılarından hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Verilen bilgilere uyan bütün durumlarda doğru olan yargılar: I (“Ece, Arda'nın hemen alt katında oturur.”). Öteki yargılar bir durumda yanlış olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: sıralama ve yerleştirme (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-059",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Ayşe, Kaan, Derya ve Fatma adlı dört kişinin meslekleri ressam, avukat, öğretmen ve müzisyen olup her meslek yalnızca bir kişiye aittir. Bu kişilerle ilgili şunlar bilinmektedir:\n\nAyşe avukat değildir.\nKaan ressam ya da öğretmendir.\nKaan öğretmen değildir.\nAyşe müzisyen değildir.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Ayşe öğretmendir.",
+      "B": "Derya avukat değildir.",
+      "C": "Derya müzisyen ya da öğretmendir.",
+      "D": "Fatma avukat ya da öğretmendir.",
+      "E": "Derya ressam ya da müzisyendir."
+    },
+    "answer": "A",
+    "solution": "“Ayşe öğretmendir.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Kaan öğretmen değildir; Ayşe müzisyen değildir; Kaan ressam ya da öğretmendir; Ayşe avukat değildir. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz. Koşullara uyan olası durumlar: Fatma: müzisyen, Kaan: ressam, Derya: avukat, Ayşe: öğretmen | Fatma: avukat, Kaan: ressam, Derya: müzisyen, Ayşe: öğretmen.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-060",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Aşağıdaki bilgiler verilmiştir:\n\nHem çiftçi hem yazar olan kimse yoktur.\nHer fotoğrafçı yazardır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Bazı yazarlar fotoğrafçıdır.",
+      "B": "Hem yazar hem fotoğrafçı olan kimse yoktur.",
+      "C": "Bazı fotoğrafçılar çiftçi değildir.",
+      "D": "Her yazar fotoğrafçıdır.",
+      "E": "Hem çiftçi hem fotoğrafçı olan kimse yoktur."
+    },
+    "answer": "E",
+    "solution": "“Hem çiftçi hem fotoğrafçı olan kimse yoktur.” yargısı, şu bilgilerin birlikte değerlendirilmesiyle zorunlu olarak çıkar: Hem çiftçi hem yazar olan kimse yoktur; Her fotoğrafçı yazardır. Öteki yargılar verilen bilgilerle bir durumda doğru, başka bir durumda yanlış olabilir; kesinlik taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  }
+]

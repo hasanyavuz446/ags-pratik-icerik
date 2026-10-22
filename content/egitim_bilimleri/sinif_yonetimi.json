@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "ags-egt-syn-001",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sosyal bilgiler öğretmeni Cemal Bey, ders sırasında konuşan Ali'yi sakin ama kararlı bir tavırla uyarmıştır. Ali'yi uyardığı anda, konuşmakta olan diğer öğrenciler de sustu ve toparlandı; üstelik henüz uyarılmamış olan öğrencilerin dikkati de derse döndü.\n\nBu durum Kounin'in hangi kavramıyla açıklanır?",
+    "options": {
+      "A": "Her yerde olma",
+      "B": "Çakışma",
+      "C": "Doygunluk",
+      "D": "Dalgalanma etkisi",
+      "E": "Grup uyarma"
+    },
+    "answer": "D",
+    "solution": "Kounin'e göre bir öğrencinin davranışına yapılan müdahale, doğrudan müdahale edilmeyen diğer öğrencilerin davranışlarını da etkiler; buna dalgalanma etkisi denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Kounin"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-002",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Edebiyat öğretmeni Hülya Hanım, tahtaya yazı yazarken sınıfa arkasını dönmüş olmasına rağmen arka sıradaki Murat'ın kâğıt fırlatan arkadaşını doğru tespit etmiş ve tam zamanında uyarmıştır. Öğrenciler öğretmenin sınıfta olup biten her şeyin farkında olduğunu düşünmektedir.\n\nHülya Hanım'ın bu özelliği Kounin'in hangi kavramıyla ifade edilir?",
+    "options": {
+      "A": "Her yerde olma",
+      "B": "Dalgalanma etkisi",
+      "C": "Akıcılık",
+      "D": "Çakışma",
+      "E": "Doygunluk"
+    },
+    "answer": "A",
+    "solution": "Her yerde olma (withitness), öğretmenin sınıfta olup biteni sürekli fark ettiğini öğrencilere hissettirmesi ve doğru öğrenciye zamanında müdahale etmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Kounin"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-003",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Fen bilgisi öğretmeni Selim Bey, bir grup öğrenciye deney düzeneğinin nasıl kurulacağını anlatırken diğer masada oyalanmaya başlayan öğrencileri fark etmiş, anlatmayı kesmeden o masaya doğru bakıp kısa bir işaretle uyarmış ve anlatımına aynı anda devam etmiştir.\n\nSelim Bey'in bu davranışı Kounin'in hangi kavramına örnektir?",
+    "options": {
+      "A": "Dalgalanma etkisi",
+      "B": "Doygunluk",
+      "C": "Grup uyarma",
+      "D": "Her yerde olma",
+      "E": "Çakışma"
+    },
+    "answer": "E",
+    "solution": "Çakışmada (overlapping) öğretmen, bir etkinlikle ilgilenirken aynı anda başka bir davranışı fark edip ana etkinliği bölmeden müdahale eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Kounin"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-004",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Matematik öğretmeni Tuğba Hanım, bir etkinlikten diğerine geçerken öğrencileri bekletmemekte, gereksiz ayrıntılarla zaman kaybetmemekte ve derse hızlı, kesintisiz bir tempo kazandırmaktadır. Öğrenciler hangi etkinliğin ne zaman biteceğini bilmekte, geçişlerde dağılmamaktadır. Sınıf, bu tempo sayesinde dersin sonunda planlanan tüm etkinlikleri tamamlamaktadır.\n\nTuğba Hanım'ın bu uygulaması Kounin'in hangi kavramlarıyla ilişkilidir?",
+    "options": {
+      "A": "Doygunluk",
+      "B": "Grup uyarma",
+      "C": "Çakışma",
+      "D": "Akıcılık ve süreklilik",
+      "E": "Dalgalanma etkisi"
+    },
+    "answer": "D",
+    "solution": "Kounin'e göre derste kesintisiz akış, etkinlikler arasında yumuşak geçiş ve tempo (momentum) sağlamak, davranış sorunlarını önlemenin önemli koşuludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Kounin"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-005",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Türkçe öğretmeni Gülcan Hanım, okuma etkinliğinde önce soruyu sınıfa sorup herkesin yanıt üzerinde düşünmesini sağlamakta, sonra rastgele bir öğrenciyi seçmekte ve kimin sorulacağını önceden belli etmemektedir. Böylece tüm öğrenciler derste dikkatli ve hazır beklemektedir.\n\nGülcan Hanım'ın bu tekniği Kounin'in hangi kavramına örnektir?",
+    "options": {
+      "A": "Her yerde olma",
+      "B": "Dalgalanma etkisi",
+      "C": "Grup uyarma",
+      "D": "Çakışma",
+      "E": "Doygunluk"
+    },
+    "answer": "C",
+    "solution": "Grup uyarma (group alerting), öğretmenin tüm sınıfın dikkatini canlı tutması, öğrencilerin her an soru sorulabileceğini bilerek hazır beklemesini sağlamasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Kounin"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-006",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Matematik öğretmeni Orhan Bey, öğrencilere aynı tür çarpma problemlerini bir saat boyunca aralıksız çözdürmüştür. Dersin ikinci yarısında öğrencilerin sıkıldığı, dikkatlerinin dağıldığı, bir kısmının konuşmaya ve oyalanmaya başladığı görülmüştür. Öğretmen etkinliği değiştirmeyi ve konuya çeşitlilik katmayı düşünmemiştir. Öğrencilerin yarısı zamanla tahtaya bakmayı bırakmıştır.\n\nBu durum Kounin'in hangi kavramıyla açıklanır?",
+    "options": {
+      "A": "Grup uyarma",
+      "B": "Doygunluk",
+      "C": "Her yerde olma",
+      "D": "Çakışma",
+      "E": "Dalgalanma etkisi"
+    },
+    "answer": "B",
+    "solution": "Doygunluk, aynı etkinliğin çok uzun sürdürülmesi nedeniyle öğrencilerin sıkılması ve ilgisini kaybetmesidir; çeşitlilik ve ilerleme hissi bu sorunu önler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Kounin"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-007",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Aysel Hanım, dönem başında sınıf kurallarını ve bu kurallara uyulması ya da uyulmaması durumunda uygulanacak sonuçları öğrencilere açıkça duyurmuştur. Kurallara uymayanlar için önceden belirlenmiş basamaklı bir plan vardır ve öğretmen kararlılıkla bu planı uygulamaktadır.\n\nAysel Hanım'ın bu yaklaşımı hangi modele dayanır?",
+    "options": {
+      "A": "Demokratik disiplin",
+      "B": "Gerçeklik terapisi",
+      "C": "Öğretmen etkinlik eğitimi",
+      "D": "Uyumlu iletişim",
+      "E": "Atılgan (kararlı) disiplin"
+    },
+    "answer": "E",
+    "solution": "Canter'in atılgan disiplin modelinde öğretmen, kuralları ve sonuçlarını açıkça belirler ve kararlılıkla uygular; öğretmen de öğrenci de haklara sahiptir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Canter"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-008",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Okul öncesi öğretmeni Nevin Hanım, çocuklara hangi davranışların kabul edilemeyeceğini açıkça söylemekte, sesini yükseltmeden ama net bir ifadeyle “Sıranı bekle, bu kural herkes için geçerli” demekte ve kuralı ihlal eden çocuklara önceden duyurduğu sonucu uygulamaktadır. Kendi ihtiyaçlarını da açıkça ifade etmektedir.\n\nNevin Hanım hangi modelin temsilcisi gibi davranmaktadır?",
+    "options": {
+      "A": "Ginott",
+      "B": "Gordon",
+      "C": "Canter",
+      "D": "Glasser",
+      "E": "Dreikurs"
+    },
+    "answer": "C",
+    "solution": "Canter'in atılgan disiplin modeli, öğretmenin kendi ihtiyaçlarını açıkça belirtmesi, kuralları net koyması ve sonuçları tutarlı uygulamasına dayanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Canter"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-009",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Lise öğrencisi Barış, derslerin sıkıcı olduğunu düşündüğü için sık sık komik taklitler yapmakta, arkadaşlarını güldürerek derse katılımı bozmaktadır. Rehber öğretmen, Barış'ın davranışının derste eğlenme gereksinimini karşılama çabasından kaynaklandığını belirtmiştir. Öğretmenleri Barış'ı uyardıkça davranış bir süre azalmakta, ardından yeniden ortaya çıkmaktadır.\n\nBu açıklama Glasser'ın seçim kuramındaki hangi temel ihtiyaçla ilgilidir?",
+    "options": {
+      "A": "Eğlence",
+      "B": "Özgürlük",
+      "C": "Hayatta kalma",
+      "D": "Güç",
+      "E": "Aidiyet"
+    },
+    "answer": "A",
+    "solution": "Glasser'ın seçim kuramına göre insanın beş temel ihtiyacı vardır: hayatta kalma, aidiyet (sevgi), güç, özgürlük ve eğlence. Öğrencinin şakaları eğlence ihtiyacını karşılama girişimidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Glasser"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-010",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Esin Hanım, öğrencilerin davranışlarından kendilerinin sorumlu olduğuna inanmakta; kural ihlali olduğunda öğrenciye “Ne yaptın? Bu davranışın sana ve sınıfa yararı oldu mu? Daha iyisi için nasıl bir plan yapabilirsin?” sorularını yöneltmekte, birlikte plan yapmalarını sağlamaktadır.\n\nEsin Hanım'ın uyguladığı yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Davranış değiştirme",
+      "B": "Kayıpsız yöntem",
+      "C": "Atılgan disiplin",
+      "D": "Gerçeklik terapisi",
+      "E": "Uyumlu iletişim"
+    },
+    "answer": "D",
+    "solution": "Glasser'ın gerçeklik terapisi, öğrencinin davranışlarından kendisinin sorumlu olduğunu, seçimlerinin sonuçlarını görmesini ve kendisinin plan yapmasını esas alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Glasser"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-011",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Rukiye Hanım, her hafta cuma günü ilk ders saatinde bütün öğrencilerin katıldığı bir sınıf toplantısı yapmakta; sınıfın sorunlarını ortaklaşa konuşmakta, çözüm önerilerini öğrencilerle birlikte belirlemekte ve alınan kararları birlikte uygulamaktadır.\n\nRukiye Hanım'ın bu uygulaması hangi model tarafından önerilmiştir?",
+    "options": {
+      "A": "Glasser",
+      "B": "Skinner",
+      "C": "Canter",
+      "D": "Kounin",
+      "E": "Gordon"
+    },
+    "answer": "A",
+    "solution": "Glasser, sınıf toplantılarını öğrencilerin sorun çözmeye katılımını ve sorumluluk duygusunu artıran bir araç olarak önerir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Glasser"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-012",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Kadir Bey, sınıfta gürültü olduğunda “Hep siz böylesiniz, hiç dinlemiyorsunuz!” demek yerine “Gürültü olunca anlattıklarımı duyamıyorsunuz ve bu beni üzüyor” demektedir. Böylece öğrencinin kişiliğini suçlamadan davranışın kendisi üzerindeki etkisini ifade etmektedir. Öğrencilerden bazıları Kadir Bey'in bu ifadesinden sonra sustuklarını belirtmiştir.\n\nKadir Bey'in bu iletişim biçimi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ben dili",
+      "B": "Sen dili",
+      "C": "Yönlendirme",
+      "D": "Yargılama",
+      "E": "Aktif dinleme"
+    },
+    "answer": "A",
+    "solution": "Gordon'a göre ben dili; davranışı, bu davranışın öğretmen üzerindeki somut etkisini ve duyguyu yargılamadan ifade eder. Sen dili ise suçlayıcıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Gordon (öğretmen etkinlik eğitimi)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-013",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınavdan düşük not alan Elif öğretmenine gelip “Ben bu derste hep başarısızım, çalışmanın bir anlamı yok” demiştir. Öğretmen Selma Hanım, öğüt vermek yerine “Sınav sonucundan dolayı çok üzgün ve umutsuz hissediyorsun” diyerek öğrencinin duygusunu yansıtmıştır.\n\nSelma Hanım hangi iletişim becerisini kullanmıştır?",
+    "options": {
+      "A": "Öğüt verme",
+      "B": "Yönlendirme",
+      "C": "Kayıpsız yöntem",
+      "D": "Ben dili",
+      "E": "Aktif dinleme"
+    },
+    "answer": "E",
+    "solution": "Aktif dinlemede dinleyici, konuşanın duygu ve mesajını kendi sözcükleriyle yansıtarak anladığını gösterir; yargılamaz ve öğüt vermez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Gordon"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-014",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Burcu Hanım, bir öğrencinin ailesindeki sorunlar nedeniyle üzgün olduğunu fark etmiştir. Öğrencinin bu durumu dersi engellememektedir; ancak aynı sınıfta başka bir öğrencinin sürekli konuşması öğretmenin ders anlatmasını engellemektedir. Burcu Hanım ilk durumda dinleyici, ikinci durumda ise sorunu doğrudan ele almaktadır.\n\nBurcu Hanım'ın ayrım yapmasında Gordon'un hangi kavramı rol oynamaktadır?",
+    "options": {
+      "A": "Kayıpsız yöntem",
+      "B": "Problem sahipliği",
+      "C": "Doygunluk",
+      "D": "Atılgan disiplin",
+      "E": "Dalgalanma etkisi"
+    },
+    "answer": "B",
+    "solution": "Gordon'a göre problem, kime ait olduğuna göre ayrılır: davranış öğretmenin ihtiyacını engelliyorsa problem öğretmenindir; öğrencinin kendi ihtiyacı etkileniyorsa problem öğrencinindir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Gordon"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-015",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıfta sürekli yüksek sesle konuşan öğrencilerle öğretmeni Kemal Bey birlikte oturup sorunu ele almışlar, karşılıklı ihtiyaçlarını paylaşmışlar ve her iki tarafın da kabul edebileceği bir çözüm üretmişlerdir. Çözümde kimse kendini yenilmiş hissetmemiş, kural birlikte belirlenmiştir.\n\nKemal Bey'in uyguladığı bu yöntem aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kayıpsız yöntem",
+      "B": "Davranış değiştirme",
+      "C": "Gerçeklik terapisi",
+      "D": "Planlı görmezden gelme",
+      "E": "Atılgan disiplin"
+    },
+    "answer": "A",
+    "solution": "Gordon'un kayıpsız yönteminde taraflar ihtiyaçlarını paylaşarak birlikte çözüm üretir ve karar verir; ne öğretmen ne de öğrenci kaybeder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Gordon"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-016",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Pınar Hanım, ödevini yapmayan öğrenciye “Sen tembelin tekisin, zaten hiçbir iş yapmazsın” demek yerine “Ödevini yapmadığını görüyorum, bu beni üzdü; nedenini konuşalım” demektedir. Öğrencinin kişiliğini değil, yalnızca davranışını ele almaktadır. Pınar Hanım bu yaklaşımı öğrencilerinin sınıf içindeki ilişkilerini korumak amacıyla bilinçli olarak uygulamaktadır.\n\nPınar Hanım'ın bu yaklaşımı hangi görüşün temel ilkesidir?",
+    "options": {
+      "A": "Canter'in atılgan disiplini",
+      "B": "Glasser'ın gerçeklik terapisi",
+      "C": "Ginott'un uyumlu iletişim anlayışı",
+      "D": "Kounin'in her yerde olma kavramı",
+      "E": "Skinner'ın davranış değiştirme anlayışı"
+    },
+    "answer": "C",
+    "solution": "Ginott'a göre öğretmen, öğrencinin kişiliğini değil davranışını ele alır; etiketleme, alay ve suçlamadan kaçınır ve duygularını uyumlu biçimde ifade eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Ginott"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-017",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "İlkokul öğrencisi Berk, ders sırasında sürekli komik sesler çıkarmakta, öğretmen ona baktığında geçici olarak durmakta, ilgi azalınca yeniden başlamaktadır. Öğretmeni onunla konuştuğunda, görmezden gelindiğinde ya da uyarıldığında davranışı geçici olarak değişmektedir. Berk bu davranışı özellikle öğretmen başka bir öğrenciyle ilgilenirken sergilemektedir.\n\nDreikurs'a göre Berk'in yanlış davranışının amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İntikam alma",
+      "B": "Dikkat çekme",
+      "C": "Bağımsızlık kazanma",
+      "D": "Yetersizlik gösterme",
+      "E": "Güç mücadelesi"
+    },
+    "answer": "B",
+    "solution": "Dreikurs'a göre çocuğun yanlış davranışının ilk amacı dikkat çekmektir; dikkat gelince davranış geçici durur, sonra yeniden başlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Dreikurs"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-018",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Ortaokul öğrencisi Cenk, öğretmeni ne söylerse söylesin karşı gelmekte, “Beni kimse zorlayamaz, bunu yapmayacağım” diyerek kuralları açıkça reddetmekte ve sınıfın önünde öğretmene meydan okuyan bir tutum sergilemektedir. Uyarıldıkça tavrını daha da sertleştirmektedir.\n\nDreikurs'a göre Cenk'in yanlış davranışının amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Dikkat çekme",
+      "B": "Bağımsızlık kazanma",
+      "C": "İntikam alma",
+      "D": "Güç mücadelesi",
+      "E": "Yetersizlik gösterme"
+    },
+    "answer": "D",
+    "solution": "Dreikurs'a göre dikkat çekme yoluyla amacına ulaşamayan çocuk güç mücadelesine yönelir; büyüklere karşı gelerek kontrolün kendisinde olduğunu göstermeye çalışır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Dreikurs"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-019",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmeni tarafından birçok kez sınıfın önünde aşağılanan Mert, bir gün öğretmenin masasına küfürlü bir not bırakmış, öğretmenin eşyalarına zarar vermiş ve “Bunu hak ettin” demiştir. Davranışlarıyla öğretmeni kırmak ve ona zarar vermek istemektedir.\n\nDreikurs'a göre Mert'in yanlış davranışının amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Güç mücadelesi",
+      "B": "İntikam alma",
+      "C": "Bağımsızlık kazanma",
+      "D": "Yetersizlik gösterme",
+      "E": "Dikkat çekme"
+    },
+    "answer": "B",
+    "solution": "Dreikurs'a göre güç mücadelesinde de kendini yaralanmış hisseden çocuk, başkalarına zarar vererek intikam almaya çalışır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Dreikurs"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-020",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Okul sınıfında Zeynep, kendisine verilen görevlerin hiçbirini denememekte, “Ben yapamam, zaten beceremem” diyerek kendini sürekli başarısız göstermekte ve öğretmenin kendisine olan beklentisini düşürmesini sağlayarak yardım ve baskıdan kurtulmaya çalışmaktadır. Zeynep'in zeka düzeyi yaşıtlarıyla benzerdir; bu tutum son aylarda ortaya çıkmıştır.\n\nDreikurs'a göre Zeynep'in yanlış davranışının amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Güç mücadelesi",
+      "B": "İntikam alma",
+      "C": "Dikkat çekme",
+      "D": "Bağımsızlık kazanma",
+      "E": "Yetersizlik gösterme"
+    },
+    "answer": "E",
+    "solution": "Dreikurs'a göre diğer amaçlarda başarısız olan ve umudunu yitiren çocuk, yetersizlik göstererek yardım ve beklentiden uzak kalmaya çalışır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Dreikurs"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-021",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Yasemin Hanım, sınıfta istenen davranışları (el kaldırarak söz alma, sırayla konuşma) ödüllendirmekte, istenmeyen davranışlara ise ilgi göstermeyerek karşılık vermemektedir. Zamanla öğrencilerin ödüllendirilen davranışları daha sık gösterdiği gözlenmiştir. Öğretmen bu uygulamayı önceden planlamış ve ders boyunca tutarlı biçimde sürdürmüştür.\n\nYasemin Hanım'ın uyguladığı yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Davranış değiştirme",
+      "B": "Atılgan disiplin",
+      "C": "Uyumlu iletişim",
+      "D": "Gerçeklik terapisi",
+      "E": "Kayıpsız yöntem"
+    },
+    "answer": "A",
+    "solution": "Skinner'ın edimsel koşullanmasına dayanan davranış değiştirme yaklaşımı, istendik davranışları pekiştirerek, istenmeyenleri ise görmezden gelerek veya sonuçlarını değiştirerek sınıf davranışını düzenler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: davranış değiştirme (Skinner)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-022",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "İlkokul öğretmeni Fatma Hanım, sınıfta olumlu davranış gösteren öğrencilere gün içinde renkli jetonlar vermekte ve hafta sonunda bu jetonları kitap okuma saati, sınıf oyunu gibi ödüllerle değiştirmelerine izin vermektedir. Öğrenciler jetonlarını biriktirmekte ve hafta sonunu dört gözle beklemektedir; uygulama tüm sınıfa açıktır.\n\nFatma Hanım hangi tekniği kullanmaktadır?",
+    "options": {
+      "A": "Yakınlık kontrolü",
+      "B": "Planlı görmezden gelme",
+      "C": "Jeton ekonomisi",
+      "D": "Mola",
+      "E": "Davranış sözleşmesi"
+    },
+    "answer": "C",
+    "solution": "Jeton ekonomisinde istendik davranışlar jetonla pekiştirilir; biriken jetonlar daha sonra gerçek ödüllerle değiştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi teknikleri: jeton ekonomisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-023",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Gökhan Bey, sınav haftasında öğrencilerin kopya çekmesini önlemek ve herkesin tahtayı görmesini sağlamak amacıyla sıraları sütunlar ve satırlar halinde, hepsi tahtaya bakacak biçimde dizmiştir. Öğrenciler bireysel çalışacak, öğretmen sınıfı tek bakışta kontrol edebilecektir. Bu düzende öğrenciler birbirlerinin yanıtlarını göremez, birbirleriyle konuşmaları da güçleşir.\n\nBu düzen aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yarım daire düzeni",
+      "B": "Sıralı düzen",
+      "C": "Balık kılçığı düzeni",
+      "D": "Küme düzeni",
+      "E": "U düzeni"
+    },
+    "answer": "B",
+    "solution": "Sıralı düzende tüm sıralar tahtaya dönüktür; bireysel çalışma ve sınavlar için uygundur ancak grup etkileşimini sınırlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: fiziksel düzen"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-024",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Fen bilimleri öğretmeni Derya Hanım, öğrencilerin bir araştırma projesinde dörder kişilik gruplar halinde çalışması için sıraları gruplar halinde yan yana getirmiştir. Öğrenciler birbirleriyle yüz yüze konuşabilmekte, malzemeleri paylaşabilmektedir. Öğretmen masaları kullanarak sınıfın ortasında dolaşabileceği geçiş alanları da bırakmıştır. Gruplar etkinlik sırasında birbirini rahatça duyabilmektedir.\n\nBu düzen aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Küme düzeni",
+      "B": "U düzeni",
+      "C": "Yarım daire düzeni",
+      "D": "Sıralı düzen",
+      "E": "Tiyatro düzeni"
+    },
+    "answer": "A",
+    "solution": "Küme düzeni, işbirlikli öğrenme ve grup çalışmaları için öğrencilerin birbirleriyle etkileşebileceği biçimde masaların gruplandırılmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: fiziksel düzen"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-025",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Edebiyat öğretmeni Ayla Hanım, sınıf tartışmaları sırasında bütün öğrencilerin birbirini görebilmesini, öğretmenin de sınıfın içine girerek her öğrenciye kolayca ulaşabilmesini sağlamak için sıraları “U” harfi biçiminde dizmiştir. Sıralar sınıfın ortasında bir boşluk bırakacak biçimde, tahtanın karşısında açık bir uç kalacak şekilde yerleştirilmiştir. Böylece tahta ve ortak çalışma alanı da herkesin görüş alanında kalmaktadır.\n\nAyla Hanım hangi düzeni uygulamıştır?",
+    "options": {
+      "A": "Bireysel masa düzeni",
+      "B": "U düzeni",
+      "C": "Küme düzeni",
+      "D": "Yarım daire düzeni",
+      "E": "Sıralı düzen"
+    },
+    "answer": "B",
+    "solution": "U düzeni, öğrencilerin birbirini ve öğretmeni görmesini sağladığı için tartışma, etkileşim ve öğretmenin öğrencilere ulaşması açısından uygundur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: fiziksel düzen"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-026",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Okul öncesi öğretmeni Meltem Hanım, sınıfı oyun, sanat, kitap ve blok köşeleri gibi farklı etkinlik merkezlerine ayırmış; çocukların hareketlerini engellemeyecek geçiş yolları bırakmış ve malzemelere kolayca ulaşabilecekleri raflar yerleştirmiştir. Öğretmen çocukların sakin ve hareketli etkinlik alanlarını birbirinden ayırarak çatışma olasılığını da azaltmıştır.\n\nMeltem Hanım'ın bu uygulaması sınıf yönetiminde hangi alanla ilgilidir?",
+    "options": {
+      "A": "Öğretmen-veli iletişimi",
+      "B": "Sınıf kurallarının belirlenmesi",
+      "C": "Zaman yönetimi",
+      "D": "Fiziksel ortamın düzenlenmesi",
+      "E": "Sosyometrik değerlendirme"
+    },
+    "answer": "D",
+    "solution": "Sınıf yönetiminin önleyici boyutlarından biri fiziksel ortamın düzenlenmesidir: yerleşim, geçiş alanları, materyallere erişim ve etkinlik köşeleri.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: fiziksel düzen"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-027",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Okul müdürü, bir günlük ders programında Türkçe dersi için 40 dakika ayırmıştır. Ancak derse başlamadan önce yoklama, ödev toplama ve malzeme dağıtımı 10 dakika, ders sonunda toplanma ve çanta hazırlığı 5 dakika sürmüş; öğrenciler gerçekte yaklaşık 25 dakika etkinliğe katılmıştır.\n\nProgramda Türkçe dersi için ayrılan 40 dakika hangi zaman türüdür?",
+    "options": {
+      "A": "Geçiş ve bekleme zamanı",
+      "B": "Esneklik ve boş zaman",
+      "C": "Akademik öğrenme zamanı",
+      "D": "Kullanılan katılım zamanı",
+      "E": "Ayrılan ders zamanı"
+    },
+    "answer": "E",
+    "solution": "Ayrılan zaman, ders programında bir derse ayrılan toplam süredir; kullanılan zaman, öğrencilerin etkinliğe fiilen katıldığı süredir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: zaman yönetimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-028",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Okuma dersinde öğretmen 40 dakikalık derse ayrılan süre içinde, öğrencilerin okuma etkinliğine gerçekten dikkatle katıldıkları süreyi ölçmüştür. Dersin başında, geçişlerde ve ders sonunda kaybedilen süreler çıkarılınca öğrencilerin etkinliğe fiilen katıldığı süre 28 dakika olarak bulunmuştur.\n\nBulunan 28 dakika hangi zaman türüdür?",
+    "options": {
+      "A": "Esneklik ve boş zaman",
+      "B": "Ayrılan ders zamanı",
+      "C": "Akademik öğrenme zamanı",
+      "D": "Kullanılan katılım zamanı",
+      "E": "Geçiş ve bekleme zamanı"
+    },
+    "answer": "D",
+    "solution": "Kullanılan (katılım) zaman, ayrılan zamanın öğrencilerin etkinliğe fiilen katıldığı kısmıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: zaman yönetimi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-029",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Aynı okuma dersinde öğrenciler 28 dakika boyunca etkinliğe katılmış; ancak öğrencilerin bu sürenin yalnızca 18 dakikasında zorlanmadan ve başarılı bir biçimde, kendi seviyelerine uygun görevlerle çalıştığı gözlenmiştir. Öğretmen bu süreyi, öğrenci düzeylerine göre farklılaştırılmış okuma materyalleriyle de ilişkilendirerek değerlendirmiştir.\n\nBu 18 dakikalık süre hangi zaman türüdür?",
+    "options": {
+      "A": "Kullanılan katılım zamanı",
+      "B": "Geçiş ve bekleme zamanı",
+      "C": "Ayrılan ders zamanı",
+      "D": "Sınav ve yoklama zamanı",
+      "E": "Akademik öğrenme zamanı"
+    },
+    "answer": "E",
+    "solution": "Akademik öğrenme zamanı, öğrencinin uygun düzeyde zorlukta bir göreve başarıyla katıldığı sürelerdir; öğrenme için en değerli zaman türüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: zaman yönetimi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-030",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Ertan Bey, bir etkinlikten diğerine geçerken öğrencilerin malzeme dağıtımı, yer değiştirme ve sessizlik beklemesi nedeniyle ders sürelerinin önemli bölümünün boşa gittiğini fark etmiştir. Bunun için geçiş rutinleri belirlemiş, malzemeleri önceden hazırlamıştır. Uygulamadan sonra öğrenciler yeni etkinliğe hemen başlayabilir hâle gelmiştir.\n\nErtan Bey hangi sorunu gidermeye çalışmaktadır?",
+    "options": {
+      "A": "Öğrenci devamsızlığını",
+      "B": "Fiziksel ortam sorununu",
+      "C": "Sınıf mevcudunun fazlalığını",
+      "D": "Geçiş sürelerindeki zaman kaybını",
+      "E": "Ders içeriğinin ağırlığını"
+    },
+    "answer": "D",
+    "solution": "Etkinlikler arasındaki geçişler, planlanmadığında önemli zaman kaybına yol açar; rutinler ve önceden hazırlık bu kaybı azaltır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: zaman yönetimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-031",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Hakan Bey, öğrencilerin sorularına yanıt verirken göz teması kurmakta, onlara doğru eğilmekte, başını hafifçe sallayarak dinlemekte ve sakin bir ses tonu kullanmaktadır. Öğrenciler kendilerini rahat ifade edebildikleri bir iklim oluştuğunu söylemektedir.\n\nHakan Bey'in bu davranışları hangi iletişim türüne örnektir?",
+    "options": {
+      "A": "Sözel olmayan iletişim",
+      "B": "Toplu iletişim",
+      "C": "Resmî iletişim",
+      "D": "Dolaylı iletişim",
+      "E": "Yazılı iletişim"
+    },
+    "answer": "A",
+    "solution": "Göz teması, beden duruşu, jest, mimik ve ses tonu sözel olmayan iletişim araçlarıdır; öğretmenin sözel mesajını destekler veya zayıflatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: iletişim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-032",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Gönül Hanım, bir öğrencinin duygusunu anlamaya çalışırken “Seni anlıyorum, kendimi senin yerine koyduğumda aynı şeyleri hissederdim” demiştir. Öğrencinin yaşadığı durumu onun bakış açısından görmeye ve bunu ona hissettirmeye çalışmaktadır. Öğrenci ise bunun üzerine öğretmenine daha açık konuşmaya başlamıştır; öğretmen öğrenciye öğüt vermemiştir.\n\nGönül Hanım'ın bu davranışı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yargılama",
+      "B": "Sempati",
+      "C": "Empati",
+      "D": "Yönlendirme",
+      "E": "Öğüt verme"
+    },
+    "answer": "C",
+    "solution": "Empati, bireyin başkasının duygularını onun bakış açısından anlaması ve bunu ona iletmesidir; sempati ise acıma ve duygu ortaklığıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: iletişim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-033",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Alper Bey, bir öğrenci sorununu anlatırken sözünü kesmekte, “Sen şunu yapmalısın, böyle yapmazsan olmaz” diyerek öğüt vermekte, öğrenciyi suçlayarak dinleme sürecini bitirmektedir. Öğrenci kendini ifade edemeden konuşmayı bırakmaktadır. Alper Bey bunun öğrencinin yararına olduğunu düşünmektedir; ancak sonuç olarak öğrenci artık sorunlarını öğretmeniyle paylaşmak istememektedir.\n\nAlper Bey'in bu davranışları iletişimde nasıl nitelendirilir?",
+    "options": {
+      "A": "Geri bildirim",
+      "B": "İletişim engeli",
+      "C": "Empati",
+      "D": "Ben dili",
+      "E": "Aktif dinleme"
+    },
+    "answer": "B",
+    "solution": "Yargılama, öğüt verme, emir verme, suçlama ve sözünü kesme gibi davranışlar karşıdakinin kendini ifade etmesini engelleyen iletişim engelleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: iletişim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-034",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Edebiyat öğretmeni Sevil Hanım, öğrencilerin ödevlerini değerlendirirken “Güzel olmuş” gibi genel ifadeler yerine “Giriş paragrafında konuyu net belirtmişsin, ancak sonuç bölümünde örnek verirsen daha etkili olur” diyerek öğrenciye neyi iyi yaptığını ve neyi geliştirebileceğini açıkça belirtmektedir.\n\nSevil Hanım'ın bu uygulaması aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Genel övgü",
+      "B": "Yargılayıcı geri bildirim",
+      "C": "Betimleyici geri bildirim",
+      "D": "Cezalandırıcı dönüt",
+      "E": "Dolaylı pekiştirme"
+    },
+    "answer": "C",
+    "solution": "Betimleyici geri bildirim, öğrenciye davranışın veya ürünün somut yönlerini belirterek neyin iyi olduğunu ve nasıl geliştirilebileceğini söyler; genel övgüden daha yararlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: iletişim ve geri bildirim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-035",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "İlkokul öğretmeni Nurcan Hanım, derse katılmak için sürekli hafif sesle masaya vuran Ozan'ın bu davranışının dikkat çekme amacı taşıdığını anlamış; Ozan'ın davranışına tepki vermemiş, bilerek yok sayarak dersine devam etmiştir. Birkaç gün içinde davranışın sıklığı belirgin biçimde azalmıştır.\n\nNurcan Hanım hangi tekniği uygulamıştır?",
+    "options": {
+      "A": "Davranış sözleşmesi",
+      "B": "Planlı görmezden gelme",
+      "C": "Mola",
+      "D": "Yakınlık kontrolü",
+      "E": "Yeniden yönlendirme"
+    },
+    "answer": "B",
+    "solution": "Planlı görmezden gelme, dikkat çekmek amacıyla yapılan küçük, tehlikesiz davranışlara bilinçli olarak tepki vermeyerek davranışın sönmesini sağlamaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi teknikleri: planlı görmezden gelme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-036",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Tarih öğretmeni Murat Bey, ders anlatırken arka sırada yan yana oturup konuşmaya başlayan iki öğrencinin bulunduğu sıraya doğru dersi anlatmaya devam ederek yürümüş, öğrencilerin yanında durmuş ve konuşmayı hiç kesmemiştir. Öğrenciler konuşmalarını durdurmuş ve derse dönmüştür.\n\nMurat Bey hangi tekniği uygulamıştır?",
+    "options": {
+      "A": "Mola",
+      "B": "Jeton ekonomisi",
+      "C": "Planlı görmezden gelme",
+      "D": "Davranış sözleşmesi",
+      "E": "Yakınlık kontrolü"
+    },
+    "answer": "E",
+    "solution": "Yakınlık kontrolünde öğretmen, problem davranış gösteren öğrenciye fiziksel olarak yaklaşarak dersi bölmeden davranışı durdurur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi teknikleri: yakınlık kontrolü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-037",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Aysun Hanım, ders sırasında kâğıt uçak yapmaya başlayan Cem'e kelime kullanmadan sadece dik bir bakış atmış ve parmağını dudaklarına götürmüştür. Cem hemen uçağı bırakmış ve derse dönmüştür. Ders akışı hiç aksamamıştır. Aysun Hanım öğrenciyle hiçbir şekilde konuşmamış ve öğrencinin yerinden kalkması gerekmemiştir.\n\nAysun Hanım hangi müdahale biçimini kullanmıştır?",
+    "options": {
+      "A": "Davranış sözleşmesi",
+      "B": "Planlı görmezden gelme",
+      "C": "Sözel olmayan işaret",
+      "D": "Mola",
+      "E": "Bireysel görüşme"
+    },
+    "answer": "C",
+    "solution": "Bakış, jest ve işaretle yapılan sözel olmayan uyarı, dersi kesmeden ve öğrenciyi utandırmadan davranışı durdurmanın en az müdahaleci yoludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi teknikleri: sözel olmayan müdahale"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-038",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Okul öncesi öğretmeni Selvi Hanım, arkadaşına vurarak oyuncağını almaya çalışan Kaan'ı birkaç dakikalığına sınıfın sessiz bir köşesine götürmüş, orada oturtmuş ve sakinleştikten sonra gruba dönmesini sağlamıştır. Bu sürede Kaan'a ilgi ve oyun fırsatı verilmemiştir. Kaan bir süre sonra kendi isteğiyle gruba katılmış ve oyuncaklarını paylaşabileceğini söylemiştir.\n\nSelvi Hanım hangi tekniği kullanmıştır?",
+    "options": {
+      "A": "Davranış sözleşmesi",
+      "B": "Yakınlık kontrolü",
+      "C": "Jeton ekonomisi",
+      "D": "Mola",
+      "E": "Planlı görmezden gelme"
+    },
+    "answer": "D",
+    "solution": "Mola (time-out), istenmeyen davranış sonrası öğrencinin kısa süreliğine pekiştirici ortamdan uzaklaştırılmasıdır; ikinci tip ceza olarak da değerlendirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi teknikleri: mola"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-039",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Hasan Bey, derslerde sürekli ödevini getirmeyen Burak'la birlikte oturup “Hafta içinde ödevini zamanında getirirsen cuma günü resim saatinde istediğin etkinliği seçebileceksin” şeklinde yazılı bir anlaşma hazırlamış; her ikisi de bu kâğıdı imzalamıştır. Anlaşmada ödülün ne zaman verileceği ve davranışın nasıl izleneceği de ayrıntılı olarak yazılmıştır.\n\nHasan Bey hangi tekniği kullanmıştır?",
+    "options": {
+      "A": "Planlı görmezden gelme",
+      "B": "Jeton ekonomisi",
+      "C": "Yakınlık kontrolü",
+      "D": "Mola",
+      "E": "Davranış sözleşmesi"
+    },
+    "answer": "E",
+    "solution": "Davranış sözleşmesi; hedef davranışı, ölçütü ve ödülü öğretmen ile öğrencinin yazılı olarak belirlediği, tarafların imzaladığı bir düzenlemedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi teknikleri: davranış sözleşmesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-040",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Fen bilgisi öğretmeni Tülin Hanım, ders sırasında kalemini sıraya vurarak ses çıkaran Orkun'a “Orkun, bu kâğıtları arkadaşlarına dağıtır mısın?” diyerek ona uygun bir görev vermiştir. Orkun kâğıtları dağıtmış ve ardından sakinleşerek derse katılmıştır. Tülin Hanım öğrenciyi azarlamamış ve ona herhangi bir ceza da vermemiştir.\n\nTülin Hanım hangi tekniği kullanmıştır?",
+    "options": {
+      "A": "Jeton ekonomisi",
+      "B": "Davranış sözleşmesi",
+      "C": "Planlı görmezden gelme",
+      "D": "Mola",
+      "E": "Yeniden yönlendirme"
+    },
+    "answer": "E",
+    "solution": "Yeniden yönlendirmede öğretmen, problem davranışın enerjisini kabul edilebilir bir etkinliğe yöneltir; öğrenciyi suçlamadan davranışı değiştirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi teknikleri: yeniden yönlendirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-041",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Ders sırasında defalarca uyarılmasına rağmen aynı davranışı sürdüren Selin'le öğretmeni Eda Hanım, ders bitiminde sınıf dışında ve sakin bir ortamda bire bir görüşmüştür. Selin'e davranışının nedenini sormuş, sınıfa etkisini anlatmış ve birlikte bir çözüm yolu aramıştır.\n\nEda Hanım hangi tekniği kullanmıştır?",
+    "options": {
+      "A": "Bireysel görüşme",
+      "B": "Jeton ekonomisi",
+      "C": "Sınıf toplantısı",
+      "D": "Mola",
+      "E": "Planlı görmezden gelme"
+    },
+    "answer": "A",
+    "solution": "Bireysel görüşme, öğrencinin davranışını sınıfın önünde değil özel ve sakin bir ortamda ele alıp nedeni birlikte araştırmayı ve çözüm üretmeyi sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi teknikleri: bireysel görüşme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-042",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Banu Hanım, sınıf kurallarını dönemin ilk haftasında öğrencilerle birlikte belirlemiştir. Kurallar beş maddeden oluşmakta, “Koşma” yerine “Koridorda yürü”, “Bağırma” yerine “Sakin ses tonuyla konuş” gibi olumlu cümlelerle yazılmıştır ve sınıf duvarına asılmıştır.\n\nBanu Hanım'ın bu uygulaması etkili sınıf kurallarının hangi özelliğini yansıtır?",
+    "options": {
+      "A": "Kuralların çok sayıda ve ayrıntılı olması",
+      "B": "Olumlu ifade edilmesi ve öğrencilerle birlikte belirlenmesi",
+      "C": "Öğretmenin tek başına ve değişmez biçimde koyması",
+      "D": "Her ders için ayrı ve farklı kurallar konması",
+      "E": "Cezai yaptırımların ağır ve caydırıcı olması"
+    },
+    "answer": "B",
+    "solution": "Etkili sınıf kuralları az sayıda, olumlu ifade edilmiş, açık, tutarlı ve mümkünse öğrencilerin katılımıyla belirlenmiş kurallardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: sınıf kuralları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-043",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Gülay Hanım, yeni dönemin ilk haftasında öğrencilere tuvalete gitme, söz alma, malzeme dağıtma ve ders sonunda toplanma gibi günlük işlerin nasıl yapılacağını adım adım öğretmiş ve bunları düzenli olarak uygulatmıştır. Bu rutinler sayesinde sonraki haftalarda ders akışı sorunsuz ilerlemiştir.\n\nGülay Hanım'ın bu çalışması sınıf yönetiminde hangi amaçla yapılmıştır?",
+    "options": {
+      "A": "Düzeltici müdahale yaparak sorunları çözmek",
+      "B": "Öğrenci başarısını sınavla ölçmek",
+      "C": "Önleyici yönetim için rutinler oluşturmak",
+      "D": "Disiplin cezası vermek için kayıt tutmak",
+      "E": "Aile ile düzenli iletişim kurmak"
+    },
+    "answer": "C",
+    "solution": "Rutinler, günlük işlerin belirli ve öğrenilmiş biçimde yürütülmesini sağlayarak sorunları oluşmadan önlemeyi (önleyici sınıf yönetimi) destekler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: önleyici yönetim ve rutinler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-044",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Fen lisesinde görev yapan öğretmen Ahmet Bey, alanında çok bilgili olması, öğrencilerin sorularına doğru ve ayrıntılı yanıtlar vermesi nedeniyle öğrenciler tarafından büyük saygı görmekte ve söylediklerine uyulmaktadır. Öğrenciler onun yetkisinden çok bilgisine güvenmektedir.\n\nAhmet Bey'in öğrenciler üzerindeki gücü French ve Raven'in hangi türüdür?",
+    "options": {
+      "A": "Karizmatik güç",
+      "B": "Uzmanlık gücü",
+      "C": "Zorlayıcı güç",
+      "D": "Yasal güç",
+      "E": "Ödüllendirme gücü"
+    },
+    "answer": "B",
+    "solution": "Uzmanlık gücü, kişinin bilgi, beceri ve uzmanlığına duyulan güvenden kaynaklanır; öğretmenin alanındaki yeterliği öğrencilerin onu dinlemesini sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: öğretmen gücü (French ve Raven)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-045",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Edebiyat öğretmeni Zehra Hanım'ı öğrencileri çok sevmekte, onun gibi konuşmak, davranmak ve düşünmek istemekte, ona hayranlık duymaktadır. Öğretmenin dediklerini, ona duydukları bu sevgi ve özdeşleşme nedeniyle kolayca yerine getirmektedirler. Zehra Hanım'ın resmî yetkisi, uzmanlığı ya da vereceği ödüller bu etkide belirleyici değildir.\n\nZehra Hanım'ın öğrenciler üzerindeki gücü French ve Raven'in hangi türüdür?",
+    "options": {
+      "A": "Karizmatik güç",
+      "B": "Ödüllendirme gücü",
+      "C": "Uzmanlık gücü",
+      "D": "Zorlayıcı güç",
+      "E": "Yasal güç"
+    },
+    "answer": "A",
+    "solution": "Karizmatik (örnek alma, özdeşleşme) güç, öğrencilerin öğretmene hayranlık duyup onun gibi olmak istemesinden doğar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: öğretmen gücü (French ve Raven)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-046",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Kemal Bey'in öğrencileri onun sözünü, öğretmen olarak görevinden doğan resmî yetkisine ve okul kurallarına dayanarak dinlemektedir. Öğrenciler, öğretmenin sınıfı yönetme ve kurallar koyma hakkına sahip olduğunu kabul etmektedir.\n\nKemal Bey'in öğrenciler üzerindeki gücü French ve Raven'in hangi türüdür?",
+    "options": {
+      "A": "Karizmatik güç",
+      "B": "Zorlayıcı güç",
+      "C": "Ödüllendirme gücü",
+      "D": "Yasal (meşru) güç",
+      "E": "Uzmanlık gücü"
+    },
+    "answer": "D",
+    "solution": "Yasal (meşru) güç, kişinin makam ve rolünden doğan resmî yetkisine dayanır; öğretmen olmak sınıfı yönetme yetkisi verir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: öğretmen gücü (French ve Raven)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-047",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Selçuk Bey, sınıfta ne yapılacağına, nasıl çalışılacağına ve kimin hangi görevi alacağına tek başına karar vermektedir. Öğrencilerden görüş almamakta, kararlarını gerekçelendirmemekte ve öğrencilerin katılımını sınırlamaktadır. Sınıf, öğretmen varken sessiz, yokken ise dağınıktır.\n\nSelçuk Bey'in sınıf yönetimi stili, Lewin'in sınıflamasına göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Otokratik liderlik",
+      "B": "Kayıpsız liderlik",
+      "C": "Demokratik liderlik",
+      "D": "Dönüşümcü liderlik",
+      "E": "Serbest bırakan liderlik"
+    },
+    "answer": "A",
+    "solution": "Lewin'in sınıflamasında otokratik liderlikte kararlar tek kişi tarafından alınır, üyelerin katılımı sınırlıdır; öğretmen yokken disiplin ve verimlilik düşer.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: liderlik stilleri (Lewin)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-048",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni Derya Hanım, çalışma planını öğrencilerle birlikte yapmakta, görüşlerini almakta, kararları gerekçeleriyle birlikte açıklamakta ve öğrencilerin sorumluluk üstlenmesini desteklemektedir. Sınıfta öğretmen yokken de çalışma devam etmektedir. Öğrenciler ayrıca sınıf düzenine ilişkin önerilerini serbestçe dile getirmektedir.\n\nDerya Hanım'ın sınıf yönetimi stili, Lewin'in sınıflamasına göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Otokratik liderlik",
+      "B": "Kayıpsız liderlik",
+      "C": "Atılgan liderlik",
+      "D": "Demokratik liderlik",
+      "E": "Serbest bırakan liderlik"
+    },
+    "answer": "D",
+    "solution": "Demokratik liderlikte kararlar grupla birlikte alınır, üyelerin katılımı desteklenir; öğretmen yokken bile çalışmanın sürmesi en olumlu sonuçlardan biridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: liderlik stilleri (Lewin)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-049",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Yunus Bey, sınıfta öğrencilerin ne yapacağına karışmamakta, kural koymamakta, yol göstermemekte ve öğrencileri kendi hâllerine bırakmaktadır. Sınıf düzensizdir; öğrenciler ne yapacaklarını bilmemekte, çalışma verimi düşük kalmaktadır. Öğrenciler bu durumda birbirlerinden bağımsız ve amaçsız biçimde zaman geçirmektedir.\n\nYunus Bey'in sınıf yönetimi stili, Lewin'in sınıflamasına göre aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kayıpsız liderlik",
+      "B": "Atılgan liderlik",
+      "C": "Serbest bırakan liderlik",
+      "D": "Demokratik liderlik",
+      "E": "Otokratik liderlik"
+    },
+    "answer": "C",
+    "solution": "Serbest bırakan liderlikte yönlendirme ve kural yok denecek kadar azdır; sınıf dağınık, verim düşüktür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: liderlik stilleri (Lewin)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-050",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Resim dersinde Ahmet, boya kutusunu dikkatsizce devirerek sınıfın halısına boya dökmüştür. Öğretmen Seda Hanım, Ahmet'i azarlamadan, kendisinin ürettiği bir sonuçla karşı karşıya gelmesi için temizlik malzemelerini vermiş ve boyaları temizlemesini istemiştir. Temizlik, Ahmet'in davranışıyla doğrudan ilişkili, makul ve saygılı bir sonuçtur.\n\nSeda Hanım, Dreikurs'un hangi yaklaşımını uygulamıştır?",
+    "options": {
+      "A": "Ceza",
+      "B": "Jeton ekonomisi",
+      "C": "Ödül",
+      "D": "Mantıksal sonuç",
+      "E": "Doğal sonuç"
+    },
+    "answer": "D",
+    "solution": "Dreikurs'a göre mantıksal sonuç, davranışla ilişkili, öğretmen tarafından düzenlenen, makul ve saygılı bir sonuçtur; doğal sonuç ise müdahale olmadan kendiliğinden ortaya çıkan sonuçtur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Dreikurs (mantıksal sonuçlar)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-051",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf rehber öğretmeni Gizem Hanım, öğrencilerden “Hangi arkadaşınla ders çalışmak istersin?” gibi sorulara yazılı yanıt vermelerini istemiş, yanıtlardan sınıfta kimin kimi seçtiğini, kimin kimse tarafından seçilmediğini gösteren bir şema çıkarmıştır. Çıkan şemada bazı öğrencilerin çok sayıda, bazılarının ise hiç seçim almadığı görülmüştür.\n\nGizem Hanım'ın kullandığı bu araç aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Derecelendirme ölçeği",
+      "B": "Olay kaydı",
+      "C": "Sosyometri",
+      "D": "Anekdot kaydı",
+      "E": "Gözlem formu"
+    },
+    "answer": "C",
+    "solution": "Sosyometri (Moreno), grup üyelerinin birbirini seçme ve reddetme durumlarını ölçerek grup içi ilişkileri sosyogramla gösteren bir tekniktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: sosyometri (Moreno)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-052",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Gizem Hanım'ın hazırladığı sosyogramda sınıftaki öğrencilerden Ece'yi diğer öğrencilerin büyük bölümü arkadaşı olarak seçmiştir. Ece sınıfın en çok seçilen, en çok sevilen öğrencisidir. Ece aynı zamanda sınıfın çoğu tarafından karşılıklı olarak da seçilmekte, hiç reddedilmemektedir. Sınıf öğretmeni bu durumdan memnundur.\n\nSosyometride Ece gibi öğrenciler için hangi terim kullanılır?",
+    "options": {
+      "A": "Karşılıklı seçilen",
+      "B": "İhmal edilen",
+      "C": "Yalıtılmış",
+      "D": "Reddedilen",
+      "E": "Yıldız"
+    },
+    "answer": "E",
+    "solution": "Sosyometride çok sayıda seçim alan kişiye yıldız denir; hiç seçilmeyen öğrenci ihmal edilen (yalıtılmış), reddedilen ise çok sayıda olumsuz seçim alan kişidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: sosyometri (Moreno)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-053",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf rehber öğretmeni Gizem Hanım'ın uyguladığı sosyometri sonucunda Kemal, hiçbir öğrenci tarafından birlikte çalışmak için seçilmemiş; üstelik birçok öğrenci Kemal'i açıkça birlikte çalışmak istemediği öğrenci olarak belirtmiştir. Öğretmen bu öğrenciyle yakından ilgilenmeyi planlamaktadır.\n\nSosyometride Kemal gibi öğrenciler için hangi terim kullanılır?",
+    "options": {
+      "A": "Lider",
+      "B": "Reddedilen",
+      "C": "İhmal edilen",
+      "D": "Yıldız",
+      "E": "Karşılıklı seçilen"
+    },
+    "answer": "B",
+    "solution": "Sosyometride çok sayıda olumsuz seçim alan (açıkça istenmeyen) öğrenciye reddedilen denir; hiç seçim almayan ancak reddedilmeyen öğrenci ise ihmal edilen (yalıtılmış) öğrencidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: sosyometri (Moreno)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-054",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Aşağıdakilerden hangileri Kounin'in sınıf yönetimi kavramları arasında yer alır?\n\nI. Dalgalanma etkisi\n\nII. Her yerde olma\n\nIII. Kayıpsız yöntem",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "C",
+    "solution": "Dalgalanma etkisi ve her yerde olma Kounin'e aittir. Kayıpsız yöntem Gordon'un öğretmen etkinlik eğitiminde yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Kounin ve Gordon ayrımı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-055",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Dreikurs'a göre çocukların yanlış davranışlarının amaçları arasında aşağıdakilerden hangileri yer alır?\n\nI. Dikkat çekme\n\nII. Güç mücadelesi\n\nIII. Başarı güdüsü",
+    "options": {
+      "A": "I ve II",
+      "B": "Yalnız I",
+      "C": "Yalnız III",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "A",
+    "solution": "Dreikurs'a göre yanlış davranışın amaçları sırasıyla dikkat çekme, güç mücadelesi, intikam alma ve yetersizlik göstermedir. Başarı güdüsü yanlış davranış amacı değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi modelleri: Dreikurs"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-056",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Lewin'in sınıflamasına göre aşağıdakilerden hangileri liderlik (yönetim) stilleri arasında yer alır?\n\nI. Otokratik\n\nII. Demokratik\n\nIII. Karizmatik",
+    "options": {
+      "A": "Yalnız II",
+      "B": "Yalnız III",
+      "C": "I ve III",
+      "D": "I ve II",
+      "E": "II ve III"
+    },
+    "answer": "D",
+    "solution": "Lewin'e göre liderlik stilleri otokratik, demokratik ve serbest bırakan (laissez-faire) stillerdir. Karizmatik, French ve Raven'in güç türlerindendir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: liderlik stilleri (Lewin)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-057",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Aşağıdakilerden hangileri sınıfta zamanın etkili kullanılması için alınabilecek önlemlerdendir?\n\nI. Günlük rutinleri başta öğretmek\n\nII. Etkinlikler arası geçişleri planlamak\n\nIII. Etkinlik sürelerini gereksiz uzatmak",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Rutinlerin öğretilmesi ve geçişlerin planlanması zaman kaybını azaltır. Etkinlikleri gereksiz uzatmak doygunluğa ve zaman kaybına yol açar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: zaman yönetimi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-058",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf yönetiminde, davranış sorunlarını henüz ortaya çıkmadan önlemeye yönelik planlı çalışmalar (kurallar, rutinler, fiziksel düzen) hangi yaklaşım içinde değerlendirilir?",
+    "options": {
+      "A": "Dolaylı sınıf yönetimi",
+      "B": "Düzeltici sınıf yönetimi",
+      "C": "Cezalandırıcı sınıf yönetimi",
+      "D": "Tepkisel sınıf yönetimi",
+      "E": "Önleyici sınıf yönetimi"
+    },
+    "answer": "E",
+    "solution": "Önleyici (proaktif) sınıf yönetimi, sorunlar oluşmadan önce kural, rutin, fiziksel düzen ve iyi ders planlamasıyla önlem almayı esas alır; düzeltici yönetim ise sorun oluştuktan sonra müdahaleyi içerir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: önleyici ve düzeltici yaklaşım"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-059",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmenin öğrenciye sözel bir uyarı yapmadan yalnızca bakışıyla uyarması, aşağıdaki sınıf yönetimi müdahalelerinden hangisinin en az müdahaleci biçimidir?",
+    "options": {
+      "A": "Davranış sözleşmesi",
+      "B": "Mola",
+      "C": "Sözel uyarı",
+      "D": "Sözel olmayan işaret",
+      "E": "Bireysel görüşme"
+    },
+    "answer": "D",
+    "solution": "Kısa bakış, jest veya yakınlaşma gibi sözel olmayan işaretler, dersi kesmeden ve öğrenciyi sınıfın önünde utandırmadan davranışı durdurmanın en az müdahaleci biçimidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: müdahale düzeyleri"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-060",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf yönetiminde “Ben dili” ile “Sen dili” arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ben dili davranışın etkisini yargılamadan ifade eder; sen dili suçlayıcıdır",
+      "B": "İkisi de öğrencinin kişiliğini değerlendiren ifade biçimleridir",
+      "C": "Ben dili öğretmenlere, sen dili öğrencilere özgü bir anlatım biçimidir",
+      "D": "Ben dili suçlayıcı ve emredici, sen dili destekleyici bir anlatımdır",
+      "E": "Ben dili sözel anlatımdır; sen dili ise sözel olmayan anlatımdır"
+    },
+    "answer": "A",
+    "solution": "Ben dili, davranışın sonucunda öğretmenin hissettiği duyguyu ve etkiyi yargılamadan ifade eder; sen dili ise karşıdakini suçlayan ve etiketleyen bir ifadedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: ben dili (Gordon)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-061",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Bir ilkokulda öğretmen Sevgi Hanım'ın sınıfında öğrenciler birbirlerine ve öğretmenlerine saygı göstermekte, hatalarından korkmadan fikirlerini paylaşmakta, kendilerini güvende ve değerli hissetmektedir. Öğrenciler arasındaki ilişkiler sıcak, ders ortamı destekleyici ve olumludur. Öğretmen bu ortamı yıl boyunca sürdürmeye çalışmaktadır.\n\nSınıfın bu özelliği aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Fiziksel düzen",
+      "B": "Sınıf kuralları",
+      "C": "Sınıf düzeni",
+      "D": "Zaman yönetimi",
+      "E": "Sınıf iklimi"
+    },
+    "answer": "E",
+    "solution": "Sınıftaki öğrenci-öğrenci ve öğrenci-öğretmen ilişkilerinin duygusal ve sosyal havasına sınıf iklimi denir; olumlu iklim güven, saygı ve destekle oluşur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: sınıf iklimi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-062",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Ders anlatan Ayhan Öğretmen'in sözünü sürekli kesen, uygunsuz sorular soran ve komik sesler çıkaran Barış, öğretmen kendisine bakıp uyardığında bir süre durmakta, sonra yeniden aynı davranışa dönmektedir. Barış, bu davranışlarıyla öğretmenin ve arkadaşlarının ilgisini üzerine çekmek istemektedir.\n\nDreikurs'a göre Barış'ın yanlış davranışının amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Onay bekleme",
+      "B": "Güç kazanma",
+      "C": "Dikkat çekme",
+      "D": "Öç alma",
+      "E": "Yetersizlik gösterme"
+    },
+    "answer": "C",
+    "solution": "Dreikurs'a göre yanlış davranışın dört amacı vardır: dikkat çekme, güç kazanma, öç alma ve yetersizlik gösterme. İlgiyi üzerine çekmek isteyen öğrenci dikkat çekmeyi amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Dreikurs: yanlış davranışın amaçları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

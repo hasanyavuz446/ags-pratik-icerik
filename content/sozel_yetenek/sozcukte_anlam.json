@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "ags-soz-soz-001",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘sıcak’ sözcüğü gerçek anlamıyla kullanılmıştır?",
+    "options": {
+      "A": "Toplantıda sıcak tartışmalar yaşandı akşama kadar.",
+      "B": "Sıcak çorbayı üfleyerek içmeye başladı.",
+      "C": "Aralarında sıcak bir dostluk doğdu zamanla.",
+      "D": "Bu öneriye pek sıcak bakmıyorum bugünlerde.",
+      "E": "Konuğu sıcak bir gülümsemeyle karşıladı."
+    },
+    "answer": "B",
+    "solution": "Yalnızca “Sıcak çorbayı üfleyerek içmeye başladı” cümlesinde ‘sıcak’ sıcaklık duyusuna bağlı kendi anlamındadır; öteki dörtte içten, olumlu, yakın ya da hararetli anlamında mecaz kullanılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: gerçek anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-002",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘ağır’ sözcüğü gerçek anlamıyla kullanılmıştır?",
+    "options": {
+      "A": "Taşıdığı ağır sandığı kapının önüne bıraktı.",
+      "B": "Bu söz kalbimi çok ağır biçimde yaraladı bugün.",
+      "C": "Yeni çalışma kuralları herkese ağır geldi yine.",
+      "D": "Hâkim, sanığa ağır bir ceza verdi sonunda.",
+      "E": "Ağır bir sessizlik tüm odanın içini kapladı."
+    },
+    "answer": "A",
+    "solution": "Ağırlığı olan bir nesneyi anlatan “Taşıdığı ağır sandığı kapının önüne bıraktı” cümlesinde sözcük gerçek anlamdadır; öbürlerinde şiddetli, bunaltıcı ya da yorucu anlamında mecazdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: gerçek anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-003",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘kırmak’ eylemi gerçek anlamıyla kullanılmıştır?",
+    "options": {
+      "A": "Rakibinin direncini ilk yarıda kırdı takım.",
+      "B": "Kızgın olsa da gönlünü kırmamak için sustu.",
+      "C": "Çocuk, topla pencerenin camını kırdı.",
+      "D": "Genç atlet, ulusal rekoru kırarak şampiyon oldu.",
+      "E": "Söylediği söz, arkadaşını çok kırdı sonunda."
+    },
+    "answer": "C",
+    "solution": "Camın kırılması somut bir nesnenin parçalanmasıdır; diğer cümlelerde üzmek, yıpratmak ya da aşmak anlamında mecaz vardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: gerçek anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-004",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘dar’ sözcüğü gerçek anlamıyla kullanılmıştır?",
+    "options": {
+      "A": "Konuya dar bir pencereden bakmak yanıltabilir.",
+      "B": "Dar görüşlü insanlarla tartışmak çok yorucudur.",
+      "C": "Dar gelirli aileler bu yıl daha çok zorlandı.",
+      "D": "Yetkililer bu dar zamanda hızla karar vermeli.",
+      "E": "Dar sokaktan araçla geçmek oldukça zordu."
+    },
+    "answer": "E",
+    "solution": "Genişliği az olan yeri anlatan “Dar sokaktan araçla geçmek oldukça zordu” cümlesi gerçek anlamlıdır; ötekilerde sınırlı, az ve kısıtlı anlamlarıyla soyut kullanımlar vardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: gerçek anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-005",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘tatlı’ sözcüğü mecaz anlamda kullanılmıştır?",
+    "options": {
+      "A": "Bu karpuz bu yıl gerçekten çok tatlı çıktı.",
+      "B": "Tatlı sözleriyle herkesi kendine bağladı.",
+      "C": "Çocuk, markette tatlı bir şeker istedi.",
+      "D": "Tatlı su balıkları büyük gölde yaşamayı sever.",
+      "E": "Annem sabahları tatlı çayı tercih eder."
+    },
+    "answer": "B",
+    "solution": "Dört cümlede ‘tatlı’ tat duyusuna ya da tatlı sudaki türe bağlıdır; ‘tatlı sözler’ ise yumuşak, hoş söz anlamında mecazdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: mecaz anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-006",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘kalp’ sözcüğü mecaz anlamda kullanılmıştır?",
+    "options": {
+      "A": "Kalp ameliyatı birkaç saat içinde başarıyla tamamlandı.",
+      "B": "Kalp, kanı bütün vücuda pompalar zaman boyunca.",
+      "C": "Doktor hastanın kalbini dikkatle dinledi tekrar.",
+      "D": "Koşudan sonra kalp atışları epey hızlanmıştı.",
+      "E": "Kalbi çok temiz bir insan olduğunu herkes bilirdi."
+    },
+    "answer": "E",
+    "solution": "Dört cümledeki kalp vücut organıdır; ‘kalbi temiz’ ise iyi niyetli, duygusal yönü güçlü anlamında mecazdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: mecaz anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-007",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘kapı’ sözcüğü mecaz anlamda kullanılmıştır?",
+    "options": {
+      "A": "Kapının kolu sıkışınca bir türlü açılmadı.",
+      "B": "Evin kapısını geçen ay yeniden boyattılar.",
+      "C": "Bu başarı, ona yeni mesleki kapılar açtı.",
+      "D": "Kapı rüzgârdan çarparak güçlükle kapanabildi.",
+      "E": "Komşusunun kapısını çalıp içeri girdi hemen."
+    },
+    "answer": "C",
+    "solution": "Dört cümlede kapı somut bir eşyadır; ‘kapı açmak’ burada fırsat sunmak anlamında mecazdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: mecaz anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-008",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘göz’ sözcüğü mecaz anlamda kullanılmıştır?",
+    "options": {
+      "A": "Toz gözüne kaçınca birkaç kez kırpıştırdı.",
+      "B": "Ahmet'in gözünde bu iş hiç de önemli değildi.",
+      "C": "Göz doktoru yeni gözlük için reçete yazdı.",
+      "D": "Gözleri uykusuzluktan iyice kızarmıştı akşamüstü.",
+      "E": "Yeni gözlük gözlerini artık eskisi kadar yormuyordu."
+    },
+    "answer": "B",
+    "solution": "Dört cümlede göz görme organıdır; ‘gözünde önemli olmamak’ düşünce ve değerlendirme anlamında mecazdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: mecaz anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-009",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘yüz’ sözcüğü, ötekilerden farklı bir anlamda kullanılmıştır?",
+    "options": {
+      "A": "Ayakkabının fiyatı tam yüz lira olarak yazılmıştı.",
+      "B": "Yüz metre koşusunda birinci oldu geçen hafta.",
+      "C": "Yüz öğrenci gezi için kaydını yaptırdı.",
+      "D": "Güneşin altında kalan yüzü kıpkırmızı olmuştu.",
+      "E": "Salonda yüz kişilik bir grup toplanmıştı."
+    },
+    "answer": "D",
+    "solution": "Dört cümlede ‘yüz’ sayı adıdır; “Güneşin altında kalan yüzü kıpkırmızı olmuştu” cümlesinde ise insanın çehresi anlamındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: çok anlamlılık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-010",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘el’ sözcüğü, ötekilerden farklı bir anlamda kullanılmıştır?",
+    "options": {
+      "A": "El kapısında ekmek yemek hiç kolay değildir.",
+      "B": "Elini uzatıp raftaki kitabı kolayca aldı.",
+      "C": "Çocuk, annesinin elini tutup yürümeye başladı.",
+      "D": "Elleri soğuktan donacak hâle gelmişti.",
+      "E": "Yarasını sarmak için elini yavaşça uzattı."
+    },
+    "answer": "A",
+    "solution": "Dört cümlede ‘el’ vücudun bir parçasıdır; “El kapısında ekmek yemek hiç kolay değildir” cümlesinde ise yabancı, başkası anlamındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: çok anlamlılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-011",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘ay’ sözcüğü, ötekilerden farklı bir anlamda kullanılmıştır?",
+    "options": {
+      "A": "Ay sonuna kadar projeyi tamamlayacağını söyledi.",
+      "B": "Ay, Dünya'nın doğal uydusu olarak bilinir.",
+      "C": "Tatilimiz tam iki ay sürecek gibi görünüyor.",
+      "D": "Maaşını her ay düzenli biçimde alıyordu.",
+      "E": "Yeni bir ay başlarken planlarını gözden geçirdi."
+    },
+    "answer": "B",
+    "solution": "Dört cümlede ‘ay’ zaman birimidir; “Ay, Dünya'nın doğal uydusu olarak bilinir” cümlesinde ise gök cismidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: çok anlamlılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-012",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘çalmak’ eylemi, ötekilerden farklı bir anlamda kullanılmıştır?",
+    "options": {
+      "A": "Grup sahnede yeni şarkıyı baştan sona çaldı.",
+      "B": "Hırsız, evdeki mücevherleri gece yarısı çaldı.",
+      "C": "Sokak sanatçısı, köşede keman çalıyordu.",
+      "D": "Küçük kız, piyanoda bir sonat çaldı.",
+      "E": "Orkestra, açılış marşını büyük bir coşkuyla çaldı."
+    },
+    "answer": "B",
+    "solution": "Dört cümlede ‘çalmak’ müzik aleti kullanmak anlamındadır; “Hırsız, evdeki mücevherleri gece yarısı çaldı” cümlesinde başkasının malını izinsiz almak anlamındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: çok anlamlılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-013",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde büyük harfle yazılan ‘çevre’ sözcüğü terim anlamında kullanılmıştır?",
+    "options": {
+      "A": "Karenin ÇEVRESİ hesaplanırken bir kenar dörtle çarpılır.",
+      "B": "Eski arkadaşlarının ÇEVRESİNDE kendini hep rahat hissederdi.",
+      "C": "Okulun ÇEVRESİ yeşil alanlarla kaplanmıştı.",
+      "D": "Tarlanın ÇEVRESİNE sık bir dikenli tel çekildi.",
+      "E": "Gölün ÇEVRESİNDE akşamüstü uzun bir yürüyüş yaptık."
+    },
+    "answer": "A",
+    "solution": "Matematikte düzlem şeklin sınırını ölçen uzunluk, ‘çevre’ teriminin karşılığıdır; ötekilerde sözcük gündelik anlamında kullanılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: terim anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-014",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde büyük harfle yazılan ‘kuvvet’ sözcüğü terim anlamında kullanılmıştır?",
+    "options": {
+      "A": "Fırtınanın KUVVETİ sabaha doğru iyice azaldı.",
+      "B": "Fizikte KUVVETİN birimi newton olarak kabul edilir.",
+      "C": "Annesinin sözleri ona yeniden KUVVET verdi.",
+      "D": "Kardeşine KUVVET olması gerektiğini hep hatırlattı.",
+      "E": "Ona yetişmek için bütün KUVVETİMİ harcadım."
+    },
+    "answer": "B",
+    "solution": "‘Kuvvet’ fizikte birimi newton olan nicelik demektir (terim); ötekilerde güç, destek ya da şiddet anlamları gündelik kullanımdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: terim anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-015",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde büyük harfle yazılan ‘iş’ sözcüğü terim anlamında kullanılmıştır?",
+    "options": {
+      "A": "Genç mühendis yeni bir İŞ bulmak için ilan verdi.",
+      "B": "Küçük İŞ yerinde yedi kişi çalışıyordu.",
+      "C": "Bu İŞ senin düşündüğün kadar kolay değil.",
+      "D": "Fizikte İŞ, kuvvet ile yolun çarpımıdır.",
+      "E": "Babam her sabah İŞE gitmeden önce çay içer."
+    },
+    "answer": "D",
+    "solution": "Fizikte iş, kuvvet ile yolun çarpımıdır (terim); ötekilerde iş uğraş, görev ya da çalışılan yer anlamındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: terim anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-016",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘çay’ sözcüğü ‘küçük akarsu’ anlamında kullanılmıştır?",
+    "options": {
+      "A": "Sabahları sade çay içmeyi her zaman sever.",
+      "B": "Çayı demledikten sonra bardaklara doldurdu hemen.",
+      "C": "Misafirlere çay ikram etmeyi hiç ihmal etmedi.",
+      "D": "Çay ocağında yeni bir demlik hazırlandı.",
+      "E": "Çocuklar çayın serin suyunda ayaklarını ıslattı."
+    },
+    "answer": "E",
+    "solution": "Dört cümlede ‘çay’ sıcak içecektir; yalnızca “Çocuklar çayın serin suyunda ayaklarını ıslattı” cümlesinde ırmaktan küçük akarsuyu anlatır. Bu iki ‘çay’ eş seslidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: eş seslilik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-017",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘yaz’ sözcüğü ‘mevsim adı’ anlamında kullanılmıştır?",
+    "options": {
+      "A": "Yaz tatilinde dedesinin köyüne gidecekler.",
+      "B": "Adını bu forma okunaklı biçimde yaz lütfen.",
+      "C": "Bu mektubu en kısa zamanda yaz bana.",
+      "D": "Soruların cevaplarını cevap kâğıdına temiz yaz.",
+      "E": "Dersin notlarını defterine eksiksiz olarak yaz."
+    },
+    "answer": "A",
+    "solution": "Öteki cümlelerdeki ‘yaz’ fiildir (yazmak); “Yaz tatilinde dedesinin köyüne gidecekler” cümlesindeki ‘yaz’ mevsim adıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: eş seslilik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-018",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘bağ’ sözcüğü ‘üzüm yetiştirilen yer’ anlamında kullanılmıştır?",
+    "options": {
+      "A": "Paketi ince bir bağla sıkıca bağlayıp kaldırdı.",
+      "B": "Dedem hafta sonları bağda üzüm toplamaya giderdi.",
+      "C": "Ayakkabısının bağı yolda aniden çözülmüştü.",
+      "D": "Kardeşler arasındaki bağ yıllar geçtikçe daha da güçlendi.",
+      "E": "Çiçekleri ince bir bağla birbirine tutturdu."
+    },
+    "answer": "B",
+    "solution": "Yalnızca “Dedem hafta sonları bağda üzüm toplamaya giderdi” cümlesinde ‘bağ’ üzüm ve meyve yetiştirilen yerdir; ötekilerde bağlamaya yarayan ip ya da ilişki anlamı vardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: eş seslilik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-019",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ‘dolu’ sözcüğü ‘yağış türü’ anlamında kullanılmıştır?",
+    "options": {
+      "A": "Yağmur suyuyla dolu varil gece taşmıştı.",
+      "B": "Bardak ağzına kadar dolu olduğu için taşıyamadı.",
+      "C": "Salon bu akşam konuklarla dolu görünüyordu.",
+      "D": "Dün yağan dolu bahçedeki çiçekleri ezdi.",
+      "E": "Çantası ders kitaplarıyla doluydu sabah çıkarken."
+    },
+    "answer": "D",
+    "solution": "Dört cümlede ‘dolu’ içi boş olmayan anlamındadır; “Dün yağan dolu bahçedeki çiçekleri ezdi” cümlesinde ise buz tanesi hâlindeki yağıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: eş seslilik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-020",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki sözcük çiftlerinden hangisi eş anlamlıdır?",
+    "options": {
+      "A": "sevinç – üzüntü",
+      "B": "cömert – cimri",
+      "C": "ilkbahar – sonbahar",
+      "D": "azim – kararlılık",
+      "E": "kitap – kütüphane"
+    },
+    "answer": "D",
+    "solution": "Azim ile kararlılık aynı kavramı anlatır; ötekiler zıt anlamlı ya da yalnızca ilişkili sözcük çiftleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: eş anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-021",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdakilerin hangisinde verilen iki sözcük birbirinin eş anlamlısıdır?",
+    "options": {
+      "A": "kuru – ıslak",
+      "B": "dar – geniş",
+      "C": "tasa – kaygı",
+      "D": "yürek – ayak",
+      "E": "öğretmen – öğrenci"
+    },
+    "answer": "C",
+    "solution": "Tasa ve kaygı aynı duyguyu anlatır; ötekiler zıt anlamlıdır ya da anlamca birbirinden uzaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: eş anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-022",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki ikililerden hangisi birbirinin eş anlamlısıdır?",
+    "options": {
+      "A": "gereklilik – lüzum",
+      "B": "doğruluk – yalancılık",
+      "C": "ölçülülük – aşırılık",
+      "D": "gençlik – yaşlılık",
+      "E": "yakınlık – uzaklık"
+    },
+    "answer": "A",
+    "solution": "Gereklilik ile lüzum aynı anlamdaki sözcüklerdir; öteki dört ikili birbirine karşıt anlamlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: eş anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-023",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki sözcük çiftlerinden hangisi zıt anlamlıdır?",
+    "options": {
+      "A": "yiğit – kahraman",
+      "B": "azim – kararlılık",
+      "C": "cimri – eli sıkı",
+      "D": "mağrur – mütevazı",
+      "E": "tasa – kaygı"
+    },
+    "answer": "D",
+    "solution": "Mağrur (kibirli) ile mütevazı (alçakgönüllü) birbirine karşıt anlamlıdır; ötekiler eş anlamlı çiftlerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: zıt anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-024",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdakilerin hangisinde verilen iki sözcük birbirinin zıt anlamlısıdır?",
+    "options": {
+      "A": "engin – geniş",
+      "B": "fakir – yoksul",
+      "C": "sakin – dingin",
+      "D": "bol – kıt",
+      "E": "ağır – yavaş"
+    },
+    "answer": "D",
+    "solution": "Bol ile kıt karşıt anlamlıdır; ötekiler birbirine yakın ya da eş anlamlı çiftlerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: zıt anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-025",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki ikililerden hangisi birbirinin zıt anlamlısıdır?",
+    "options": {
+      "A": "yazar – roman",
+      "B": "kâğıt – defter",
+      "C": "kitap – sayfa",
+      "D": "okul – öğrenci",
+      "E": "ölçülü – aşırı"
+    },
+    "answer": "E",
+    "solution": "Ölçülü ile aşırı karşıt anlamlıdır; ötekiler ise anlamca ilişkili ama zıt olmayan sözcüklerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: zıt anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-026",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "‘Doktor, hastasına şefkatle yaklaştı.’ cümlesindeki ‘şefkatle’ sözcüğünün yerine aşağıdakilerden hangisi getirilirse anlam değişmez?",
+    "options": {
+      "A": "kayıtsızlıkla",
+      "B": "öfkeyle",
+      "C": "merhametle",
+      "D": "korkuyla",
+      "E": "alayla"
+    },
+    "answer": "C",
+    "solution": "Şefkat ile merhamet yakın anlamlıdır; ötekiler karşıt ya da farklı duyguları anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: cümlede yakın anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-027",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "‘Yeni öğretmen, sınıfta çekingen bir tavır sergiledi.’ cümlesindeki ‘çekingen’ sözcüğünün yerine aşağıdakilerden hangisi getirilirse anlam değişmez?",
+    "options": {
+      "A": "atılgan",
+      "B": "utangaç",
+      "C": "kibirli",
+      "D": "öfkeli",
+      "E": "neşeli"
+    },
+    "answer": "B",
+    "solution": "Çekingen ile utangaç kendini göstermekten kaçınan anlamında yakındır; ötekiler farklı ya da karşıt tavırlardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: cümlede yakın anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-028",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "‘Köprünün temeli sağlam yapılmıştı.’ cümlesindeki ‘sağlam’ sözcüğünün yerine aşağıdakilerden hangisi getirilirse anlam değişmez?",
+    "options": {
+      "A": "dayanıklı",
+      "B": "pahalı",
+      "C": "eskimiş",
+      "D": "gösterişli",
+      "E": "genişçe"
+    },
+    "answer": "A",
+    "solution": "Sağlam, kolay yıkılmayan demektir; ‘dayanıklı’ aynı anlamı karşılar, ötekiler yapının başka özelliklerini anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: cümlede yakın anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-029",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "‘Dil dökmek’ deyimi aşağıdakilerden hangisini anlatır?",
+    "options": {
+      "A": "Birini ikna etmek için tatlı sözler söylemek",
+      "B": "Çok konuşarak yabancı bir dili öğrenmeye çalışmak",
+      "C": "Uzun süre hiç konuşmadan sessizce oturmak",
+      "D": "Birine kızıp sert ve kırıcı sözler söylemek",
+      "E": "Başkalarının sırlarını herkese anlatıp dedikodu yapmak"
+    },
+    "answer": "A",
+    "solution": "‘Dil dökmek’, bir kimseyi inandırmak ya da razı etmek için türlü tatlı sözler söylemektir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-030",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "‘Burun kıvırmak’ deyimi aşağıdakilerden hangisini anlatır?",
+    "options": {
+      "A": "Bir konuda başkalarına akıl vermek",
+      "B": "Karşısındakini korkutmaya çalışmak",
+      "C": "Yapılan işe sevinerek katılmak",
+      "D": "Bir şeyi yetersiz bulup beğenmemek",
+      "E": "Bir şeyi çok merak ederek araştırmak"
+    },
+    "answer": "D",
+    "solution": "‘Burun kıvırmak’ bir şeyi beğenmemek, küçümsemek demektir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-031",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "‘Gözden düşmek’ deyimi aşağıdakilerden hangisini anlatır?",
+    "options": {
+      "A": "Gözünün görme gücünü yavaş yavaş yitirmek",
+      "B": "Bir işi gözü kapalı yapabilmek",
+      "C": "Sevgi ve saygı kaybederek değerini yitirmek",
+      "D": "Başkalarının dikkatini hemen üzerine çekmek",
+      "E": "Yüksek bir yerden yanlışlıkla aşağı düşmek"
+    },
+    "answer": "C",
+    "solution": "‘Gözden düşmek’ bir kimsenin başkalarının gözündeki değerini ve itibarını kaybetmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-032",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "‘El üstünde tutmak’ deyimi aşağıdakilerden hangisini anlatır?",
+    "options": {
+      "A": "Bir eşyayı elinden hiç bırakmadan taşımak",
+      "B": "Birine çok değer verip saygı göstermek",
+      "C": "Biriyle bir konuda yarışmaya girişmek",
+      "D": "Başkasına yük olmamak için kendi işini görmek",
+      "E": "Kendisine yapılan bir yardımı geri çevirmek"
+    },
+    "answer": "B",
+    "solution": "‘El üstünde tutmak’ bir kimseye çok değer vermek, ona büyük saygı göstermek demektir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-033",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Yarışmayı kazandığını öğrenen kız, sevincinden ______.\n\nBu cümlede boş bırakılan yere aşağıdakilerden hangisi getirilirse cümle anlamca doğru tamamlanmış olur?",
+    "options": {
+      "A": "baş başa verip düşündü",
+      "B": "göz yumup geçti",
+      "C": "ağzı kulaklarına vardı",
+      "D": "pot kırıp utandı",
+      "E": "burun kıvırıp geçti"
+    },
+    "answer": "C",
+    "solution": "‘Ağzı kulaklarına varmak’ çok sevinmek demektir; öteki deyimler başka durumları anlatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim (boşluk)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-034",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Müdür, çalışanların küçük gecikmelerine ______ ama büyük ihmalleri asla hoş görmedi.\n\nBu cümlede boş bırakılan yere aşağıdakilerden hangisi getirilirse cümle anlamca doğru tamamlanmış olur?",
+    "options": {
+      "A": "pot kırdı",
+      "B": "baş başa verdi",
+      "C": "burun kıvırdı",
+      "D": "dil döktü",
+      "E": "göz yumdu"
+    },
+    "answer": "E",
+    "solution": "‘Göz yummak’ görmezlikten gelmek, hoşgörmek demektir; ‘ama’ bağlacıyla kurulan karşıtlık bu anlamı gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim (boşluk)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-035",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Ekip, çözümü bulmak için masanın etrafında ______.\n\nBu cümlede boş bırakılan yere aşağıdakilerden hangisi getirilirse cümle anlamca doğru tamamlanmış olur?",
+    "options": {
+      "A": "göz yumup geçti",
+      "B": "pot kırıp utandı",
+      "C": "dil dökmeye başladı",
+      "D": "baş başa verdi",
+      "E": "burun kıvırıp durdu"
+    },
+    "answer": "D",
+    "solution": "‘Baş başa vermek’ bir işi çözmek için birlikte düşünüp çalışmaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim (boşluk)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-036",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Yeni çalışan, toplantıda düşünmeden söylediği söz yüzünden herkesin yanında ______.\n\nBu cümlede boş bırakılan yere aşağıdakilerden hangisi getirilirse cümle anlamca doğru tamamlanmış olur?",
+    "options": {
+      "A": "pot kırdı",
+      "B": "baş başa verdi",
+      "C": "ağzı kulaklarına vardı",
+      "D": "göz yumdu",
+      "E": "el üstünde tuttu"
+    },
+    "answer": "A",
+    "solution": "‘Pot kırmak’ yersiz ve nezaketsiz bir söz ya da davranışla hata yapmaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim (boşluk)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-037",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde deyim kullanılmamıştır?",
+    "options": {
+      "A": "Sınav sonuçlarını görünce yüzü asıldı.",
+      "B": "Yaptığı iyilik herkesin dilinde dolaşıyordu.",
+      "C": "Gecenin ilerleyen saatlerine kadar gözümü kırpmadım.",
+      "D": "Haberi duyunca ağzı kulaklarına vardı.",
+      "E": "Akşam yemeğinden sonra uzun bir yürüyüşe çıktık."
+    },
+    "answer": "E",
+    "solution": "“Akşam yemeğinden sonra uzun bir yürüyüşe çıktık” cümlesi düz anlamlıdır; ötekilerde ‘ağzı kulaklarına varmak’, ‘yüzü asılmak’, ‘gözünü kırpmamak’ ve ‘dilinde dolaşmak’ deyimleri vardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-038",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerden hangisinde deyim yer almamaktadır?",
+    "options": {
+      "A": "Bu işi yapmak için kolları sıvadı.",
+      "B": "Son sınavda yüzünün akı ile çıkmayı başardı.",
+      "C": "Sabaha kadar ders çalışıp sınava hazırlandım.",
+      "D": "Haberi duyunca etekleri zil çaldı.",
+      "E": "Karşısındakini dinlemek yerine hep kendi bildiğini okudu."
+    },
+    "answer": "C",
+    "solution": "“Sabaha kadar ders çalışıp sınava hazırlandım” cümlesinde düz anlam vardır; ötekilerde ‘etekleri zil çalmak’, ‘kolları sıvamak’, ‘kendi bildiğini okumak’ ve ‘yüzünün akı ile çıkmak’ deyimleri kullanılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: deyim (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-039",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Küçük birikimlerin zamanla büyüyerek önemli bir değere dönüşeceği düşüncesi aşağıdaki atasözlerinden hangisinde anlatılmıştır?",
+    "options": {
+      "A": "Bir elin nesi var iki elin sesi var.",
+      "B": "Ağaç yaşken eğilir.",
+      "C": "Ne ekersen onu biçersin.",
+      "D": "Acele işe şeytan karışır.",
+      "E": "Damlaya damlaya göl olur."
+    },
+    "answer": "E",
+    "solution": "Küçük parçaların birikerek büyük bir bütün oluşturması ‘damlaya damlaya göl olur’ ile anlatılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-040",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Çocukluk döneminde kazanılan alışkanlıkların kalıcı olacağı düşüncesi aşağıdaki atasözlerinden hangisinde anlatılmıştır?",
+    "options": {
+      "A": "Damlaya damlaya göl olur.",
+      "B": "Ayağını yorganına göre uzat.",
+      "C": "Ağaç yaşken eğilir.",
+      "D": "Sütten ağzı yanan yoğurdu üfleyerek yer.",
+      "E": "Bin düşün bir söyle."
+    },
+    "answer": "C",
+    "solution": "Genç yaşta verilen terbiyenin kolay yerleştiği ve kalıcı olduğu ‘ağaç yaşken eğilir’ ile anlatılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-041",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aceleyle yapılan işlerde hata yapma olasılığının arttığı düşüncesi aşağıdaki atasözlerinden hangisinde anlatılmıştır?",
+    "options": {
+      "A": "Acele işe şeytan karışır.",
+      "B": "Bir elin nesi var iki elin sesi var.",
+      "C": "Ayağını yorganına göre uzat.",
+      "D": "Ne ekersen onu biçersin.",
+      "E": "Ağaç yaşken eğilir."
+    },
+    "answer": "A",
+    "solution": "Acele edildiğinde dikkat azalacağı için işin bozulabileceği ‘acele işe şeytan karışır’ ile söylenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-042",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Bir işin birden fazla kişinin birlikte çalışmasıyla daha kolay ve verimli yapılacağı düşüncesi aşağıdaki atasözlerinden hangisinde anlatılmıştır?",
+    "options": {
+      "A": "Bin düşün bir söyle.",
+      "B": "Acele işe şeytan karışır.",
+      "C": "Bir elin nesi var iki elin sesi var.",
+      "D": "Damlaya damlaya göl olur.",
+      "E": "Sütten ağzı yanan yoğurdu üfleyerek yer."
+    },
+    "answer": "C",
+    "solution": "İş birliğinin tek başına yapılandan daha etkili olduğu ‘bir elin nesi var iki elin sesi var’ ile anlatılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-043",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Bir kez kötü deneyim yaşayan kişinin benzer durumlarda gereğinden fazla temkinli davranması aşağıdaki atasözlerinden hangisiyle anlatılır?",
+    "options": {
+      "A": "Ayağını yorganına göre uzat.",
+      "B": "Ne ekersen onu biçersin.",
+      "C": "Ağaç yaşken eğilir.",
+      "D": "Sütten ağzı yanan yoğurdu üfleyerek yer.",
+      "E": "Damlaya damlaya göl olur."
+    },
+    "answer": "D",
+    "solution": "Bir kez yanan kişinin ilgisiz şeylerden bile çekinmesi bu atasözünün anlamıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-044",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Gelirinin yetmediğini fark eden aile harcamalarını kısıp bütçesini yeniden düzenledi.\n\nBu cümle aşağıdaki atasözlerinden hangisinin anlamıyla örtüşür?",
+    "options": {
+      "A": "Bin düşün bir söyle.",
+      "B": "Acele işe şeytan karışır.",
+      "C": "Bir elin nesi var iki elin sesi var.",
+      "D": "Ağaç yaşken eğilir.",
+      "E": "Ayağını yorganına göre uzat."
+    },
+    "answer": "E",
+    "solution": "Gelire göre harcama yapmayı öğütleyen atasözü ‘ayağını yorganına göre uzat’tır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü (cümle-atasözü eşleştirme)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-045",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Yarışmaya hazırlanmak için yıllarca düzenli çalışan sporcu, sonunda dünya şampiyonu oldu.\n\nBu cümle aşağıdaki atasözlerinden hangisinin anlamıyla örtüşür?",
+    "options": {
+      "A": "Bin düşün bir söyle.",
+      "B": "Sütten ağzı yanan yoğurdu üfleyerek yer.",
+      "C": "Acele işe şeytan karışır.",
+      "D": "Ayağını yorganına göre uzat.",
+      "E": "Ne ekersen onu biçersin."
+    },
+    "answer": "E",
+    "solution": "Yapılan emeğin karşılığının eninde sonunda alınması ‘ne ekersen onu biçersin’ ile anlatılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü (cümle-atasözü eşleştirme)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-046",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Konuşmadan önce düşünmenin, sonradan pişman olmamak için gerekli olduğu görüşünü hangisi yansıtır?",
+    "options": {
+      "A": "Bir elin nesi var iki elin sesi var.",
+      "B": "Ne ekersen onu biçersin.",
+      "C": "Bin düşün bir söyle.",
+      "D": "Damlaya damlaya göl olur.",
+      "E": "Ağaç yaşken eğilir."
+    },
+    "answer": "C",
+    "solution": "Söz söylemeden önce uzun uzun düşünmek gerektiği ‘bin düşün bir söyle’ ile ifade edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-047",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ikileme kullanılmıştır?",
+    "options": {
+      "A": "Çarşıdan ufak tefek bazı eşyalar satın aldı.",
+      "B": "Pazardan alışverişini bitirip eve döndü.",
+      "C": "Çarşıdan taze sebze ve meyve satın aldı.",
+      "D": "Yeni aldığı kitabı akşama kadar okudu.",
+      "E": "Annesine bir demet çiçek götürdü."
+    },
+    "answer": "A",
+    "solution": "‘Ufak tefek’, anlamca yakın iki sözcüğün birlikte kullanıldığı bir ikilemedir; ötekilerde ikileme yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: ikileme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-048",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde yansıma sözcük kullanılmıştır?",
+    "options": {
+      "A": "Yolcular bavullarını bagaja yerleştirdi.",
+      "B": "Çocuklar bahçede akşama kadar oynadı.",
+      "C": "Eski kapı yavaşça açılıp içeri girdik.",
+      "D": "Eski kapı gıcırdayarak yavaşça açıldı.",
+      "E": "Müdür, toplantıyı biraz erken bitirdi."
+    },
+    "answer": "D",
+    "solution": "‘Gıcırdamak’ doğadaki bir sesin taklidinden türemiş yansıma kökenli bir sözcüktür; öteki cümlelerde böyle bir sözcük yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: yansıma sözcük"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-049",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde pekiştirmeli sıfat kullanılmıştır?",
+    "options": {
+      "A": "Kar yağınca bütün bahçe beyaza büründü.",
+      "B": "Kar yağınca bahçedeki ağaçlar donup kaldı.",
+      "C": "Kar yağınca yollar bir süre kapandı.",
+      "D": "Kar yağınca çocuklar sokağa çıktı.",
+      "E": "Kar yağınca bütün bahçe bembeyaz oldu."
+    },
+    "answer": "E",
+    "solution": "‘Bembeyaz’, sıfatın ilk hecesiyle pekiştirilmesiyle oluşmuş bir pekiştirmedir; ötekilerde pekiştirme yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: pekiştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-050",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki sözcüklerden hangisi yansıma kökenlidir?",
+    "options": {
+      "A": "çıkarsama",
+      "B": "çıtırtı",
+      "C": "çıkıntı",
+      "D": "çıkarma",
+      "E": "çıraklık"
+    },
+    "answer": "B",
+    "solution": "‘Çıtırtı’ sesi taklit eden bir yansıma sözcüktür; ötekiler çıkmak ve çırak köklerinden türemiş yapım ekli sözcüklerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: yansıma sözcük"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-051",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde ikileme kullanılmamıştır?",
+    "options": {
+      "A": "Çoluk çocuk hep birlikte pikniğe gittiler.",
+      "B": "Kitap kalem alışverişini bu hafta bitirdiler.",
+      "C": "Arkadaşları sağa sola koşuşup durdu.",
+      "D": "Yavaş yavaş yaklaşan sesleri duyup uyandı.",
+      "E": "Dün akşam arkadaşlarla uzun bir yürüyüş yaptık."
+    },
+    "answer": "E",
+    "solution": "“Dün akşam arkadaşlarla uzun bir yürüyüş yaptık” cümlesinde ikileme yoktur; ötekilerde ‘yavaş yavaş’, ‘çoluk çocuk’, ‘kitap kalem’ ve ‘sağa sola’ ikilemeleri vardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: ikileme (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-052",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki sözcüklerden hangisi ötekileri kapsayan üst kavramdır?",
+    "options": {
+      "A": "otomobil",
+      "B": "gemi",
+      "C": "taşıt",
+      "D": "uçak",
+      "E": "tren"
+    },
+    "answer": "C",
+    "solution": "Otomobil, tren, uçak ve gemi taşıtın alt türleridir; ‘taşıt’ hepsini kapsayan üst kavramdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: üst kavram"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-053",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki sözcük çiftlerinden hangisinde birinci sözcük, ikinci sözcüğün üst kavramıdır?",
+    "options": {
+      "A": "meyve – elma",
+      "B": "kalem – kâğıt",
+      "C": "elma – meyve",
+      "D": "bardak – su",
+      "E": "orman – ağaç"
+    },
+    "answer": "A",
+    "solution": "Meyve, elmayı kapsayan genel bir kavramdır; ‘orman – ağaç’ bütün-parça, ‘bardak – su’ kap-içerik ilişkisidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: üst kavram"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-054",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki sözcük çiftlerinden hangisi ‘bütün – parça’ ilişkisi göstermektedir?",
+    "options": {
+      "A": "şair – şiir",
+      "B": "kitap – sayfa",
+      "C": "elma – meyve",
+      "D": "kuş – serçe",
+      "E": "yaz – mevsim"
+    },
+    "answer": "B",
+    "solution": "Sayfa kitabın bir parçasıdır; ‘elma – meyve’, ‘kuş – serçe’ ve ‘yaz – mevsim’ tür-cins, ‘şair – şiir’ üretici-ürün ilişkisidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: anlam ilişkileri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-055",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki sözcük çiftlerinden hangileri eş anlamlıdır?\n\nI. kalp – yürek\n\nII. azim – kararlılık\n\nIII. cömert – cimri",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Kalp–yürek ve azim–kararlılık eş anlamlıdır; cömert–cimri zıt anlamlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: öncüllü eş anlam"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-056",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki cümlelerin hangilerinde ‘soğuk’ sözcüğü mecaz anlamda kullanılmıştır?\n\nI. Soğuk su içince dişi sızlamaya başladı.\n\nII. Soğuk bir bakışla karşılandı.\n\nIII. Soğuk bir kış sabahıydı.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Soğuk su ve soğuk kış sıcaklık duyusuna bağlı gerçek anlamlıdır; ‘soğuk bakış’ ilgisiz, mesafeli anlamında mecazdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: öncüllü mecaz"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-057",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdakilerden hangileri deyimdir?\n\nI. kapıyı açmak\n\nII. kulak asmak\n\nIII. el üstünde tutmak",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "‘Kulak asmak’ (önemsemek) ve ‘el üstünde tutmak’ (çok değer vermek) deyimdir; ‘kapıyı açmak’ düz anlamlı bir söz öbeğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: öncüllü deyim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-058",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdakilerden hangisi atasözüdür?\n\nI. Ak akçe kara gün içindir.\n\nII. gözden düşmek\n\nIII. kapıyı çalmak",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "‘Ak akçe kara gün içindir’ bir atasözüdür; ‘gözden düşmek’ deyim, ‘kapıyı çalmak’ düz anlamlı bir söz öbeğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: öncüllü atasözü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-059",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdaki sözcük çiftlerinden hangisi eş anlamlı değildir?",
+    "options": {
+      "A": "yürek – kalp",
+      "B": "sınav – imtihan",
+      "C": "mektup – name",
+      "D": "kalın – ince",
+      "E": "öğretmen – muallim"
+    },
+    "answer": "D",
+    "solution": "Kalın ile ince birbirine karşıt (zıt anlamlı) sözcüklerdir; ötekiler eş anlamlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: eş anlam (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-soz-060",
+    "ders": "sozel_yetenek",
+    "konu": "sozcukte_anlam",
+    "stem": "Aşağıdakilerden hangisi bir atasözü değildir?",
+    "options": {
+      "A": "Gülü seven dikenine katlanır",
+      "B": "Sütten ağzı yanan yoğurdu üfleyerek yer",
+      "C": "Üzüm üzüme baka baka kararır",
+      "D": "Komşu komşunun külüne muhtaçtır",
+      "E": "Haberi duyunca ağzı kulaklarına vardı"
+    },
+    "answer": "E",
+    "solution": "İlk seçenek bir deyim içeren düz cümledir; öteki dördü kalıplaşmış, öğüt veren atasözleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözcükte anlam: atasözü (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  }
+]

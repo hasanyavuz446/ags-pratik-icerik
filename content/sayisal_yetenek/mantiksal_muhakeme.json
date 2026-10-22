@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "ags-say-man-001",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n5, 14, 32, 68, 140, ?",
+    "options": {
+      "A": "141",
+      "B": "284",
+      "C": "282",
+      "D": "208",
+      "E": "280"
+    },
+    "answer": "B",
+    "solution": "Her terim için bir önceki terim 2 ile çarpılır ve 4 eklenir (ilk terim 5). Buna göre “?” yerine 284 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-002",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Cem, Kaan, Gül, Umut ve Emre adlı beş kardeşin yaşları birbirinden farklıdır. Yaşlarla ilgili şunlar bilinmektedir:\n\nUmut, en küçüktür.\nEmre, yaşça Cem ile Gül arasındadır.\nGül, Cem'den büyüktür.\nKaan, yaşça Umut ile Emre arasındadır.\n\nBuna göre,\n\nI. Emre, yaşça Kaan ile Gül arasındadır.\n\nII. Cem, yaşça Kaan ile Emre arasındadır.\n\nIII. Kaan, yaşça Umut ile Cem arasındadır.\n\nyargılarından hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Verilen bilgilere uyan bütün durumlarda doğru olan yargılar: I (“Emre, yaşça Kaan ile Gül arasındadır.”). Öteki yargılar bir durumda yanlış olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-003",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Ece, Selin, Arda, Hakan ve Umut adlı beş kişiden her biri ya her zaman doğruyu söyler ya da her zaman yalan söyler. Kişiler şöyle konuşmuştur:\n\nEce: “Umut ile Arda yalan söylüyor.”\nSelin: “Umut doğru söylüyor.”\nArda: “Aramızda tam olarak 2 kişi yalan söylüyor.”\nHakan: “Ece yalan söylüyor.”\nUmut: “Aramızda tam olarak 1 kişi yalan söylüyor.”\n\nBuna göre, bu kişilerden hangisi doğru söylemektedir?",
+    "options": {
+      "A": "Selin",
+      "B": "Hakan",
+      "C": "Umut",
+      "D": "Ece",
+      "E": "Arda"
+    },
+    "answer": "D",
+    "solution": "Doğru söyleyen/yalancı atamalarının hepsi denendiğinde yalnız tek tutarlı durum çıkar (Ece doğru söyler, Selin yalan söyler, Arda yalan söyler, Hakan yalan söyler, Umut yalan söyler); doğru söyleyen sayısı 1.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: doğru-yalan söyleyen"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-004",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekillerin her birinde, köşelerdeki üç sayıdan ortadaki sayı aynı kurala göre elde edilmiştir.\n\n1. şekil: köşeler 1, 5, 4 → ortadaki sayı 1\n2. şekil: köşeler 2, 2, 4 → ortadaki sayı 0\n3. şekil: köşeler 1, 6, 2 → ortadaki sayı 4\n4. şekil: köşeler 6, 6, 4 → ortadaki sayı ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "30",
+      "B": "144",
+      "C": "32",
+      "D": "48",
+      "E": "40"
+    },
+    "answer": "C",
+    "solution": "Satırlardaki kural: ilk ikisinin çarpımından üçüncünün çıkarılması. Son satıra uygulanınca 32 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-005",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "0, 1, 2, 3, 4, 5 ve 6 rakamları kullanılarak, rakamları birbirinden farklı kaç tane üç basamaklı çift sayı yazılabilir?",
+    "options": {
+      "A": "120",
+      "B": "106",
+      "C": "105",
+      "D": "210",
+      "E": "144"
+    },
+    "answer": "C",
+    "solution": "Son rakam çift olacak biçimde seçilir; baş rakam 0 olamaz (sıfır varsa ayrıca elenir). Tüm uygun dizilimler sayılınca 105 sayı bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-006",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "A, B ve C birbirinden farklı rakamlardır. (AB iki basamaklı bir sayıyı gösterir; baştaki rakam sıfır değildir.)\n\nAB + BA = 77\nAB − C = 22\n\nBuna göre, C kaçtır?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "5",
+      "D": "7",
+      "E": "3"
+    },
+    "answer": "E",
+    "solution": "Koşulları sağlayan atamalar denenir; örnek çözüm A=2, B=5, C=3. Sorulan değer koşulları sağlayan bütün atamalarda 3 çıkar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: harf-rakam bulmacası"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-007",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Ece, Pelin, Leyla ve Mert adlı dört kardeşin yaşları birbirinden farklıdır. Yaşlarla ilgili şunlar bilinmektedir:\n\nMert, Pelin'den büyüktür.\nLeyla, Pelin'den büyüktür.\nPelin, yaşça Ece ile Leyla arasındadır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Leyla, yaşça Mert ile Ece arasındadır.",
+      "B": "Leyla, Ece'den büyüktür.",
+      "C": "Leyla, Mert'ten büyüktür.",
+      "D": "Leyla, yaşça Mert ile Pelin arasındadır.",
+      "E": "Mert, yaşça Ece ile Leyla arasındadır."
+    },
+    "answer": "B",
+    "solution": "“Leyla, Ece'den büyüktür.” yargısı, şu bilgilerle birlikte zorunlu olarak çıkar: Pelin, yaşça Ece ile Leyla arasındadır; Leyla, Pelin'den büyüktür. Öteki yargılar bir durumda doğru, başka bir durumda yanlış olabilir. Olası sıralar (büyükten küçüğe): Mert – Leyla – Pelin – Ece | Leyla – Mert – Pelin – Ece.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-008",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n8, 17, 11, 20, 14, ?",
+    "options": {
+      "A": "23",
+      "B": "33",
+      "C": "28",
+      "D": "24",
+      "E": "13"
+    },
+    "answer": "A",
+    "solution": "İşlemler sırayla uygulanır: önce 9 ekle, sonra 6 çıkar… (ilk terim 8). Buna göre “?” yerine 23 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-009",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Z, B, C, E ve N, birbirinden farklı beş pozitif tam sayıdır. Bu sayılarla ilgili şunlar bilinmektedir:\n\nZ, C ile B arasındadır.\nB, N'den büyüktür.\nC, E ile B arasındadır.\nB, E'den büyüktür.\n\nBuna göre,\n\nI. N, C ile Z arasındadır.\n\nII. C, Z ile E arasındadır.\n\nIII. Z, E ile B arasındadır.\n\nyargılarından hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Verilen bilgilere uyan bütün durumlarda doğru olan yargılar: II ve III (“C, Z ile E arasındadır. / Z, E ile B arasındadır.”). Öteki yargılar bir durumda yanlış olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-010",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "İrem, Selin, Burcu, Zeynep, Nil, Ayşe ve Cem adlı yedi arkadaş bir sıra boyunca yan yana oturacaktır. İrem ile Selin yan yana oturmak istediğine göre, bu yedi arkadaş kaç farklı biçimde sıralanabilir?",
+    "options": {
+      "A": "1439",
+      "B": "1440",
+      "C": "240",
+      "D": "720",
+      "E": "2520"
+    },
+    "answer": "B",
+    "solution": "İrem ile Selin tek bir blok sayılır: (6)! sıralama ve blok içinde 2 sıra → 2·720 = 1440.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-011",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Üç farklı rakam A, B ve C ile ilgili şu eşitlikler verilmiştir (yan yana yazılan harfler basamaktır, baştaki rakam 0 değildir):\n\nABC + CBA = 1575\nA + B + C = 18\nAB + BA = 132\n\nBuna göre, A · B çarpımı kaçtır?",
+    "options": {
+      "A": "26",
+      "B": "29",
+      "C": "30",
+      "D": "28",
+      "E": "27"
+    },
+    "answer": "E",
+    "solution": "Koşulları sağlayan atamalar denenir; örnek çözüm A=9, B=3, C=6. Sorulan değer koşulları sağlayan bütün atamalarda 27 çıkar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: harf-rakam bulmacası"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-012",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n10, 24, 44, 70, 102, ?",
+    "options": {
+      "A": "204",
+      "B": "142",
+      "C": "134",
+      "D": "128",
+      "E": "140"
+    },
+    "answer": "E",
+    "solution": "Ardışık farklar düzenli biçimde değişir (ikinci fark sabit 6); kural: tₙ = 3n² + 5n + 2. Buna göre “?” yerine 140 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-013",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Leyla, Okan, Nil, İrem, Mert, Ayşe ve Ece adlı yedi arkadaş bir sıra boyunca yan yana oturacaktır. Leyla ile Okan yan yana oturmak istemediğine göre, bu yedi arkadaş kaç farklı biçimde sıralanabilir?",
+    "options": {
+      "A": "3600",
+      "B": "3599",
+      "C": "720",
+      "D": "4320",
+      "E": "1440"
+    },
+    "answer": "A",
+    "solution": "Toplam 5040 sıralamadan, ikisinin yan yana olduğu 2·720 sıralama çıkarılır: 5040 − 1440 = 3600.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-014",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "ELMALI sözcüğünün harfleri kullanılarak (anlamlı olup olmadığına bakılmaksızın) kaç farklı sıralama yazılabilir?",
+    "options": {
+      "A": "360",
+      "B": "720",
+      "C": "240",
+      "D": "361",
+      "E": "362"
+    },
+    "answer": "A",
+    "solution": "6! sıralamadan aynı harflerin kendi aralarındaki yer değişimleri (2) bölünür: 720/2 = 360.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-015",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Birbirinden farklı üç rakam A, B ve C ile gösterilmiştir; yan yana yazılan harfler basamakları belirtir, baştaki rakam sıfır olamaz.\n\nA + B + C = 18\nB · C = 14\n\nBuna göre, A kaçtır?",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "5",
+      "D": "7",
+      "E": "6"
+    },
+    "answer": "B",
+    "solution": "Koşulları sağlayan atamalar denenir; örnek çözüm A=9, B=7, C=2. Sorulan değer koşulları sağlayan bütün atamalarda 9 çıkar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: harf-rakam bulmacası"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-016",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Bir markette fiyatlarla ilgili şunlar bilinmektedir:\n\n2 tane armut ve 2 tane muz toplam 36 TL'dir.\n3 tane elma, 3 tane armut ve 1 tane muz toplam 40 TL'dir.\n2 tane elma ve 4 tane armut toplam 28 TL'dir.\n\nBuna göre, 1 tane elma ve 2 tane muz toplam kaç TL'dir?",
+    "options": {
+      "A": "26",
+      "B": "30",
+      "C": "29",
+      "D": "8",
+      "E": "43"
+    },
+    "answer": "B",
+    "solution": "Denklemleri sağlayan pozitif tam sayı fiyatların tamamında sorulan toplam 30 TL çıkar (örnek çözüm: 1 elma 4 TL, 1 armut 5 TL, 1 muz 13 TL).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: fiyat ve denge denklemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-017",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki tabloda her satırdaki sayılar aynı kurala göre yazılmıştır.\n\n1. satır: 5, 3 → 30\n2. satır: 1, 8 → 16\n3. satır: 3, 1 → 6\n4. satır: 2, 2 → ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "9",
+      "E": "8"
+    },
+    "answer": "E",
+    "solution": "Satırlardaki kural: çarpımın iki katı. Son satıra uygulanınca 8 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-018",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekillerin her birinde, köşelerdeki üç sayıdan ortadaki sayı aynı kurala göre elde edilmiştir.\n\n1. şekil: köşeler 6, 2, 3 → ortadaki sayı 36\n2. şekil: köşeler 5, 1, 2 → ortadaki sayı 10\n3. şekil: köşeler 1, 9, 3 → ortadaki sayı 27\n4. şekil: köşeler 9, 5, 2 → ortadaki sayı ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "36",
+      "B": "6",
+      "C": "12",
+      "D": "16",
+      "E": "90"
+    },
+    "answer": "E",
+    "solution": "Satırlardaki kural: üç sayının çarpımı. Son satıra uygulanınca 90 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-019",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "A, B ve C, sıfırdan dokuza kadar rakamlardan üçüdür ve birbirinden farklıdır. Yan yana yazılan harfler basamakları gösterir; baştaki rakam 0 olamaz.\n\nAB + BA = 99\nAB − C = 58\n\nBuna göre, A kaçtır?",
+    "options": {
+      "A": "8",
+      "B": "4",
+      "C": "7",
+      "D": "6",
+      "E": "5"
+    },
+    "answer": "D",
+    "solution": "Koşulları sağlayan atamalar denenir; örnek çözüm A=6, B=3, C=5. Sorulan değer koşulları sağlayan bütün atamalarda 6 çıkar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: harf-rakam bulmacası"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-020",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n5, 1, ?, 9, 25, 41",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "8",
+      "D": "6",
+      "E": "-1"
+    },
+    "answer": "B",
+    "solution": "Her terim önceki iki terimden elde edilir: tₙ = tₙ₋₁ + 2·tₙ₋₂ − 2 (ilk iki terim 5 ve 1). Buna göre “?” yerine 9 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-021",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Farklı üç rakam A, B ve C için aşağıdaki eşitlikler bilinmektedir. (Yan yana harfler basamak gösterir; ilk basamak sıfır olamaz.)\n\nA + B + C = 15\nA · B + C = 22\nABC + CBA = 1353\n\nBuna göre, C kaçtır?",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "0",
+      "D": "2",
+      "E": "3"
+    },
+    "answer": "A",
+    "solution": "Koşulları sağlayan atamalar denenir; örnek çözüm A=9, B=2, C=4. Sorulan değer koşulları sağlayan bütün atamalarda 4 çıkar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: harf-rakam bulmacası"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-022",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekillerin her birinde, köşelerdeki üç sayıdan ortadaki sayı aynı kurala göre elde edilmiştir.\n\n1. şekil: köşeler 8, 3, 7 → ortadaki sayı 4\n2. şekil: köşeler 2, 8, 8 → ortadaki sayı 2\n3. şekil: köşeler 8, 4, 1 → ortadaki sayı 11\n4. şekil: köşeler 6, 9, 6 → ortadaki sayı ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "48",
+      "B": "60",
+      "C": "51",
+      "D": "9",
+      "E": "90"
+    },
+    "answer": "D",
+    "solution": "Satırlardaki kural: ilk ikisinin toplamından üçüncünün çıkarılması. Son satıra uygulanınca 9 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-023",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Bir markette fiyatlarla ilgili şunlar bilinmektedir:\n\n4 tane kalem ve 2 tane defter toplam 62 TL'dir.\n1 tane kalem ve 3 tane defter toplam 28 TL'dir.\n\nBuna göre, 2 tane kalem ve 3 tane defter toplam kaç TL'dir?",
+    "options": {
+      "A": "54",
+      "B": "34",
+      "C": "64",
+      "D": "41",
+      "E": "90"
+    },
+    "answer": "D",
+    "solution": "Denklemleri sağlayan pozitif tam sayı fiyatların tamamında sorulan toplam 41 TL çıkar (örnek çözüm: 1 kalem 13 TL, 1 defter 5 TL).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: fiyat ve denge denklemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-024",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Derya, İrem, Ece, Arda ve Ayşe adlı beş kişiden her biri ya her zaman doğruyu söyler ya da her zaman yalan söyler. Kişiler şöyle konuşmuştur:\n\nDerya: “Aramızda tam olarak 4 kişi yalan söylüyor.”\nİrem: “Derya ile Arda'dan yalnızca biri yalan söylüyor.”\nEce: “İrem doğru söylüyor.”\nArda: “Derya yalan söylüyor.”\nAyşe: “Arda doğru söylüyor.”\n\nBuna göre, bu kişilerden hangisi yalan söylemektedir?",
+    "options": {
+      "A": "İrem",
+      "B": "Ece",
+      "C": "Derya",
+      "D": "Arda",
+      "E": "Ayşe"
+    },
+    "answer": "C",
+    "solution": "Doğru söyleyen/yalancı atamalarının hepsi denendiğinde yalnız tek tutarlı durum çıkar (Derya yalan söyler, İrem doğru söyler, Ece doğru söyler, Arda doğru söyler, Ayşe doğru söyler); doğru söyleyen sayısı 4.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: doğru-yalan söyleyen"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-025",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Tuna, Okan, Pelin ve Umut adlı dört kişiden her biri ya her zaman doğruyu söyler ya da her zaman yalan söyler. Kişiler şöyle konuşmuştur:\n\nTuna: “Umut yalan söylüyor.”\nOkan: “Pelin doğru söylüyor.”\nPelin: “Tuna ile Umut'tan yalnızca biri yalan söylüyor.”\nUmut: “Okan ile Tuna yalan söylüyor.”\n\nBuna göre, bu kişilerden kaç tanesi doğru söylemektedir?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "0",
+      "D": "1",
+      "E": "4"
+    },
+    "answer": "A",
+    "solution": "Doğru söyleyen/yalancı atamalarının hepsi denendiğinde yalnız tek tutarlı durum çıkar (Tuna doğru söyler, Okan doğru söyler, Pelin doğru söyler, Umut yalan söyler); doğru söyleyen sayısı 3.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: doğru-yalan söyleyen"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-026",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Burcu, Deniz, Tuna, Cem ve Okan adlı beş kardeşin yaşları birbirinden farklıdır. Yaşlarla ilgili şunlar bilinmektedir:\n\nOkan, Tuna'dan büyüktür.\nBurcu, yaşça Okan ile Tuna arasındadır.\nDeniz, yaşça Cem ile Tuna arasındadır.\nCem, Burcu'dan büyüktür.\nCem, yaşça Okan ile Tuna arasındadır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "Deniz, Burcu'dan büyüktür.",
+      "B": "Deniz, yaşça Cem ile Burcu arasındadır.",
+      "C": "Burcu, yaşça Deniz ile Tuna arasındadır.",
+      "D": "Tuna, en küçüktür.",
+      "E": "Burcu, yaşça Cem ile Deniz arasındadır."
+    },
+    "answer": "D",
+    "solution": "“Tuna, en küçüktür.” yargısı, şu bilgilerle birlikte zorunlu olarak çıkar: Cem, Burcu'dan büyüktür; Deniz, yaşça Cem ile Tuna arasındadır; Okan, Tuna'dan büyüktür; Burcu, yaşça Okan ile Tuna arasındadır. Öteki yargılar bir durumda doğru, başka bir durumda yanlış olabilir. Olası sıralar (büyükten küçüğe): Okan – Cem – Deniz – Burcu – Tuna | Okan – Cem – Burcu – Deniz – Tuna.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-027",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Derya, Emre, Tuna ve Burcu adlı dört kişiden her biri ya her zaman doğruyu söyler ya da her zaman yalan söyler. Kişiler şöyle konuşmuştur:\n\nDerya: “Tuna ile Emre'den yalnızca biri yalan söylüyor.”\nEmre: “Derya doğru söylüyor.”\nTuna: “Burcu yalan söylüyor.”\nBurcu: “Derya yalan söylüyor.”\n\nBuna göre, bu kişilerden kaç tanesi doğru söylemektedir?",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "3",
+      "D": "2",
+      "E": "0"
+    },
+    "answer": "B",
+    "solution": "Doğru söyleyen/yalancı atamalarının hepsi denendiğinde yalnız tek tutarlı durum çıkar (Derya yalan söyler, Emre yalan söyler, Tuna yalan söyler, Burcu doğru söyler); doğru söyleyen sayısı 1.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: doğru-yalan söyleyen"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-028",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Cem, Tuna, Arda ve Emre adlı dört kişiden her biri ya her zaman doğruyu söyler ya da her zaman yalan söyler. Kişiler şöyle konuşmuştur:\n\nCem: “Emre ile Tuna'dan yalnızca biri yalan söylüyor.”\nTuna: “Aramızda tam olarak 2 kişi yalan söylüyor.”\nArda: “Tuna doğru söylüyor.”\nEmre: “Aramızda tam olarak 3 kişi yalan söylüyor.”\n\nBuna göre, bu kişilerden kaç tanesi doğru söylemektedir?",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "4",
+      "D": "3",
+      "E": "2"
+    },
+    "answer": "B",
+    "solution": "Doğru söyleyen/yalancı atamalarının hepsi denendiğinde yalnız tek tutarlı durum çıkar (Cem yalan söyler, Tuna yalan söyler, Arda yalan söyler, Emre yalan söyler); doğru söyleyen sayısı 0.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: doğru-yalan söyleyen"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-029",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n4, 11, 30, 67, 128, ?",
+    "options": {
+      "A": "209",
+      "B": "220",
+      "C": "189",
+      "D": "129",
+      "E": "219"
+    },
+    "answer": "E",
+    "solution": "Her terim sıra numarasının küpüne 3 eklenerek bulunur: tₙ = n³ + 3. Buna göre “?” yerine 219 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-030",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki tabloda her satırdaki sayılar aynı kurala göre yazılmıştır.\n\n1. satır: 2, 9 → 20\n2. satır: 7, 1 → 14\n3. satır: 5, 4 → 25\n4. satır: 5, 9 → ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "50",
+      "B": "90",
+      "C": "86",
+      "D": "45",
+      "E": "106"
+    },
+    "answer": "A",
+    "solution": "Satırlardaki kural: ilk sayının, ikinci sayının bir fazlasıyla çarpımı. Son satıra uygulanınca 50 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-031",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki tabloda her satırdaki sayılar aynı kurala göre yazılmıştır.\n\n1. satır: 4, 6 → 28\n2. satır: 9, 9 → 90\n3. satır: 5, 1 → 10\n4. satır: 3, 1 → ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "10",
+      "B": "7",
+      "C": "6",
+      "D": "2",
+      "E": "8"
+    },
+    "answer": "C",
+    "solution": "Satırlardaki kural: ilk sayının, ikinci sayının bir fazlasıyla çarpımı. Son satıra uygulanınca 6 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-032",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Bir markette fiyatlarla ilgili şunlar bilinmektedir:\n\n4 tane bilet, 1 tane dondurma ve 1 tane su toplam 65 TL'dir.\n1 tane bilet, 2 tane dondurma ve 3 tane su toplam 53 TL'dir.\n\nBuna göre, 9 tane bilet, 4 tane dondurma ve 5 tane su toplam kaç TL'dir?",
+    "options": {
+      "A": "176",
+      "B": "195",
+      "C": "184",
+      "D": "183",
+      "E": "12"
+    },
+    "answer": "D",
+    "solution": "Denklemleri sağlayan pozitif tam sayı fiyatların tamamında sorulan toplam 183 TL çıkar (örnek çözüm: 1 bilet 12 TL, 1 dondurma 10 TL, 1 su 7 TL).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: fiyat ve denge denklemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-033",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n1, -1, -7, ?, -79, -241",
+    "options": {
+      "A": "-31",
+      "B": "-42",
+      "C": "-25",
+      "D": "-80",
+      "E": "-43"
+    },
+    "answer": "C",
+    "solution": "Her terim için bir önceki terim 3 ile çarpılır ve 4 çıkarılır (ilk terim 1). Buna göre “?” yerine -25 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-034",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki işlemlerde A, B ve C farklı birer rakamdır (AB: iki basamaklı sayı, ABC: üç basamaklı sayı; baştaki rakam 0 değildir).\n\nAB + C = 58\nAB − C = 44\n\nBuna göre, B kaçtır?",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "4",
+      "D": "3",
+      "E": "2"
+    },
+    "answer": "A",
+    "solution": "Koşulları sağlayan atamalar denenir; örnek çözüm A=5, B=1, C=7. Sorulan değer koşulları sağlayan bütün atamalarda 1 çıkar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: harf-rakam bulmacası"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-035",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Bir markette fiyatlarla ilgili şunlar bilinmektedir:\n\n4 tane tişört, 3 tane gömlek ve 4 tane çorap toplam 118 TL'dir.\n4 tane tişört, 4 tane gömlek ve 3 tane çorap toplam 110 TL'dir.\n2 tane tişört ve 2 tane gömlek toplam 34 TL'dir.\n\nBuna göre, 2 tane tişört, 2 tane gömlek ve 3 tane çorap toplam kaç TL'dir?",
+    "options": {
+      "A": "84",
+      "B": "76",
+      "C": "120",
+      "D": "262",
+      "E": "90"
+    },
+    "answer": "B",
+    "solution": "Denklemleri sağlayan pozitif tam sayı fiyatların tamamında sorulan toplam 76 TL çıkar (örnek çözüm: 1 tişört 11 TL, 1 gömlek 6 TL, 1 çorap 14 TL).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: fiyat ve denge denklemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-036",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n5, 10, 16, 32, 38, ?",
+    "options": {
+      "A": "79",
+      "B": "76",
+      "C": "78",
+      "D": "86",
+      "E": "77"
+    },
+    "answer": "B",
+    "solution": "İşlemler sırayla uygulanır: önce 2 ile çarp, sonra 6 ekle, yine 2 ile çarp… (ilk terim 5). Buna göre “?” yerine 76 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-037",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n4, 3, 16, 26, 75, ?",
+    "options": {
+      "A": "164",
+      "B": "85",
+      "C": "154",
+      "D": "155",
+      "E": "156"
+    },
+    "answer": "C",
+    "solution": "Her terim önceki iki terimden elde edilir: tₙ = tₙ₋₁ + 3·tₙ₋₂ + 1 (ilk iki terim 4 ve 3). Buna göre “?” yerine 154 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-038",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "A, R, D ve G, birbirinden farklı dört pozitif tam sayıdır. Bu sayılarla ilgili şunlar bilinmektedir:\n\nG, en küçüktür.\nA, R ile G arasındadır.\nD, R ile G arasındadır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "R, A'dan büyüktür.",
+      "B": "A, R ile D arasındadır.",
+      "C": "D, A'dan büyüktür.",
+      "D": "D, G ile A arasındadır.",
+      "E": "A, D'den büyüktür."
+    },
+    "answer": "A",
+    "solution": "“R, A'dan büyüktür.” yargısı, şu bilgilerle birlikte zorunlu olarak çıkar: G, en küçüktür; A, R ile G arasındadır. Öteki yargılar bir durumda doğru, başka bir durumda yanlış olabilir. Olası sıralar (büyükten küçüğe): R – D – A – G | R – A – D – G.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-039",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Berk, Ali, Cem, Umut ve Deniz adlı beş kardeşin yaşları birbirinden farklıdır. Yaşlarla ilgili şunlar bilinmektedir:\n\nBerk, Cem'den büyüktür.\nBerk, yaşça Deniz ile Umut arasındadır.\nDeniz, Ali'den büyüktür.\nCem, yaşça Berk ile Umut arasındadır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Berk, yaşça Cem ile Ali arasındadır.",
+      "B": "Berk, yaşça Ali ile Umut arasındadır.",
+      "C": "Ali, en küçüktür.",
+      "D": "Umut, Ali'den büyüktür.",
+      "E": "Berk, Deniz'den büyüktür."
+    },
+    "answer": "E",
+    "solution": "“Berk, Deniz'den büyüktür.” yargısı, şu bilgilerle birlikte gerçekleşemez: Berk, Cem'den büyüktür; Berk, yaşça Deniz ile Umut arasındadır; Cem, yaşça Berk ile Umut arasındadır. Öteki yargılar bir durumda doğru, başka bir durumda yanlış olabilir. Olası sıralar (büyükten küçüğe): Deniz – Berk – Cem – Ali – Umut | Deniz – Berk – Cem – Umut – Ali | Deniz – Berk – Ali – Cem – Umut | Deniz – Ali – Berk – Cem – Umut.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-040",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "V, L, R, E ve M, birbirinden farklı beş pozitif tam sayıdır. Bu sayılarla ilgili şunlar bilinmektedir:\n\nV, E ile M arasındadır.\nM, R'den büyüktür.\nV, L ile R arasındadır.\nV, E ile R arasındadır.\n\nBuna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "M, E'den büyüktür.",
+      "B": "R, V ile M arasındadır.",
+      "C": "V, L ile M arasındadır.",
+      "D": "E, M'den büyüktür.",
+      "E": "L, R'den büyüktür."
+    },
+    "answer": "C",
+    "solution": "“V, L ile M arasındadır.” yargısı, şu bilgilerle birlikte zorunlu olarak çıkar: V, L ile R arasındadır; V, E ile R arasındadır; V, E ile M arasındadır. Öteki yargılar bir durumda doğru, başka bir durumda yanlış olabilir. Olası sıralar (büyükten küçüğe): L – E – V – M – R | E – L – V – M – R | M – R – V – L – E | M – R – V – E – L.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-041",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "0, 1, 2, 3, 4 ve 5 rakamları kullanılarak, rakamları birbirinden farklı kaç tane üç basamaklı 5'e tam bölünen sayı yazılabilir?",
+    "options": {
+      "A": "33",
+      "B": "35",
+      "C": "36",
+      "D": "34",
+      "E": "40"
+    },
+    "answer": "C",
+    "solution": "Son rakam 5'e tam bölünen olacak biçimde seçilir; baş rakam 0 olamaz (sıfır varsa ayrıca elenir). Tüm uygun dizilimler sayılınca 36 sayı bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-042",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n1, 0, -1, -2, -3, ?",
+    "options": {
+      "A": "6",
+      "B": "-6",
+      "C": "2",
+      "D": "-3",
+      "E": "-4"
+    },
+    "answer": "E",
+    "solution": "Ardışık terimler arasındaki fark sabittir (-1); kural: tₙ = 1 − 1·(n − 1). Buna göre “?” yerine -4 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-043",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki tabloda her satırdaki sayılar aynı kurala göre yazılmıştır.\n\n1. satır: 6, 2 → 14\n2. satır: 7, 5 → 19\n3. satır: 3, 6 → 12\n4. satır: 2, 6 → ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "12",
+      "B": "8",
+      "C": "18",
+      "D": "10",
+      "E": "9"
+    },
+    "answer": "D",
+    "solution": "Satırlardaki kural: ilk sayının iki katı ile ikinci sayının toplamı. Son satıra uygulanınca 10 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-044",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki tabloda her satırdaki sayılar aynı kurala göre yazılmıştır.\n\n1. satır: 3, 3 → 8\n2. satır: 6, 3 → 17\n3. satır: 8, 3 → 23\n4. satır: 3, 1 → ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "0",
+      "B": "2",
+      "C": "6",
+      "D": "7",
+      "E": "1"
+    },
+    "answer": "B",
+    "solution": "Satırlardaki kural: çarpımın bir eksiği. Son satıra uygulanınca 2 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-045",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "6 erkek ve 3 kadın arasından, en az 2 kadının bulunduğu beş kişilik bir komite kaç farklı biçimde seçilebilir?",
+    "options": {
+      "A": "74",
+      "B": "75",
+      "C": "60",
+      "D": "73",
+      "E": "72"
+    },
+    "answer": "B",
+    "solution": "En az 2 kadın şartı için kadın sayısına göre durumlar toplanır; sayım sonucu 75 farklı komitedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-046",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Bir markette fiyatlarla ilgili şunlar bilinmektedir:\n\n1 tane bilet ve 3 tane dondurma toplam 24 TL'dir.\n3 tane bilet ve 3 tane dondurma toplam 36 TL'dir.\n\nBuna göre, 3 tane bilet ve 1 tane dondurma toplam kaç TL'dir?",
+    "options": {
+      "A": "12",
+      "B": "18",
+      "C": "24",
+      "D": "27",
+      "E": "30"
+    },
+    "answer": "C",
+    "solution": "Denklemleri sağlayan pozitif tam sayı fiyatların tamamında sorulan toplam 24 TL çıkar (örnek çözüm: 1 bilet 6 TL, 1 dondurma 6 TL).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: fiyat ve denge denklemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-047",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Bir şehrin sokakları kare biçimli bloklar oluşturmaktadır. Ali evinden doğuya dört, kuzeye üç blok uzaktaki okula yalnızca doğuya ve kuzeye giderek en kısa yoldan gidecektir. Evinden doğuya iki, kuzeye iki blok uzaktaki kavşak kapalı olduğuna göre, Ali okula kaç farklı yoldan gidebilir?",
+    "options": {
+      "A": "29",
+      "B": "16",
+      "C": "35",
+      "D": "15",
+      "E": "17"
+    },
+    "answer": "E",
+    "solution": "Kapalı kavşak olmasaydı C(7,4) = 35 yol olurdu; kapalı kavşaktan geçen yollar 6·3 tanedir → 17.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-048",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "V, M, L, E ve C, birbirinden farklı beş pozitif tam sayıdır. Bu sayılarla ilgili şunlar bilinmektedir:\n\nL, V ile C arasındadır.\nM, E ile C arasındadır.\nV, E ile M arasındadır.\nC, en küçüktür.\n\nBuna göre,\n\nI. E, L'den büyüktür.\n\nII. E, en büyüktür.\n\nIII. L, E ile C arasındadır.\n\nyargılarından hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "E",
+    "solution": "Verilen bilgilere uyan bütün durumlarda doğru olan yargılar: I ve II ve III (“E, L'den büyüktür. / E, en büyüktür. / L, E ile C arasındadır.”). Öteki yargılar bir durumda yanlış olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-049",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Bir markette fiyatlarla ilgili şunlar bilinmektedir:\n\n4 tane elma, 2 tane armut ve 3 tane muz toplam 67 TL'dir.\n1 tane elma, 3 tane armut ve 3 tane muz toplam 40 TL'dir.\n\nBuna göre, 5 tane elma, 5 tane armut ve 6 tane muz toplam kaç TL'dir?",
+    "options": {
+      "A": "117",
+      "B": "108",
+      "C": "110",
+      "D": "107",
+      "E": "109"
+    },
+    "answer": "D",
+    "solution": "Denklemleri sağlayan pozitif tam sayı fiyatların tamamında sorulan toplam 107 TL çıkar (örnek çözüm: 1 elma 10 TL, 1 armut 3 TL, 1 muz 7 TL).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: fiyat ve denge denklemleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-050",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n2, 6, 18, 54, 162, ?",
+    "options": {
+      "A": "216",
+      "B": "486",
+      "C": "488",
+      "D": "485",
+      "E": "198"
+    },
+    "answer": "B",
+    "solution": "Her terim bir öncekinin 3 katıdır (ilk terim 2). Buna göre “?” yerine 486 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-051",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n4, 7, ?, 13, 16, 19",
+    "options": {
+      "A": "14",
+      "B": "8",
+      "C": "10",
+      "D": "0",
+      "E": "11"
+    },
+    "answer": "C",
+    "solution": "Ardışık terimler arasındaki fark sabittir (+3); kural: tₙ = 4 + 3·(n − 1). Buna göre “?” yerine 10 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-052",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekillerin her birinde, köşelerdeki üç sayıdan ortadaki sayı aynı kurala göre elde edilmiştir.\n\n1. şekil: köşeler 1, 5, 4 → ortadaki sayı 10\n2. şekil: köşeler 6, 7, 1 → ortadaki sayı 14\n3. şekil: köşeler 2, 7, 6 → ortadaki sayı 15\n4. şekil: köşeler 6, 2, 5 → ortadaki sayı ?\n\nBuna göre “?” yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "13",
+      "B": "42",
+      "C": "32",
+      "D": "15",
+      "E": "17"
+    },
+    "answer": "A",
+    "solution": "Satırlardaki kural: üç sayının toplamı. Son satıra uygulanınca 13 bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı/şekil tablosu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-053",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Biri kırmızı, diğeri mavi iki zar birlikte atılıyor. Üst yüzlere gelen sayılar bakımından çarpımı çift sayı olan kaç farklı sonuç vardır?",
+    "options": {
+      "A": "28",
+      "B": "17",
+      "C": "33",
+      "D": "27",
+      "E": "9"
+    },
+    "answer": "D",
+    "solution": "Kırmızı ve mavi zar ayırt edilebildiğinden 36 sonucun hepsi tek tek incelenir; koşulu sağlayan 27 sonuç vardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-054",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Mert, İrem, Hakan ve Pelin adlı dört kişiden her biri ya her zaman doğruyu söyler ya da her zaman yalan söyler. Kişiler şöyle konuşmuştur:\n\nMert: “Pelin yalan söylüyor.”\nİrem: “Mert doğru söylüyor.”\nHakan: “Pelin ile Mert yalan söylüyor.”\nPelin: “Hakan doğru söylüyor.”\n\nBuna göre, bu kişilerden kaç tanesi doğru söylemektedir?",
+    "options": {
+      "A": "3",
+      "B": "0",
+      "C": "2",
+      "D": "4",
+      "E": "1"
+    },
+    "answer": "C",
+    "solution": "Doğru söyleyen/yalancı atamalarının hepsi denendiğinde yalnız tek tutarlı durum çıkar (Mert doğru söyler, İrem doğru söyler, Hakan yalan söyler, Pelin yalan söyler); doğru söyleyen sayısı 2.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: doğru-yalan söyleyen"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-055",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n11, 4, 10, 1, 9, ?",
+    "options": {
+      "A": "34",
+      "B": "-4",
+      "C": "17",
+      "D": "-2",
+      "E": "-12"
+    },
+    "answer": "D",
+    "solution": "Dizi iç içe iki dizidir: tek sıradaki terimler her adımda 1 azalır, çift sıradaki terimler her adımda 3 azalır (ilk terimler 11 ve 4). Buna göre “?” yerine -2 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-056",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Bir kişinin 6 tişörtü, 5 pantolonu ve 4 ayakkabısı vardır. İlk tişört, ilk iki pantolonla giyilmemektedir. Bu kişi bir tişört, bir pantolon ve bir ayakkabıyı kaç farklı biçimde seçerek giyinebilir?",
+    "options": {
+      "A": "13",
+      "B": "108",
+      "C": "112",
+      "D": "110",
+      "E": "111"
+    },
+    "answer": "C",
+    "solution": "Tüm seçimler 6·5·4 = 120; yasaklı tişört-pantolon çiftleri 2·4 = 8 seçimi eler → 112.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: kombinatorik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-057",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı dizisinde “?” yerine hangi sayı gelmelidir?\n\n9, 18, 31, 48, 69, ?",
+    "options": {
+      "A": "92",
+      "B": "70",
+      "C": "90",
+      "D": "84",
+      "E": "94"
+    },
+    "answer": "E",
+    "solution": "Ardışık farklar düzenli biçimde değişir (ikinci fark sabit 4); kural: tₙ = 2n² + 3n + 4. Buna göre “?” yerine 94 gelir. (Verilen terimlere uyan bütün basit kurallar aynı sonucu verir.)",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: sayı dizisi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-058",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Z, E, G, L ve N, birbirinden farklı beş pozitif tam sayıdır. Bu sayılarla ilgili şunlar bilinmektedir:\n\nN, L ile Z arasındadır.\nN, G'den büyüktür.\nZ, en büyüktür.\nL, N ile E arasındadır.\n\nBu bilgilere göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": {
+      "A": "L, G'den büyüktür.",
+      "B": "E, L ile G arasındadır.",
+      "C": "G, L ile Z arasındadır.",
+      "D": "L, E'den büyüktür.",
+      "E": "E, N ile G arasındadır."
+    },
+    "answer": "D",
+    "solution": "“L, E'den büyüktür.” yargısı, şu bilgilerle birlikte zorunlu olarak çıkar: L, N ile E arasındadır; N, L ile Z arasındadır; Z, en büyüktür. Öteki yargılar bir durumda doğru, başka bir durumda yanlış olabilir. Olası sıralar (büyükten küçüğe): Z – N – L – G – E | Z – N – L – E – G | Z – N – G – L – E.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-059",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Derya, Cem, Fatma, Kaan ve İrem adlı beş kardeşin yaşları birbirinden farklıdır. Yaşlarla ilgili şunlar bilinmektedir:\n\nFatma, yaşça İrem ile Cem arasındadır.\nCem, Fatma'dan büyüktür.\nDerya, en küçük değildir.\nFatma, Kaan'dan büyüktür.\n\nBuna göre,\n\nI. Kaan, Derya'dan büyüktür.\n\nII. Cem, İrem'den büyüktür.\n\nIII. İrem, en küçük değildir.\n\nyargılarından hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Verilen bilgilere uyan bütün durumlarda doğru olan yargılar: II (“Cem, İrem'den büyüktür.”). Öteki yargılar bir durumda yanlış olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: büyüklük sıralaması"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-060",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Pelin, Derya, Deniz, Ali ve Kaan adlı beş kişiden her biri ya her zaman doğruyu söyler ya da her zaman yalan söyler. Kişiler şöyle konuşmuştur:\n\nPelin: “Aramızda tam olarak 1 kişi yalan söylüyor.”\nDerya: “Aramızda tam olarak 2 kişi yalan söylüyor.”\nDeniz: “Derya yalan söylüyor.”\nAli: “Kaan ile Pelin'den yalnızca biri yalan söylüyor.”\nKaan: “Pelin doğru söylüyor.”\n\nBuna göre, bu kişilerden hangisi doğru söylemektedir?",
+    "options": {
+      "A": "Kaan",
+      "B": "Derya",
+      "C": "Ali",
+      "D": "Pelin",
+      "E": "Deniz"
+    },
+    "answer": "E",
+    "solution": "Doğru söyleyen/yalancı atamalarının hepsi denendiğinde yalnız tek tutarlı durum çıkar (Pelin yalan söyler, Derya yalan söyler, Deniz doğru söyler, Ali yalan söyler, Kaan yalan söyler); doğru söyleyen sayısı 1.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: doğru-yalan söyleyen"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-say-man-061",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekil 3 satır ve 4 sütundan oluşan eş karelerden yapılmıştır. Şekilde tüm boyutlardaki toplam kaç kare vardır?",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "22",
+      "D": "25",
+      "E": "60"
+    },
+    "answer": "A",
+    "solution": "3×4 ızgarada k×k kare sayısı (m−k+1)(n−k+1): 12 + 6 + 2 = 20.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-001"
+  },
+  {
+    "id": "ags-say-man-062",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekil 3 satır ve 5 sütundan oluşan eş karelerden yapılmıştır. Şekilde kenarları ızgara çizgileri üzerinde olan tüm dikdörtgenlerin (kareler dahil) sayısı kaçtır?",
+    "options": {
+      "A": "70",
+      "B": "24",
+      "C": "90",
+      "D": "28",
+      "E": "100"
+    },
+    "answer": "C",
+    "solution": "Yatayda 6 çizgiden 2 tanesi, düşeyde 4 çizgiden 2 tanesi seçilir: C(6,2)·C(4,2) = 15·6 = 90.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-002"
+  },
+  {
+    "id": "ags-say-man-063",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde her dairenin dört yanındaki sayılarla ortasındaki sayı arasında aynı kural vardır. Üçüncü dairenin üst, sağ, alt ve sol sayıları sırasıyla 9, 7, 9 ve 8 olduğuna göre ortasına gelmesi gereken sayı kaçtır?",
+    "options": {
+      "A": "16",
+      "B": "33",
+      "C": "18",
+      "D": "23",
+      "E": "28"
+    },
+    "answer": "B",
+    "solution": "Kural: dört sayının toplamı. İlk iki dairede doğrulanır (18 ve 29); üçüncüde üst=9, sağ=7, alt=9, sol=8 → 33.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-003"
+  },
+  {
+    "id": "ags-say-man-064",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde tepe noktasından tabana 5 doğru parçası çizilmiş ve tabana paralel 3 doğru parçası bulunmaktadır (taban dahil). Şekilde kaç üçgen vardır?",
+    "options": {
+      "A": "35",
+      "B": "45",
+      "C": "31",
+      "D": "40",
+      "E": "30"
+    },
+    "answer": "E",
+    "solution": "Üçgen, iki ışın ve bir yatay doğru parçasıyla oluşur: C(5,2)·3 = 10·3 = 30.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-004"
+  },
+  {
+    "id": "ags-say-man-065",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde 5×5 noktalı bir ağın 3 çizgisi silinmiştir. Bir kişi A noktasından B noktasına yalnızca sağa veya yukarı doğru, çizgiler üzerinden gidecektir. Kaç farklı yol vardır?",
+    "options": {
+      "A": "43",
+      "B": "40",
+      "C": "38",
+      "D": "53",
+      "E": "70"
+    },
+    "answer": "C",
+    "solution": "Her kavşağa varış yolu sayısı, soldaki ve alttaki kavşakların toplamıdır (silinmiş çizgiler katkı vermez). B'ye varan yol sayısı 38; engeller olmasa 70 olurdu.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-005"
+  },
+  {
+    "id": "ags-say-man-066",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı piramidinde her kutudaki sayı, hemen altındaki iki kutudaki sayının toplamına eşittir. Yukarıdan 3. sıradaki, soldan 2. kutuda yer alan soru işareti yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "8",
+      "D": "6",
+      "E": "5"
+    },
+    "answer": "A",
+    "solution": "Alt sıra [7, 3, 6, 2] bulunur; ardından sorulan kutu 9 çıkar (üst kutular altındaki ikisinin toplamıdır).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-006"
+  },
+  {
+    "id": "ags-say-man-067",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekil 4 satır ve 4 sütundan oluşan eş karelerden yapılmıştır. Şekilde kenarları ızgara çizgileri üzerinde olan tüm dikdörtgenlerin (kareler dahil) sayısı kaçtır?",
+    "options": {
+      "A": "110",
+      "B": "120",
+      "C": "130",
+      "D": "100",
+      "E": "101"
+    },
+    "answer": "D",
+    "solution": "Yatayda 5 çizgiden 2 tanesi, düşeyde 5 çizgiden 2 tanesi seçilir: C(5,2)·C(5,2) = 10·10 = 100.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-007"
+  },
+  {
+    "id": "ags-say-man-068",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde her dairenin dört yanındaki sayılarla ortasındaki sayı arasında aynı kural vardır. Üçüncü dairenin üst, sağ, alt ve sol sayıları sırasıyla 5, 7, 1 ve 6 olduğuna göre ortasına gelmesi gereken sayı kaçtır?",
+    "options": {
+      "A": "41",
+      "B": "47",
+      "C": "78",
+      "D": "19",
+      "E": "51"
+    },
+    "answer": "A",
+    "solution": "Kural: üst·sağ + alt·sol. İlk iki dairede doğrulanır (42 ve 60); üçüncüde üst=5, sağ=7, alt=1, sol=6 → 41.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-008"
+  },
+  {
+    "id": "ags-say-man-069",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde 3×5 noktalı bir ağın 2 çizgisi silinmiştir. Bir kişi A noktasından B noktasına yalnızca sağa veya yukarı doğru, çizgiler üzerinden gidecektir. Kaç farklı yol vardır?",
+    "options": {
+      "A": "10",
+      "B": "8",
+      "C": "6",
+      "D": "7",
+      "E": "9"
+    },
+    "answer": "E",
+    "solution": "Her kavşağa varış yolu sayısı, soldaki ve alttaki kavşakların toplamıdır (silinmiş çizgiler katkı vermez). B'ye varan yol sayısı 9; engeller olmasa 15 olurdu.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-009"
+  },
+  {
+    "id": "ags-say-man-070",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı piramidinde her kutudaki sayı, hemen altındaki iki kutudaki sayının toplamına eşittir. Yukarıdan 3. sıradaki, soldan 1. kutuda yer alan soru işareti yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "9"
+    },
+    "answer": "C",
+    "solution": "Alt sıra [1, 9, 8, 8] bulunur; ardından sorulan kutu 10 çıkar (üst kutular altındaki ikisinin toplamıdır).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-010"
+  },
+  {
+    "id": "ags-say-man-071",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekil 3 satır ve 5 sütundan oluşan eş karelerden yapılmıştır. Şekilde tüm boyutlardaki toplam kaç kare vardır?",
+    "options": {
+      "A": "25",
+      "B": "90",
+      "C": "6",
+      "D": "26",
+      "E": "36"
+    },
+    "answer": "D",
+    "solution": "3×5 ızgarada k×k kare sayısı (m−k+1)(n−k+1): 15 + 8 + 3 = 26.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-011"
+  },
+  {
+    "id": "ags-say-man-072",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde tepe noktasından tabana 4 doğru parçası çizilmiş ve tabana paralel 1 doğru parçası bulunmaktadır (taban dahil). Şekilde kaç üçgen vardır?",
+    "options": {
+      "A": "6",
+      "B": "3",
+      "C": "2",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "solution": "Üçgen, iki ışın ve bir yatay doğru parçasıyla oluşur: C(4,2)·1 = 6·1 = 6.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-012"
+  },
+  {
+    "id": "ags-say-man-073",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde her dairenin dört yanındaki sayılarla ortasındaki sayı arasında aynı kural vardır. Üçüncü dairenin üst, sağ, alt ve sol sayıları sırasıyla 2, 4, 3 ve 6 olduğuna göre ortasına gelmesi gereken sayı kaçtır?",
+    "options": {
+      "A": "30",
+      "B": "50",
+      "C": "15",
+      "D": "20",
+      "E": "40"
+    },
+    "answer": "A",
+    "solution": "Kural: üst·alt + sağ·sol. İlk iki dairede doğrulanır (51 ve 10); üçüncüde üst=2, sağ=4, alt=3, sol=6 → 30.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-013"
+  },
+  {
+    "id": "ags-say-man-074",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde 4×5 noktalı bir ağın 3 çizgisi silinmiştir. Bir kişi A noktasından B noktasına yalnızca sağa veya yukarı doğru, çizgiler üzerinden gidecektir. Kaç farklı yol vardır?",
+    "options": {
+      "A": "14",
+      "B": "7",
+      "C": "17",
+      "D": "12",
+      "E": "35"
+    },
+    "answer": "D",
+    "solution": "Her kavşağa varış yolu sayısı, soldaki ve alttaki kavşakların toplamıdır (silinmiş çizgiler katkı vermez). B'ye varan yol sayısı 12; engeller olmasa 35 olurdu.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-014"
+  },
+  {
+    "id": "ags-say-man-075",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki sayı piramidinde her kutudaki sayı, hemen altındaki iki kutudaki sayının toplamına eşittir. Yukarıdan 4. sıradaki, soldan 2. kutuda yer alan soru işareti yerine hangi sayı gelmelidir?",
+    "options": {
+      "A": "2",
+      "B": "31",
+      "C": "5",
+      "D": "6",
+      "E": "3"
+    },
+    "answer": "E",
+    "solution": "Alt sıra [5, 3, 5, 5] bulunur; ardından sorulan kutu 3 çıkar (üst kutular altındaki ikisinin toplamıdır).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-015"
+  },
+  {
+    "id": "ags-say-man-076",
+    "ders": "sayisal_yetenek",
+    "konu": "mantiksal_muhakeme",
+    "stem": "Aşağıdaki şekilde her dairenin dört yanındaki sayılarla ortasındaki sayı arasında aynı kural vardır. Üçüncü dairenin üst, sağ, alt ve sol sayıları sırasıyla 3, 8, 1 ve 5 olduğuna göre ortasına gelmesi gereken sayı kaçtır?",
+    "options": {
+      "A": "17",
+      "B": "57",
+      "C": "27",
+      "D": "52",
+      "E": "62"
+    },
+    "answer": "D",
+    "solution": "Kural: (üst+alt)·(sağ+sol). İlk iki dairede doğrulanır (65 ve 21); üçüncüde üst=3, sağ=8, alt=1, sol=5 → 52.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mantıksal muhakeme: şekil/ızgara/ağ (görselli)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null,
+    "stimulusId": "ags-say-man-fig-016"
+  }
+]

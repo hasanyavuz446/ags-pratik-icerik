@@ -1,0 +1,2486 @@
+[
+  {
+    "id": "ags-mev-anayasa-001",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın Başlangıç bölümüne göre kuvvetler ayrımı nasıl bir anlam taşır?",
+    "options": {
+      "A": "Yürütme ile yargı arasında sert bir ayrılığı öngören, organlar arası işbirliğini engelleyen ve her organı kendi alanında kapalı tutan bir sistemdir",
+      "B": "Yasama organının diğer organlar üzerindeki üstünlüğünü güvenceye alan ve yetkileri kademeli biçimde sıralayan hiyerarşik bir düzendir",
+      "C": "Millet iradesini temsil eden organa öncelik tanıyan, diğer organları ona bağlayan ve yetkileri bu sıraya göre dağıtan bir sıralamadır",
+      "D": "Devlet yetkilerinin tek organda toplanmasını önleyen, ancak organlar arası eşgüdümü ve işbirliğini dışlayan, yalnızca kontrol amaçlı bir ilkedir",
+      "E": "Devlet organları arasında üstünlük sıralaması değil, belli yetki ve görevlerin kullanılmasından ibaret medenî bir işbölümü ve işbirliğidir"
+    },
+    "answer": "E",
+    "solution": "Başlangıç, kuvvetler ayrımının Devlet organları arasında üstünlük sıralaması anlamına gelmediğini; belli Devlet yetki ve görevlerinin kullanılmasından ibaret ve bununla sınırlı medenî bir işbölümü ve işbirliği olduğunu, üstünlüğün ancak Anayasa ve kanunlarda bulunduğunu belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası Başlangıç (3. paragraf)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-002",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın Başlangıç bölümüne göre laiklik ilkesinin gereği olarak kutsal din duyguları nelere karıştırılamaz?",
+    "options": {
+      "A": "Basın ve yayın faaliyetlerine ve dernek kuruluşlarına",
+      "B": "Eğitim ve öğretim faaliyetlerine ve ticarete",
+      "C": "Yargı yetkisinin kullanılmasına ve seçimlere",
+      "D": "Devlet işlerine ve politikaya",
+      "E": "Kamu hizmetlerine ve sosyal güvenliğe"
+    },
+    "answer": "D",
+    "solution": "Başlangıç, laiklik ilkesinin gereği olarak kutsal din duygularının Devlet işlerine ve politikaya karıştırılamayacağını belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası Başlangıç (5. paragraf)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-003",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Aşağıdakilerden hangisi Anayasanın 2. maddesinde Türkiye Cumhuriyetinin niteliklerinden biri olarak sayılmıştır?",
+    "options": {
+      "A": "İnsan haklarına saygılı olması",
+      "B": "Federal bir yapıya sahip olması",
+      "C": "Planlı kalkınmayı esas alması",
+      "D": "Dinî değerleri hukuk düzeninin temeli kabul etmesi",
+      "E": "Çok kültürlü bir yapıya dayanması"
+    },
+    "answer": "A",
+    "solution": "Madde 2'ye göre Türkiye Cumhuriyeti, toplumun huzuru, millî dayanışma ve adalet anlayışı içinde, insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan, demokratik, laik ve sosyal bir hukuk Devletidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-004",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 4. maddesine göre değiştirilmesi teklif dahi edilemeyen hükümler aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "2 nci maddedeki Cumhuriyetin nitelikleri, 3 üncü madde ve 5 inci maddedeki Devletin temel amaç ve görevleri",
+      "B": "Başlangıç bölümü ile 1 inci ve 2 nci maddelerde yer alan Devletin şekli ve nitelikleri hakkındaki hükümler, 3 üncü madde hariç",
+      "C": "1 inci madde, 3 üncü madde ve 6 ncı maddedeki egemenlik hükmü ile 7 nci maddedeki yasama yetkisi",
+      "D": "1 inci maddedeki Devletin şekli ile 2 nci maddedeki Cumhuriyetin nitelikleri ve 4 üncü madde",
+      "E": "1 inci maddedeki Devletin şeklinin Cumhuriyet olduğu hükmü, 2 nci maddedeki Cumhuriyetin nitelikleri ve 3 üncü madde"
+    },
+    "answer": "E",
+    "solution": "Madde 4'e göre 1. maddedeki Devletin şeklinin Cumhuriyet olduğu hakkındaki hüküm ile 2. maddedeki Cumhuriyetin nitelikleri ve 3. madde hükümleri değiştirilemez ve değiştirilmesi teklif edilemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-005",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 5. maddesine göre Devletin temel amaç ve görevlerinden biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kişinin temel hak ve hürriyetlerini sosyal hukuk devleti ve adalet ilkeleriyle bağdaşmayacak biçimde sınırlayan engelleri kaldırmaya çalışmak",
+      "B": "Kişilerin refahını, toplumun refahından ayrı ve öncelikli olarak gözetmek, devlet müdahalesini asgariye indirmek",
+      "C": "Temel hak ve hürriyetleri, Devletin güvenliği gerektirdiğinde sınırsız biçimde daraltmak",
+      "D": "Ekonomik büyümeyi, sosyal engellerin kaldırılmasından önce gelen ve diğer görevlerin üstünde bir hedef saymak",
+      "E": "Cumhuriyeti ve demokrasiyi korumayı, kişi hak ve hürriyetlerinin geliştirilmesine bağlamak"
+    },
+    "answer": "A",
+    "solution": "Madde 5'e göre Devletin temel amaç ve görevleri arasında kişinin temel hak ve hürriyetlerini, sosyal hukuk devleti ve adalet ilkeleriyle bağdaşmayacak surette sınırlayan siyasal, ekonomik ve sosyal engelleri kaldırmaya ve insanın maddi ve manevi varlığının gelişmesi için gerekli şartları hazırlamaya çalışmak da yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 5"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-006",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 6. maddesine göre egemenlikle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Türk Milleti, egemenliğini yetkili organlar eliyle değil, doğrudan halkoylamasıyla kullanır",
+      "B": "Egemenliğin kullanılması, belirli koşullarda bir zümreye veya sınıfa devredilebilir",
+      "C": "Kaynağını Anayasadan almayan bir Devlet yetkisi kullanılamaz",
+      "D": "Yetkili organlar, Anayasanın dışında kalan kaynaklardan da Devlet yetkisi alabilir",
+      "E": "Egemenlik Milletindir; ancak kullanılması Cumhurbaşkanına ve Meclise birlikte bırakılmıştır"
+    },
+    "answer": "C",
+    "solution": "Madde 6'ya göre egemenlik kayıtsız şartsız Milletindir; Millet egemenliğini Anayasanın koyduğu esaslara göre yetkili organlar eliyle kullanır. Egemenliğin kullanılması hiçbir kişiye, zümreye veya sınıfa bırakılamaz; kaynağını Anayasadan almayan bir Devlet yetkisi kullanılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 6"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-007",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 9. maddesine göre yargı yetkisi kim adına, hangi mahkemelerce kullanılır?",
+    "options": {
+      "A": "Adalet Bakanlığının gözetiminde bağımsız mahkemelerce",
+      "B": "Türkiye Büyük Millet Meclisi adına bağımsız mahkemelerce",
+      "C": "Türk Milleti adına bağımsız ve tarafsız mahkemelerce",
+      "D": "Cumhurbaşkanı adına bağımsız ve tarafsız mahkemelerce",
+      "E": "Türk Milleti adına Anayasa Mahkemesi ve Yargıtayca"
+    },
+    "answer": "C",
+    "solution": "Madde 9'a göre yargı yetkisi Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır. “Ve tarafsız” ibaresi 6771 sayılı Kanunla eklenmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 9"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-008",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Devlet, harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gazilere yönelik özel destek tedbirleri uygulamaktadır. Bu tedbirler Anayasanın 10. maddesindeki kanun önünde eşitlik ilkesi bakımından nasıl değerlendirilir?",
+    "options": {
+      "A": "Eşitlik ilkesine aykırı sayılmaz",
+      "B": "Eşitlik ilkesine uygundur, ancak süresi iki yılı aşamaz",
+      "C": "Ancak Anayasa değişikliğiyle eşitlik ilkesinin istisnası hâline getirilebilir",
+      "D": "Belirli gruplara imtiyaz tanıdığı için eşitlik ilkesine aykırıdır",
+      "E": "Eşitlik ilkesine aykırı olmakla birlikte Anayasa Mahkemesinin onayıyla uygulanabilir"
+    },
+    "answer": "A",
+    "solution": "Madde 10'a (5982 sayılı Kanunla eklenen fıkra) göre çocuklar, yaşlılar, özürlüler, harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gaziler için alınacak tedbirler eşitlik ilkesine aykırı sayılmaz. Kadın-erkek eşitliğini gerçekleştirmek için alınacak tedbirler de eşitlik ilkesine aykırı yorumlanamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 10/4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-009",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 12. maddesine göre herkesin sahip olduğu temel hak ve hürriyetler hangi niteliktedir?",
+    "options": {
+      "A": "Kişiliğe bağlı, kanunla düzenlenen ve Devletçe verilen",
+      "B": "Kişiliğe bağlı, dokunulmaz, devredilebilir ve vazgeçilebilir",
+      "C": "Kişiliğe bağlı, dokunulmaz, devredilmez ve vazgeçilmez",
+      "D": "Vatandaşlığa bağlı, devredilmez ve olağanüstü hallerde askıya alınabilir",
+      "E": "Doğuştan kazanılan, devredilmez ve kanunla sınırlanamaz"
+    },
+    "answer": "C",
+    "solution": "Madde 12'ye göre herkes kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir; bunlar kişinin topluma, ailesine ve diğer kişilere karşı ödev ve sorumluluklarını da ihtiva eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 12"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-010",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 13. maddesine göre temel hak ve hürriyetler nasıl sınırlanabilir?",
+    "options": {
+      "A": "Anayasanın sözüne ve ruhuna uygun olmak kaydıyla, ilgili bakanlığın çıkaracağı yönetmelikle",
+      "B": "Özlerine dokunulmaksızın, Anayasada belirtilen sebeplerle ve Cumhurbaşkanlığı kararnamesiyle veya kanunla",
+      "C": "Kamu yararı gerektirdiğinde, Anayasada belirtilen sebep gösterilmeksizin ve kanunla",
+      "D": "Özlerine dokunulmaksızın, Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla",
+      "E": "Anayasada belirtilen sebeplere bağlı olarak, ölçülülük ilkesi aranmaksızın ve ancak kanunla"
+    },
+    "answer": "D",
+    "solution": "Madde 13'e (4709 sayılı Kanunla değişik) göre temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir; bu sınırlamalar Anayasanın sözüne ve ruhuna, demokratik toplum düzeninin ve lâik Cumhuriyetin gereklerine ve ölçülülük ilkesine aykırı olamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 13"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-011",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 14. maddesine göre Anayasada yer alan hak ve hürriyetler hangi amaçla kullanılamaz?",
+    "options": {
+      "A": "Kamu düzenini geçici olarak aksatacak veya yürütmenin işleyişini zorlaştıracak şekilde, hâkim kararı olmaksızın yapılan faaliyetler biçiminde",
+      "B": "Devletin ekonomik kaynaklarını ve kalkınma planı hedeflerini tehlikeye düşürecek şekilde",
+      "C": "Başka bir kişinin ticari menfaatini veya mesleki itibarını zedeleyecek şekilde",
+      "D": "Siyasi partilerin yönetimindeki kurumların çalışma düzenini bozacak biçimde",
+      "E": "Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı ve insan haklarına dayanan demokratik ve laik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde"
+    },
+    "answer": "E",
+    "solution": "Madde 14'e (4709 sayılı Kanunla değişik) göre Anayasadaki hak ve hürriyetlerden hiçbiri Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı ve insan haklarına dayanan demokratik ve lâik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde kullanılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 14/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-012",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Olağanüstü bir hâl ilan edilmiştir. Anayasanın 15. maddesine göre bu dönemde aşağıdakilerden hangisine dokunulamaz?",
+    "options": {
+      "A": "Seyahat hürriyetinin kullanılması, yerleşme hürriyetinin sınırlanması gibi tedbirler",
+      "B": "Kimsenin din, vicdan, düşünce ve kanaatlerini açıklamaya zorlanamaması ve bunlardan dolayı suçlanamaması",
+      "C": "Haberleşme hürriyetine ve haberleşmenin gizliliğine ilişkin güvenceler",
+      "D": "Toplantı ve gösteri yürüyüşü düzenleme hakkının ve dernek kurma hürriyetinin kullanılması",
+      "E": "Konut dokunulmazlığına ve aramaya ilişkin güvenceler"
+    },
+    "answer": "B",
+    "solution": "Madde 15'in ikinci fıkrasına göre savaş, seferberlik ve olağanüstü hallerde de savaş hukukuna uygun fiiller sonucu meydana gelen ölümler dışında yaşama hakkına, maddi ve manevi varlığın bütünlüğüne dokunulamaz; kimse din, vicdan, düşünce ve kanaatlerini açıklamaya zorlanamaz ve bunlardan dolayı suçlanamaz; suç ve cezalar geçmişe yürütülemez; suçluluğu mahkeme kararıyla saptanıncaya kadar kimse suçlu sayılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 15/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-013",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 17. maddesine göre kişinin vücut bütünlüğü ve maddi ve manevi varlığı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Bilimsel deneyler kamu yararı gerektirdiğinde kişinin rızası aranmaksızın ve yetkili kurul onayıyla yapılabilir",
+      "B": "Tıbbi zorunluluklar ve kanunda yazılı haller dışında kişinin vücut bütünlüğüne dokunulamaz",
+      "C": "Meşru müdafaa hâlinde meydana gelen öldürme fiilleri de birinci fıkradaki yaşama hakkının ihlali sayılır",
+      "D": "Vücut bütünlüğüne dokunulmasına ilişkin esaslar, tıbbi zorunluluk bulunmasa da yönetmelikle belirlenebilir",
+      "E": "İnsan haysiyetiyle bağdaşmayan ceza veya muamele, kanunda öngörülmesi ve hâkim kararı bulunması hâlinde uygulanabilir"
+    },
+    "answer": "B",
+    "solution": "Madde 17'ye göre tıbbi zorunluluklar ve kanunda yazılı haller dışında kişinin vücut bütünlüğüne dokunulamaz; rızası olmadan bilimsel ve tıbbi deneylere tabi tutulamaz. Kimseye işkence ve eziyet yapılamaz, kimse insan haysiyetiyle bağdaşmayan bir cezaya veya muameleye tabi tutulamaz. Meşru müdafaa gibi sayılan zorunlu durumlardaki öldürme fiilleri birinci fıkra hükmü dışındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 17"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-014",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Toplu olarak işlenen suçlar nedeniyle yakalanan bir kişi, Anayasanın 19. maddesine göre tutulma yerine en yakın mahkemeye gönderilmesi için gerekli süre hariç en çok kaç gün içinde hâkim önüne çıkarılır?",
+    "options": {
+      "A": "Üç gün",
+      "B": "Yirmi dört saat",
+      "C": "Dört gün",
+      "D": "Yedi gün",
+      "E": "Kırk sekiz saat"
+    },
+    "answer": "C",
+    "solution": "Madde 19'a (4709 sayılı Kanunla değişik) göre yakalanan veya tutuklanan kişi, tutulma yerine en yakın mahkemeye gönderilmesi için gerekli süre hariç en geç kırk sekiz saat ve toplu olarak işlenen suçlarda en çok dört gün içinde hâkim önüne çıkarılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 19/5"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-015",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Hâkim kararı olmadan yakalama Anayasanın 19. maddesine göre hangi durumlarda yapılabilir?",
+    "options": {
+      "A": "Savcılığın talebi ve ilgili idari makamın yazılı onayı bulunması hâlinde",
+      "B": "Ancak suçüstü hâlinde veya gecikmesinde sakınca bulunan hâllerde",
+      "C": "Suç işlendiği yönünde ciddi bir ihbar bulunması ve kolluk amirinin uygun görmesi hâlinde",
+      "D": "Kamu düzeninin korunması amacıyla, suç şüphesi bulunmasa da her türlü şüphe durumunda",
+      "E": "Kolluk amirinin yazılı emri bulunduğunda ve olay yerinin güvenliğinin sağlanması gerektiğinde"
+    },
+    "answer": "B",
+    "solution": "Madde 19'a göre hâkim kararı olmadan yakalama ancak suçüstü hâlinde veya gecikmesinde sakınca bulunan hâllerde yapılabilir; bunun şartlarını kanun gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 19/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-016",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Gecikmesinde sakınca bulunan hâllerde kanunla yetkili kılınmış merciin yazılı emriyle bir kişinin konutunda arama yapılmış ve eşyaya el konulmuştur. Anayasanın 21. maddesine göre bu işlem için hangi süreler öngörülmüştür?",
+    "options": {
+      "A": "Merciin kararı doğrudan uygulanır; yargı denetimine ancak olağan kanun yolları tüketildikten sonra ve iptal davası yoluyla sunulur",
+      "B": "Merciin kararı kırk sekiz saat içinde hâkimin onayına sunulur; hâkim kararını yirmi dört saat içinde açıklar, aksi hâlde el koyma kendiliğinden kalkar",
+      "C": "Merciin kararı yirmi dört saat içinde görevli hâkimin onayına sunulur; hâkim kararını el koymadan itibaren kırk sekiz saat içinde açıklar, aksi hâlde el koyma kendiliğinden kalkar",
+      "D": "Merciin kararı yirmi dört saat içinde cumhuriyet savcısının onayına sunulur; savcı kararını yirmi dört saat içinde açıklar",
+      "E": "Merciin kararı yedi gün içinde hâkimin onayına sunulur; hâkim kararını üç gün içinde açıklar, aksi hâlde işlem iptal edilir"
+    },
+    "answer": "C",
+    "solution": "Madde 21'e göre yetkili merciin kararı yirmi dört saat içinde görevli hâkimin onayına sunulur; hâkim kararını el koymadan itibaren kırk sekiz saat içinde açıklar, aksi hâlde el koyma kendiliğinden kalkar. Aynı süreler 20. ve 22. maddelerde de geçerlidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 21"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-017",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 20. maddesine göre kişisel veriler hangi hâllerde işlenebilir?",
+    "options": {
+      "A": "Kamu kurumlarınca yönetmelikle belirlenen hâllerde kişinin rızası aranmaksızın",
+      "B": "Ancak kanunda öngörülen hâllerde veya kişinin açık rızasıyla",
+      "C": "Veri sorumlusunun meşru menfaati bulunduğunda ve kişiye bildirim yapılmaksızın",
+      "D": "Yalnızca kişinin kuruma yaptığı yazılı başvuru üzerine",
+      "E": "Cumhurbaşkanlığı kararnamesinde öngörülen hâllerde veya kişinin zımni rızasıyla"
+    },
+    "answer": "B",
+    "solution": "Madde 20'nin (5982 sayılı Kanunla eklenen) fıkrasına göre herkes kişisel verilerinin korunmasını isteme hakkına sahiptir; kişisel veriler ancak kanunda öngörülen hâllerde veya kişinin açık rızasıyla işlenebilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 20/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-018",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 23. maddesine göre vatandaşın yurt dışına çıkma hürriyeti hangi şartla sınırlanabilir?",
+    "options": {
+      "A": "Ancak suç soruşturması veya kovuşturması sebebiyle hâkim kararına bağlı olarak",
+      "B": "Kamu düzeni gerektirdiğinde ve soruşturma bulunmasa da idarenin takdirine bağlı olarak",
+      "C": "Ulusal güvenlik gerekçesiyle ve ilgili bakanlığın önerisi üzerine Cumhurbaşkanlığı kararnamesiyle",
+      "D": "Seyahat hürriyetine ilişkin kanunda öngörülen gerekçelerle ve idarenin yazılı kararıyla",
+      "E": "Mali yükümlülüklerin ödenmemesi hâlinde ilgili vergi dairesinin ve icra mercilerinin kararıyla"
+    },
+    "answer": "A",
+    "solution": "Madde 23'ün (5982 sayılı Kanunla değişik) fıkrasına göre vatandaşın yurt dışına çıkma hürriyeti ancak suç soruşturması veya kovuşturması sebebiyle hâkim kararına bağlı olarak sınırlanabilir. Vatandaş sınır dışı edilemez ve yurda girme hakkından yoksun bırakılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 23/4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-019",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 24. maddesine göre din kültürü ve ahlak öğretimi hangi kurumlarda zorunlu dersler arasında yer alır?",
+    "options": {
+      "A": "Okul öncesinden yükseköğretime kadar bütün kademelerde",
+      "B": "Okul öncesi eğitim kurumlarında ve ilköğretim okullarında",
+      "C": "İlk ve ortaöğretim kurumlarında",
+      "D": "Ortaöğretim ve yükseköğretim kurumlarında",
+      "E": "İlköğretim kurumlarında ve imam-hatip liselerinde"
+    },
+    "answer": "C",
+    "solution": "Madde 24'e göre din ve ahlak eğitim ve öğretimi Devletin gözetim ve denetimi altında yapılır; din kültürü ve ahlak öğretimi ilk ve ortaöğretim kurumlarında okutulan zorunlu dersler arasında yer alır. Bunun dışındaki din eğitim ve öğretimi ancak kişilerin kendi isteğine, küçüklerin de kanuni temsilcisinin talebine bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 24/4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-020",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 28. maddesine göre basın ve basımevi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Basımevi kurmak mali teminat yatırma şartına bağlanabilir, ancak izin şartına bağlanamaz ve basın sansür edilemez",
+      "B": "Basın, yayımdan önce yetkili makamlarca denetime tabi tutulabilir ve gerekirse yayımı durdurulabilir",
+      "C": "Basın hürriyeti, basın araçlarının suç aleti sayılması hâlinde yönetmelikle sınırlanabilir",
+      "D": "Basın hürdür; ancak basımevi kurmak kanunla izin ve teminat şartlarına bağlanabilir",
+      "E": "Basın hürdür, sansür edilemez; basımevi kurmak izin alma ve mali teminat yatırma şartına bağlanamaz"
+    },
+    "answer": "E",
+    "solution": "Madde 28'e göre basın hürdür, sansür edilemez; basımevi kurmak izin alma ve mali teminat yatırma şartına bağlanamaz. Devlet basın ve haber alma hürriyetlerini sağlayacak tedbirleri alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 28/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-021",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 34. maddesine göre herkes toplantı ve gösteri yürüyüşü düzenleme hakkına nasıl sahiptir?",
+    "options": {
+      "A": "Önceden mülki amire bildirimde bulunarak ve silahsız",
+      "B": "Önceden izin almadan; fakat saldırısız olmak koşulu aranmaksızın",
+      "C": "Önceden izin almadan, silahsız ve saldırısız",
+      "D": "Önceden izin almadan, ancak yalnızca kamu kurumlarının binaları dışında",
+      "E": "Valilikten önceden izin alarak ve silahsız"
+    },
+    "answer": "C",
+    "solution": "Madde 34'e (4709 sayılı Kanunla değişik) göre herkes önceden izin almadan, silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir; bu hak ancak millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlâk veya başkalarının hak ve özgürlüklerinin korunması amacıyla ve kanunla sınırlanabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 34"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-022",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir kişi, hakkında olağanüstü bir mahkeme kurularak yargılanmak istenmektedir. Bu durum Anayasanın hangi güvencesine aykırıdır?",
+    "options": {
+      "A": "Hak arama hürriyeti",
+      "B": "Kanuni hâkim güvencesi",
+      "C": "Suçta ve cezada kanunilik ilkesi",
+      "D": "İspat hakkı",
+      "E": "Masumiyet karinesi"
+    },
+    "answer": "B",
+    "solution": "Madde 37'ye (kanuni hâkim güvencesi) göre hiç kimse kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarılamaz; bir kimseyi kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarma sonucunu doğuran yargı yetkisine sahip olağanüstü merciler kurulamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 37"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-023",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir kişi, yalnızca sözleşmeden doğan borcunu ödeyememesi nedeniyle özgürlüğünden alıkonulmak istenmektedir. Bu durum Anayasanın 38. maddesi bakımından nasıl değerlendirilir?",
+    "options": {
+      "A": "Kanunda öngörülmesi hâlinde ve mahkeme kararıyla sınırlı bir süre için mümkündür",
+      "B": "Kamu alacaklarına ilişkin sözleşmelerde Anayasaya aykırı sayılmaz, özel borçlarda aykırıdır",
+      "C": "Borç miktarı yüksekse ve borçlunun kaçma şüphesi bulunuyorsa mahkeme kararıyla mümkündür",
+      "D": "Alacaklının talebi hâlinde ve icra müdürünün kararıyla belirli bir süre için mümkündür",
+      "E": "Anayasaya aykırıdır; kimse sözleşmeden doğan bir yükümlülüğü yerine getirememesinden dolayı özgürlüğünden alıkonulamaz"
+    },
+    "answer": "E",
+    "solution": "Madde 38'e (4709 sayılı Kanunla eklenen fıkra) göre hiç kimse yalnızca sözleşmeden doğan bir yükümlülüğü yerine getirememesinden dolayı özgürlüğünden alıkonulamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 38"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-024",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 38. maddesine göre aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Ceza ve ceza yerine geçen güvenlik tedbirleri yönetmelikle de konulabilir",
+      "B": "Kanuna aykırı olarak elde edilmiş bulgular delil olarak kabul edilemez",
+      "C": "Ölüm cezası yalnızca savaş hâlinde verilebilir",
+      "D": "Suçluluğu yargılama aşamasında şüphe uyandırıcı delille ortaya konan kişi suçlu sayılır",
+      "E": "Ceza sorumluluğu, kusursuz sorumluluk ilkesi gereği kanunla başkasına yüklenebilir"
+    },
+    "answer": "B",
+    "solution": "Madde 38'e göre ceza ve güvenlik tedbirleri ancak kanunla konulur; suçluluğu hükmen sabit oluncaya kadar kimse suçlu sayılamaz; ceza sorumluluğu şahsîdir; kanuna aykırı elde edilmiş bulgular delil olarak kabul edilemez; ölüm cezası ve genel müsadere cezası verilemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 38"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-025",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir idarî işlemin muhatabına tebliğ edilen yazıda, işleme karşı hangi kanun yollarına ve hangi sürede başvurulacağı belirtilmemiştir. Bu durum Anayasanın hangi hükmüne aykırıdır?",
+    "options": {
+      "A": "İdarenin kuruluş ve görevleriyle bir bütün olduğu ve kanunla düzenleneceği ilkesine (m. 123)",
+      "B": "Suç ve cezaların kanuniliği ile kanunların geriye yürümezliği ilkesine (m. 38)",
+      "C": "Yönetmeliklerin kanunlara aykırı olmaması ve Resmî Gazetede yayımlanması ilkesine (m. 124)",
+      "D": "Kamu görevlilerinin Anayasa ve kanunlara sadakat yükümlülüğüne ve savunma hakkına (m. 129)",
+      "E": "Devletin işlemlerinde ilgili kişilerin başvuracağı kanun yollarını, mercileri ve süreleri belirtme yükümlülüğüne (m. 40)"
+    },
+    "answer": "E",
+    "solution": "Madde 40'ın (4709 sayılı Kanunla eklenen) fıkrasına göre Devlet, işlemlerinde ilgili kişilerin hangi kanun yollarına ve mercilere başvuracağını ve sürelerini belirtmek zorundadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 40/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-026",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 41. maddesine göre çocukların haklarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Çocuğun ana ve babasıyla ilişkisi, velinin takdirine göre kanunla sınırlandırılabilir",
+      "B": "Çocuklar şiddete karşı Devletçe korunur; ancak istismara karşı koruma tedbirleri almak Devletin takdirindedir",
+      "C": "Çocuğun korunma ve bakımdan yararlanma hakkı, ancak okul çağından itibaren başlar ve kanunla sınırlandırılır",
+      "D": "Çocukların korunması, aile planlaması çerçevesinde ailenin sorumluluğundadır ve Devlet bu alanda yükümlülük taşımaz",
+      "E": "Her çocuk, yüksek yararına açıkça aykırı olmadıkça, ana ve babasıyla kişisel ve doğrudan ilişki kurma ve sürdürme hakkına sahiptir"
+    },
+    "answer": "E",
+    "solution": "Madde 41'in (5982 sayılı Kanunla eklenen) fıkralarına göre her çocuk korunma ve bakımdan yararlanma, yüksek yararına açıkça aykırı olmadıkça ana ve babasıyla kişisel ve doğrudan ilişki kurma ve sürdürme hakkına sahiptir; Devlet her türlü istismara ve şiddete karşı çocukları koruyucu tedbirleri alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 41/3-4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-027",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 42. maddesine göre öğrenim hakkının kapsamı nasıl belirlenir?",
+    "options": {
+      "A": "Eğitim kurumlarının kendi mevzuatıyla belirlenir",
+      "B": "Cumhurbaşkanlığı kararnamesiyle düzenlenir",
+      "C": "Millî Eğitim Bakanlığınca çıkarılan yönetmelikle belirlenir",
+      "D": "Kanunla tespit edilir ve düzenlenir",
+      "E": "Yükseköğretim Kurulunun kararlarıyla belirlenir"
+    },
+    "answer": "D",
+    "solution": "Madde 42'ye göre kimse eğitim ve öğrenim hakkından yoksun bırakılamaz; öğrenim hakkının kapsamı kanunla tespit edilir ve düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 42/1-2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-028",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 42. maddesine göre eğitim ve öğretim hangi esaslara göre yapılır?",
+    "options": {
+      "A": "Atatürk ilkeleri ve inkılapları doğrultusunda, çağdaş bilim ve eğitim esaslarına göre, Devletin gözetim ve denetimi altında",
+      "B": "Atatürk ilkeleri doğrultusunda, uluslararası eğitim standartlarına göre, yerel yönetimlerin gözetim ve denetimi altında, özel kurumların katkısıyla",
+      "C": "Atatürk ilkeleri ve inkılapları doğrultusunda, kanunla belirlenen programlara göre, vakıfların ve Devletin ortak gözetiminde",
+      "D": "Millî ve manevi değerler doğrultusunda, toplumun beklentilerine ve bölgesel ihtiyaçlara göre, özel kurumların gözetiminde",
+      "E": "Çağdaş bilim esaslarına göre, ailelerin tercihleri doğrultusunda ve Atatürk ilkelerinden bağımsız olarak, Devletin denetimi altında"
+    },
+    "answer": "A",
+    "solution": "Madde 42'ye göre eğitim ve öğretim, Atatürk ilkeleri ve inkılapları doğrultusunda, çağdaş bilim ve eğitim esaslarına göre, Devletin gözetim ve denetimi altında yapılır; bu esaslara aykırı eğitim ve öğretim yerleri açılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 42/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-029",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 42. maddesine göre eğitim ve öğretim kurumlarında yürütülecek faaliyetlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Eğitim, öğretim, araştırma ve inceleme ile ilgili faaliyetler yürütülür ve bu faaliyetler her ne suretle olursa olsun engellenemez",
+      "B": "Eğitim faaliyetleri, kamu düzeni gerektirdiğinde idarî karar ile geçici olarak engellenebilir",
+      "C": "Araştırma ve inceleme faaliyetleri, bilimsel özerklik gereği yükseköğretim kurumlarında yürütülebilir; ilk ve ortaöğretimde yürütülemez",
+      "D": "Eğitim kurumlarında sosyal etkinlikler dışındaki bütün faaliyetler kanunla yasaklanmıştır",
+      "E": "Eğitim ve öğretimin yanında siyasi faaliyetler de öğrenci toplulukları aracılığıyla yürütülebilir"
+    },
+    "answer": "A",
+    "solution": "Madde 42'ye göre eğitim ve öğretim kurumlarında sadece eğitim, öğretim, araştırma ve inceleme ile ilgili faaliyetler yürütülür; bu faaliyetler her ne suretle olursa olsun engellenemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 42/9"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-030",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 42. maddesine göre ana dille ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Eğitim kurumlarında okutulacak yabancı diller yönetmelikle belirlenir ve milletlerarası andlaşmalar uygulanmaz",
+      "B": "Yabancı dille eğitim yapan okullar kanunla düzenlenemez; bu okullar uluslararası anlaşmalara tabidir",
+      "C": "Türkçe dışındaki diller, özel okullarda Millî Eğitim Bakanlığının izniyle ana dil olarak okutulabilir",
+      "D": "Türkçeden başka hiçbir dil, eğitim ve öğretim kurumlarında Türk vatandaşlarına ana dilleri olarak okutulamaz ve öğretilemez",
+      "E": "Azınlık dilleri, eğitim kurumlarında ana dil olarak okutulabilir; bunun esasları yönetmelikle düzenlenir"
+    },
+    "answer": "D",
+    "solution": "Madde 42'ye göre Türkçeden başka hiçbir dil eğitim ve öğretim kurumlarında Türk vatandaşlarına ana dilleri olarak okutulamaz ve öğretilemez. Eğitim kurumlarında okutulacak yabancı diller ile yabancı dille eğitim ve öğretim yapan okulların tabi olacağı esaslar kanunla düzenlenir; milletlerarası andlaşma hükümleri saklıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 42/10"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-031",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 42. maddesine göre Devlet, maddi imkânlardan yoksun başarılı öğrenciler için hangi tedbiri alır?",
+    "options": {
+      "A": "Üst öğrenim kurumlarına kontenjan dışı kayıt hakkı tanır ve öğrenim giderlerini üstlenir",
+      "B": "Okul-aile birlikleri aracılığıyla öğrenci başına belirli bir yardım tahsis eder ve bunu yıllık bütçeyle belirler",
+      "C": "Öğrenim kredilerini borç olarak verir ve mezuniyet sonrasında faizle tahsil eder",
+      "D": "Öğrenimlerini sürdürebilmeleri amacıyla burslar ve başka yollarla gerekli yardımları yapar",
+      "E": "Öğrenim ücretlerini doğrudan ortadan kaldırarak, başarı koşulu aranmaksızın parasız yatılılık sağlar"
+    },
+    "answer": "D",
+    "solution": "Madde 42'ye göre Devlet maddi imkânlardan yoksun başarılı öğrencilerin öğrenimlerini sürdürebilmeleri amacıyla burslar ve başka yollarla gerekli yardımları yapar; durumları sebebiyle özel eğitime ihtiyacı olanları topluma yararlı kılacak tedbirleri alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 42/8"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-032",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Memurlar ve diğer kamu görevlilerinin toplu sözleşme uyuşmazlıklarında Anayasanın 53. maddesine göre başvurulacak kurul hangisidir?",
+    "options": {
+      "A": "Devlet Personel Başkanlığı Kurulu",
+      "B": "Yüksek Hakem Kurulu",
+      "C": "Kamu Görevlileri Hakem Kurulu",
+      "D": "Yüksek Disiplin Kurulu",
+      "E": "Danıştay İdari Dava Daireleri Kurulu"
+    },
+    "answer": "C",
+    "solution": "Madde 53'e (5982 sayılı Kanunla değişik) göre memurlar ve diğer kamu görevlileri toplu sözleşme yapma hakkına sahiptir; uyuşmazlık çıkması hâlinde taraflar Kamu Görevlileri Hakem Kuruluna başvurabilir ve bu Kurulun kararları kesindir ve toplu sözleşme hükmündedir. Yüksek Hakem Kurulu ise grevin yasaklandığı veya ertelendiği durumlarda işçi-işveren uyuşmazlıklarını çözer.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 53/6"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-033",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 54. maddesine göre toplu iş sözleşmesi yapılması sırasında uyuşmazlık çıkması hâlinde grev hakkına kimler sahiptir?",
+    "options": {
+      "A": "Sendika üyesi olan tüm çalışanlar",
+      "B": "İşçiler",
+      "C": "Kamu kurumu niteliğindeki meslek kuruluşlarının üyeleri",
+      "D": "İşçiler ve işverenler",
+      "E": "Memurlar ve diğer kamu görevlileri"
+    },
+    "answer": "B",
+    "solution": "Madde 54'e göre toplu iş sözleşmesinin yapılması sırasında uyuşmazlık çıkması hâlinde işçiler grev hakkına sahiptir. Memurlar ve diğer kamu görevlileri için Anayasa grev hakkı tanımamış, toplu sözleşme hakkı tanımıştır (m. 53).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 54/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-034",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 58. maddesine göre Devlet, gençlerin hangi doğrultuda yetişmesini sağlayıcı tedbirleri alır?",
+    "options": {
+      "A": "Müsbet ilmin ışığında, aile değerleri doğrultusunda, kültürel çeşitliliği koruyacak ve toplumsal uyumu gözetecek biçimde",
+      "B": "Millî ve manevi değerlerin ışığında, uluslararası standartlar doğrultusunda, toplumsal kutuplaşmaya ve ekonomik eşitsizliğe karşı",
+      "C": "Çağdaş bilim ve teknolojinin ışığında, bireysel hak ve hürriyetler doğrultusunda ve siyasi tarafsızlık ilkesi çerçevesinde",
+      "D": "Atatürk ilke ve inkılapları doğrultusunda, serbest piyasa ekonomisinin gerekleri çerçevesinde ve mesleki beceriler öncelikli olarak",
+      "E": "Müsbet ilmin ışığında, Atatürk ilke ve inkılapları doğrultusunda ve Devletin ülkesi ve milletiyle bölünmez bütünlüğünü ortadan kaldırmayı amaç edinen görüşlere karşı"
+    },
+    "answer": "E",
+    "solution": "Madde 58'e göre Devlet, istiklal ve Cumhuriyetin emanet edildiği gençlerin müsbet ilmin ışığında, Atatürk ilke ve inkılapları doğrultusunda ve Devletin ülkesi ve milletiyle bölünmez bütünlüğünü ortadan kaldırmayı amaç edinen görüşlere karşı yetişme ve gelişmelerini sağlayıcı tedbirleri alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 58/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-035",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 67. maddesine göre seçimler ve halkoylaması hangi esaslara göre yapılır?",
+    "options": {
+      "A": "Serbest, eşit, gizli, tek dereceli, genel oy, açık sayım ve döküm esaslarına göre, yargı yönetim ve denetimi altında",
+      "B": "Serbest, eşit, açık, çift dereceli, genel oy, gizli sayım esaslarına göre, yürütme gözetimi altında ve Meclis denetiminde",
+      "C": "Serbest, eşit, gizli, çift dereceli, sınırlı oy, açık sayım esaslarına göre, yargı denetimi altında",
+      "D": "Serbest, eşit, gizli, tek dereceli, genel oy, gizli sayım esaslarına göre, Meclis ve yargı denetimi altında",
+      "E": "Serbest, orantılı, gizli, tek dereceli, genel oy, açık sayım esaslarına göre, idari makamlarca yönetilerek"
+    },
+    "answer": "A",
+    "solution": "Madde 67'ye (4121 sayılı Kanunla değişik) göre seçimler ve halkoylaması serbest, eşit, gizli, tek dereceli, genel oy, açık sayım ve döküm esaslarına göre, yargı yönetim ve denetimi altında yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 67/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-036",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Devlet okulunda memur statüsünde görev yapan bir öğretmen, bir siyasi partiye üye olmak istemektedir. Anayasanın 68. maddesine göre bu durum nasıl değerlendirilir?",
+    "options": {
+      "A": "Mesai saatleri dışında faaliyette bulunmak ve parti görevi almamak koşuluyla üye olabilir",
+      "B": "Kamu kurum ve kuruluşlarının memur statüsündeki görevlileri siyasi partilere üye olamayacağından üye olamaz",
+      "C": "Çalıştığı kurumun amirinin ve bağlı bulunduğu bakanlığın yazılı izniyle üye olabilir",
+      "D": "Parti merkez organlarında görev almamak ve parti adına açıklama yapmamak şartıyla üye olabilir",
+      "E": "Yükseköğretim elemanları gibi sayıldığından üyeliği ancak kanunla düzenlenir ve serbest bırakılır"
+    },
+    "answer": "B",
+    "solution": "Madde 68'in beşinci fıkrasına göre hâkimler ve savcılar, Sayıştay dahil yüksek yargı organları mensupları, kamu kurum ve kuruluşlarının memur statüsündeki görevlileri, işçi niteliği taşımayan diğer kamu görevlileri, Silahlı Kuvvetler mensupları ile yükseköğretim öncesi öğrencileri siyasi partilere üye olamazlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 68/5"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-037",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Kamu hizmetine alınmada aday arasında yalnızca cinsiyet ve siyasi görüş farkı gözetilerek ayrım yapılması, Anayasanın 70. maddesindeki hangi hükme aykırıdır?",
+    "options": {
+      "A": "Vatan hizmetinin her Türkün hakkı ve ödevi olduğu ve kanunla düzenleneceği hükmüne (m. 72)",
+      "B": "Kamu hizmetine girenlerin mal bildiriminde bulunma ve bildirimleri tekrarlama yükümlülüğüne (m. 71)",
+      "C": "Memurların disiplin cezalarına karşı yargı yoluna başvurma ve savunma hakkına (m. 129)",
+      "D": "Kamu görevlilerinin Anayasa ve kanunlara sadık kalarak faaliyette bulunma yükümlülüğüne (m. 129)",
+      "E": "Hizmete alınmada görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemeyeceği hükmüne"
+    },
+    "answer": "E",
+    "solution": "Madde 70'e göre her Türk kamu hizmetlerine girme hakkına sahiptir; hizmete alınmada görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 70"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-038",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 74. maddesine göre vatandaşların kendileriyle veya kamu ile ilgili dilek ve şikâyetleri hakkında yetkili makamlara ve Türkiye Büyük Millet Meclisine yazı ile başvurma hakkı bulunmaktadır. Kendileriyle ilgili başvuruların sonucu nasıl bildirilir?",
+    "options": {
+      "A": "Gecikmeksizin, dilekçe sahiplerine yazılı olarak",
+      "B": "Kamu Denetçiliği Kurumu aracılığıyla ve en geç altmış gün içinde",
+      "C": "Otuz gün içinde, dilekçe sahibinin belirttiği iletişim yoluyla",
+      "D": "Yetkili makamın uygun gördüğü zamanda ve yöntemle",
+      "E": "Başvuru sahibinin talebi hâlinde ve sözlü olarak"
+    },
+    "answer": "A",
+    "solution": "Madde 74'e göre kendileriyle ilgili başvurmaların sonucu gecikmeksizin dilekçe sahiplerine yazılı olarak bildirilir. Herkes ayrıca bilgi edinme ve kamu denetçisine başvurma hakkına sahiptir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 74/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-039",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Türkiye Büyük Millet Meclisi, Anayasanın 75. maddesine göre genel oyla seçilen kaç milletvekilinden oluşur?",
+    "options": {
+      "A": "Dört yüz elli",
+      "B": "Beş yüz elli",
+      "C": "Altı yüz",
+      "D": "Beş yüz",
+      "E": "Altı yüz elli"
+    },
+    "answer": "C",
+    "solution": "Madde 75'e (6771 sayılı Kanunla değişik) göre Türkiye Büyük Millet Meclisi genel oyla seçilen altı yüz milletvekilinden oluşur. Önceki sayı beş yüz elliydi.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 75"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-040",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasaya göre milletvekili seçilebilmek için gereken asgari yaş ile Cumhurbaşkanı seçilebilmek için gereken asgari yaş sırasıyla aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "25 — 45",
+      "B": "18 — 35",
+      "C": "25 — 40",
+      "D": "21 — 40",
+      "E": "18 — 40"
+    },
+    "answer": "E",
+    "solution": "Madde 76'ya (6771 sayılı Kanunla değişik) göre onsekiz yaşını dolduran her Türk milletvekili seçilebilir. Madde 101'e göre Cumhurbaşkanı, kırk yaşını doldurmuş, yükseköğrenim yapmış, milletvekili seçilme yeterliliğine sahip Türk vatandaşları arasından doğrudan halk tarafından seçilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 76/1 ve m. 101/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-041",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Memur statüsünde görev yapan bir öğretmen milletvekili adayı olmak istemektedir. Anayasanın 76. maddesine göre bu kişi hangi koşulla aday olabilir?",
+    "options": {
+      "A": "Bağlı bulunduğu bakanlığın uygun görüşünü alması koşuluyla",
+      "B": "Görevinden çekilmesi koşuluyla",
+      "C": "Herhangi bir koşul aranmaksızın",
+      "D": "Seçimden altı ay önce bulunduğu yerden başka bir yere atanması koşuluyla",
+      "E": "Görevinden izinli sayılması koşuluyla"
+    },
+    "answer": "B",
+    "solution": "Madde 76'ya göre hâkimler ve savcılar, yüksek yargı organları mensupları, yükseköğretim kurumlarındaki öğretim elemanları, YÖK üyeleri, kamu kurum ve kuruluşlarının memur statüsündeki görevlileri ile işçi niteliği taşımayan diğer kamu görevlileri ve Silahlı Kuvvetler mensupları, görevlerinden çekilmedikçe aday olamazlar ve milletvekili seçilemezler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 76/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-042",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 80. maddesine göre Türkiye Büyük Millet Meclisi üyeleri kimi temsil eder?",
+    "options": {
+      "A": "Seçildikleri bölgeyi veya kendilerini seçenleri değil, bütün Milleti",
+      "B": "Bütün Milleti; ancak seçim bölgelerinin çıkarlarını öncelikle gözetirler",
+      "C": "Üyesi oldukları siyasi partinin seçmenlerini",
+      "D": "Seçildikleri bölgeyi ve kendilerini seçenleri",
+      "E": "Seçildikleri bölgeyi ve ait oldukları siyasi parti grubunu"
+    },
+    "answer": "A",
+    "solution": "Madde 80'e göre Türkiye Büyük Millet Meclisi üyeleri, seçildikleri bölgeyi veya kendilerini seçenleri değil, bütün Milleti temsil ederler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 80"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-043",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Aşağıdaki durumlar sırasıyla Anayasanın hangi kavramıyla ifade edilir?\n\nI. Milletvekilinin Meclis çalışmalarındaki oy ve sözlerinden sorumlu tutulamaması\n\nII. Seçimden önce veya sonra suç işlediği ileri sürülen milletvekilinin Meclisin kararı olmadıkça tutulamaması ve yargılanamaması",
+    "options": {
+      "A": "Yasama dokunulmazlığı — Yasama sorumsuzluğu",
+      "B": "Yasama sorumsuzluğu — Yasama dokunulmazlığı",
+      "C": "Yasama sorumsuzluğu — Milletvekilliğinin düşmesi",
+      "D": "Üyelikle bağdaşmayan işler — Yasama dokunulmazlığı",
+      "E": "Milletin temsili — Yasama sorumsuzluğu"
+    },
+    "answer": "B",
+    "solution": "Madde 83'ün birinci fıkrası, üyelerin Meclis çalışmalarındaki oy ve sözlerinden sorumlu tutulamamasını (yasama sorumsuzluğu); ikinci fıkra ise suç işlediği ileri sürülen milletvekilinin Meclisin kararı olmadıkça tutulamaması, sorguya çekilememesi, tutuklanamaması ve yargılanamamasını (yasama dokunulmazlığı) düzenler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 83"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-044",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 87. maddesine göre genel ve özel af ilânına Türkiye Büyük Millet Meclisi hangi çoğunlukla karar verir?",
+    "options": {
+      "A": "Üye tamsayısının beşte üç çoğunluğuyla",
+      "B": "Üye tamsayısının dörtte üç çoğunluğuyla",
+      "C": "Üye tamsayısının üçte iki çoğunluğuyla",
+      "D": "Toplantıya katılanların salt çoğunluğuyla",
+      "E": "Üye tamsayısının salt çoğunluğuyla"
+    },
+    "answer": "A",
+    "solution": "Madde 87'ye (6771 sayılı Kanunla değişik) göre TBMM, üye tamsayısının beşte üç çoğunluğunun kararı ile genel ve özel af ilânına karar verir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 87"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-045",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Cumhurbaşkanı, Anayasanın 89. maddesine göre TBMM'nin kabul ettiği kanunları kaç gün içinde yayımlar?",
+    "options": {
+      "A": "Kırk beş gün",
+      "B": "Yedi gün",
+      "C": "Otuz gün",
+      "D": "Altmış gün",
+      "E": "On beş gün"
+    },
+    "answer": "E",
+    "solution": "Madde 89'a göre Cumhurbaşkanı, Türkiye Büyük Millet Meclisince kabul edilen kanunları onbeş gün içinde yayımlar; yayımlanmasını kısmen veya tamamen uygun bulmadığı kanunları aynı süre içinde gerekçesiyle birlikte Meclise geri gönderir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 89/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-046",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir kanunun temel hak ve özgürlüklere ilişkin, usulüne göre yürürlüğe konulmuş bir milletlerarası andlaşmayla aynı konuda farklı hükümler içermesi nedeniyle uyuşmazlık çıkmıştır. Anayasanın 90. maddesine göre hangi hüküm esas alınır?",
+    "options": {
+      "A": "Sonradan yürürlüğe giren hüküm esas alınır",
+      "B": "Hangisinin Türk hukukuna daha uygun olduğuna Cumhurbaşkanı karar verir",
+      "C": "Milletlerarası andlaşma hükümleri esas alınır",
+      "D": "Kanun hükmü esas alınır; çünkü andlaşmalar kanun hükmündedir",
+      "E": "Anayasa Mahkemesinin görüşü alınarak karar verilir"
+    },
+    "answer": "C",
+    "solution": "Madde 90'ın (5170 sayılı Kanunla eklenen) son cümlesine göre usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin andlaşmalarla kanunların aynı konuda farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda milletlerarası andlaşma hükümleri esas alınır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 90/5"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-047",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Aşağıdakilerden hangisi Anayasanın 98. maddesinde TBMM'nin bilgi edinme ve denetleme yolları arasında sayılmamıştır?",
+    "options": {
+      "A": "Meclis araştırması",
+      "B": "Yazılı soru",
+      "C": "Genel görüşme",
+      "D": "Meclis soruşturması",
+      "E": "Gensoru"
+    },
+    "answer": "E",
+    "solution": "Madde 98'e (6771 sayılı Kanunla değişik) göre TBMM; Meclis araştırması, genel görüşme, Meclis soruşturması ve yazılı soru yollarıyla bilgi edinme ve denetleme yetkisini kullanır. Gensoru (m. 99) 2017 değişikliğiyle kaldırılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 98"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-048",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Cumhurbaşkanının görev süresi ve bir kimsenin en fazla kaç defa Cumhurbaşkanı seçilebileceği, Anayasanın 101. maddesine göre aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "Beş yıl — iki defa",
+      "B": "Yedi yıl — bir defa",
+      "C": "Altı yıl — iki defa",
+      "D": "Beş yıl — üç defa",
+      "E": "Dört yıl — iki defa"
+    },
+    "answer": "A",
+    "solution": "Madde 101'e (6771 sayılı Kanunla değişik) göre Cumhurbaşkanının görev süresi beş yıldır; bir kimse en fazla iki defa Cumhurbaşkanı seçilebilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 101/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-049",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Aşağıdakilerden hangisi Anayasanın 104. maddesine göre Cumhurbaşkanının görev ve yetkileri arasında yer almaz?",
+    "options": {
+      "A": "Kanun teklifinde bulunmak",
+      "B": "Cumhurbaşkanı yardımcıları ile bakanları atamak ve görevlerine son vermek",
+      "C": "Milletlerarası andlaşmaları onaylamak ve yayımlamak",
+      "D": "Yürütme yetkisine ilişkin konularda Cumhurbaşkanlığı kararnamesi çıkarmak",
+      "E": "Kanunları yayımlamak ve tekrar görüşülmek üzere TBMM'ye geri göndermek"
+    },
+    "answer": "A",
+    "solution": "Madde 104 Cumhurbaşkanının yetkilerini sayar: kanunları yayımlama ve geri gönderme, bakan ve yardımcı atama, kararname çıkarma, andlaşma onaylama vb. Kanun teklif etme yetkisi ise madde 88'e göre milletvekillerine aittir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 104 ve m. 88"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-050",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Aşağıdakilerden hangisi Anayasanın 104. maddesine göre Cumhurbaşkanlığı kararnamesiyle düzenlenemez?",
+    "options": {
+      "A": "Üst kademe kamu yöneticilerinin atanmasına ilişkin usul ve esaslar ile bunların görevlerine son verilmesi",
+      "B": "Devlet Denetleme Kurulunun işleyişi, üyelerinin görev süresi ve diğer özlük işleri",
+      "C": "Bakanlıkların kurulması, kaldırılması, görevleri ve yetkileri ile merkez ve taşra teşkilat yapısı",
+      "D": "Anayasanın ikinci kısmının birinci ve ikinci bölümlerindeki temel haklar, kişi hakları ve ödevleri ile dördüncü bölümdeki siyasi haklar ve ödevler",
+      "E": "Millî Güvenlik Kurulu Genel Sekreterliğinin teşkilatı, görevleri ve çalışma usulleri"
+    },
+    "answer": "D",
+    "solution": "Madde 104'e göre Anayasanın ikinci kısmının birinci ve ikinci bölümlerinde yer alan temel haklar, kişi hakları ve ödevleriyle dördüncü bölümde yer alan siyasi haklar ve ödevler Cumhurbaşkanlığı kararnamesiyle düzenlenemez. Anayasada münhasıran kanunla düzenlenmesi öngörülen konularda ve kanunda açıkça düzenlenen konularda da kararname çıkarılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 104/17"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-051",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Cumhurbaşkanı hakkında soruşturma açılması sürecinde Anayasanın 105. maddesine göre aşağıdaki çoğunluklar sırasıyla hangisidir?\n\nI. Soruşturma açılması istenmesi için TBMM'de verilecek önerge\n\nII. Soruşturma açılmasına karar verilmesi\n\nIII. Yüce Divana sevk kararı",
+    "options": {
+      "A": "Üye tamsayısının salt çoğunluğu — beşte üç — üçte iki",
+      "B": "Üye tamsayısının beşte üçü — salt çoğunluk — üçte iki",
+      "C": "Üye tamsayısının üçte biri — salt çoğunluk — beşte üç",
+      "D": "Üye tamsayısının salt çoğunluğu — üçte iki — dörtte üç",
+      "E": "Üye tamsayısının beşte biri — beşte üç — üçte iki"
+    },
+    "answer": "A",
+    "solution": "Madde 105'e göre Cumhurbaşkanı hakkında soruşturma açılması, TBMM üye tamsayısının salt çoğunluğunun vereceği önergeyle istenebilir; Meclis üye tamsayısının beşte üçünün gizli oyuyla soruşturma açılmasına karar verebilir; Yüce Divana sevk kararı ise üye tamsayısının üçte ikisinin gizli oyuyla alınır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 105"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-052",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Cumhurbaşkanı, Anayasanın 119. maddesine göre olağanüstü hâl ilan ederse bu hâlin süresi en fazla ne kadar olabilir?",
+    "options": {
+      "A": "Altı ay",
+      "B": "Üç ay",
+      "C": "Yirmi dört ay",
+      "D": "Dokuz ay",
+      "E": "Bir yıl"
+    },
+    "answer": "A",
+    "solution": "Madde 119'a (6771 sayılı Kanunla değişik) göre Cumhurbaşkanı, sayılan hâllerde yurdun tamamında veya bir bölgesinde, süresi altı ayı geçmemek üzere olağanüstü hâl ilan edebilir. Karar aynı gün Resmî Gazetede yayımlanır ve TBMM'nin onayına sunulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 119/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-053",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 125. maddesine göre idarî eylem ve işlemlere karşı açılan davalarda yargı yetkisi nasıl kullanılır?",
+    "options": {
+      "A": "Hem hukuka uygunluk hem de yerindelik denetimini birlikte kapsayacak ve takdir yetkisini yerine ikame edecek biçimde",
+      "B": "Kanunla yetkilendirilen idarî mercilerin işlemlerini hukuka uygunluk yanında yerindelik yönünden de inceleyerek",
+      "C": "Hukuka uygunluk denetimi ile sınırlı olarak; hiçbir surette yerindelik denetimi şeklinde kullanılamaz",
+      "D": "Yerindelik denetimi, yürütmenin durdurulması kararı verilirken birlikte yapılabilecek biçimde ve gerekçe gösterilerek",
+      "E": "Takdir yetkisini kaldıracak ve idarenin yerine geçecek biçimde idareye yeni bir işlem yapma yükümlülüğü getirerek"
+    },
+    "answer": "C",
+    "solution": "Madde 125'e (5982 sayılı Kanunla değişik) göre yargı yetkisi, idarî eylem ve işlemlerin hukuka uygunluğunun denetimi ile sınırlı olup hiçbir surette yerindelik denetimi şeklinde kullanılamaz; yürütme görevini kısıtlayacak veya takdir yetkisini kaldıracak biçimde yargı kararı verilemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 125/5"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-054",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir öğretmene savunma hakkı tanınmadan disiplin cezası verilmiştir. Bu durum Anayasanın 129. maddesine göre nasıl değerlendirilir?",
+    "options": {
+      "A": "Savunma hakkı tanınmasa da ceza geçerlidir; savunmanın usul ve esasları yönetmelikle düzenlenir ve uygulanır",
+      "B": "Savunma hakkı ancak cezaya karşı yargı yoluna başvurulduğunda mahkemece dikkate alınır",
+      "C": "Savunma hakkı ağır disiplin cezalarında gereklidir, uyarı gibi hafif cezalarda gerekli değildir",
+      "D": "Anayasaya aykırıdır; memurlar ve diğer kamu görevlilerine savunma hakkı tanınmadıkça disiplin cezası verilemez",
+      "E": "Savunma hakkı tanınması, disiplin kurulunun ve amirin takdirine bağlıdır"
+    },
+    "answer": "D",
+    "solution": "Madde 129'a göre memurlar ve diğer kamu görevlileri ile kamu kurumu niteliğindeki meslek kuruluşları ve bunların üst kuruluşları mensuplarına savunma hakkı tanınmadıkça disiplin cezası verilemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 129/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-055",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir öğretmene verilen disiplin cezasına karşı yargı yoluna başvurulamayacağını öngören bir kanun hükmü, Anayasanın 129. maddesi bakımından nasıl değerlendirilir?",
+    "options": {
+      "A": "Uyarı ve kınama gibi hafif cezalar için kanunla öngörülmesi hâlinde Anayasaya uygundur",
+      "B": "Kanunla öngörülmüşse ve kamu yararı gerektiriyorsa Anayasaya uygundur",
+      "C": "Ancak olağanüstü hâllerde ve süre ile sınırlı olmak üzere Anayasaya uygundur",
+      "D": "Disiplin amirinin talebi hâlinde ve ilgili bakanlığın onayıyla Anayasaya uygundur",
+      "E": "Anayasaya aykırıdır; disiplin kararları yargı denetimi dışında bırakılamaz"
+    },
+    "answer": "E",
+    "solution": "Madde 129'un (5982 sayılı Kanunla değişik) üçüncü fıkrasına göre disiplin kararları yargı denetimi dışında bırakılamaz. Silahlı Kuvvetler mensupları ile hâkimler ve savcılar hakkındaki hükümler saklıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 129/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-056",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 130. maddesine göre üniversite rektörleri ve dekanları kimler tarafından seçilir ve atanır?",
+    "options": {
+      "A": "Rektörler Millî Eğitim Bakanlığınca, dekanlar rektörlükçe",
+      "B": "Rektörler Cumhurbaşkanınca, dekanlar Yükseköğretim Kurulunca",
+      "C": "Rektörler Yükseköğretim Kurulunca, dekanlar Cumhurbaşkanınca",
+      "D": "Rektörler ve dekanlar Cumhurbaşkanınca",
+      "E": "Rektörler Senatoca, dekanlar Yükseköğretim Kurulunca"
+    },
+    "answer": "B",
+    "solution": "Madde 130'a göre kanunun belirlediği usul ve esaslara göre rektörler Cumhurbaşkanınca, dekanlar ise Yükseköğretim Kurulunca seçilir ve atanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 130"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-057",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 134. maddesinde kurulacağı belirtilen Atatürk Kültür, Dil ve Tarih Yüksek Kurumu hangi kurumlardan oluşur?",
+    "options": {
+      "A": "Türk Dil Kurumu, Türk Tarih Kurumu, Türk Standartları Enstitüsü ve Atatürk Kültür Merkezi",
+      "B": "Atatürk Araştırma Merkezi, Türk Dil Kurumu, Millî Kütüphane ve Atatürk Kültür Merkezi",
+      "C": "Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve Atatürk Kültür Merkezi",
+      "D": "Atatürk Araştırma Merkezi, Türk Tarih Kurumu, Millî Arşiv Başkanlığı ve Atatürk Kültür Merkezi",
+      "E": "Türk Dil Kurumu, Türk Tarih Kurumu ve Millî Eğitim Bakanlığı Talim ve Terbiye Kurulu"
+    },
+    "answer": "C",
+    "solution": "Madde 134'e göre Cumhurbaşkanının görevlendireceği bakana bağlı; Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve Atatürk Kültür Merkezinden oluşan, kamu tüzel kişiliğine sahip “Atatürk Kültür, Dil ve Tarih Yüksek Kurumu” kurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 134"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-058",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir bakan, görülmekte olan bir davada hâkime telkinde bulunmuştur. Bu davranış Anayasanın hangi ilkesine aykırıdır?",
+    "options": {
+      "A": "Hâkimlerin görevlerinde bağımsız olması ve hiçbir makamın mahkemelere emir, talimat, tavsiye veya telkinde bulunamaması ilkesine (m. 138)",
+      "B": "Bütün mahkeme kararlarının gerekçeli olarak yazılması ilkesine (m. 141)",
+      "C": "Mahkemelerde duruşmaların herkese açık olması ilkesine (m. 141)",
+      "D": "Mahkemelerin kuruluşu, görev ve yetkilerinin kanunla düzenlenmesi ilkesine (m. 142)",
+      "E": "Hâkimlerin ve savcıların azlolunamaması ve özlük haklarının korunması ilkesine (m. 139)"
+    },
+    "answer": "A",
+    "solution": "Madde 138'e göre hâkimler görevlerinde bağımsızdırlar; hiçbir organ, makam, merci veya kişi yargı yetkisinin kullanılmasında mahkemelere ve hâkimlere emir ve talimat veremez, genelge gönderemez, tavsiye ve telkinde bulunamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 138"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-059",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Hâkimler ve savcılar, Anayasanın 140. maddesine göre kaç yaşını bitirinceye kadar hizmet görürler?",
+    "options": {
+      "A": "Yetmiş",
+      "B": "Altmış sekiz",
+      "C": "Yetmiş iki",
+      "D": "Altmış beş",
+      "E": "Altmış iki"
+    },
+    "answer": "D",
+    "solution": "Madde 140'a göre hâkimler ve savcılar altmışbeş yaşını bitirinceye kadar hizmet görürler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 140/4"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-060",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasa Mahkemesi üye sayısı ile üyelerin görev süresi, Anayasanın 146. ve 147. maddelerine göre aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "On bir üye — on iki yıl",
+      "B": "On beş üye — dokuz yıl",
+      "C": "On yedi üye — on iki yıl",
+      "D": "On beş üye — on iki yıl",
+      "E": "On beş üye — altı yıl"
+    },
+    "answer": "D",
+    "solution": "Madde 146'ya (5982 sayılı Kanunla değişik) göre Anayasa Mahkemesi onbeş üyeden kurulur; madde 147'ye göre üyeler oniki yıl için seçilir ve bir kimse iki defa üye seçilemez. Üyeler altmış beş yaşını doldurunca emekliye ayrılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 146/1 ve m. 147/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-061",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 148. maddesine göre Anayasa Mahkemesine bireysel başvuruyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Bireysel başvuruda Anayasa Mahkemesi, delillerin değerlendirilmesi dahil kanun yoluna ilişkin hususları da inceleyebilir",
+      "B": "Olağan kanun yolları tüketilmeden de başvuru yapılabilir; ancak kabul edilebilirlik incelemesi komisyonlarca yapılır",
+      "C": "Anayasa ile güvence altına alınmış her hak, başvuru kapsamındadır; Avrupa İnsan Hakları Sözleşmesi şartı aranmaz",
+      "D": "Başvuru ancak kanunların Anayasaya aykırılığı iddiasıyla yapılabilir",
+      "E": "Olağan kanun yollarının tüketilmiş olması şarttır ve kanun yolunda gözetilmesi gereken hususlarda inceleme yapılamaz"
+    },
+    "answer": "E",
+    "solution": "Madde 148'e (5982 sayılı Kanunla eklenen fıkralar) göre herkes, Anayasada güvence altına alınmış temel hak ve özgürlüklerinden Avrupa İnsan Hakları Sözleşmesi kapsamındaki herhangi birinin kamu gücü tarafından ihlal edildiği iddiasıyla Anayasa Mahkemesine başvurabilir. Başvuru için olağan kanun yollarının tüketilmiş olması şarttır; bireysel başvuruda kanun yolunda gözetilmesi gereken hususlarda inceleme yapılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 148/3-4"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-062",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasa Mahkemesinin Anayasa değişiklikleri üzerindeki denetimi, Anayasanın 148. maddesine göre nasıl bir kapsama sahiptir?",
+    "options": {
+      "A": "Anayasa değişikliklerini yalnızca Cumhurbaşkanının talebi hâlinde esas yönünden inceler",
+      "B": "Anayasa değişikliklerini denetleyemez; denetim yetkisi halkoylamasındadır",
+      "C": "Anayasa değişikliklerini yalnızca şekil bakımından inceler ve denetler",
+      "D": "Anayasa değişikliklerini hem şekil hem esas bakımından inceler",
+      "E": "Anayasa değişikliklerini yalnızca esas bakımından inceler"
+    },
+    "answer": "C",
+    "solution": "Madde 148'e göre Anayasa Mahkemesi kanunların, Cumhurbaşkanlığı kararnamelerinin ve TBMM İçtüzüğünün Anayasaya şekil ve esas bakımlarından uygunluğunu denetler ve bireysel başvuruları karara bağlar; Anayasa değişikliklerini ise sadece şekil bakımından inceler ve denetler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 148/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-063",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasa Mahkemesinde doğrudan doğruya iptal davası açma hakkı, iptali istenen kanunun Resmî Gazetede yayımlanmasından başlayarak kaç gün sonra düşer?",
+    "options": {
+      "A": "Yüz seksen gün",
+      "B": "Doksan gün",
+      "C": "Yüz yirmi gün",
+      "D": "Otuz gün",
+      "E": "Altmış gün"
+    },
+    "answer": "E",
+    "solution": "Madde 151'e göre Anayasa Mahkemesinde doğrudan doğruya iptal davası açma hakkı, iptali istenen kanun, Cumhurbaşkanlığı kararnamesi veya içtüzüğün Resmî Gazetede yayımlanmasından başlayarak altmış gün sonra düşer.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 151"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-064",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasa Mahkemesinin iptal kararlarıyla ilgili aşağıdaki ifadelerden hangisi Anayasanın 153. maddesine uygundur?",
+    "options": {
+      "A": "Anayasa Mahkemesi kararlarına karşı TBMM'ye itiraz edilebilir",
+      "B": "İptal hükmünün yürürlüğe gireceği tarih, kararın yayımından itibaren iki yılı aşmamak üzere ertelenebilir",
+      "C": "İptal kararları geriye yürümez",
+      "D": "Anayasa Mahkemesi, iptal ederken yeni bir uygulamaya yol açacak biçimde hüküm tesis edebilir",
+      "E": "İptal kararları, gerekçesi sonradan yazılmak üzere açıklanabilir"
+    },
+    "answer": "C",
+    "solution": "Madde 153'e göre Anayasa Mahkemesinin kararları kesindir; iptal kararları gerekçesi yazılmadan açıklanamaz, geriye yürümez. Mahkeme kanun koyucu gibi hareketle yeni bir uygulamaya yol açacak biçimde hüküm tesis edemez; yürürlük tarihini en fazla bir yıl erteleyebilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 153"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-065",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Hâkimler ve Savcılar Kurulunun başkanı kimdir ve Kurul kaç üyeden oluşur?",
+    "options": {
+      "A": "Adalet Bakanı — yedi üye",
+      "B": "Cumhurbaşkanı — on beş üye",
+      "C": "Yargıtay Birinci Başkanı — on üç üye",
+      "D": "Adalet Bakanı — on üç üye",
+      "E": "Adalet Bakanlığı Müsteşarı — on bir üye"
+    },
+    "answer": "D",
+    "solution": "Madde 159'a (6771 sayılı Kanunla değişik) göre Hâkimler ve Savcılar Kurulu onüç üyeden oluşur ve iki daire halinde çalışır; Kurulun Başkanı Adalet Bakanıdır, Adalet Bakanlığı Müsteşarı Kurulun tabiî üyesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 159"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-066",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 175. maddesine göre Anayasanın değiştirilmesi teklifi ve kabulü için gereken çoğunluklar aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "Teklif: Cumhurbaşkanı veya üye tamsayısının yarısı; kabul: toplantıya katılanların beşte üç çoğunluğunun gizli oyu",
+      "B": "Teklif: üye tamsayısının en az dörtte biri; kabul: üye tamsayısının beşte üç çoğunluğunun açık oyu",
+      "C": "Teklif: üye tamsayısının en az üçte biri; kabul: üye tamsayısının üçte iki çoğunluğunun gizli oyu",
+      "D": "Teklif: TBMM üye tamsayısının en az üçte biri; kabul: üye tamsayısının beşte üç çoğunluğunun gizli oyu",
+      "E": "Teklif: üye tamsayısının en az beşte biri; kabul: üye tamsayısının salt çoğunluğunun açık oyu"
+    },
+    "answer": "D",
+    "solution": "Madde 175'e göre Anayasanın değiştirilmesi TBMM üye tamsayısının en az üçte biri tarafından yazıyla teklif edilebilir; teklifler Genel Kurulda iki defa görüşülür ve kabulü Meclisin üye tamsayısının beşte üç çoğunluğunun gizli oyuyla mümkündür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 175/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-067",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasanın 176. maddesine göre Başlangıç kısmı ve madde kenar başlıkları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Hem Başlangıç kısmı hem madde kenar başlıkları Anayasa metnine dahildir",
+      "B": "Başlangıç kısmı yalnızca yorum için başvurulacak bir kaynaktır; kenar başlıkları bağlayıcıdır",
+      "C": "Başlangıç kısmı Anayasa metnine dahildir; madde kenar başlıkları Anayasa metninden sayılmaz",
+      "D": "Başlangıç kısmı Anayasa metnine dahil değildir; madde kenar başlıkları Anayasa metninden sayılır",
+      "E": "Başlangıç kısmı değiştirilebilir; madde kenar başlıkları değiştirilemez"
+    },
+    "answer": "C",
+    "solution": "Madde 176'ya göre Anayasanın dayandığı temel görüş ve ilkeleri belirten Başlangıç kısmı Anayasa metnine dahildir; madde kenar başlıkları sadece ilgili oldukları maddelerin konusunu ve maddeler arasındaki sıralama ve bağlantıyı gösterir, Anayasa metninden sayılmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 176"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-068",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "İnsan Hakları Evrensel Beyannamesinin 1. maddesine göre bütün insanlar nasıl doğarlar?",
+    "options": {
+      "A": "Hür ve fırsatlar bakımından eşit",
+      "B": "Akıl ve vicdan bakımından eşit, haysiyet bakımından farklı",
+      "C": "Haysiyet bakımından eşit, haklar bakımından farklı",
+      "D": "Hür; ancak haklar bakımından yetişkinlik çağında eşit",
+      "E": "Hür, haysiyet ve haklar bakımından eşit"
+    },
+    "answer": "E",
+    "solution": "Beyannamenin 1. maddesine göre bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar; akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnsan Hakları Evrensel Beyannamesi m. 1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-069",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "İnsan Hakları Evrensel Beyannamesinin 26. maddesine göre öğrenimle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Öğrenim ilk safhasında ücretlidir; mecburi öğretim süresini devletler belirler",
+      "B": "Öğrenim hiç olmazsa ilk ve temel safhalarında parasızdır ve ilk öğretim mecburidir",
+      "C": "Öğrenim bütün safhalarında parasızdır ve ortaöğretim mecburidir",
+      "D": "Yüksek öğretim herkese parasız sunulmalıdır; ilk öğretim isteğe bağlıdır",
+      "E": "Teknik ve mesleki öğretim, yüksek öğretime hazırlık amacıyla yalnızca liyakat sahiplerine açıktır"
+    },
+    "answer": "B",
+    "solution": "Beyannamenin 26. maddesinin birinci fıkrasına göre her şahsın öğrenim hakkı vardır; öğrenim hiç olmazsa ilk ve temel safhalarında parasızdır, ilk öğretim mecburidir. Teknik ve mesleki öğretimden herkes istifade edebilmelidir; yüksek öğretim, liyakatlerine göre herkese tam eşitlikle açık olmalıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnsan Hakları Evrensel Beyannamesi m. 26/1"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-070",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "İnsan Hakları Evrensel Beyannamesinin 26. maddesine göre çocuklarına verilecek eğitim türünü seçmek hakkını öncelikle kimler taşır?",
+    "options": {
+      "A": "Eğitim kurumunu kuran gerçek veya tüzel kişiler",
+      "B": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Teşkilatı",
+      "C": "Ana baba",
+      "D": "Devletin eğitim makamları",
+      "E": "Çocukların öğretmenleri"
+    },
+    "answer": "C",
+    "solution": "Beyannamenin 26. maddesinin üçüncü fıkrasına göre ana baba, çocuklarına verilecek eğitim türünü seçmek hakkını öncelikle haizdirler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnsan Hakları Evrensel Beyannamesi m. 26/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-071",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "İnsan Hakları Evrensel Beyannamesinin 26. maddesine göre öğretim neyi hedef almalıdır?",
+    "options": {
+      "A": "Ulusal kimliğin korunmasını, toplumsal birliğin sağlanmasını ve ortak değerlerin yaygınlaştırılmasını",
+      "B": "Bilimsel ilerlemenin ulusal kalkınma amaçlarına yöneltilmesini ve insan gücü planlamasına uygun yetiştirmeyi",
+      "C": "Çocukların ailelerinin inançlarına göre yetiştirilmesini ve devletin eğitimde tarafsız kalmasını",
+      "D": "Bireylerin yeteneklerine göre ekonomik hayata hazırlanmasını ve mesleki ihtiyaçlara yönlendirilmesini",
+      "E": "İnsan şahsiyetinin tam gelişmesini ve insan haklarıyla ana hürriyetlere saygının kuvvetlenmesini"
+    },
+    "answer": "E",
+    "solution": "Beyannamenin 26. maddesinin ikinci fıkrasına göre öğretim insan şahsiyetinin tam gelişmesini ve insan haklarıyla ana hürriyetlere saygının kuvvetlenmesini hedef almalıdır; bütün milletler, ırk ve din grupları arasında anlayış, hoşgörü ve dostluğu teşvik etmelidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnsan Hakları Evrensel Beyannamesi m. 26/2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-072",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "İnsan Hakları Evrensel Beyannamesinin 18. maddesine göre fikir, vicdan ve din hürriyeti aşağıdakilerden hangisini de içerir?",
+    "options": {
+      "A": "Dinî kuralların kamu düzeni üzerinde önceliğini",
+      "B": "Din veya kanaat değiştirmek hürriyetini",
+      "C": "Ibadet yerlerinin devlet tarafından finanse edilmesini",
+      "D": "Dinî öğretimin zorunlu tutulmasını",
+      "E": "Dinî inancı olmayanların kamu görevlerinden uzaklaştırılmasını"
+    },
+    "answer": "B",
+    "solution": "Beyannamenin 18. maddesine göre her şahsın fikir, vicdan ve din hürriyetine hakkı vardır; bu hak din veya kanaat değiştirmek hürriyetini, dinini veya kanaatini tek başına veya topluca, açık olarak veya özel surette öğretim, tatbikat, ibadet ve ayinlerle izhar etmek hürriyetini içerir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İnsan Hakları Evrensel Beyannamesi m. 18"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-073",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Avrupa İnsan Hakları Sözleşmesine Ek Protokolün 2. maddesine göre Devlet, eğitim ve öğretim alanında yükleneceği görevlerin yerine getirilmesinde neye saygı gösterir?",
+    "options": {
+      "A": "Ana ve babanın bu eğitim ve öğretimin kendi dinî ve felsefi inançlarına göre yapılmasını sağlama haklarına",
+      "B": "Öğretmenlerin ders içeriğini kendi bilimsel görüşlerine göre belirleme özgürlüğüne",
+      "C": "Eğitim kurumunu kuran kişilerin ve vakıfların belirlediği eğitim felsefesine ve program tercihlerine",
+      "D": "Çocuğun tercih ettiği dilde eğitim görme ve ders seçme hakkına",
+      "E": "Yerel toplulukların kültürel ve dinî taleplerinin eğitim programına yansıtılmasına"
+    },
+    "answer": "A",
+    "solution": "Ek Protokolün 2. maddesine (eğitim hakkı) göre hiç kimse eğitim hakkından yoksun bırakılamaz; Devlet, eğitim ve öğretim alanında yükleneceği görevlerin yerine getirilmesinde, ana ve babanın bu eğitim ve öğretimin kendi dinî ve felsefi inançlarına göre yapılmasını sağlama haklarına saygı gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Avrupa İnsan Hakları Sözleşmesi Ek Protokol m. 2"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-074",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Savaş veya ulusun varlığını tehdit eden başka bir genel tehlike hâlinde bile Avrupa İnsan Hakları Sözleşmesinin 15. maddesine göre aşağıdakilerden hangisine aykırı tedbir alınamaz?",
+    "options": {
+      "A": "İşkence yasağı (m. 3)",
+      "B": "Özel ve aile hayatına saygı hakkı (m. 8)",
+      "C": "İfade özgürlüğü (m. 10)",
+      "D": "Mülkiyetin korunması (Ek Protokol m. 1)",
+      "E": "Toplantı ve dernek kurma özgürlüğü (m. 11)"
+    },
+    "answer": "A",
+    "solution": "Sözleşmenin 15. maddesinin ikinci fıkrası, meşru savaş fiilleri sonucunda meydana gelen ölüm hâli dışında 2. maddeye, 3. ve 4. maddeler (fıkra 1) ile 7. maddeye aykırı tedbirlere cevaz vermez. Bunlar yaşam hakkı, işkence yasağı, kölelik yasağı ve kanunsuz ceza olmaz ilkesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Avrupa İnsan Hakları Sözleşmesi m. 15/2"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-075",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Avrupa İnsan Hakları Sözleşmesinin 6. maddesine göre bir suç ile itham edilen herkes ne zamana kadar masum sayılır?",
+    "options": {
+      "A": "İddianamenin kabul edilmesine kadar",
+      "B": "Suçluluğu yasal olarak sabit oluncaya kadar",
+      "C": "Duruşmanın başlamasına kadar",
+      "D": "İlk derece mahkemesince mahkûm edilinceye kadar",
+      "E": "Tutuklama kararı verilinceye kadar"
+    },
+    "answer": "B",
+    "solution": "Sözleşmenin 6. maddesinin ikinci fıkrasına göre bir suç ile itham edilen herkes suçluluğu yasal olarak sabit oluncaya kadar masum sayılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Avrupa İnsan Hakları Sözleşmesi m. 6/2"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-076",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Avrupa İnsan Hakları Sözleşmesinin 10. maddesine göre ifade özgürlüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "İfade özgürlüğü ülke sınırları gözetilmeksizin değil, ulusal sınırlar içinde kullanılabilir ve izin rejimine bağlanamaz",
+      "B": "Yayın işletmelerinin izne bağlanması, ifade özgürlüğüne aykırı kabul edilir ve Mahkemece denetlenir",
+      "C": "Madde, Devletlerin basın organlarını önceden denetime tabi tutmalarını yasaklar",
+      "D": "İfade özgürlüğü, görev ve sorumluluk yüklemeyen mutlak bir özgürlüktür ve sınırlamaya tabi tutulamaz",
+      "E": "Madde, Devletlerin radyo, televizyon ve sinema işletmelerini bir izin rejimine tabi tutmalarına engel değildir"
+    },
+    "answer": "E",
+    "solution": "Sözleşmenin 10. maddesinin birinci fıkrasına göre herkes ifade özgürlüğü hakkına sahiptir; bu hak kamu makamlarının müdahalesi olmaksızın ve ülke sınırları gözetilmeksizin kanaat özgürlüğünü ve haber ve görüş alma ve verme özgürlüğünü kapsar. Madde, Devletlerin radyo, televizyon ve sinema işletmelerini bir izin rejimine tabi tutmalarına engel değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Avrupa İnsan Hakları Sözleşmesi m. 10/1"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-077",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Avrupa İnsan Hakları Sözleşmesinin 13. maddesine göre Sözleşmede tanınmış hak ve özgürlükleri ihlal edilen herkes hangi hakka sahiptir?",
+    "options": {
+      "A": "Uluslararası bir tahkim kurulunda yargılanma hakkına",
+      "B": "Ihlalin tespiti için Avrupa Konseyi Genel Sekreterine başvurma hakkına",
+      "C": "Ihlali gerçekleştiren kamu görevlisinin görevden uzaklaştırılmasını isteme hakkına",
+      "D": "Doğrudan Avrupa İnsan Hakları Mahkemesinde dava açma hakkına",
+      "E": "Ulusal bir merci önünde etkili bir yola başvurma hakkına"
+    },
+    "answer": "E",
+    "solution": "Sözleşmenin 13. maddesi (etkili başvuru hakkı), Sözleşmede tanınmış hak ve özgürlükleri ihlal edilen herkesin, ihlal resmî bir hizmetin ifası için davranan kişilerce gerçekleştirilmiş olsa dahi, ulusal bir merci önünde etkili bir yola başvurma hakkına sahip olduğunu belirtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Avrupa İnsan Hakları Sözleşmesi m. 13"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-078",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Çocuk Haklarına Dair Sözleşmenin 1. maddesine göre çocuk kimdir?",
+    "options": {
+      "A": "Ergenlik dönemini tamamlamamış her insan",
+      "B": "Zorunlu eğitim çağının sonuna kadar her insan",
+      "C": "Daha erken yaşta reşit olma durumu hariç, on altı yaşına kadar her insan",
+      "D": "Daha erken yaşta reşit olma durumu hariç, onsekiz yaşına kadar her insan",
+      "E": "Daha erken yaşta reşit olma durumu da dahil, yirmi bir yaşına kadar her insan"
+    },
+    "answer": "D",
+    "solution": "Sözleşmenin 1. maddesine göre çocuğa uygulanabilecek kanuna göre daha erken yaşta reşit olma durumu hariç, onsekiz yaşına kadar her insan çocuk sayılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çocuk Haklarına Dair Sözleşme m. 1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-079",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Çocukları ilgilendiren bütün faaliyetlerde Çocuk Haklarına Dair Sözleşmenin 3. maddesine göre temel düşünce nedir?",
+    "options": {
+      "A": "Ailenin tercihi",
+      "B": "Kamu düzeninin korunması",
+      "C": "Devletin kaynak durumu",
+      "D": "Çocuğun yararı",
+      "E": "Kurumun idarî yararı"
+    },
+    "answer": "D",
+    "solution": "Sözleşmenin 3. maddesine göre kamusal ya da özel sosyal yardım kuruluşları, mahkemeler, idarî makamlar veya yasama organları tarafından yapılan ve çocukları ilgilendiren bütün faaliyetlerde çocuğun yararı temel düşüncedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çocuk Haklarına Dair Sözleşme m. 3/1"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-080",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir okul yönetimi, bir öğrenciye ilişkin disiplin kararı verirken öğrencinin görüşünü hiç almamıştır. Bu uygulama Çocuk Haklarına Dair Sözleşmenin hangi hakkıyla çelişir?",
+    "options": {
+      "A": "Çocuğun ayrımcılığa uğramama ve ana-babasının durumu nedeniyle cezalandırılmama hakkı (m. 2)",
+      "B": "Çocuğun yaşama hakkı ile sağlıklı gelişmesinin mümkün olduğunca güvenceye alınması (m. 6)",
+      "C": "Görüşlerini oluşturma yeteneğine sahip çocuğun, kendini ilgilendiren konularda görüşlerini serbestçe ifade etme ve dinlenilme hakkı (m. 12)",
+      "D": "Çocuğun dinlenme, boş zaman, oyun ve kültürel hayata katılma hakkı (m. 31)",
+      "E": "Çocuğun eğitim hakkı ve bu hakkın fırsat eşitliği temelinde gerçekleştirilmesi (m. 28)"
+    },
+    "answer": "C",
+    "solution": "Sözleşmenin 12. maddesine göre Taraf Devletler görüşlerini oluşturma yeteneğine sahip çocuğun kendini ilgilendiren her konuda görüşlerini yaşı ve olgunluk derecesine uygun olarak serbestçe ifade etme hakkını tanırlar; çocuğu etkileyen adli veya idarî kovuşturmalarda çocuğa dinlenilme fırsatı sağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çocuk Haklarına Dair Sözleşme m. 12"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-081",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Çocuk Haklarına Dair Sözleşmenin 28. maddesine göre Taraf Devletler, çocuğun eğitim hakkının gerçekleştirilmesi için ilköğretim konusunda hangi yükümlülüğü üstlenir?",
+    "options": {
+      "A": "İlköğretimi zorunlu, ancak ücretli bırakmak",
+      "B": "İlköğretimi isteğe bağlı bırakıp yüksek öğretimi parasız kılmak",
+      "C": "İlköğretimi herkes için zorunlu ve parasız hâle getirmek",
+      "D": "İlköğretim ile ortaöğretimi birlikte zorunlu hâle getirmek",
+      "E": "İlköğretimi yalnızca devlet okullarında parasız, özel okullarda ücretli kılmak"
+    },
+    "answer": "C",
+    "solution": "Sözleşmenin 28. maddesine göre Taraf Devletler çocuğun eğitim hakkını kabul ederler ve bu hakkı fırsat eşitliği temelinde tedricen gerçekleştirmek için özellikle ilköğretimi herkes için zorunlu ve parasız hâle getirirler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çocuk Haklarına Dair Sözleşme m. 28/1-a"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-082",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Çocuk Haklarına Dair Sözleşmenin 29. maddesine göre çocuk eğitiminin yönelmesi gereken amaçlardan biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Çocuğun sınav başarısına göre yönlendirilmesi ve rekabet duygusunun diğer bütün hedeflerden önce geliştirilmesi",
+      "B": "Çocuğun ailesinin kararlarına tam olarak bağlı kalacak ve kendi görüşlerini oluşturamayacak biçimde yetiştirilmesi",
+      "C": "Çocuğun ulusal değerlere bağlılığının farklı kültürlere saygıdan önce geliştirilmesi",
+      "D": "Çocuğun kişiliğinin, yeteneklerinin, zihinsel ve bedensel yeteneklerinin mümkün olduğunca geliştirilmesi",
+      "E": "Çocuğun ekonomik hayata mümkün olan en erken yaşta hazırlanması ve meslek edindirilmesi"
+    },
+    "answer": "D",
+    "solution": "Sözleşmenin 29. maddesine göre Taraf Devletler çocuk eğitiminin çocuğun kişiliğinin, yeteneklerinin, zihinsel ve bedensel yeteneklerinin mümkün olduğunca geliştirilmesine; insan haklarına ve temel özgürlüklere saygının geliştirilmesine; ana-babaya, kültürel kimliğe, dil ve değerlere ve farklı uygarlıklara saygının geliştirilmesine yönelik olmasını kabul ederler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çocuk Haklarına Dair Sözleşme m. 29"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-083",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Kamu kurumunda çalışan bir memur, amiri tarafından dini inanç ve kanaatlerini açıklamaya zorlanmak istenmiştir. Anayasa'nın 24. maddesine göre bu durum hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Kamu görevlileri dini inanç ve kanaatlerini açıklamakla yükümlüdür",
+      "B": "Kanunla öngörülen hâllerde açıklamaya zorlanabilir",
+      "C": "Güvenlik soruşturmasında açıklama zorunludur",
+      "D": "Kimse dini inanç ve kanaatlerini açıklamaya zorlanamaz",
+      "E": "Amirin yazılı emri hâlinde açıklama yapılabilir"
+    },
+    "answer": "D",
+    "solution": "24. maddeye göre kimse, ibadete, dini ayin ve törenlere katılmaya, dini inanç ve kanaatlerini açıklamaya zorlanamaz; dini inanç ve kanaatlerinden dolayı kınanamaz ve suçlanamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 24/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-084",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasa'nın 66. maddesine göre vatandaşlığın kazanılması ve kaybedilmesi nasıl düzenlenmiştir?",
+    "options": {
+      "A": "Yargı kararıyla kazanılır, idari kararla kaybedilir",
+      "B": "Cumhurbaşkanı kararıyla kazanılır ve kaybedilir",
+      "C": "Doğum yerine göre kazanılır, kanunla kaybedilemez",
+      "D": "Yabancılık kanunlarına göre kazanılır, seçimle kaybedilir",
+      "E": "Kanunun gösterdiği şartlarla kazanılır, ancak kanunda belirtilen hâllerde kaybedilir"
+    },
+    "answer": "E",
+    "solution": "66. maddeye göre vatandaşlık, kanunun gösterdiği şartlarla kazanılır ve ancak kanunda belirtilen hâllerde kaybedilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 66/3"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-085",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir kurulun görev ve yetkileri şöyle anlatılmıştır:\n\n“Seçimlerin başlamasından bitimine kadar seçimin düzen içinde yönetimi ve dürüstlüğüyle ilgili bütün işlemleri yapar ve yaptırır; seçim konularıyla ilgili yolsuzlukları, şikâyet ve itirazları inceleyip kesin karara bağlar. Kararları aleyhine başka bir mercie başvurulamaz. Yedi asıl ve dört yedek üyeden oluşur; üyelerin altısı Yargıtay, beşi Danıştay Genel Kurullarınca kendi üyeleri arasından seçilir.”\n\nBu bilgiler aşağıdaki kurullardan hangisine aittir?",
+    "options": {
+      "A": "Sayıştay",
+      "B": "Yüksek Seçim Kurulu",
+      "C": "Devlet Denetleme Kurulu",
+      "D": "Anayasa Mahkemesi",
+      "E": "Hâkimler ve Savcılar Kurulu"
+    },
+    "answer": "B",
+    "solution": "Madde 79'a göre seçimler yargı organlarının genel yönetim ve denetimi altında yapılır; Yüksek Seçim Kurulu yedi asıl ve dört yedek üyeden oluşur, üyelerin altısını Yargıtay, beşini Danıştay seçer ve kararları aleyhine başka bir mercie başvurulamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 79"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-086",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "TBMM Başkanlık Divanı ile ilgili aşağıdaki ifadelerden hangileri doğrudur?\n\nI. Siyasi parti grupları Başkanlık için aday gösteremez.\n\nII. Başkan seçimi açık oyla yapılır.\n\nIII. Bir yasama döneminde Başkanlık Divanı için iki seçim yapılır.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "D",
+    "solution": "Madde 94'e göre siyasi parti grupları Başkanlık için aday gösteremez; Başkan seçimi gizli oyla yapılır; bir yasama döneminde Başkanlık Divanı için iki seçim yapılır (ilk seçilenlerin görev süresi iki yıldır).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 94"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-087",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir hukuk kitabında seçimlerin ertelenmesi şöyle anlatılmıştır:\n\n“Savaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, seçimlerin bir yıl geriye bırakılmasına karar verilebilir. Geri bırakma sebebi ortadan kalkmamışsa erteleme kararındaki usulle bu işlem tekrarlanabilir. Üyeliklerde boşalma olursa ara seçime gidilir; ancak genel seçimlere bir yıl kala ara seçim yapılamaz.”\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Savaş hâlinde seçimlerin ertelenebileceğine",
+      "B": "Ara seçimlere sınırlama getirildiğine",
+      "C": "Genel seçime yakın dönemde ara seçim yapılamayacağına",
+      "D": "Erteleme kararını Cumhurbaşkanının verdiğine",
+      "E": "Erteleme kararının yinelenebileceğine"
+    },
+    "answer": "D",
+    "solution": "Madde 78'e göre seçimlerin bir yıl geriye bırakılmasına karar veren organ Türkiye Büyük Millet Meclisidir (Cumhurbaşkanı değil); karar yinelenebilir ve genel seçimlere bir yıl kala ara seçim yapılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 78"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-088",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Milletvekilliğinin düşmesiyle ilgili aşağıdaki ifadelerden hangileri doğrudur?\n\nI. İstifa eden milletvekilinin milletvekilliğinin düşmesi Genel Kurulca kararlaştırılır.\n\nII. Kesin hüküm giyme hâlinde düşme, mahkeme kararının Genel Kurula bildirilmesiyle olur.\n\nIII. Meclis çalışmalarına bir ayda beş birleşim günü özürsüz katılmayan milletvekilinin üyeliği kendiliğinden düşer.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Madde 84'e göre istifada düşmeyi Genel Kurul kararlaştırır; kesin hüküm giymede düşme kararın Genel Kurula bildirilmesiyle olur; bir ayda beş birleşim günü katılmayanın üyeliğinin düşmesine ise Genel Kurulca üye tamsayısının salt çoğunluğuyla karar verilebilir (kendiliğinden düşmez).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 84"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-089",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir anayasa hukuku dersinde şu bilgi verilmiştir:\n\n“Milletlerarası hukukun meşru saydığı hâllerde savaş hâli ilanına ve Türk Silahlı Kuvvetlerinin yabancı ülkelere gönderilmesine ya da yabancı silahlı kuvvetlerin Türkiye'de bulunmasına izin verme yetkisi, belli istisnalar saklı kalmak üzere, tek bir organa aittir. Ülkenin ani bir silahlı saldırıya uğraması hâlinde bu organ tatildeyse silahlı kuvvet kullanımına devlet başkanı da karar verebilir.”\n\nSözü edilen yetkili organ aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Millî Güvenlik Kurulu",
+      "B": "Cumhurbaşkanlığı Kabinesi",
+      "C": "Türkiye Büyük Millet Meclisi",
+      "D": "Genelkurmay Başkanlığı",
+      "E": "Anayasa Mahkemesi"
+    },
+    "answer": "C",
+    "solution": "Madde 92'ye göre savaş hâli ilanı ve silahlı kuvvetlerin yurt dışına gönderilmesine ya da yabancı silahlı kuvvetlerin Türkiye'de bulunmasına izin verme yetkisi TBMM'nindir; ani saldırıda Meclis tatildeyse Cumhurbaşkanı da karar verebilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 92"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-090",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "TBMM'nin toplanmasıyla ilgili aşağıdaki ifadelerden hangileri doğrudur?\n\nI. Her yıl Ekim ayının ilk günü kendiliğinden toplanır.\n\nII. Bir yasama yılında en çok altı ay tatil yapabilir.\n\nIII. Tatil sırasında yalnızca Cumhurbaşkanı Meclisi toplantıya çağırabilir.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "A",
+    "solution": "Madde 93'e göre Meclis her yıl Ekim ayının ilk günü kendiliğinden toplanır; bir yasama yılında en çok üç ay (altı ay değil) tatil yapabilir; tatil sırasında Cumhurbaşkanı toplantıya çağırabilir, Meclis Başkanı da doğrudan ya da üyelerin beşte birinin istemiyle Meclisi toplantıya çağırır (yalnızca Cumhurbaşkanı değil).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 93"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-091",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir araştırmacı, bir organın çalışma esaslarını şöyle özetlemiştir:\n\n“Organ, çalışmalarını kendi yaptığı içtüzük hükümlerine göre yürütür. Siyasi parti grupları en az yirmi üyeden oluşur. Bütün işlerinde üye tamsayısının en az üçte biri ile toplanır; Anayasada başka hüküm yoksa toplantıya katılanların salt çoğunluğuyla karar verir. Genel kurul görüşmeleri tutanak dergisinde tam olarak yayımlanır.”\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Meclisin kendi çalışma kurallarını koyduğuna",
+      "B": "Toplantı için asgari katılım şartı arandığına",
+      "C": "Parti gruplarının kuruluşunda sayı şartı bulunduğuna",
+      "D": "Görüşmelerin kural olarak kapalı yapıldığına",
+      "E": "Kararların çoğunlukla alındığına"
+    },
+    "answer": "D",
+    "solution": "Madde 95–97'ye göre Meclis çalışmalarını kendi içtüzüğüne göre yürütür, parti grupları en az yirmi üyeden oluşur, toplantı yeter sayısı üye tamsayısının en az üçte biridir ve Genel Kurul görüşmeleri açıktır; kapalı oturum içtüzük hükümlerine göre yapılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 95–97"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-092",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Yasama dokunulmazlığının kaldırılmasına ya da milletvekilliğinin düşmesine Genel Kurulca karar verilmesi hâlinde ilgili milletvekili, kararın Anayasaya, kanuna veya İçtüzüğe aykırılığı iddiasıyla iptal için Anayasa Mahkemesine başvurabilir.\n\nBu başvuru ve karar için Anayasa'da öngörülen süreler (başvuru süresi – Anayasa Mahkemesinin karar süresi) aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "Yedi gün – onbeş gün",
+      "B": "Otuz gün – doksan gün",
+      "C": "Yedi gün – altmış gün",
+      "D": "On gün – otuz gün",
+      "E": "Onbeş gün – otuz gün"
+    },
+    "answer": "A",
+    "solution": "Madde 85'e göre Genel Kurul kararının alındığı tarihten başlayarak yedi gün içinde başvurulabilir; Anayasa Mahkemesi iptal istemini onbeş gün içinde kesin karara bağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 85"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-093",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir kurumla ilgili şu bilgiler verilmiştir:\n\n“Cumhurbaşkanlığına bağlıdır; idarenin hukuka uygunluğunun, düzenli ve verimli yürütülmesinin sağlanması amacıyla Cumhurbaşkanının isteği üzerine kamu kurum ve kuruluşlarında idari soruşturma, inceleme, araştırma ve denetlemeler yapar. Yargı organları bu kurumun görev alanı dışındadır. Başkan ve üyeleri Cumhurbaşkanınca atanır.”\n\nBu bilgiler aşağıdaki kurumlardan hangisine aittir?",
+    "options": {
+      "A": "Sayıştay",
+      "B": "Devlet Denetleme Kurulu",
+      "C": "Millî Güvenlik Kurulu",
+      "D": "Danıştay",
+      "E": "Kamu Denetçiliği Kurumu"
+    },
+    "answer": "B",
+    "solution": "Madde 108'e göre Cumhurbaşkanlığına bağlı Devlet Denetleme Kurulu, Cumhurbaşkanının isteği üzerine kamu kurum ve kuruluşlarında denetim yapar; yargı organları görev alanı dışındadır, Başkan ve üyeleri Cumhurbaşkanınca atanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 108"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-094",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir ders notunda Cumhurbaşkanlığı seçimiyle ilgili şunlar yazılmıştır:\n\n“Aday, kırk yaşını doldurmuş, yükseköğrenim yapmış ve milletvekili seçilme yeterliliğine sahip bir Türk vatandaşı olmalıdır. Cumhurbaşkanı doğrudan halk tarafından seçilir; görev süresi beş yıldır ve bir kimse en fazla iki defa seçilebilir. Adaylığı, en son genel seçimde en az yüzde beş oy almış partiler veya en az yüzbin seçmen önerebilir. Cumhurbaşkanı seçilen milletvekilinin Meclis üyeliği sona erer.”\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Seçimin halk oyuyla yapıldığına",
+      "B": "Görev süresinin sınırlı olduğuna",
+      "C": "Aday olmak için yaş ve öğrenim şartı arandığına",
+      "D": "Bağımsız adaylığın seçmen desteğiyle mümkün olduğuna",
+      "E": "Cumhurbaşkanının Meclis tarafından seçildiğine"
+    },
+    "answer": "E",
+    "solution": "Madde 101'e göre Cumhurbaşkanı doğrudan halk tarafından seçilir; Meclis tarafından seçilmez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 101"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-095",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Cumhurbaşkanlığı makamının boşalması ve geçici ayrılma hâlleriyle ilgili aşağıdaki ifadelerden hangileri doğrudur?\n\nI. Makam herhangi bir nedenle boşalırsa kırkbeş gün içinde Cumhurbaşkanı seçimi yapılır.\n\nII. Yenisi seçilene kadar TBMM Başkanı Cumhurbaşkanlığına vekâlet eder.\n\nIII. Hastalık veya yurt dışına çıkma gibi geçici ayrılmalarda Cumhurbaşkanı yardımcısı vekâlet eder.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Madde 106'ya göre makam boşalırsa kırkbeş gün içinde seçim yapılır; yenisi seçilene kadar ve geçici ayrılmalarda Cumhurbaşkanı yardımcısı vekâlet eder (TBMM Başkanı vekâlet etmez).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 106"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-096",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir anayasa kitabında bakanlarla ilgili şu açıklama yer almaktadır:\n\n“Cumhurbaşkanı yardımcıları ve bakanlar, milletvekili seçilme yeterliliğine sahip olanlar arasından Cumhurbaşkanı tarafından atanır ve görevden alınır. Türkiye Büyük Millet Meclisi önünde andiçerler. Meclis üyeleri bakan olarak atanırlarsa üyelikleri sona erer. Cumhurbaşkanı yardımcıları ve bakanlar, Cumhurbaşkanına karşı sorumludur.”\n\nBu açıklamaya göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Bakan olan milletvekilinin üyeliğinin sona erdiğine",
+      "B": "Bakanların siyasi sorumluluğunun Cumhurbaşkanına karşı olduğuna",
+      "C": "Bakanların Meclis önünde andiçtiğine",
+      "D": "Bakanların göreve başlamak için Meclisten güvenoyu aldığına",
+      "E": "Bakanların atamasını Cumhurbaşkanının yaptığına"
+    },
+    "answer": "D",
+    "solution": "Madde 106'ya göre bakanlar Cumhurbaşkanı tarafından atanır ve görevden alınır, Cumhurbaşkanına karşı sorumludur; Meclisten güvenoyu alma uygulaması yoktur (güvenoyu hükümleri 2017'de kaldırılmıştır).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 106"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-097",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Seçimlerin yenilenmesiyle ilgili aşağıdaki değerlendirmelerden hangilerine ulaşılabilir?\n\nI. TBMM seçimleri ile Cumhurbaşkanlığı seçimi birlikte yenilenir.\n\nII. Cumhurbaşkanının ikinci döneminde Meclisin kararıyla seçim yenilenirse Cumhurbaşkanı bir defa daha aday olabilir.\n\nIII. Seçimlerin yenilenmesine yalnızca Meclis karar verebilir.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "C",
+    "solution": "Madde 116'ya göre TBMM üye tamsayısının beşte üçüyle seçimlerin yenilenmesine karar verebilir; Cumhurbaşkanı da yenilenmesine karar verebilir; seçimler birlikte yapılır ve ikinci dönemde Meclis kararıyla yenilemede Cumhurbaşkanı bir defa daha aday olabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 116"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-098",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir kurulun yapısı şöyle tanıtılmıştır:\n\n“Cumhurbaşkanının başkanlığında toplanır. Üyeleri arasında Cumhurbaşkanı yardımcıları, adalet, millî savunma, iç işleri ve dış ilişkilerden sorumlu bakanlar, silahlı kuvvetlerin komutanı konumundaki Genelkurmay Başkanı ile kara, deniz ve hava kuvvetleri komutanları yer alır. Cumhurbaşkanı katılamazsa bir Cumhurbaşkanı yardımcısının başkanlığında toplanır.”\n\nBu metinde aşağıdakilerden hangisine değinilmemiştir?",
+    "options": {
+      "A": "Jandarma Genel Komutanı",
+      "B": "Adalet Bakanı",
+      "C": "Kara Kuvvetleri Komutanı",
+      "D": "Dışişleri Bakanı",
+      "E": "Cumhurbaşkanı yardımcıları"
+    },
+    "answer": "A",
+    "solution": "Madde 118'e göre Millî Güvenlik Kurulu; Cumhurbaşkanı yardımcıları, Adalet, Millî Savunma, İçişleri, Dışişleri Bakanları, Genelkurmay Başkanı ve Kara, Deniz, Hava kuvvetleri komutanlarından kurulur; Jandarma Genel Komutanı üye değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 118"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-099",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir hukuk bülteninde olağanüstü hâl şöyle özetlenmiştir:\n\n“Savaş, ayaklanma, kuvvetli ve eylemli bir kalkışma, tabii afet, tehlikeli salgın hastalık veya ağır ekonomik bunalım hâllerinde, yurdun tamamında veya bir bölgesinde, süresi altı ayı geçmemek üzere ilan edilir. Karar ilan edildiği gün Resmî Gazetede yayımlanır ve aynı gün Meclisin onayına sunulur; uzatma kararlarında süre her defasında dört ayı aşamaz, savaşta bu süre aranmaz.”\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "İlk ilan süresinin altı ayla sınırlı olduğuna",
+      "B": "İlanın Meclis onayına sunulduğuna",
+      "C": "Salgın hastalığın ilan nedeni sayıldığına",
+      "D": "Olağanüstü hâlin yalnızca yurdun tamamında ilan edilebileceğine",
+      "E": "Savaşta uzatma süresinin sınırlanmadığına"
+    },
+    "answer": "D",
+    "solution": "Madde 119'a göre olağanüstü hâl yurdun tamamında veya bir bölgesinde ilan edilebilir; ilk süre altı ayı geçemez, uzatmalar dört ayı geçemez (savaşta aranmaz) ve ilan aynı gün Meclis onayına sunulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 119"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-100",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir kamu hukuku kitabında şu tanım yer almaktadır:\n\n“Bu kuruluşlar, il, belediye veya köy halkının mahalli müşterek ihtiyaçlarını karşılamak üzere kuruluş esasları kanunla belirtilen ve karar organları seçmenler tarafından seçilerek oluşturulan kamu tüzelkişileridir. Seçimleri beş yılda bir yapılır.”\n\nBu tanım aşağıdakilerden hangisine aittir?",
+    "options": {
+      "A": "Kamu iktisadi teşebbüsleri",
+      "B": "Mahalli idareler",
+      "C": "Bağımsız idari otoriteler",
+      "D": "Merkezi idare kuruluşları",
+      "E": "Kamu kurumu niteliğindeki meslek kuruluşları"
+    },
+    "answer": "B",
+    "solution": "Madde 127'ye göre mahalli idareler il, belediye veya köy halkının mahalli müşterek ihtiyaçlarını karşılamak üzere kurulan, karar organları seçmenlerce seçilen kamu tüzelkişileridir; seçimleri beş yılda bir yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 127"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-101",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir anayasa hukuku dersinde yargıyla ilgili şu bilgiler verilmiştir:\n\n“Hiçbir organ, makam, merci veya kişi, yargı yetkisinin kullanılmasında mahkemelere ve hâkimlere emir ve talimat veremez; genelge gönderemez; tavsiye ve telkinde bulunamaz. Görülmekte olan bir dava hakkında Yasama Meclisinde yargı yetkisinin kullanılmasıyla ilgili soru sorulamaz, görüşme yapılamaz.”\n\nBu bilgiler aşağıdaki ilkelerden hangisiyle doğrudan ilgilidir?",
+    "options": {
+      "A": "Duruşmaların açıklığı",
+      "B": "Hâkimlerin azlolunamaması",
+      "C": "Kanunî hâkim ilkesi",
+      "D": "Mahkemelerin bağımsızlığı",
+      "E": "Kararların gerekçeli olması"
+    },
+    "answer": "D",
+    "solution": "Madde 138 hâkimlerin görevlerinde bağımsız olduğunu ve hiçbir organın mahkemelere emir, talimat, genelge, tavsiye ve telkinde bulunamayacağını düzenler; bu, mahkemelerin bağımsızlığı ilkesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 138"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-102",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir hukuk makalesinde hâkimlik teminatı şöyle anlatılmıştır:\n\n“Hâkimler ve savcılar azlolunamaz; kendileri istemedikçe Anayasada gösterilen yaştan önce emekliye ayrılamaz; bir mahkemenin veya kadronun kaldırılması sebebiyle de olsa aylık, ödenek ve diğer özlük haklarından yoksun kılınamaz. Meslekten çıkarılmayı gerektiren bir suçtan hüküm giyenler gibi hâllerde kanundaki istisnalar saklıdır.”\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Teminatın hâkimlerin bağımsızlığına hizmet ettiğine",
+      "B": "Hâkimlik teminatının kanunla istisnalandırılabildiğine",
+      "C": "Hâkimlerin hiçbir koşulda görevden alınamayacağına",
+      "D": "Kadro kaldırılsa bile özlük haklarının korunduğuna",
+      "E": "Hâkimlerin kendi istekleri dışında emekli edilemeyeceğine"
+    },
+    "answer": "C",
+    "solution": "Madde 139'a göre hâkimler ve savcılar azlolunamaz, ancak meslekten çıkarılmayı gerektiren suç, sağlık nedeniyle görev yapamama gibi kanundaki istisnalar saklıdır; bu nedenle hiçbir koşulda görevden alınamayacakları söylenemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 139"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-103",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Duruşma ve kararlarla ilgili aşağıdaki ifadelerden hangileri doğrudur?\n\nI. Duruşmalar kural olarak kapalı yapılır, açıklık istisnadır.\n\nII. Duruşmaların kapalı yapılması yalnızca genel ahlakın veya kamu güvenliğinin kesin olarak gerekli kıldığı hâllerde mümkündür.\n\nIII. Kararların gerekçeli yazılması, mahkemenin takdirine bırakılmıştır.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Madde 141'e göre duruşmalar herkese açıktır (kapalılık istisnadır); kapalı yapılması ancak genel ahlak veya kamu güvenliğinin kesin olarak gerekli kıldığı hâllerde mümkündür; bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır (takdire bağlı değildir).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 141"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-104",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir kamu hukuku sınavında şu bilgi verilmiştir:\n\n“Hâkimler ve savcılar adli ve idari yargı hâkim ve savcıları olarak görev yapar. Altmışbeş yaşını bitirinceye kadar hizmet görürler; kanunda belirtilenlerden başka resmî ve özel hiçbir görev alamazlar. Hâkimler ve savcılar idari görevleri yönünden bir bakanlığa bağlıdırlar.”\n\nMetindeki boşluğa gelen kurum aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yargıtay Başkanlığı",
+      "B": "Adalet Bakanlığı",
+      "C": "Hâkimler ve Savcılar Kurulu",
+      "D": "Cumhurbaşkanlığı Genel Sekreterliği",
+      "E": "İçişleri Bakanlığı"
+    },
+    "answer": "B",
+    "solution": "Madde 140'a göre hâkimler ve savcılar idari görevleri yönünden Adalet Bakanlığına bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 140"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-105",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir hukuk kitabında askerî mahkemelerle ilgili şu bilgi yer almaktadır:\n\n“Disiplin mahkemeleri dışında askerî mahkemeler kurulamaz. Ancak savaş hâlinde, asker kişilerin görevleriyle ilgili olarak işledikleri suçlara ait davalara bakmakla görevli askerî mahkemeler kurulabilir.”\n\nBu bilgiye göre aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Barış zamanında disiplin mahkemeleri dışında askerî mahkeme kurulamaz",
+      "B": "Askerî mahkemeler siviller için de yetkilidir",
+      "C": "Disiplin mahkemeleri de yasaklanmıştır",
+      "D": "Savaş hâlinde hiçbir mahkeme kurulamaz",
+      "E": "Askerî mahkemeler kalıcı olarak kurulabilir"
+    },
+    "answer": "A",
+    "solution": "Madde 142'ye göre disiplin mahkemeleri dışında askerî mahkemeler kurulamaz; yalnızca savaş hâlinde asker kişilerin görevleriyle ilgili suçlara bakmakla görevli askerî mahkemeler kurulabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 142"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-106",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasa Mahkemesi üyelerinin belirlenmesiyle ilgili şu açıklama verilmiştir:\n\n“Onbeş üyeden oluşan Mahkemeye; Cumhurbaşkanı üç üyeyi Yargıtay ve iki üyeyi Danıştay genel kurullarının, üç üyeyi de Yükseköğretim Kurulunun göstereceği adaylar arasından seçer. Türkiye Büyük Millet Meclisi ise iki üyeyi Sayıştay Genel Kurulunun gösterdiği adaylar arasından seçer.”\n\nBu açıklamada aşağıdaki kurumlardan hangisine değinilmemiştir?",
+    "options": {
+      "A": "Sayıştay",
+      "B": "Hâkimler ve Savcılar Kurulu",
+      "C": "Yükseköğretim Kurulu",
+      "D": "Danıştay",
+      "E": "Yargıtay"
+    },
+    "answer": "B",
+    "solution": "Madde 146'ya göre Anayasa Mahkemesi üyeleri için Yargıtay, Danıştay, Sayıştay genel kurulları ve Yükseköğretim Kurulu aday gösterir; baro başkanları da serbest avukatlar arasından aday gösterir. Hâkimler ve Savcılar Kurulu aday göstermez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 146"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-107",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Anayasa Mahkemesi üyeleriyle ilgili aşağıdaki değerlendirmelerden hangilerine ulaşılabilir?\n\nI. Üyeler altı yıl için seçilir.\n\nII. Bir kimse iki defa Anayasa Mahkemesi üyesi seçilemez.\n\nIII. Üyeler altmışbeş yaşını doldurunca emekliye ayrılır.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Madde 147'ye göre Anayasa Mahkemesi üyeleri oniki yıl (altı yıl değil) için seçilir, bir kimse iki defa üye seçilemez ve üyeler altmışbeş yaşını doldurunca emekliye ayrılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 147"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-mev-anayasa-108",
+    "ders": "mevzuat",
+    "konu": "anayasa_insan_haklari",
+    "stem": "Bir hukuk bülteninde Anayasa Mahkemesinin Yüce Divan sıfatıyla yargıladığı kişiler sayılmıştır: Cumhurbaşkanı, Türkiye Büyük Millet Meclisi Başkanı, Cumhurbaşkanı yardımcıları, bakanlar, yüksek mahkemelerin ve Sayıştayın başkan ve üyeleri ile Genelkurmay Başkanı. Bunlar görevleriyle ilgili suçlardan dolayı yargılanırlar.\n\nAşağıdakilerden hangisi bu kapsamda Yüce Divanda yargılananlar arasında sayılmamıştır?",
+    "options": {
+      "A": "Genelkurmay Başkanı",
+      "B": "Valiler",
+      "C": "Danıştay Başkan ve üyeleri",
+      "D": "Sayıştay Başkan ve üyeleri",
+      "E": "Bakanlar"
+    },
+    "answer": "B",
+    "solution": "Madde 148'e göre Anayasa Mahkemesi Cumhurbaşkanını, TBMM Başkanını, Cumhurbaşkanı yardımcılarını, bakanları, yüksek mahkeme başkan ve üyelerini, Sayıştay Başkan ve üyelerini ve Genelkurmay Başkanını görevleriyle ilgili suçlardan Yüce Divan sıfatıyla yargılar; valiler bu kapsamda değildir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "T.C. Anayasası m. 148"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "ags-egt-tms-001",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Otuz beş yaşındaki Fatma Hanım, çocukluğunda okula hiç gidememiştir. Mahalledeki halk eğitim merkezinin açtığı okuma-yazma kursuna her akşam devam etmektedir. Kursun amacı, okuma-yazma bilmeyen yetişkinlere eksik kalan eğitimlerini tamamlama olanağı sağlamaktır.\n\nBu çalışma Türk millî eğitim sisteminin hangi ana bölümünde yer alır?",
+    "options": {
+      "A": "Ortaöğretim",
+      "B": "Okul öncesi eğitim",
+      "C": "Yükseköğretim",
+      "D": "Yaygın eğitim",
+      "E": "Örgün eğitim"
+    },
+    "answer": "D",
+    "solution": "Yaygın eğitim, örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümünü kapsar; okuma-yazma öğretme yaygın eğitimin amaçlarındandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Genel yapı: yaygın eğitim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-002",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Millî Eğitim Bakanlığında çalışan bir uzman, öğrencilere ülkenin eğitim sisteminin nasıl kurulduğunu anlatacaktır. Hazırladığı sunuda sistemin kanunda belirtilen iki ana bölümden oluştuğunu, her bölümün de kendi içinde farklı kurumları kapsadığını göstermek istemektedir.\n\nUzmanın sunuda vurgulaması gereken iki ana bölüm aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Örgün eğitim ve yaygın eğitim",
+      "B": "Zorunlu eğitim ve isteğe bağlı eğitim",
+      "C": "Resmî eğitim ve özel eğitim",
+      "D": "Genel eğitim ve mesleki eğitim",
+      "E": "Temel eğitim ve yükseköğretim"
+    },
+    "answer": "A",
+    "solution": "1739 sayılı Kanun'a göre Türk millî eğitim sistemi, örgün eğitim ve yaygın eğitim olmak üzere iki ana bölümden kurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Genel yapı: iki ana bölüm"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-003",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilçe millî eğitim müdürlüğü, ilçedeki eğitim kurumlarının yapısını bir bilgilendirme toplantısında anlatmaktadır. Toplantıda, örgün eğitimin kanunda sayılan kurumlarını kapsadığı, bunların dışında kalan etkinliklerin ise yaygın eğitime girdiği belirtilmektedir. Toplantıya okul müdürleri ve veli temsilcileri de katılmış, sorular dinlenmiştir.\n\nAşağıdakilerden hangisi örgün eğitim kapsamında yer almaz?",
+    "options": {
+      "A": "Anadolu lisesinde verilen ortaöğretim",
+      "B": "Halk eğitim merkezinde açılan el sanatları kursu",
+      "C": "Anaokuluna bağlı anasınıfında verilen eğitim",
+      "D": "Üniversitede verilen lisans eğitimi",
+      "E": "Devlet ilkokulunda verilen zorunlu eğitim"
+    },
+    "answer": "B",
+    "solution": "Örgün eğitim, okul öncesi eğitimi, ilköğretim, ortaöğretim ve yükseköğretim kurumlarını kapsar; halk eğitim merkezi kursları yaygın eğitimdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Genel yapı: örgün eğitim kapsamı (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-004",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Ortaokul öğrencisi Selin, hafta içi okuluna devam etmekte, hafta sonları da belediyenin açtığı resim kursuna gitmektedir. Selin'in annesi, kızının hem okulda hem kursta eğitim aldığını, iki eğitimin birbirinden farklı sistemlerde yürüdüğünü düşünmektedir. Annesi her iki etkinliğin de kızının gelişimine katkı sağladığını düşünmektedir.\n\nSelin'in resim kursundaki eğitimi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Örgün eğitimin ortaöğretim kademesindeki seçmeli ders",
+      "B": "Örgün eğitimin ortaokul kademesinde verilen ders",
+      "C": "Örgün eğitim yanında düzenlenen yaygın eğitim",
+      "D": "Okul öncesi eğitim kurumunda verilen eğitim",
+      "E": "Yükseköğretim düzeyinde verilen eğitim"
+    },
+    "answer": "C",
+    "solution": "Yaygın eğitim, örgün eğitim yanında veya dışında düzenlenen etkinliklerdir; öğrencinin okula devam ederken katıldığı kurs, örgün eğitim yanında yaygın eğitimdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Genel yapı: örgün eğitim yanında yaygın eğitim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-005",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Beş yaşındaki Deniz'in annesi, çocuğunu anaokuluna göndermemeyi tercih etmiştir. Okul müdürü, çocuğun okula devam etmemesinin yasal bir yükümlülüğün ihlali olup olmadığını araştırmaktadır. Aile, çocuğa evde okuma ve oyun etkinlikleri yaptırmaktadır. Aile bu kararı çocuğun gelişimine uygun olduğu gerekçesiyle vermiştir.\n\nKanuna göre bu durum için aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Okul öncesi eğitim kırsal bölgelerde isteğe bağlı olup kentlerde çocukların devamı kanunla zorunlu kılınmıştır",
+      "B": "Okul öncesi eğitim zorunlu olduğundan çocuğun anaokuluna gönderilmemesi nedeniyle aile hakkında işlem yapılmalıdır",
+      "C": "Beş yaşındaki çocukların okul öncesi eğitime devamı kanunla zorunlu kılınmış olup velinin bildirim yükümlülüğü vardır",
+      "D": "Okul öncesi eğitim isteğe bağlı olduğundan çocuğun anaokuluna gitmemesi yasal bir yükümlülüğün ihlali sayılmaz",
+      "E": "Okul öncesi eğitim özel okullarda isteğe bağlı olup devlet anaokullarına kayıt ve devam zorunludur"
+    },
+    "answer": "D",
+    "solution": "1739 sayılı Kanun'a göre okul öncesi eğitim mecburi ilköğrenim çağına gelmemiş çocukları kapsar ve isteğe bağlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Okul öncesi: isteğe bağlılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-006",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Dar gelirli ailelerin çok olduğu bir mahallede kurulan anaokulunda öğretmenler, eğitim olanakları kısıtlı evlerden gelen çocuklara birlikte oyun, sanat ve dil etkinlikleri sunmakta; böylece çocuklara ortak bir gelişim ortamı sağlamaktadır.\n\nBu çalışma, okul öncesi eğitimin kanundaki amaç ve görevlerinden hangisine uygundur?",
+    "options": {
+      "A": "Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak",
+      "B": "Çocukları ilgi ve yetenekleri doğrultusunda hem mesleğe hem yükseköğretime hazırlamak",
+      "C": "Eksik eğitimlerini tamamlamak isteyen yetişkinlere sürekli eğitim olanakları hazırlamak",
+      "D": "Bütün çocuklara ortak bir genel kültür kazandırarak toplumun sorunlarını çözmelerini sağlamak",
+      "E": "Çocuklara okuma-yazma becerisini kazandırarak ilköğretim programına doğrudan başlamalarını sağlamak"
+    },
+    "answer": "A",
+    "solution": "Okul öncesi eğitimin görevlerinden biri, şartları elverişsiz çevre ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Okul öncesi: amaç ve görevler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-007",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Küçük bir köyde yeterli çocuk sayısı bulunmadığından bağımsız bir anaokulu açılamamış; bunun yerine köyün ilkokulunun bünyesinde, aynı bahçeyi paylaşan okul öncesi çocukları için ayrı bir sınıf oluşturulmuştur. Sınıfta okul öncesi öğretmeni görev yapmaktadır.\n\nBu uygulama okul öncesi eğitim kurumlarının hangi kuruluş biçimine örnektir?",
+    "options": {
+      "A": "Tamamlayıcı sınıf olarak açılan kurs",
+      "B": "Uygulama sınıfı olarak açılan sınıf",
+      "C": "Bağımsız olarak kurulan anaokulu",
+      "D": "Yetiştirici sınıf olarak açılan kurs",
+      "E": "İlköğretim okuluna bağlı anasınıfı"
+    },
+    "answer": "E",
+    "solution": "Okul öncesi eğitim kurumları bağımsız anaokulları olarak kurulabileceği gibi, ilköğretim okuluna bağlı anasınıfları veya ilgili öğretim kurumlarına bağlı uygulama sınıfları olarak da açılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Okul öncesi: kuruluş biçimleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-008",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Okul öncesi öğretmeni Gülay Hanım, yıllık planını hazırlarken kanundaki amaç ve görevleri esas almak istemektedir. Meslektaşı, plana alınabilecek hedeflerden birinin yalnızca bu kademeye özgü olduğunu, diğerlerinin başka kademelerin görevleri olduğunu söylemiştir. Toplantı zümre öğretmenleriyle birlikte yapılmış ve sonuçlar tutanağa geçirilmiştir.\n\nAşağıdakilerden hangisi okul öncesi eğitimin amaç ve görevlerindendir?",
+    "options": {
+      "A": "Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamak",
+      "B": "Bütün öğrencilere ortaöğretim düzeyinde ortak bir genel kültür vermek",
+      "C": "Yurdumuzun bilim politikasına göre öğrenci yetiştirmek",
+      "D": "Öğrencileri hem mesleğe hem yükseköğretime hazırlamak",
+      "E": "Okuma-yazma öğretmek ve sürekli eğitim olanağı hazırlamak"
+    },
+    "answer": "A",
+    "solution": "Okul öncesi eğitimin amaçlarından biri çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamaktır; diğer şıklar yükseköğretim, yaygın eğitim ve ortaöğretimin görevleridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Okul öncesi: amaçların kademelere göre ayırt edilmesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-009",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Ali'nin velisi, çocuğunun ilkokul birinci sınıfa kaydını yaptırmak üzere okula başvurmuştur. Ali o yılın 31 Aralık tarihinde 72 ayını doldurmuştur. Veli, çocuğunun gelişim durumuna bağlı olarak okula erken başlaması ya da kaydının ertelenmesi gibi seçenekleri de sormaktadır.\n\nKanuna göre bu durumda aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Ali'nin kaydı ancak okul müdürünün takdiriyle yapılabilir; erken başlama için yönetmelik çıkarılamaz",
+      "B": "Ali'nin ilkokul birinci sınıfa kaydı yapılır; erken başlama ve erteleme esasları yönetmelikle düzenlenir",
+      "C": "Ali'nin kaydı yapılır; erken başlama ve erteleme esasları bizzat kanunda ayrıntılı biçimde düzenlenmiştir",
+      "D": "Ali'nin kaydı bir sonraki öğretim yılına bırakılır; erteleme esasları kanunla doğrudan belirlenmiştir",
+      "E": "Ali'nin kaydı yapılmaz; çünkü 31 Aralık'ta 72 ayı dolduran çocuklar kayıt kapsamında değildir"
+    },
+    "answer": "B",
+    "solution": "Kanuna göre ilkokul birinci sınıflara o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır; gelişim durumuna bağlı erken başlama veya erteleme yönetmelikle düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: kayıt yaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-010",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir okul-aile birliği toplantısında veliler, çocuklarının geçireceği ilköğretim süresini ve bu sürenin kademelerini sormaktadır. Okul müdürü, kanundaki düzenlemeye göre ilköğretimin iki ayrı okul türünden oluştuğunu ve her birinin süresinin eşit olduğunu açıklamak istemektedir.\n\nMüdürün vermesi gereken doğru bilgi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Beş yıl süreli zorunlu ilkokul ile üç yıl süreli zorunlu ortaokuldan oluşur",
+      "B": "Üç yıl süreli zorunlu ilkokul ile beş yıl süreli zorunlu ortaokuldan oluşur",
+      "C": "Dört yıl süreli zorunlu ilkokul ile dört yıl süreli zorunlu ortaokuldan oluşur",
+      "D": "Altı yıl süreli zorunlu ilkokul ile iki yıl süreli zorunlu ortaokuldan oluşur",
+      "E": "Dört yıl süreli zorunlu ilkokul ile üç yıl süreli isteğe bağlı ortaokuldan oluşur"
+    },
+    "answer": "C",
+    "solution": "İlköğretim; dört yıl süreli ve zorunlu ilkokul ile dört yıl süreli ve zorunlu ortaokuldan oluşan bir millî eğitim ve öğretim kurumudur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: süre ve yapı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-011",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Küçük bir ilçede nüfusun azalması nedeniyle ortaokulun bağımsız bir bina ve yönetimle sürdürülmesi güçleşmiştir. İlçe millî eğitim müdürlüğü, ortaokulu mevcut imkân ve şartları göz önünde bulundurarak aynı yerleşkedeki liseyle birlikte işletmeyi planlamaktadır.\n\nKanuna göre bu plan hakkında aşağıdakilerden hangisi söylenebilir?",
+    "options": {
+      "A": "Ortaokullar ve liseler aynı yerleşkede olsa bile ayrı yönetim bulundurmaları kanunla zorunlu kılınmıştır",
+      "B": "Bağımsız kuruluş esastır; ancak imkân ve şartlara göre ortaokullar liselerle birlikte de kurulabilir",
+      "C": "Ortaokullar ancak özel okul olarak liselerle birleştirilebilir; devlet okullarında bu uygulama yapılamaz",
+      "D": "Ortaokullar ancak ilkokullarla birlikte kurulabilir; liselerle birlikte kurulmaları kanunen mümkün değildir",
+      "E": "Ortaokulların bağımsız kurulması yasaktır; mutlaka liseyle birlikte kurulmaları gerekir"
+    },
+    "answer": "B",
+    "solution": "İlköğretim kurumlarının ilkokul ve ortaokul olarak bağımsız okullar hâlinde kurulması esastır; ancak imkân ve şartlara göre ortaokullar ilkokullarla veya liselerle birlikte de kurulabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: kuruluş esası"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-012",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir devlet ortaokulunda velilerden bazıları, çocuklarına din eğitimi verilmesini istemektedir. Müdür, öğrencilere hangi derslerin zorunlu, hangilerinin isteğe bağlı olduğunu açıklamak için kanuna bakmıştır. Kanun, ortaokul ve liselerde isteğe bağlı bir seçmeli ders belirtmektedir.\n\nKanuna göre ortaokul ve liselerde isteğe bağlı seçmeli ders olarak okutulan ders aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı",
+      "B": "Atatürk ilkeleri ve inkılap tarihi uygulamaları",
+      "C": "Felsefe, mantık ve sosyoloji seçmeli dersleri",
+      "D": "Sosyal bilgiler ve vatandaşlık eğitimi dersleri",
+      "E": "Din kültürü ve ahlak bilgisi dersinin ek ders saatleri"
+    },
+    "answer": "A",
+    "solution": "Kanuna göre ortaokul ve liselerde Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı isteğe bağlı seçmeli ders olarak okutulur; din kültürü ve ahlak bilgisi ise zorunlu dersler arasındadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: isteğe bağlı seçmeli ders"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-013",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Nüfusu az ve dağınık olan dağlık bir bölgede, birkaç köyün çocukları çok uzaktaki küçük okullara ulaşmakta zorlanmaktadır. Millî Eğitim Bakanlığı köyleri gruplandırarak merkezi durumdaki bir köyde okul açmış, uzak köylerden gelen öğrencilerin kalması için pansiyon da yaptırmıştır.\n\nBu okul türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Üniversiteye bağlı uygulama ilköğretim okulu",
+      "B": "Açık öğretim yoluyla eğitim veren okul",
+      "C": "Yetiştirici sınıflarla desteklenen köy okulu",
+      "D": "Köyleri dolaşarak eğitim veren gezici okul",
+      "E": "Pansiyonlu ilköğretim bölge okulu"
+    },
+    "answer": "E",
+    "solution": "Nüfusun az ve dağınık olduğu yerlerde köyler gruplaştırılarak merkezi durumdaki köylerde ilköğretim bölge okulları ve bunlara bağlı pansiyonlar kurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: bölge okulları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-014",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ortaokulda 8. sınıfların ikinci dönemi başlamıştır. Okulun rehberlik servisi, öğrencilere ortaöğretimde devam edebilecekleri okul ve programları, bu programların hangi mesleklerin yolunu açabileceğini ve mesleklerin sağlayacağı yaşam standardını tanıtmak için çalışma planlamaktadır.\n\nKanuna göre bu tanıtıcı çalışmaları yürütmekle görevli olan aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Okul-aile birlikleri",
+      "B": "Rehberlik servisleri",
+      "C": "Yükseköğretim Kurulu",
+      "D": "Yaygın eğitim kurumları",
+      "E": "Öğretmenler kurulu"
+    },
+    "answer": "B",
+    "solution": "İlköğretimin son ders yılının ikinci yarısında öğrencilere ortaöğretimdeki okul ve programlar ile mesleklerin yaşam standardına ilişkin tanıtıcı bilgiler vermek üzere rehberlik servislerince gerekli çalışmalar yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: rehberlik servislerinin görevi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-015",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Hasta olan Zeynep iki gündür okula gidememektedir. Annesi, çocuğun özrü nedeniyle okula devam edemediğini okul idaresine ne kadar süre içinde bildirmesi gerektiğini öğrenmek için okul müdürüne başvurmuştur. Müdür 222 sayılı Kanun'un ilgili hükmüne bakmıştır.\n\nKanuna göre veli bu durumu en geç ne zaman bildirmekle yükümlüdür?",
+    "options": {
+      "A": "En geç bir hafta içinde",
+      "B": "En geç yirmi dört saat içinde",
+      "C": "En geç beş gün içinde",
+      "D": "En geç üç gün içinde",
+      "E": "En geç on beş gün içinde"
+    },
+    "answer": "D",
+    "solution": "222 sayılı Kanun'a göre veli, özrü yüzünden okula gidemeyen çocuğun durumunu en geç üç gün içinde okul idaresine bildirmekle yükümlüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: velinin bildirim yükümlülüğü"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-016",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Mert, mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretim okulunu bitirememiştir. Ailesi, çocuğun eğitimine devam edip edemeyeceğini sormaktadır. Okul müdürü, kanunun bu durumdaki çocuklar için öngördüğü imkânı açıklayacaktır. Aile, çocuğun eğitim hakkını yitirmesinden endişe etmekte ve okul idaresinden yazılı bilgi istemektedir.\n\nKanuna göre Mert için aşağıdakilerden hangisi uygulanır?",
+    "options": {
+      "A": "İlköğrenimini tamamlamak üzere en çok üç öğretim yılı daha okula devamına izin verilir",
+      "B": "İlköğrenimini tamamlamak üzere en çok iki öğretim yılı daha okula devamına izin verilir",
+      "C": "Çocuk doğrudan yaygın eğitime yönlendirilir ve örgün eğitimle ilişiği kesilir",
+      "D": "Kaydı hemen silinir ve çocuğa tasdikname verilir",
+      "E": "İlköğrenimini tamamlamak üzere en çok bir öğretim yılı daha okula devamına izin verilir"
+    },
+    "answer": "B",
+    "solution": "Mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretim okulunu bitiremeyen çocukların ilköğrenimlerini tamamlamak üzere en çok iki öğretim yılı daha okula devamlarına izin verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: devam için ek süre"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-017",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Yaşları on iki ile on dört arasında değişen birkaç çocuk, çeşitli nedenlerle ilkokulu yaşıtlarıyla birlikte tamamlayamamıştır. Belediye ve millî eğitim, bu çocuklara kısa yoldan ilköğrenim verecek ve onları ilköğretim okuluna hazırlayacak özel sınıf ve kurslar açmıştır.\n\nBu sınıf ve kurslar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yetiştirici ve tamamlayıcı sınıflar ve kurslar",
+      "B": "Köyleri dolaşarak eğitim veren gezici okullar",
+      "C": "Okul öncesi eğitim kurumları ve anasınıfları",
+      "D": "Pansiyonlu yatılı ilköğretim bölge okulları",
+      "E": "Özel eğitime muhtaç çocuklar için okullar"
+    },
+    "answer": "A",
+    "solution": "Yetiştirici ve tamamlayıcı sınıflar ve kurslar, mecburi ilköğrenim çağında olup öğrenimlerini yaşıtlarıyla birlikte zamanında yapmamış çocuklara kısa yoldan ilköğrenim vermek için açılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: yetiştirici ve tamamlayıcı sınıflar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-018",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilçede görme engelli ve zihinsel engelli çocukların mecburi ilköğrenim çağında oldukları halde okula gidemedikleri tespit edilmiştir. İlçe millî eğitim müdürlüğü, bu çocuklar için uygun eğitim ortamları hazırlamak üzere çalışma başlatmıştır.\n\n222 sayılı Kanun'a göre bu çocuklarla ilgili sağlanması gereken hizmet aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yaygın eğitim kurumlarına yönlendirilmeleri",
+      "B": "Mecburi öğrenimden muaf tutulmaları",
+      "C": "Evde bireysel eğitim görmeleri",
+      "D": "Özel eğitim ve öğretim görmeleri",
+      "E": "Okul öncesi eğitim görmeleri"
+    },
+    "answer": "D",
+    "solution": "222 sayılı Kanun, mecburi ilköğrenim çağında bulundukları halde zihnen, bedenen, ruhan ve sosyal bakımdan engelli olan çocukların özel eğitim ve öğretim görmelerinin sağlanmasını öngörür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: özel eğitime muhtaç çocuklar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-019",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilköğretim okulunda görev yapacak personelin belirlenmesi için okul müdürlüğü, kanunda sayılan görevlileri incelemektedir. Müdür ve müdür yardımcıları ile öğretmenlerin yanında, özel eğitim sınıfı bulunan okullarda belirli uzmanlar da görev yapmaktadır.\n\n222 sayılı Kanun'a göre aşağıdakilerden hangisi ilköğretim kurumlarında bulunan görevliler arasında sayılmıştır?",
+    "options": {
+      "A": "Rehberlik uzmanları",
+      "B": "Köy muhtarı",
+      "C": "Okul-aile birliği başkanı",
+      "D": "Okul servis aracı sürücüsü",
+      "E": "İlçe millî eğitim şube müdürü"
+    },
+    "answer": "A",
+    "solution": "222 sayılı Kanun'un ilköğretim kurumlarındaki görevliler arasında müdür ve yardımcıları, öğretmenler, rehberlik uzmanları ile sağlık, teknik, genel idare ve yardımcı hizmetler personelini sayar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: kurum görevlileri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-020",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilçe millî eğitim müdürlüğü, ilköğretimin önemini toplumla paylaşmak için her yıl düzenli olarak yapılan bir haftayı, okul etkinlikleri ve toplantılarla kutlamaya hazırlanmaktadır. Hafta için Millî Eğitim Bakanlığınca hazırlanacak programa göre etkinlikler düzenlenmektedir.\n\nKanuna göre bu hafta yılın hangi ayında kutlanır?",
+    "options": {
+      "A": "Haziran ayının birinci haftası",
+      "B": "Eylül ayının üçüncü haftası",
+      "C": "Nisan ayının dördüncü haftası",
+      "D": "Kasım ayının ikinci haftası",
+      "E": "Ocak ayının ikinci haftası"
+    },
+    "answer": "B",
+    "solution": "222 sayılı Kanun'a göre her yıl Eylül ayının üçüncü haftası \"İlköğretim haftası\"dır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İlköğretim: ilköğretim haftası"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-021",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Mesleki eğitim merkezinde öğrenim gören Burak, diploma alabilmek için gerekli şartları öğrenmek istemektedir. Okul müdürü, mesleki eğitim merkezi öğrencilerinin diğer ortaöğretim öğrencilerinden farklı bir şartı yerine getirmesi gerektiğini söylemiştir.\n\nKanuna göre Burak'ın diploma alabilmesi için yerine getirmesi gereken şart aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İl millî eğitim müdürlüğünce açılan yaz kursunu bitirmesi",
+      "B": "Millî Eğitim Bakanlığınca belirlenen fark derslerini tamamlaması",
+      "C": "Yaygın eğitim kurumlarında ek bir kurs sertifikası alması",
+      "D": "Yükseköğretim Kurulunca belirlenen ek sınavı vermesi",
+      "E": "Okul-aile birliğinin belirlediği uygulama çalışmasını tamamlaması"
+    },
+    "answer": "B",
+    "solution": "Mesleki eğitim merkezi öğrencilerinin diploma alabilmeleri için Millî Eğitim Bakanlığınca belirlenen fark derslerini tamamlamaları zorunludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ortaöğretim: MEM öğrencisi diploma şartı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-022",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir veli, çocuğunun ortaokuldan sonra eğitimine kaç yıl daha devam etmek zorunda olduğunu sormaktadır. Okul müdürü, 6287 sayılı Kanun'la yapılan değişikliği hatırlatarak ilköğretime dayalı zorunlu ortaöğretimin süresini ve türlerini açıklamıştır. Toplantıya katılan diğer veliler de aynı konuda sorular yöneltmiştir.\n\nKanuna göre zorunlu ortaöğretimle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "İlköğretime dayalı beş yıllık zorunlu örgün öğrenim veren mesleki liseleri kapsayan kurumlardır",
+      "B": "İlköğretime dayalı dört yıllık isteğe bağlı yaygın öğrenim veren genel, mesleki ve teknik kurumlardır",
+      "C": "İlköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren kurumları kapsar",
+      "D": "İlköğretime dayalı üç yıllık isteğe bağlı örgün öğrenim veren genel liselerin tümünü kapsayan kurumlardır",
+      "E": "Fen ve sosyal bilimler liseleriyle sınırlı olup süresi yönetmelikle belirlenen kurumlardır"
+    },
+    "answer": "C",
+    "solution": "Ortaöğretim; ilköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumları ile mesleki eğitim merkezlerinin tümünü kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ortaöğretim: kapsam ve süre"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-023",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "İlköğretimini başarıyla tamamlayan ve ortaöğretime girmeye hak kazanan Cansu, kendisine uygun bir lise seçmek istemektedir. Ailesi, kızlarının ilgi ve yeteneklerine uygun ortaöğretim olanaklarından yararlanma konusunda yasal bir hakkı olup olmadığını danışmaktadır.\n\nKanuna göre Cansu'nun ortaöğretimden yararlanma hakkı aşağıdakilerden hangisi ölçüsündedir?",
+    "options": {
+      "A": "Yaşadığı yerleşim yerinin büyüklüğü ölçüsünde",
+      "B": "İlköğretim not ortalaması ölçüsünde",
+      "C": "Okul müdürünün takdiri ölçüsünde",
+      "D": "İlgi, istidat ve kabiliyetleri ölçüsünde",
+      "E": "Ailesinin ekonomik durumu ölçüsünde"
+    },
+    "answer": "D",
+    "solution": "İlköğretimini tamamlayan ve ortaöğretime girmeye hak kazanan her öğrenci, ortaöğretim imkânlarından ilgi, istidat ve kabiliyetleri ölçüsünde yararlanma hakkına sahiptir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ortaöğretim: yararlanma hakkı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-024",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir lise müdürü, okulun ortaöğretimdeki görevini veli toplantısında anlatmaktadır. Okulda bütün öğrencilere ortak bir genel kültür verilirken öğrencilerin ilgi ve yeteneklerine göre yükseköğretime, hem mesleğe hem yükseköğretime ya da iş hayatına hazırlandıklarını ifade etmektedir.\n\nBu açıklama, ortaöğretimin hangi niteliğini yansıtmaktadır?",
+    "options": {
+      "A": "Ortaöğretimin kanundaki amaç ve görevleri",
+      "B": "Yükseköğretimin kanundaki planlama ilkeleri",
+      "C": "Okul öncesi eğitimin kanundaki amaç ve görevleri",
+      "D": "İlköğretimin kanundaki kuruluş biçimleri",
+      "E": "Yaygın eğitimin kanundaki kuruluş esasları"
+    },
+    "answer": "A",
+    "solution": "Ortaöğretimin amaçları, asgari ortak genel kültür vermek ve öğrencileri ilgi ve yetenekleri doğrultusunda yükseköğretime, hem mesleğe hem yükseköğretime veya hayata ve iş alanlarına hazırlamaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ortaöğretim: amaç ve görevler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-025",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Nüfusu az ve dağınık bir ilçede genel lise, meslek lisesi ve teknik lise açmaya yetecek öğrenci bulunmamaktadır. Millî Eğitim Bakanlığı bu ilçede genel, mesleki ve teknik programları tek bir okul yönetimi altında uygulayan bir ortaöğretim kurumu açmıştır.\n\nBu kurum aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Fen lisesi",
+      "B": "Anadolu lisesi",
+      "C": "Açık öğretim lisesi",
+      "D": "Mesleki eğitim merkezi",
+      "E": "Çok programlı lise"
+    },
+    "answer": "E",
+    "solution": "Nüfusu az ve dağınık olan ve Millî Eğitim Bakanlığınca gerekli görülen yerlerde genel, mesleki ve teknik öğretim programlarını bir yönetim altında uygulayan çok programlı liseler kurulabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ortaöğretim: çok programlı liseler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-026",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir lise öğrencisi, ilgi alanının ilk seçtiği programa uymadığını fark etmiş ve aynı düzeydeki başka bir programa geçmek istemiştir. Okul rehber öğretmeni, yöneltmenin ilköğretimde başlayıp ortaöğretimde de sürdüğünü, bu geçişlerin esaslarını kimin düzenlediğini açıklamıştır.\n\nKanuna göre okullar arası yatay ve dikey geçiş şartlarını düzenleyen makam aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Öğretmenler kurulu",
+      "B": "İl millî eğitim müdürlüğü",
+      "C": "Yükseköğretim Kurulu",
+      "D": "Okul-aile birliği",
+      "E": "Millî Eğitim Bakanlığı"
+    },
+    "answer": "E",
+    "solution": "Yöneltme esasları ve çeşitli programlar veya ortaöğretim okulları arasında yapılacak yatay ve dikey geçiş şartları Millî Eğitim Bakanlığınca düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ortaöğretim: yöneltme ve geçiş"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-027",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Dini hizmetlerin yürütülmesinde görevli elemanlar yetiştirmek üzere Millî Eğitim Bakanlığınca açılan bir ortaöğretim kurumunda öğrenciler hem imamlık, hatiplik ve Kur'an kursu öğreticiliği alanında hem de yükseköğretime hazırlayıcı programlar görmektedir. Bu kurumun öğrencileri diğer liselerle aynı ortak derslerin çoğunu da görmektedir ve kurum kamuya açık biçimde işlemektedir.\n\nBu kurum aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Güzel sanatlar lisesi",
+      "B": "Teknik lise",
+      "C": "İmam-hatip lisesi",
+      "D": "Fen lisesi",
+      "E": "Çok programlı lise"
+    },
+    "answer": "C",
+    "solution": "İmam-hatip liseleri, dini hizmetlerin yerine getirilmesiyle görevli elemanları yetiştirmek üzere Millî Eğitim Bakanlığınca açılan; hem mesleğe hem yükseköğretime hazırlayıcı programlar uygulayan ortaöğretim kurumlarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ortaöğretim: imam-hatip liseleri"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-028",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir şehirde müzik ve resim alanlarında olağanüstü yetenek gösteren çocukları küçük yaşlardan itibaren yetiştirmek amacıyla ilköğretim ve ortaöğretim düzeyinde ayrı okullar açılmıştır. Bu okulların kuruluş ve işleyişi ayrı bir yönetmelikle düzenlenmiştir. Okullara öğrenciler sınavlarla kabul edilmekte, kurumlar il genelinde tanınmaktadır.\n\nBu uygulama aşağıdakilerden hangisine dayanır?",
+    "options": {
+      "A": "Yaygın eğitim koordinasyonu",
+      "B": "Karma eğitim ilkesi",
+      "C": "Yöneltme ilkesi",
+      "D": "Güzel sanatlar eğitimi",
+      "E": "Yükseköğretim planlaması"
+    },
+    "answer": "D",
+    "solution": "Güzel sanatlar alanlarında özel istidat ve kabiliyetleri beliren çocukları küçük yaşlardan itibaren yetiştirmek üzere ilköğretim ve ortaöğretim seviyesinde ayrı okullar açılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ortaöğretim: güzel sanatlar eğitimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-029",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Lise son sınıf öğrencisi Ece, bir yükseköğretim programına girmek için hangi kurumun giriş şartlarını belirlediğini merak etmektedir. Rehber öğretmeni, lise ve dengi okulları bitirenlerin yükseköğretime aday olma hakkı kazandığını, giriş şartlarını belirleme yetkisinin ise başka bir kurumda olduğunu açıklamıştır.\n\nKanuna göre bu yetkili kurum aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ölçme, Seçme ve Yerleştirme Merkezi, tek başına ve bağımsız olarak",
+      "B": "Liselerin öğretmenler kurulları, okul bazında ve ayrı ayrı",
+      "C": "Millî Eğitim Bakanlığı ile işbirliği yapan Yükseköğretim Kurulu",
+      "D": "Millî Eğitim Bakanlığı, Yükseköğretim Kurulundan bağımsız olarak",
+      "E": "Üniversitelerin kendi senatoları, her program için ayrı ayrı"
+    },
+    "answer": "C",
+    "solution": "Hangi yükseköğretim kurumlarına, hangi programları bitirenlerin nasıl girecekleri ve giriş şartları, Millî Eğitim Bakanlığı ile işbirliği yapılarak Yükseköğretim Kurulu tarafından tespit edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükseköğretim: giriş şartlarının belirlenmesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-030",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Lise mezunu Mehmet, iki yıllık bir meslek yüksekokulu programına kayıt yaptırmıştır. Annesi, oğlunun öğrenimini sürdürdüğü bu programın Türk millî eğitim sisteminde hangi kademeye girdiğini sormaktadır. Kanun, bu kademenin kapsamını belirtmektedir. Programın süresi ve diploması hakkında ailesi bilgi edinmeye çalışmaktadır.\n\nBu program kanuna göre hangi kademede yer alır?",
+    "options": {
+      "A": "Yaygın eğitim",
+      "B": "İlköğretim",
+      "C": "Ortaöğretim",
+      "D": "Okul öncesi eğitim",
+      "E": "Yükseköğretim"
+    },
+    "answer": "E",
+    "solution": "Yükseköğretim, ortaöğretime dayalı en az iki yıllık yükseköğrenim veren eğitim kurumlarının tümünü kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükseköğretim: kapsam"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-031",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir üniversite, bilimsel araştırma sonuçlarını halka sunmak için konferanslar düzenlemekte ve herkese açık bilim söyleşileri yapmaktadır. Üniversite yönetimi, bu çalışmaların kanunda belirtilen yükseköğretimin görevlerinden hangisi kapsamında olduğunu açıklayacaktır. Etkinliklere öğrenciler, esnaf ve emekliler de katılmakta, yerel basında haberleri yer almaktadır.\n\nBu çalışmalar yükseköğretimin hangi görevine örnektir?",
+    "options": {
+      "A": "İlköğretim çağındaki çocuklara kısa yoldan ilköğrenim verme görevi",
+      "B": "Ortaöğretim öğrencilerine asgari ortak genel kültür verme görevi",
+      "C": "Okul öncesi çocuklara ortak bir yetişme ortamı sağlama görevi",
+      "D": "Bilim verilerini halka yayma ve yaygın eğitim hizmetlerinde bulunma",
+      "E": "Millî eğitimin planlamasını Hükümet adına yürütme görevi"
+    },
+    "answer": "D",
+    "solution": "Yükseköğretimin görevleri arasında Türk toplumunun genel seviyesini yükseltici ve kamuoyunu aydınlatıcı bilim verilerini halka yaymak ve yaygın eğitim hizmetlerinde bulunmak da yer alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yükseköğretim: amaç ve görevler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-032",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "İşsiz kalan genç bir işçi, belediyenin açtığı üç aylık kısa süreli kaynakçılık kursuna katılmıştır. Kurs sonunda aldığı belge sayesinde bir fabrikada işe girmiştir. Kursun amacı, ekonominin gelişme doğrultusuna ve istihdam politikasına uygun meslekleri edinmeyi sağlamaktır.\n\nBu kurs yaygın eğitimin hangi amacına uygundur?",
+    "options": {
+      "A": "Kısa süreli ve kademeli eğitimle istihdam politikasına uygun meslekler edindirmek",
+      "B": "Boş zamanları iyi değerlendirme ve kullanma alışkanlıkları kazandırmak için etkinlikler düzenlemek",
+      "C": "Okuma-yazma öğretmek ve eksik kalan eğitimleri tamamlamak için sürekli eğitim olanağı hazırlamak",
+      "D": "Millî kültür değerlerini koruyucu, geliştirici ve tanıtıcı nitelikte eğitim yapmak",
+      "E": "İktisadi gücün artırılması için beslenme ve sağlıklı yaşam usullerini benimsetmek"
+    },
+    "answer": "A",
+    "solution": "Yaygın eğitimin amaçlarından biri, kısa süreli ve kademeli eğitim uygulayarak ekonominin gelişmesi doğrultusunda ve istihdam politikasına uygun meslekleri edinmeyi sağlayıcı imkânlar hazırlamaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yaygın eğitim: meslek edindirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-033",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir belediyede çalışan teknik personele, yeni kullanılmaya başlayan harita yazılımını öğretmek amacıyla iki haftalık bir kurs düzenlenmiştir. Kurs, personelin görevini daha iyi yapabilmesi için gerekli bilgi ve becerileri kazandırmayı hedeflemektedir. Kurs, çalışma saatleri dışında ve belediye eğitim salonunda yapılmaktadır.\n\nBu kurs, yaygın eğitimin amaçlarından hangisine örnektir?",
+    "options": {
+      "A": "Örgün eğitim sistemine girmemiş vatandaşlara okuma-yazma öğretmek ve eksik eğitimlerini tamamlatmak",
+      "B": "İktisadi gücün artırılması için beslenme ve sağlıklı yaşam usullerini benimsetmek",
+      "C": "Çalışanlara hizmet içinde mesleklerinde gelişmeleri için bilgi ve beceri kazandırmak",
+      "D": "Boş zamanları iyi bir şekilde değerlendirme ve kullanma alışkanlıkları kazandırmak",
+      "E": "Toplu yaşama, dayanışma ve yardımlaşma alışkanlıkları ile örgütlenme anlayışı kazandırmak"
+    },
+    "answer": "C",
+    "solution": "Yaygın eğitimin amaçlarından biri, çeşitli mesleklerde çalışanlara hizmet içinde ve mesleklerinde gelişmeleri için gerekli bilgi ve becerileri kazandırmaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yaygın eğitim: hizmet içi gelişim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-034",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Emekli öğretmenlerin katıldığı halk eğitim merkezi resim, ebru ve bahçecilik kurslarıyla emeklilerin boş zamanlarını verimli geçirmelerini amaçlamaktadır. Katılımcılar kurslara kendi istekleriyle gelmekte, sertifika almak gibi bir beklenti taşımamaktadır. Merkezin kursları ücretsizdir ve her yaştan katılımcıya açıktır, dersler haftada iki gün yapılır.\n\nBu çalışma yaygın eğitimin hangi amacına uygundur?",
+    "options": {
+      "A": "Çalışanlara hizmet içinde mesleklerinde gelişmeleri için bilgi kazandırmak",
+      "B": "Okuma-yazma öğretmek ve eksikleri tamamlatan sürekli eğitim olanağı sağlamak",
+      "C": "Toplu yaşama, dayanışma ve birlikte çalışma alışkanlığı kazandırmak",
+      "D": "Boş zamanları iyi değerlendirme ve kullanma alışkanlıkları kazandırmak",
+      "E": "Kısa süreli eğitimle istihdam politikasına uygun meslek kazandırmak"
+    },
+    "answer": "D",
+    "solution": "Yaygın eğitimin amaçlarından biri, bireylere boş zamanlarını iyi bir şekilde değerlendirme ve kullanma alışkanlıkları kazandırmaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yaygın eğitim: boş zaman değerlendirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-035",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilde yaygın eğitim planlaması yapılırken eğitim faaliyetleri sınıflandırılmıştır. Hazırlayıcı komisyon, kanuna göre yaygın eğitimin iki temel bölümden oluştuğunu ve bu bölümlerin birbirini destekleyecek biçimde hazırlanması gerektiğini belirtmiştir. Komisyon çalışmalarını çeşitli kurum yöneticilerinin katılımıyla yürütmüş ve rapor hazırlamıştır.\n\nAşağıdakilerden hangisi yaygın eğitimin temel bölümlerinden biridir?",
+    "options": {
+      "A": "Zorunlu yaygın eğitim",
+      "B": "Mesleki ve teknik yaygın eğitim",
+      "C": "Yükseköğretim düzeyinde yaygın eğitim",
+      "D": "Okul öncesi yaygın eğitim",
+      "E": "Özel okullarda yaygın eğitim"
+    },
+    "answer": "B",
+    "solution": "Yaygın eğitim, genel ile mesleki ve teknik olmak üzere iki temel bölümden oluşur ve bu bölümler birbirini destekleyici biçimde hazırlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yaygın eğitim: iki temel bölüm"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-036",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir halk eğitim merkezi, kurs öğrencilerine ihtiyaç duyulduğunda yakındaki mesleki ve teknik Anadolu lisesinin atölyelerini kullandırmaktadır. Aynı zamanda bu kurslarda verilen eğitim, belirli ölçüde örgün eğitimdekiyle aynı yeterlikleri kazandırabilmektedir. Kurslara her yaştan yetişkin katılabilmekte ve devam durumu düzenli izlenmektedir.\n\nBu uygulama, yaygın eğitimin kuruluşundaki hangi esasa dayanır?",
+    "options": {
+      "A": "Örgün eğitimden tamamen bağımsız ve ayrı bir sistem olarak örgütlenme",
+      "B": "Katılımcılar için zorunlu devam ve sınav esasına dayanma",
+      "C": "Eğitim kurumlarının ilçe düzeyindeki yönetimlere devredilmesi esası",
+      "D": "Resmî kurumlar dışındaki özel kuruluşlar eliyle yürütülme",
+      "E": "Örgün eğitimle birbirini tamamlama ve birbirinin imkânlarından yararlanma"
+    },
+    "answer": "E",
+    "solution": "Yaygın eğitim, örgün eğitimle birbirini tamamlayacak, gereğinde aynı vasıfları kazandırabilecek ve birbirinin her türlü imkânlarından yararlanacak biçimde bir bütünlük içinde düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yaygın eğitim: örgün eğitimle bütünlük"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-037",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilde belediye, esnaf odası ve sivil toplum kuruluşları yetişkinlere yönelik çok sayıda mesleki kurs açmıştır. Kurslar arasında çakışmaları önlemek ve çalışmaları uyumlu hâle getirmek üzere bir kurumun koordinasyon rolünü üstlenmesi gerekmektedir.\n\nKanuna göre genel, mesleki ve teknik yaygın eğitimdeki resmî, özel ve gönüllü kuruluşlar arasındaki koordinasyonu hangi kurum sağlar?",
+    "options": {
+      "A": "Sanayi ve ticaret odası",
+      "B": "Yükseköğretim Kurulu",
+      "C": "Ölçme, Seçme ve Yerleştirme Merkezi",
+      "D": "Millî Eğitim Bakanlığı",
+      "E": "Belediye başkanlığı"
+    },
+    "answer": "D",
+    "solution": "Genel, mesleki ve teknik yaygın eğitim alanında görev alan resmî, özel ve gönüllü kuruluşların çalışmaları arasındaki koordinasyon Millî Eğitim Bakanlığınca sağlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yaygın eğitim: koordinasyon"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-038",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir özel okulda müdür, velisi belirli bir sosyal sınıfa mensup olan öğrencilere ayrıcalıklı olanaklar tanımıştır. Diğer öğrenciler spor salonundan ve laboratuvarlardan yararlanamamakta, veliler durumdan rahatsız olmaktadır. İl millî eğitim müdürlüğü bu uygulamayı incelemektedir.\n\nBu uygulama Türk millî eğitiminin hangi temel ilkesine aykırıdır?",
+    "options": {
+      "A": "Genellik ve eşitlik",
+      "B": "Yöneltme",
+      "C": "Bilimsellik",
+      "D": "Ferdin ve toplumun ihtiyaçları",
+      "E": "Her yerde eğitim"
+    },
+    "answer": "A",
+    "solution": "Genellik ve eşitlik ilkesine göre eğitim kurumları herkese açıktır ve eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: genellik ve eşitlik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-039",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilde tarıma dayalı sanayinin geliştiği tespit edilmiş, öğrencilerin ilgileri de ankete yansımıştır. Millî eğitim müdürlüğü bu bulgulara dayanarak yeni bir meslek lisesi programı açmayı planlamaktadır. Bölgedeki sanayicilerle yapılan görüşmeler de bu sonucu desteklemiştir ve rapor yayımlanmıştır.\n\nBu karar Türk millî eğitiminin hangi temel ilkesine dayanmaktadır?",
+    "options": {
+      "A": "Ferdin ve toplumun ihtiyaçları",
+      "B": "Atatürk inkılap ve ilkelerine bağlılık",
+      "C": "Eğitim hakkı ve parasız eğitim",
+      "D": "Fırsat ve imkân eşitliği",
+      "E": "Karma eğitim ilkesi"
+    },
+    "answer": "A",
+    "solution": "Millî eğitim hizmeti, Türk vatandaşlarının istek ve kabiliyetleri ile Türk toplumunun ihtiyaçlarına göre düzenlenir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: ferdin ve toplumun ihtiyaçları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-040",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ortaokul rehberlik servisi, öğrencileri ilgi envanterleri ve geçerli bir başarı testiyle değerlendirerek her birini ilgi ve yetenekleri doğrultusunda farklı programlara yönlendirmektedir. Yönlendirmede öğrencinin tek bir notu değil, çok yönlü bulgular dikkate alınmaktadır.\n\nBu uygulama Türk millî eğitiminin hangi temel ilkesine dayanır?",
+    "options": {
+      "A": "Laiklik",
+      "B": "Planlılık",
+      "C": "Yöneltme",
+      "D": "Süreklilik",
+      "E": "Karma eğitim"
+    },
+    "answer": "C",
+    "solution": "Yöneltme ilkesine göre fertler ilgi, istidat ve kabiliyetleri ölçüsünde çeşitli programlara veya okullara yöneltilir; yöneltmede rehberlik hizmetlerinden ve objektif ölçme ve değerlendirme metotlarından yararlanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: yöneltme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-041",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Maddi imkânı bulunmayan fakat çok başarılı olan bir öğrenci, devletin sağladığı parasız yatılılık ve burs olanakları sayesinde lise ve üniversite öğrenimini tamamlamıştır. Ailesi eğitim giderlerini karşılayabilecek durumda değildir. Öğrencinin başarısı okul öğretmenleri tarafından da onaylanmıştır ve her dönem izlenmiştir.\n\nBu uygulama Türk millî eğitiminin hangi temel ilkesinin gereğidir?",
+    "options": {
+      "A": "Ferdin ve toplumun ihtiyaçları",
+      "B": "Fırsat ve imkân eşitliği",
+      "C": "Eğitim hakkı",
+      "D": "Genellik ve eşitlik",
+      "E": "Her yerde eğitim"
+    },
+    "answer": "B",
+    "solution": "Fırsat ve imkân eşitliği ilkesine göre maddi imkânlardan yoksun başarılı öğrencilerin en yüksek eğitim kademelerine kadar öğrenim görmeleri için parasız yatılılık, burs, kredi ve başka yollarla yardımlar yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: fırsat ve imkân eşitliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-042",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilçede çalışan yetişkinlerin ve gençlerin mesleki gelişimini sağlamak amacıyla akşam kursları ve hizmet içi seminerler düzenlenmektedir. İlçe millî eğitim müdürü, bireylerin eğitiminin yaşam boyunca sürdürülmesinin önemli olduğunu vurgulamaktadır. Etkinlikler farklı mesleklerden katılımcılarla aralıksız yürütülmektedir.\n\nBu vurgu Türk millî eğitiminin hangi temel ilkesine dayanır?",
+    "options": {
+      "A": "Genellik ve eşitlik",
+      "B": "Karma eğitim",
+      "C": "Süreklilik",
+      "D": "Yöneltme",
+      "E": "Planlılık"
+    },
+    "answer": "C",
+    "solution": "Süreklilik ilkesine göre fertlerin genel ve mesleki eğitimlerinin hayat boyunca devam etmesi esastır ve yetişkinlerin sürekli eğitimini sağlamak da bir eğitim görevidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: süreklilik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-043",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir eğitim fakültesinde ders programları, öğretim yöntemleri ve araç-gereçler, yapılan bilimsel araştırmaların ve ölçme sonuçlarının ışığında her yıl gözden geçirilip güncellenmektedir. Fakülte, verimliliği artırmak için bu çalışmaları araştırma ve değerlendirmeye dayandırmaktadır.\n\nBu uygulama Türk millî eğitiminin hangi temel ilkesine dayanır?",
+    "options": {
+      "A": "Eğitim hakkı",
+      "B": "Planlılık",
+      "C": "Bilimsellik",
+      "D": "Yöneltme",
+      "E": "Süreklilik"
+    },
+    "answer": "C",
+    "solution": "Bilimsellik ilkesine göre ders programları, eğitim metotları ve araç-gereçler bilimsel ve teknolojik esaslara ve yeniliklere göre sürekli geliştirilir; verimlilik bilimsel araştırma ve değerlendirmeye dayandırılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: bilimsellik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-044",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir bölge kalkınma planı hazırlanırken sanayi ve tarımın gelişimi için gereken insan gücü ve teknik bilgi hesaplanmış, buna göre mesleki ve teknik eğitime ağırlık veren okulların kuruluşu eğitim-insan gücü-istihdam ilişkisine bağlanmıştır.\n\nBu çalışma Türk millî eğitiminin hangi temel ilkesine dayanır?",
+    "options": {
+      "A": "Bilimsellik",
+      "B": "Planlılık",
+      "C": "Süreklilik",
+      "D": "Eğitim hakkı",
+      "E": "Yöneltme"
+    },
+    "answer": "B",
+    "solution": "Planlılık ilkesine göre millî eğitim, iktisadi, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim-insan gücü-istihdam ilişkileri dikkate alınarak ve mesleki-teknik eğitime ağırlık verecek biçimde planlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: planlılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-045",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilçede kız meslek lisesi bulunmasına rağmen çevredeki okullar karma eğitim vermektedir. Bir veli, okullarda kız ve erkek öğrencilerin birlikte eğitim görmesinin esas olup olmadığını, yalnızca kız ya da yalnızca erkek öğrencilere açılan okulların kanuna uygun olup olmadığını sormaktadır.\n\nKanuna göre bu durumda aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Okulların karma olup olmayacağı okul müdürünün ve öğretmenler kurulunun takdirine bırakılmıştır",
+      "B": "Karma eğitim esası sadece yükseköğretimde geçerli olup diğer kademelerde ayrı okullar açılması gerekir",
+      "C": "Karma eğitim yasaktır; bütün okullar kız ve erkek öğrenciler için ayrı açılmalı ve ayrı yönetilmelidir",
+      "D": "Kız ya da erkek öğrencilere ayrılmış okullar kanuna aykırı olduğundan bu okullar kapatılmalıdır",
+      "E": "Karma eğitim esastır; eğitimin türüne ve imkânlara göre bazı okullar kız ya da erkek öğrencilere ayrılabilir"
+    },
+    "answer": "E",
+    "solution": "Okullarda kız ve erkek karma eğitim yapılması esastır; ancak eğitimin türüne, imkân ve zorunluluklara göre bazı okullar yalnızca kız veya yalnızca erkek öğrencilere ayrılabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: karma eğitim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-046",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir köyde muhtar, köy kahvesinde yapılan toplantılarda hijyen ve çocuk sağlığı konularında bilgilendirme yapmakta; çiftçiler tarla başında yeni tarım tekniklerini birbirlerine öğretmektedir. Köy halkı bu etkinliklerle de eğitim hedeflerine ulaşmaya çalışmaktadır.\n\nBu durum Türk millî eğitiminin hangi temel ilkesiyle açıklanır?",
+    "options": {
+      "A": "Yöneltme ve rehberlik",
+      "B": "Planlılık ve bilimsellik",
+      "C": "Karma eğitim ilkesi",
+      "D": "Her yerde eğitim",
+      "E": "Eğitim hakkı"
+    },
+    "answer": "D",
+    "solution": "Her yerde eğitim ilkesine göre millî eğitimin amaçları yalnız resmî ve özel eğitim kurumlarında değil, evde, çevrede, işyerlerinde, her yerde ve her fırsatta gerçekleştirilmeye çalışılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: her yerde eğitim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-047",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir okulun okul-aile birliği, okul bahçesindeki kantin ve açık alanı işleterek gelir elde etmiş, bu gelirle maddi imkânı olmayan öğrencilerin zorunlu ihtiyaçlarını karşılamıştır. Bazı veliler bağış yapmak istemediklerini söylemişlerdir. Birlik yönetim kurulu faaliyetlerini düzenli toplantılarla kayıt altına almaktadır.\n\nKanuna göre okul-aile birlikleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Bağışların kabulü okul müdürünün şahsi onayına bağlıdır",
+      "B": "Okul-aile birlikleri açık alan ve kantin gibi yerleri işletemez",
+      "C": "Öğrenci velileri, hangi durumda olursa olsun bağış yapmaya zorlanamaz",
+      "D": "Okul-aile birliklerinin gelirleri genel bütçe gelirleriyle ilişkilendirilerek tutulur",
+      "E": "Veliler her yıl belirli bir tutarda bağış yapmakla yükümlüdür"
+    },
+    "answer": "C",
+    "solution": "Okul-aile birlikleri aynî ve nakdî bağışları kabul edebilir, kantin ve açık alanı işletebilir; öğrenci velileri hiçbir surette bağış yapmaya zorlanamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Temel ilkeler: okul ile ailenin işbirliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-048",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir girişimci, millî eğitimin amaçlarına ve kanun hükümlerine uygun olmayan bir eğitim programı uygulayan özel bir kurum açmak istemektedir. Kurum, askerî maksatla açılacak bir okul değildir. Girişimci, bu faaliyetin kanuna göre mümkün olup olmadığını sormaktadır.\n\nKanuna göre bu girişimle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Kurumun açılması için Yükseköğretim Kurulunun izni yeterlidir ve programın içeriği denetlenmez",
+      "B": "Askerî maksatlarla açılacak okullar hariç, kanun hükümlerine aykırı bir eğitim faaliyetinde bulunulamaz",
+      "C": "Kurum özel olduğundan kanun hükümlerine aykırı bir program uygulayabilir",
+      "D": "Kanun hükümlerine aykırı programlar kurumun yönetim kurulu kararıyla uygulanabilir",
+      "E": "Kurum sadece yaygın eğitim alanında faaliyet gösterecekse kanuna uygunluk şartı aranmaz"
+    },
+    "answer": "B",
+    "solution": "Askerî maksatlarla açılacak okullar hariç, kanun hükümlerine aykırı hiçbir eğitim faaliyetinde bulunulamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yönetim: kanuna aykırı eğitim faaliyeti yasağı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-049",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir vakıf, ilçede özel bir lise açmak istemektedir. Vakıf yöneticileri, okul binasını hazırlamış ve öğretmen kadrosunu belirlemiştir; ancak okulun açılabilmesi için bir kurumun iznini almak gerektiğini öğrenmişlerdir.\n\nKanuna göre ilköğretim okulu, lise veya dengi okulların açılması için izin veren kurum aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Valilik ve kaymakamlık",
+      "B": "Millî Eğitim Bakanlığı",
+      "C": "Ticaret ve sanayi odası",
+      "D": "Yükseköğretim Kurulu",
+      "E": "Belediye ve il özel idaresi"
+    },
+    "answer": "B",
+    "solution": "Türkiye'de ilköğretim okulu, lise veya dengi okullar Millî Eğitim Bakanlığının izni olmaksızın açılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yönetim: okul açma yetkisi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-050",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Başka bir bakanlığa bağlı bir lisenin programı ve yönetmeliği hazırlanırken, bu bakanlık ile Millî Eğitim Bakanlığı birlikte çalışmıştır. Hazırlanan program ve yönetmelik daha sonra bir makam tarafından onaylanarak yürürlüğe girmiştir.\n\nKanuna göre diğer bakanlıklara bağlı lise ve dengi okulların program ve yönetmeliklerini onaylayan makam hangisidir?",
+    "options": {
+      "A": "İlgili bakanlığın bağımsız onayı",
+      "B": "Cumhurbaşkanlığı İletişim Başkanlığı",
+      "C": "Yükseköğretim Kurulu",
+      "D": "Türkiye Büyük Millet Meclisi",
+      "E": "Millî Eğitim Bakanlığı"
+    },
+    "answer": "E",
+    "solution": "Diğer bakanlıklara bağlı lise ve dengi okulların program ve yönetmelikleri ilgili bakanlıkla Millî Eğitim Bakanlığı tarafından birlikte yapılır ve Millî Eğitim Bakanlığınca onanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yönetim: diğer bakanlıklara bağlı okullar"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-051",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir dernek, mahalledeki gençler için hafta sonu kurslar düzenlemektedir. Kurs içeriklerinin millî eğitimin amaçlarına uygun olup olmadığı konusunda bir şikâyet gelmiştir. İlçe yönetimi, resmî, özel ve gönüllü kuruluşların eğitim faaliyetlerinin denetiminden hangi kurumun sorumlu olduğunu araştırmaktadır.\n\nKanuna göre bu denetimi yapan kurum hangisidir?",
+    "options": {
+      "A": "Yükseköğretim Kurulu",
+      "B": "Belediye zabıta müdürlüğü",
+      "C": "Mahalle muhtarlığı",
+      "D": "Millî Eğitim Bakanlığı",
+      "E": "Dernekler dairesi başkanlığı"
+    },
+    "answer": "D",
+    "solution": "Resmî, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri, millî eğitim amaçlarına uygunluğu bakımından Millî Eğitim Bakanlığının denetimine tabidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yönetim: eğitim faaliyetlerinin denetimi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-052",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Büyük bir ilçede aynı arsa üzerinde bir anaokulu, bir ilkokul, bir ortaokul ve bir lise bulunmaktadır. Okulların ortak açık alanı, kantini ve spor salonu tek bir yönetim tarafından işletilmek ve elde edilen gelirler ortak giderlerde kullanılmak istenmektedir.\n\nKanuna göre bu amaçla kurulabilecek yapı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bölge okulu pansiyon yönetimi",
+      "B": "Yetiştirici sınıf ve kurs yönetimi",
+      "C": "Eğitim kampüsü ve kampüs yönetimi",
+      "D": "Çok programlı lise yönetimi",
+      "E": "Okul-aile birliği yönetim kurulu"
+    },
+    "answer": "C",
+    "solution": "Aynı alan içinde birden fazla örgün ve/veya yaygın eğitim kurumunun bir arada bulunması hâlinde eğitim kampüsü kurulabilir ve ortak ihtiyaçları karşılamak üzere eğitim kampüsü yönetimi oluşturulabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yönetim: eğitim kampüsleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-053",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Yeni hazırlanan bir fen dersi öğretim programı, yazım ve inceleme çalışmalarının ardından Millî Eğitim Bakanlığının bir birimine sunulmuştur. Bu birim programı inceleyerek karara bağlamakta, öğretim programlarının onaylanmasında temel görevli olarak çalışmaktadır. Programın taslağı öğretmenlerin görüşleri alınarak hazırlanmış ve pilot okullarda denenmiştir.\n\nBu birim aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yükseköğretim Kurulu",
+      "B": "Okul-aile birliği",
+      "C": "İl millî eğitim müdürlüğü",
+      "D": "Ölçme, Seçme ve Yerleştirme Merkezi",
+      "E": "Talim ve Terbiye Kurulu Başkanlığı"
+    },
+    "answer": "E",
+    "solution": "Talim ve Terbiye Kurulu Başkanlığı, Millî Eğitim Bakanlığında öğretim programlarını inceleyip karara bağlayan danışma ve karar organıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yönetim: Talim ve Terbiye Kurulu"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-054",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Görme yetersizliği olan Sinan, mahallesindeki ilkokulda yaşıtlarıyla aynı sınıfta eğitim görmekte; ek olarak okulda destek eğitim odasında özel öğretmenden bireysel destek almaktadır. Sınıf öğretmeni de ders materyallerini onun ihtiyacına göre uyarlamaktadır. Öğretmenler bu uygulamadan memnundur ve velisi de süreci yakından izlemektedir.\n\nSinan'ın eğitimi aşağıdaki uygulamalardan hangisine örnektir?",
+    "options": {
+      "A": "Yaygın eğitim",
+      "B": "Evde eğitim",
+      "C": "Açık öğretim",
+      "D": "Özel eğitim okulunda eğitim",
+      "E": "Kaynaştırma"
+    },
+    "answer": "E",
+    "solution": "Kaynaştırma uygulamasında özel eğitime ihtiyacı olan öğrenci yaşıtlarıyla birlikte genel eğitim sınıfında, gerekli destek hizmetleriyle eğitim görür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Özel eğitim: kaynaştırma"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-055",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Öğrenme güçlüğü tanısı almış Elif için okul, öğretmenler, rehber öğretmen ve veliden oluşan bir ekip kurmuştur. Ekip, Elif'in güçlü ve zayıf yönlerini, yıllık hedeflerini ve kullanılacak yöntemleri içeren yazılı bir plan hazırlamıştır. Plan, öğretim yılı başında hazırlanmış ve dönem sonunda gözden geçirilecektir.\n\nBu plan aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bireyselleştirilmiş eğitim programı",
+      "B": "Öğretmenin hazırladığı yıllık ders planı",
+      "C": "Okul gelişim planı belgesi",
+      "D": "Ünite ve konuya ilişkin ders planı",
+      "E": "Rehberlik hizmetleri yıllık çalışma planı"
+    },
+    "answer": "A",
+    "solution": "Bireyselleştirilmiş eğitim programı (BEP), özel eğitim ihtiyacı olan öğrencinin güçlü ve zayıf yönlerine göre hedeflerin, yöntemlerin ve desteklerin yazılı olarak belirlendiği programdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Özel eğitim: BEP"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-056",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Okulda sürekli dikkat dağınıklığı ve ciddi öğrenme güçlükleri gösteren Murat için öğretmeni, özel eğitim ihtiyacının olup olmadığının belirlenmesi, tanılanması ve uygun eğitim ortamına yönlendirilmesi amacıyla bir kuruma başvuruda bulunmuştur. Veli de çocuğunun durumundan endişelidir ve öğretmeniyle düzenli görüşme yapmaktadır, süreç dosyalanmaktadır.\n\nÖğretmenin başvurduğu kurum aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Öğretmen eğitim merkezi",
+      "B": "Rehberlik ve araştırma merkezi",
+      "C": "Mesleki eğitim merkezi müdürlüğü",
+      "D": "Bilim ve sanat merkezi müdürlüğü",
+      "E": "Halk eğitim merkezi müdürlüğü"
+    },
+    "answer": "B",
+    "solution": "Rehberlik ve araştırma merkezi, özel eğitim ihtiyacı olan bireylerin tanılanması, değerlendirilmesi ve eğitim ortamlarına yönlendirilmesinden sorumlu kurumdur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Özel eğitim: rehberlik ve araştırma merkezi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-057",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir ilkokulda yaşıtlarına göre çok yüksek düzeyde genel zihinsel yetenek gösteren öğrenci Duru, okuluna devam ederken hafta sonları ve okul dışı saatlerde ilde açılan merkezde, kendi yetenek alanına yönelik zenginleştirilmiş programlara katılmaktadır. Öğrencinin ailesi bu uygulamadan memnundur ve ücret ödememektedir.\n\nDuru'nun devam ettiği merkez aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Halk eğitim merkezi",
+      "B": "Rehberlik ve araştırma merkezi",
+      "C": "Çok programlı lise",
+      "D": "Bilim ve sanat merkezi",
+      "E": "Mesleki eğitim merkezi"
+    },
+    "answer": "D",
+    "solution": "Bilim ve sanat merkezleri, üstün yetenekli öğrencilerin okullarına devam ederken yetenek alanlarına yönelik destek eğitim aldığı kurumlardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Özel eğitim: bilim ve sanat merkezi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-058",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Küçük köylerdeki okulların kapatılmasından sonra birkaç köyün ilkokul ve ortaokul öğrencileri her sabah servis araçlarıyla merkezdeki okula taşınmakta, akşam yine köylerine geri götürülmektedir. Öğrencilerin yemek giderleri de okul tarafından karşılanmaktadır. Uygulama köy muhtarları ve velilerle yapılan görüşmelerin ardından başlatılmış ve her yıl izlenmektedir.\n\nBu uygulama aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kaynaştırma eğitimi",
+      "B": "Yatılı bölge okulu eğitimi",
+      "C": "Gezici eğitim",
+      "D": "Karma eğitim",
+      "E": "Taşımalı eğitim"
+    },
+    "answer": "E",
+    "solution": "Taşımalı eğitim, eğitim olanaklarına ulaşmakta güçlük çeken öğrencilerin merkezî bir okula servis araçlarıyla taşınarak eğitim görmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Fırsat eşitliği uygulaması: taşımalı eğitim"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-059",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir yayınevi, ders kitabı fiyatlarının neden Millî Eğitim Bakanlığınca belirlendiğini sormuştur. Bakanlık yetkilileri, kanunda eğitim araç ve gereçleriyle ilgili olarak bakanlığa verilen görevlerin kitap fiyatlarını, kullanım sürelerini ve telif haklarını da kapsadığını açıklamıştır.\n\nKanuna göre bu görevler hangi çerçevede Millî Eğitim Bakanlığına aittir?",
+    "options": {
+      "A": "Ders kitaplarının fiyatlarını serbest bırakıp sadece içeriklerini onaylamakla ve kitapları denetlemekle yetinmek",
+      "B": "Eğitim araç ve gereçlerini sadece özel kesimden satın almak ve yayımlama yetkisini bu kesime devretmek",
+      "C": "Eğitim araç ve gereçlerinin kullanım süresini ve telif haklarını yayınevlerinin tespit etmesine izin vermek",
+      "D": "Eğitim araç ve gereçlerinin tamamını kendisi basmak ve ders kitabı fiyatlarını yayınevlerinin belirlemesine bırakmak",
+      "E": "Eğitim araç ve gereçlerini sağlamak, geliştirmek, standartlaştırmak; kullanılma süresi, telif hakkı ve ders kitabı fiyatlarını tespit etmek"
+    },
+    "answer": "E",
+    "solution": "Millî Eğitim Bakanlığı, kendisine bağlı eğitim kurumlarının eğitim araç ve gereçlerini sağlamak, geliştirmek, yenileştirmek, standartlaştırmak, kullanılma süresini, telif haklarını ve ders kitabı fiyatlarını tespit etmekle görevlidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Eğitim araç-gereçleri: Bakanlığın görevi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-060",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Millî Eğitim Bakanlığı, bir özel yayınevinin hazırladığı yardımcı ders kitabını inceleyerek okullarda kullanılmak üzere uygun bulmuştur. Bakanlık kitabı kendisi hazırlamamış, imal etmemiş; yalnızca özel kesimce hazırlanan eserler arasından seçmiş ve tavsiye etmiştir.\n\nBu işlem, Bakanlığın eğitim araç ve gereçlerini sağlama yollarından hangisidir?",
+    "options": {
+      "A": "Özel kesimce hazırlananlar veya imal edilenler arasından seçmek veya tavsiye etmek",
+      "B": "Düzenleyeceği yarışmalar yoluyla eğitim araç ve gereçlerini hazırlattırması",
+      "C": "Eğitim araç ve gereçlerini kendisinin hazırlaması, imal etmesi veya satın alması",
+      "D": "Kişilere veya kuracağı komisyonlara eğitim araç ve gereçlerini hazırlattırması",
+      "E": "Yurt dışı kuruluşlara tamamen hazırlatıp basılması için sipariş vermesi"
+    },
+    "answer": "A",
+    "solution": "Millî Eğitim Bakanlığı eğitim araç ve gereçlerini hazırlamak, imal etmek ve satın almak; kişilere veya komisyonlara hazırlatmak; özel kesimce hazırlananlar arasından seçmek veya tavsiye etmek yollarıyla sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Eğitim araç-gereçleri: sağlama yolları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-061",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir okulda öğretmenler kurulu, yıllık plan hazırlarken Türk Millî Eğitiminin genel amaçlarını esas almıştır. Toplantıda hangi niteliklerin kazandırılacağı tartışılırken, kanun metninde yer alan ifadeler tek tek okunmuş, yetiştirilecek bireyin beden, zihin, ahlak, ruh ve duygu bakımından gelişmiş olması gerektiği vurgulanmıştır.\n\nBuna göre aşağıdakilerden hangisi 1739 sayılı Kanunda belirtilen Türk Millî Eğitiminin genel amaçlarından biridir?",
+    "options": {
+      "A": "Beden, zihin, ahlak, ruh ve duygu bakımlarından dengeli ve sağlıklı kişiler yetiştirmek",
+      "B": "Eğitim kurumlarını ekonomik büyümenin başlıca aracı hâline getirmek",
+      "C": "Öğrencileri ezbere dayalı sınavlara hazırlamak",
+      "D": "Bireyleri toplumsal sorumluluktan bağımsız yetiştirmek",
+      "E": "Bütün bireylere aynı mesleği kazandırmak"
+    },
+    "answer": "A",
+    "solution": "1739 sayılı Kanunun 2. maddesine göre genel amaçlardan biri, bireyleri beden, zihin, ahlak, ruh ve duygu bakımlarından dengeli ve sağlıklı şekilde gelişmiş kişiler olarak yetiştirmektir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 2 (genel amaçlar)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-062",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Millî Eğitim Bakanlığında görevli bir uzman, bir seminerde Türk Millî Eğitiminin genel amacına göre yetiştirilmesi hedeflenen bireylerin niteliklerini anlatmaktadır. Uzman, bireylerin hür ve bilimsel düşünme gücüne ve geniş bir dünya görüşüne sahip olması gerektiğini söyledikten sonra ayrıca iki değere de vurgu yapmıştır.\n\nKanuna göre bu bireyler hangi iki değere önem veren kişiler olarak yetiştirilir?",
+    "options": {
+      "A": "Rekabete ve kazanca",
+      "B": "Geleneğe ve değişmezliğe",
+      "C": "Kişiliğe ve teşebbüse",
+      "D": "Güce ve otoriteye",
+      "E": "Sıralamaya ve yarışmaya"
+    },
+    "answer": "C",
+    "solution": "1739 sayılı Kanunun 2. maddesine göre genel amaç, bireyleri hür ve bilimsel düşünme gücüne, geniş bir dünya görüşüne sahip, insan haklarına saygılı, kişilik ve teşebbüse değer veren, topluma karşı sorumluluk duyan, yapıcı, yaratıcı ve verimli kişiler olarak yetiştirmektir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 2 (genel amaçlar)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-063",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir il millî eğitim müdürlüğü, okul müdürlerine yönelik bir toplantıda Türk Millî Eğitiminin genel amaçlarını anlatmaktadır. Konuşmacı, yetiştirilecek yurttaşların hangi inkılap ve ilkelere ile hangi milliyetçilik anlayışına bağlı olmaları gerektiğini kanun metnine bakarak açıklamakta, sorulara da yanıt vermektedir.\n\nBuna göre yurttaşların bağlı olması gereken ilke ve anlayış aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Cumhuriyet'in kuruluşundan önceki ilke ve geleneksel yönetim anlayışı",
+      "B": "Eğitim kurumlarının kendi belirleyeceği yerel ilkeler",
+      "C": "Atatürk inkılap ve ilkeleri ile Anayasada ifadesini bulan Atatürk milliyetçiliği",
+      "D": "Ekonomik kalkınmaya dayalı ilkeler",
+      "E": "Uluslararası kuruluşların belirlediği ortak ilkeler"
+    },
+    "answer": "C",
+    "solution": "Genel amaçlara göre yurttaşlar Atatürk inkılap ve ilkelerine ve Anayasada ifadesini bulan Atatürk milliyetçiliğine bağlı olarak yetiştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 2 (genel amaçlar)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tms-064",
+    "ders": "egitim_bilimleri",
+    "konu": "tmes_genel_yapisi",
+    "stem": "Bir okulda öğretmenler, Türk Millî Eğitiminin genel amacının son bölümünü incelemektedir. Kanun metninde, bir yandan Türk vatandaşlarının ve toplumunun refah ve mutluluğunu artırmak, öte yandan milli birlik ve bütünlük içinde kalkınmayı desteklemek; nihayet Türk Milletini çağdaş uygarlığın bir ortağı yapmak amaçlanmaktadır.\n\nKanuna göre Türk Milleti çağdaş uygarlığın nasıl bir ortağı yapılmak istenmektedir?",
+    "options": {
+      "A": "Sadık, itaatkâr, yardımcı",
+      "B": "Aracı, destekçi, katılımcı",
+      "C": "Rakip, bağımsız, kapalı",
+      "D": "Tüketici, bağımlı, uyumlu",
+      "E": "Yapıcı, yaratıcı, seçkin"
+    },
+    "answer": "E",
+    "solution": "Genel amacın son bölümüne göre Türk Milleti, çağdaş uygarlığın yapıcı, yaratıcı, seçkin bir ortağı yapılacaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "1739 sayılı Kanun m. 2 (genel amaçlar)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  }
+]

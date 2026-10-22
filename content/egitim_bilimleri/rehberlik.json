@@ -1,0 +1,1566 @@
+[
+  {
+    "id": "ags-egt-reh-001",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Seda Hanım, 8. sınıfa devam eden bütün öğrencileri sınıf ortamında toplayarak lise türleri, kontenjanlar ve tercih işlemlerine ilişkin ortak bir bilgilendirme yapmış; ardından öğrencilere ilgi ve yeteneklerine uygun lise türlerini düşünmeleri için bir çalışma kâğıdı dağıtmıştır.\n\nSeda Hanım'ın bu çalışması aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Psikoterapi",
+      "B": "Rehberlik",
+      "C": "Sınıf yönetimi",
+      "D": "Eğitim denetimi",
+      "E": "Psikolojik danışma"
+    },
+    "answer": "B",
+    "solution": "Rehberlik, tüm öğrencilere yönelik, önleyici ve geliştirici nitelikte, genellikle grup halinde sunulan yardım hizmetidir; psikolojik danışma ise bire bir veya küçük grupla yürütülen daha derinlemesine bir yardım sürecidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: rehberlik ve psikolojik danışma ayrımı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-002",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okul psikolojik danışmanı Ahmet Bey, yakın zamanda annesini kaybeden ve yaşadığı yas nedeniyle derslerine odaklanamayan Elif'le haftada bir kez bire bir görüşmektedir. Görüşmelerde Elif'in duygularını ifade etmesine, anlamasına ve başa çıkma yollarını bulmasına yardımcı olmaktadır.\n\nAhmet Bey'in yürüttüğü bu çalışma aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bilgi verme hizmeti",
+      "B": "Psikolojik danışma",
+      "C": "Yerleştirme hizmeti",
+      "D": "Sınıf rehberliği",
+      "E": "Rehberlik hizmeti"
+    },
+    "answer": "B",
+    "solution": "Psikolojik danışma, eğitimli bir danışmanın danışanla kurduğu yardım ilişkisi içinde bireyin sorununu anlamasına ve başa çıkmasına yardım eden, genellikle bire bir yürütülen bir süreçtir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: psikolojik danışma"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-003",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikolojik danışman Selin Hanım, danışanı Mert'in kendisine anlattığı özel bilgileri hiçbir şekilde öğretmenlerle, arkadaşlarıyla ya da velisiyle paylaşmamaktadır. Mert, bu güvenceyi bildiği için danışman karşısında rahatça konuşabilmektedir. Mert görüşmelerde bu güven ortamı sayesinde hiçbir kaygı duymadan bütün sorunlarını açıkça anlatmaktadır.\n\nSelin Hanım hangi rehberlik ilkesine uymaktadır?",
+    "options": {
+      "A": "Gizlilik",
+      "B": "Süreklilik",
+      "C": "Bireyi kabul",
+      "D": "Gönüllülük",
+      "E": "İşbirliği"
+    },
+    "answer": "A",
+    "solution": "Gizlilik ilkesine göre danışan bilgileri, danışanın izni veya yasal zorunluluk dışında üçüncü kişilerle paylaşılmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik ilkeleri: gizlilik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-004",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Sınıf öğretmeni, sürekli derse geç gelen Kaan'ı zorla rehber servisine göndermiştir. Kaan, rehber öğretmenin odasında hiç konuşmamakta ve görüşmeden bir sonuç çıkmamaktadır. Rehber öğretmen, bireyin kendi isteğiyle gelmediği sürece yardımın etkili olmadığını belirtmiştir.\n\nBu durum hangi rehberlik ilkesine işaret etmektedir?",
+    "options": {
+      "A": "Gönüllülük",
+      "B": "Süreklilik",
+      "C": "Bilgi verme",
+      "D": "Bireyi kabul",
+      "E": "Gizlilik"
+    },
+    "answer": "A",
+    "solution": "Gönüllülük ilkesi, danışma ve rehberlik hizmetlerinden yararlanmanın bireyin kendi isteğine bağlı olmasını gerektirir; zorla getirilen birey yardımdan yeterince yararlanamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik ilkeleri: gönüllülük"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-005",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Nilgün Hanım, öğrencisi Burak'ın başarısız notlarına, kavgacı geçmişine ve ailesinin durumuna bakmaksızın onu eleştirmeden, yargılamadan ve olduğu gibi kabul ederek dinlemektedir. Burak, bu ortamda kendini daha rahat ifade etmektedir. Burak, öğretmeninin bu tutumu sayesinde zamanla daha fazla konuşmaya başlamıştır.\n\nNilgün Hanım hangi rehberlik ilkesine uymaktadır?",
+    "options": {
+      "A": "Gizlilik",
+      "B": "Gönüllülük",
+      "C": "Süreklilik",
+      "D": "Bireysel farklılıklar",
+      "E": "Bireyi kabul etme"
+    },
+    "answer": "E",
+    "solution": "Bireyi kabul ilkesi, bireyin değer ve davranışlarına bakılmaksızın olduğu gibi kabul edilmesini, yargılanmamasını ve saygı görmesini gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik ilkeleri: bireyi kabul"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-006",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okul danışmanı Cenk Bey, bir öğrenciye “Sen bunu yapmalısın, ben olsam şunu seçerdim” demek yerine seçeneklerin artı ve eksi yönlerini birlikte değerlendirmiş, kararı öğrencinin kendisinin vermesini beklemiştir. Danışman öğrenci adına karar vermemektedir. Öğrenci bu süreçte kararın sorumluluğunu kendi üstlenmiştir.\n\nCenk Bey hangi rehberlik ilkesine uymaktadır?",
+    "options": {
+      "A": "Bireyin kendi kararını vermesi",
+      "B": "Bireyi kabul etme ilkesi",
+      "C": "Süreklilik ilkesi",
+      "D": "Gizlilik ilkesi",
+      "E": "Gönüllülük ilkesi"
+    },
+    "answer": "A",
+    "solution": "Rehberlikte danışman bireye karar vermesi için yardım eder; kararı birey adına vermez, çünkü birey kendi yaşamının sorumluluğunu taşır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik ilkeleri: bireyin kendi kararını vermesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-007",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Bir ilkokulda anasınıfından başlayarak her yıl öğrencilerin gelişimini izleyen, okul değiştirenlerin dosyalarını yeni okula ileten ve mezuniyet sonrasında da öğrencilerin uyumunu izleyen rehberlik servisi, hizmetleri belirli bir dönemle sınırlamamış, yaşam boyu devam edecek biçimde yürütmektedir.\n\nBu uygulama hangi rehberlik ilkesine dayanır?",
+    "options": {
+      "A": "Gizlilik",
+      "B": "Gönüllülük",
+      "C": "Bireyi kabul",
+      "D": "Süreklilik",
+      "E": "Bireyin kendi kararını vermesi"
+    },
+    "answer": "D",
+    "solution": "Süreklilik ilkesi, rehberlik hizmetlerinin bireyin yaşamı boyunca, kesintisiz olarak sürdürülmesini gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik ilkeleri: süreklilik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-008",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Aylin Hanım, 9. sınıf öğrencilerine ders çalışma becerileri, verimli not tutma ve sınav kaygısıyla başa çıkma konularında bir seminer vermiş; ayrıca okul uyum sorunları yaşayan öğrencilerle birebir görüşmüştür. Seminere katılan öğrenciler çalışma planı hazırlamaya başlamıştır.\n\nBu çalışma rehberliğin hangi hizmet alanına girer?",
+    "options": {
+      "A": "Mesleki rehberlik",
+      "B": "Eğitsel rehberlik",
+      "C": "Kişisel-sosyal rehberlik",
+      "D": "Aile rehberliği",
+      "E": "Sağlık rehberliği"
+    },
+    "answer": "B",
+    "solution": "Eğitsel rehberlik, öğrencilerin okula uyumu, etkili çalışma alışkanlıkları ve eğitim sürecindeki başarılarına ilişkin kararlarına yardım etmeyi amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmet alanları: eğitsel rehberlik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-009",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Banu Hanım, 11. sınıf öğrencilerine meslek gruplarını, bu mesleklerin gerektirdiği özellikleri, eğitim yollarını ve iş olanaklarını tanıtan bir meslek günü düzenlemiş; öğrencilerin ilgi envanteri sonuçlarına göre uygun meslek alanlarını konuşmuştur. Etkinlik sonunda öğrenciler hangi meslek alanlarını araştıracaklarına karar vermiştir.\n\nBu çalışma rehberliğin hangi hizmet alanına girer?",
+    "options": {
+      "A": "Kişisel-sosyal rehberlik",
+      "B": "Aile rehberliği",
+      "C": "Eğitsel rehberlik",
+      "D": "Sağlık rehberliği",
+      "E": "Mesleki rehberlik"
+    },
+    "answer": "E",
+    "solution": "Mesleki rehberlik, bireylerin kendilerini ve meslekleri tanıyarak ilgi, yetenek ve değerlerine uygun meslek seçmelerine ve mesleğe hazırlanmalarına yardım eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmet alanları: mesleki rehberlik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-010",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okul danışmanı Mert Bey, sınıfında arkadaşlık kurmakta zorlanan ve öfke patlamaları yaşayan öğrencilere duygu düzenleme, iletişim becerileri ve çatışma çözme konularında bir grup çalışması yürütmektedir. Çalışma ders başarısına değil, öğrencilerin ilişkilerine odaklanmaktadır. Çalışma sekiz haftalık bir programla haftada bir oturum biçiminde yürütülmektedir.\n\nBu çalışma rehberliğin hangi hizmet alanına girer?",
+    "options": {
+      "A": "Kişisel-sosyal rehberlik",
+      "B": "Mesleki rehberlik alanı",
+      "C": "Aile rehberliği alanı",
+      "D": "Sağlık rehberliği alanı",
+      "E": "Eğitsel rehberlik alanı"
+    },
+    "answer": "A",
+    "solution": "Kişisel-sosyal rehberlik, bireyin kendini tanıması, duygularını yönetmesi, sağlıklı ilişkiler kurması ve toplumsal uyum becerileri kazanmasına yardım eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmet alanları: kişisel-sosyal rehberlik"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-011",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Fatma Hanım, yeni okula başlayan 5. sınıf öğrencilerine okulun kurallarını, öğretmenlerini, kantin ve kütüphane gibi olanaklarını tanıtan bir oryantasyon programı düzenlemiştir. Öğrencilerden okula ilişkin beklentilerini de yazmalarını istemiştir. Program, okulun ilk haftasında bütün 5. sınıf şubelerinde uygulanmıştır.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
+    "options": {
+      "A": "Bilgi verme",
+      "B": "Psikolojik danışma",
+      "C": "Yöneltme",
+      "D": "Bireyi tanıma",
+      "E": "İzleme"
+    },
+    "answer": "A",
+    "solution": "Bilgi verme hizmeti, bireyin kararlarını daha sağlıklı verebilmesi için gerekli eğitsel, mesleki ve kişisel bilgilerin sunulmasıdır; oryantasyon programları bunun örneğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmetleri: bilgi verme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-012",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Ali Bey, öğrencilerin ilgi envanteri sonuçlarını, notlarını ve öğretmen görüşlerini bir araya getirerek her öğrenci için bir bireysel dosya oluşturmuş; bu dosyalara dayanarak öğrencilerin güçlü ve gelişime açık yönlerini belirlemiştir. Dosyalar yalnızca rehberlik servisinde ve izinle erişilebilen bir yerde saklanmaktadır.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
+    "options": {
+      "A": "Bilgi verme çalışması",
+      "B": "Yerleştirme çalışması",
+      "C": "Bireyi tanıma",
+      "D": "İzleme çalışması",
+      "E": "Yöneltme çalışması"
+    },
+    "answer": "C",
+    "solution": "Bireyi tanıma hizmeti, öğrencinin ilgi, yetenek, kişilik, başarı ve çevresine ilişkin bilgilerin test ve test dışı tekniklerle toplanıp değerlendirilmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmetleri: bireyi tanıma"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-013",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Ece Hanım, ilgi ve yetenek testleri sonuçlarına göre fen alanında başarılı olan bir öğrenciye bu alanda eğitim veren fen lisesini önermiş, sonuçları öğrenci ve velisiyle konuşarak onu bu okul türüne doğru yönlendirmiştir.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
+    "options": {
+      "A": "Yerleştirme",
+      "B": "İzleme",
+      "C": "Yöneltme",
+      "D": "Bilgi verme",
+      "E": "Bireyi tanıma"
+    },
+    "answer": "C",
+    "solution": "Yöneltme hizmetinde bireyin ilgi, yetenek ve başarısına uygun okul, program ya da meslek alanına yönelmesine yardım edilir; seçim bireye aittir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmetleri: yöneltme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-014",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okul danışmanı Zafer Bey, mezun olan öğrencilerine uygun bir meslek edinme kursuna ya da işe girmeleri için gerekli işlemleri yapmalarına yardım etmekte; iş yerleriyle iletişim kurarak öğrencilerin staj ve işe yerleşme sürecini kolaylaştırmaktadır.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
+    "options": {
+      "A": "Bireyi tanıma",
+      "B": "İzleme",
+      "C": "Bilgi verme",
+      "D": "Yerleştirme",
+      "E": "Yöneltme"
+    },
+    "answer": "D",
+    "solution": "Yerleştirme hizmeti, bireyin okul, kurs, staj ya da işe girişini kolaylaştıran ve uygun ortama yerleşmesine yardım eden çalışmalardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmetleri: yerleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-015",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Selma Hanım, kendi yönlendirmesiyle farklı bir okul türüne geçen öğrencilerini dönem sonlarında arayarak yeni okullarındaki uyumlarını, başarılarını ve karşılaştıkları sorunları sormakta, gerekirse yeni bir yardım planı yapmaktadır. Bu görüşmelerin sonuçlarını bireysel dosyalara not etmektedir.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
+    "options": {
+      "A": "İzleme",
+      "B": "Bireyi tanıma",
+      "C": "Yöneltme",
+      "D": "Yerleştirme",
+      "E": "Bilgi verme"
+    },
+    "answer": "A",
+    "solution": "İzleme hizmeti, rehberlik hizmetlerinin sonuçlarının değerlendirilmesi ve bireyin gelişiminin sürdürülmesi için yapılan izleme çalışmalarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmetleri: izleme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-016",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okul rehberlik servisi, öğrenciler sorun yaşamadan önce zorbalığı önlemek amacıyla yılın başında tüm sınıflarda akran zorbalığı farkındalık oturumları yürütmüştür. Amaç, olası sorunları ortaya çıkmadan engellemek ve öğrencilerin başa çıkma becerilerini artırmaktır. Oturumlar, her sınıfta bir ders saati süreyle ve öğretmenlerin katılımıyla yapılmıştır.\n\nBu çalışma rehberliğin hangi rolüne örnektir?",
+    "options": {
+      "A": "Denetleyici rol",
+      "B": "Düzeltici rol",
+      "C": "Önleyici rol",
+      "D": "Yargılayıcı rol",
+      "E": "Tedavi edici rol"
+    },
+    "answer": "C",
+    "solution": "Önleyici rol, sorunlar ortaya çıkmadan önce risk faktörlerini azaltmayı ve koruyucu becerileri geliştirmeyi amaçlar; düzeltici rol ise ortaya çıkmış sorunlara yöneliktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: önleyici rol"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-017",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Yeliz Hanım, bir öğrencinin ders sırasında ve teneffüslerde arkadaşlarıyla nasıl iletişim kurduğunu, dikkat süresini ve davranışlarını gerçek ortamında, öğrenci farkında olmadan belirli bir süre boyunca izleyip kaydetmiştir. Gözlem sonuçlarını daha sonra öğrenciyle yapacağı görüşmede kullanmayı planlamaktadır.\n\nYeliz Hanım hangi bireyi tanıma tekniğini kullanmıştır?",
+    "options": {
+      "A": "Gözlem",
+      "B": "Görüşme",
+      "C": "Anket",
+      "D": "Sosyometri",
+      "E": "Olay incelemesi"
+    },
+    "answer": "A",
+    "solution": "Gözlem, bireyin davranışlarının doğal ortamında planlı ve sistematik biçimde izlenip kaydedilmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: gözlem"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-018",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Cem Bey, bir öğrencinin ailesi, okul yaşamı, arkadaşları ve gelecek planları hakkında bilgi toplamak amacıyla öğrenciyle yüz yüze oturup önceden hazırladığı sorular çerçevesinde konuşmuş, öğrencinin duygu ve tutumlarını da sözlü yanıtlarından değerlendirmiştir.\n\nCem Bey hangi bireyi tanıma tekniğini kullanmıştır?",
+    "options": {
+      "A": "Anekdot kaydı",
+      "B": "Anket",
+      "C": "Görüşme",
+      "D": "Gözlem",
+      "E": "Sosyometri"
+    },
+    "answer": "C",
+    "solution": "Görüşme, bireyle yüz yüze ve amaçlı konuşma yoluyla bilgi toplama tekniğidir; bireyin duygu, tutum ve düşüncelerinin sözlü olarak öğrenilmesini sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: görüşme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-019",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Nilüfer Hanım, 9. sınıfın tümüne aynı soruların yer aldığı yazılı bir form dağıtmış; öğrencilerin boş zaman etkinlikleri, ders çalışma alışkanlıkları ve meslek tercihleri hakkındaki yanıtlarını kısa sürede çok sayıda öğrenciden toplayarak istatistiksel olarak özetlemiştir.\n\nNilüfer Hanım hangi bireyi tanıma tekniğini kullanmıştır?",
+    "options": {
+      "A": "Olay incelemesi",
+      "B": "Görüşme",
+      "C": "Sosyometri",
+      "D": "Anket",
+      "E": "Gözlem"
+    },
+    "answer": "D",
+    "solution": "Anket, aynı soruların çok sayıda kişiye yazılı olarak yöneltilmesi ve yanıtların toplu olarak değerlendirilmesidir; kısa sürede çok sayıda kişiden bilgi toplamayı sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: anket"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-020",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Barış Bey, ciddi uyum sorunları yaşayan bir öğrenciyi daha iyi anlayabilmek için öğrencinin geçmişini, ailesini, sağlık öyküsünü, okul yaşantısını ve sorunun gelişimini bütün ayrıntılarıyla ve uzun bir süre boyunca incelemiş, yazılı bir rapor hazırlamıştır.\n\nBarış Bey hangi bireyi tanıma tekniğini kullanmıştır?",
+    "options": {
+      "A": "Kümülatif dosya",
+      "B": "Sosyometri",
+      "C": "Gözlem",
+      "D": "Anket",
+      "E": "Olay incelemesi"
+    },
+    "answer": "E",
+    "solution": "Olay incelemesi, tek bir bireyin geçmişi, çevresi ve sorunun gelişimini derinlemesine ve bütüncül biçimde inceleyen tekniktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: olay incelemesi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-021",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Gönül Hanım, öğrencilerinin yıllar boyunca aldığı notları, devam durumunu, sağlık bilgilerini, test sonuçlarını, öğretmen görüşlerini ve ailesine ilişkin bilgilerini tek bir dosyada derleyerek yeni sınıf öğretmenlerinin öğrenciyi tanımasına yardım etmektedir. Dosya, öğrenci okul değiştirdiğinde yeni okula iletilmektedir.\n\nBu dosya aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sosyogram",
+      "B": "Kümülatif dosya",
+      "C": "Anekdot kaydı",
+      "D": "Portfolyo",
+      "E": "Başarı ölçeği"
+    },
+    "answer": "B",
+    "solution": "Kümülatif dosya, öğrencinin farklı kaynaklardan toplanan sağlık, başarı, devam, test sonuçları ve gözlem bilgilerini zaman içinde biriktirerek barındıran bireyi tanıma kaydıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: kümülatif dosya"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-022",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Esra Hanım, öğrencilerin ilgi alanlarını belirlemek için hazırladığı envanterde her öğrenciye çeşitli etkinliklere (resim yapmak, bilgisayar kullanmak, hayvanlara bakmak gibi) ne kadar ilgi duyduğunu “hiç sevmem, sevmem, sever, çok severim” biçiminde işaretlettirmiştir.\n\nEsra Hanım hangi tür bireyi tanıma aracını kullanmıştır?",
+    "options": {
+      "A": "Başarı testi",
+      "B": "Yetenek testi",
+      "C": "Kişilik envanteri",
+      "D": "İlgi envanteri",
+      "E": "Zekâ testi"
+    },
+    "answer": "D",
+    "solution": "İlgi envanteri, bireyin farklı etkinlik ve mesleklere duyduğu ilgi ve tercihlerini belirlemeye yarayan bir test tekniğidir; doğru-yanlış yanıtı yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: ilgi envanteri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-023",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Aşağıdakilerden hangileri bireyi tanımada test dışı tekniklerdendir?\n\nI. Görüşme\n\nII. Gözlem\n\nIII. Zekâ testi",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve III",
+      "D": "I ve II",
+      "E": "II ve III"
+    },
+    "answer": "D",
+    "solution": "Görüşme ve gözlem test dışı tekniklerdir. Zekâ testi ise standart bir ölçme aracı olan test tekniğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: test ve test dışı teknikler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-024",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehberlik hizmetlerinde bireyi tanıma çalışmalarının temel amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bireyin davranışlarını öğretmenler adına sürekli denetleyip kayıt altına almak",
+      "B": "Bireyin başarısızlık nedenlerini cezalandırarak ortadan kaldırmaya çalışmak",
+      "C": "Bireyin sınıf içindeki konumunu not olarak belirleyip sınıflandırmak",
+      "D": "Bireyin ailesiyle ilgili gizli bilgileri toplayıp başkalarıyla paylaşmak",
+      "E": "Bireyin ilgi, yetenek ve gereksinimlerini belirleyerek ona uygun yardımı planlamak"
+    },
+    "answer": "E",
+    "solution": "Bireyi tanıma, yardım sürecinin planlanabilmesi için bireyin özelliklerini ve gereksinimlerini anlamayı amaçlar; denetim, cezalandırma ya da not verme amacı taşımaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: amaç"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-025",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Selen Hanım, 7. sınıf öğrencilerinin akıl yürütme, sözel anlama ve problem çözme becerilerini standart bir ölçme aracıyla ölçmüş, öğrencilerin yaşıtlarına göre konumunu gösteren bir zekâ bölümü puanı hesaplamıştır. Sonuçlar öğrencilerin kapasitelerini anlamak için kullanılacaktır.\n\nSelen Hanım hangi bireyi tanıma aracını kullanmıştır?",
+    "options": {
+      "A": "Başarı testi",
+      "B": "İlgi envanteri",
+      "C": "Kişilik envanteri",
+      "D": "Zekâ testi",
+      "E": "Gözlem formu"
+    },
+    "answer": "D",
+    "solution": "Zekâ testi, bireyin genel zihinsel yeteneğini (akıl yürütme, problem çözme, sözel anlama) standart koşullarda ölçen bir test tekniğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: zekâ testi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-026",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Cenk Bey, öğrencilere “Genellikle arkadaşlarımla rahatça konuşurum, kalabalık ortamlarda enerjik hissederim” gibi ifadeleri kendi durumlarına uyup uymadığına göre işaretlettirmiş; amacı, bireylerin kişilik özelliklerini ve tipik davranış örüntülerini belirlemektir. Ölçekte doğru ya da yanlış yanıt bulunmamaktadır.\n\nCenk Bey hangi bireyi tanıma aracını kullanmıştır?",
+    "options": {
+      "A": "Başarı testi",
+      "B": "Sosyometri",
+      "C": "Kişilik envanteri",
+      "D": "Zekâ testi",
+      "E": "İlgi envanteri"
+    },
+    "answer": "C",
+    "solution": "Kişilik envanteri, bireyin tipik davranış, tutum ve duygusal eğilimlerini kendi bildirimlerine dayanarak belirleyen bir ölçme aracıdır; doğru ya da yanlış yanıtı yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: kişilik envanteri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-027",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Elif Hanım, sınıftaki öğrencilerden çalışma, oyun ve oturma konusunda arkadaşları arasından birinci, ikinci ve üçüncü tercihlerini yazılı olarak istemiştir. Yanıtları bir şemada göstererek hangi öğrencinin çok sevildiğini, hangisinin ise dışlandığını belirlemiştir.\n\nElif Hanım hangi bireyi tanıma tekniğini kullanmıştır?",
+    "options": {
+      "A": "Gözlem",
+      "B": "Görüşme",
+      "C": "Anket",
+      "D": "Olay incelemesi",
+      "E": "Sosyometri"
+    },
+    "answer": "E",
+    "solution": "Sosyometri, grup üyelerinin birbirini seçme ve reddetme durumlarını ölçerek grup içi ilişkileri sosyogramla gösteren bir tekniktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: sosyometri"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-028",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikolojik danışman Hülya Hanım, danışanı Ali'nin ne anlattığına bakmaksızın ona içtenlikle, yargılamadan ve koşulsuz olarak değer vermekte; Ali'nin duygu ve düşüncelerini onun gözüyle anlamaya çalışmakta ve ilişkide gerçek, tutarlı biçimde davranmaktadır. Ali, bu ortamda kendini savunma gereği duymamakta ve duygularını rahatça dile getirmektedir.\n\nHülya Hanım hangi kuramı temel almaktadır?",
+    "options": {
+      "A": "Danışan merkezli yaklaşım",
+      "B": "Psikanalitik yaklaşım",
+      "C": "Davranışçı yaklaşım",
+      "D": "Akılcı duygusal davranışçı terapi",
+      "E": "Gerçeklik terapisi"
+    },
+    "answer": "A",
+    "solution": "Rogers'ın danışan merkezli yaklaşımında danışman koşulsuz olumlu kabul, empati ve tutarlılık (kendisi olma) koşullarını sağlar; değişim bu ilişki içinde danışanın kendisinden gelir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: danışan merkezli yaklaşım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-029",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikolojik danışman Mert Bey, danışan Elif'in anlattığı duyguları ona yansıtmakta, “Anladığım kadarıyla çok yalnız ve değersiz hissediyorsun” diyerek Elif'in dünyasını onun bakış açısından kavradığını göstermektedir. Danışman duyguları yorumlamamakta, öğüt vermemektedir. Elif, anlaşıldığını hissettiğinde duygularını daha derinlemesine paylaşmaya başlamıştır.\n\nMert Bey'in kullandığı bu danışmanlık özelliği aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yüzleştirme",
+      "B": "Empati",
+      "C": "Öğüt verme",
+      "D": "Yorumlama",
+      "E": "Sempati"
+    },
+    "answer": "B",
+    "solution": "Empati, danışanın duygu ve düşüncelerini onun bakış açısından anlama ve bu anlayışı ona iletme becerisidir; sempati ise acıma ve duygu ortaklığıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: danışman nitelikleri (empati)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-030",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikanalitik yaklaşımla çalışan danışman Selma Hanım, danışanından aklına gelen her şeyi hiçbir sansür uygulamadan, anlamlı ya da anlamsız olduğuna bakmadan söylemesini istemiştir. Böylece bilinçdışındaki içeriklerin ortaya çıkmasını beklemektedir. Danışan bu sırada bir kanepede uzanmış ve danışman onu arkadan dinlemiştir.\n\nSelma Hanım hangi tekniği kullanmaktadır?",
+    "options": {
+      "A": "Boş sandalye tekniği",
+      "B": "Model alma",
+      "C": "ABC modeli",
+      "D": "Serbest çağrışım",
+      "E": "Sistematik duyarsızlaştırma"
+    },
+    "answer": "D",
+    "solution": "Serbest çağrışım, danışanın aklına gelen her şeyi sansürsüz söylemesi yoluyla bilinçdışı çatışmaların açığa çıkarılmasını amaçlayan psikanalitik bir tekniktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: psikanalitik yaklaşım (serbest çağrışım)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-031",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikanalitik yaklaşımla çalışan danışman Banu Hanım, danışanın çocukluğunda babasıyla yaşadığı duygu ve çatışmaları şimdi danışmana karşı yaşamaya başladığını fark etmiş, danışanın danışmana öfke ve bağımlılık gibi duyguları hissettiğini görmüştür. Banu Hanım bu duyguların aslında geçmişe ait olduğunu fark etmiş ve bunu danışanla paylaşmaya hazırlanmaktadır.\n\nBu olgu psikanalitik yaklaşımda aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Rüya analizi",
+      "B": "Serbest çağrışım",
+      "C": "Aktarım",
+      "D": "Savunma mekanizması",
+      "E": "Direnç"
+    },
+    "answer": "C",
+    "solution": "Aktarım (transferans), danışanın geçmişteki önemli kişilere (anne, baba gibi) ait duygu ve tutumlarını danışmana yansıtmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: psikanalitik yaklaşım (aktarım)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-032",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Davranışçı yaklaşımla çalışan danışman Cenk Bey, asansörden korkan danışanına önce gevşeme egzersizleri öğretmiş, ardından korkunun en az olduğu durumdan (asansörün yanında durmak) en çok olduğu duruma (asansöre binmek) kadar bir korku sıralaması oluşturmuş; danışan gevşemişken bu durumları sırayla hayal etmiştir.\n\nCenk Bey hangi tekniği kullanmaktadır?",
+    "options": {
+      "A": "Boş sandalye uygulaması",
+      "B": "Yüzleştirme tekniği",
+      "C": "Serbest çağrışım tekniği",
+      "D": "Sistematik duyarsızlaştırma",
+      "E": "ABC modeli uygulaması"
+    },
+    "answer": "D",
+    "solution": "Sistematik duyarsızlaştırma (Wolpe), gevşeme eşliğinde korku hiyerarşisindeki durumların kademeli olarak hayal edilmesiyle fobilerin giderilmesine yönelik davranışçı tekniktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: davranışçı yaklaşım (sistematik duyarsızlaştırma)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-033",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Danışman Ayşe Hanım, danışanı Burak'ın “Herkes beni onaylamalı, yoksa değersiz biri olurum” inancının onu sürekli kaygılı kıldığını fark etmiştir. Danışman, olaylar (A), inançlar (B) ve duygusal sonuçlar (C) arasındaki ilişkiyi göstermekte ve mantıksız inancı sorgulamasına yardım etmektedir.\n\nAyşe Hanım hangi yaklaşımı kullanmaktadır?",
+    "options": {
+      "A": "Danışan merkezli yaklaşım",
+      "B": "Psikanalitik yaklaşım",
+      "C": "Gestalt terapisi",
+      "D": "Akılcı duygusal davranışçı terapi",
+      "E": "Gerçeklik terapisi"
+    },
+    "answer": "D",
+    "solution": "Ellis'in akılcı duygusal davranışçı terapisinde duygusal sorunların kaynağı olaylar değil, olaylara ilişkin mantıksız inançlardır (ABC modeli); terapi bu inançları sorgulamayı amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: Ellis (ABC modeli)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-034",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Danışan Zeynep, ders sınavından düşük aldığında “Ben her zaman başarısız oluyorum, bu benim yetersizliğim” gibi otomatik ve olumsuz düşünceler geliştirmekte; bu düşünceler onu umutsuz kılmaktadır. Danışman, bu düşünceleri fark etmesine ve gerçekçi alternatiflerle değiştirmesine yardım etmektedir.\n\nDanışmanın temel aldığı yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gerçeklik terapisi",
+      "B": "Gestalt terapisi",
+      "C": "Bilişsel terapi",
+      "D": "Psikanalitik yaklaşım",
+      "E": "Danışan merkezli yaklaşım"
+    },
+    "answer": "C",
+    "solution": "Beck'in bilişsel terapisi, duygusal sorunlara yol açan otomatik olumsuz düşünceleri ve bilişsel çarpıtmaları belirleyip daha gerçekçi düşüncelerle değiştirmeyi hedefler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: Beck (bilişsel terapi)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-035",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Gestalt yaklaşımıyla çalışan danışman Okan Bey, danışanından geçmişte yaşadığı bir olayı anlatmak yerine, şu anda neler hissettiğini, bedeninde ne fark ettiğini “şimdi ve burada” anlatmasını istemiştir. Ardından boş bir sandalyeye karşı konuşmasını önermiştir.\n\nBu uygulamalar hangi kuramın temel ilke ve tekniklerindendir?",
+    "options": {
+      "A": "Davranışçı yaklaşım",
+      "B": "Danışan merkezli yaklaşım",
+      "C": "Psikanalitik yaklaşım",
+      "D": "Gestalt terapisi",
+      "E": "Bilişsel terapi"
+    },
+    "answer": "D",
+    "solution": "Perls'in Gestalt terapisi, şimdi ve burada farkındalığı ve boş sandalye gibi deneyimsel teknikleri vurgular.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: Gestalt terapisi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-036",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Danışman Pelin Hanım, danışanı Kaan'ın çocukluğundaki yetersizlik duygusunu, bunu gidermek için yaşamda aşırı başarıya yöneldiğini ve toplumla bağ kurma çabalarını ele almaktadır. Kaan'ın yaşam tarzını ve toplumsal ilgisini değerlendirmeyi önemsemektedir. Pelin Hanım ayrıca Kaan'ın erken çocukluk anılarını ve kardeşleriyle ilişkisini de gözden geçirmektedir.\n\nPelin Hanım hangi kuramın kavramlarını kullanmaktadır?",
+    "options": {
+      "A": "Psikanaliz",
+      "B": "Gestalt terapisi",
+      "C": "Davranışçı terapi",
+      "D": "Danışan merkezli yaklaşım",
+      "E": "Bireysel psikoloji"
+    },
+    "answer": "E",
+    "solution": "Adler'in bireysel psikolojisinde aşağılık duygusu, telafi, yaşam tarzı ve toplumsal ilgi temel kavramlardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: Adler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-037",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Danışman Barış Bey, danışanına “Ne yaptın? Bu davranış sana yarar sağladı mı? Daha iyi bir plan nasıl olabilir?” sorularını yöneltmekte; danışanın davranışlarının sorumluluğunu üstlenmesini ve geleceğe dönük bir plan yapmasını desteklemektedir. Danışanın geçmişini kurcalamamaktadır. Görüşmeler sırasında danışan davranışlarını değerlendirmek ve yeni bir plan yapmak için cesaretlendirilmektedir.\n\nBarış Bey hangi yaklaşımı kullanmaktadır?",
+    "options": {
+      "A": "Danışan merkezli yaklaşım",
+      "B": "Gerçeklik terapisi",
+      "C": "Gestalt terapisi",
+      "D": "Bilişsel terapi",
+      "E": "Psikanaliz"
+    },
+    "answer": "B",
+    "solution": "Glasser'ın gerçeklik terapisi şimdiki davranışa, sorumluluğa ve plan yapmaya odaklanır; geçmişi kurcalamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: gerçeklik terapisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-038",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Toplama kampı deneyimini yaşamış bir psikiyatrist, insanın en zor koşullarda bile yaşamında anlam bulabildiğini ve anlam arayışının temel insani güdü olduğunu savunmuş; danışanlarına yaşamlarında anlam bulmalarında yardım eden bir terapi geliştirmiştir. Bu yaklaşım, kişinin yaşamında anlam arayışını ve değer yaratma yollarını merkeze almaktadır.\n\nBu yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Psikanaliz",
+      "B": "Gerçeklik terapisi",
+      "C": "Akılcı duygusal davranışçı terapi",
+      "D": "Anlam terapisi",
+      "E": "Gestalt terapisi"
+    },
+    "answer": "D",
+    "solution": "Frankl'ın anlam terapisi (logoterapi), yaşamın anlamını bulmayı insanın temel güdüsü sayan varoluşçu bir yaklaşımdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: Frankl (anlam terapisi)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-039",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Davranışçı yaklaşıma dayanan danışman Hasan Bey, utangaç bir öğrenciye sınıf önünde konuşma becerisi kazandırmak için, bu beceriyi başarıyla gösteren bir akranını izletmiş, sonra öğrencinin aynı davranışı denemesini sağlamış ve denemesini ödüllendirmiştir. Hasan Bey öğrencinin her adımda gösterdiği ilerlemeyi de hemen övgüyle pekiştirmiştir.\n\nHasan Bey hangi tekniği kullanmaktadır?",
+    "options": {
+      "A": "Boş sandalye tekniği",
+      "B": "ABC modeli",
+      "C": "Sistematik duyarsızlaştırma",
+      "D": "Serbest çağrışım",
+      "E": "Model alma"
+    },
+    "answer": "E",
+    "solution": "Model alma, bireyin istenen davranışı gösteren bir modeli gözleyerek öğrenmesine dayanan, sosyal öğrenme kuramından beslenen davranışçı bir tekniktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Danışma kuramları: davranışçı yaklaşım (model alma)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-040",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikolojik danışman Ceren Hanım, ilk oturumda danışanı Mert'le güven ilişkisi kurmak için onu karşılamış, gizlilik ve sınırları açıklamış, Mert'in kendini rahat hissetmesi için sıcak ve ilgili bir tutum sergilemiştir. Henüz sorunun ayrıntılarına inilmemiştir. Danışman bu oturumda danışanı hakkında herhangi bir değerlendirme ya da tanı koymamıştır.\n\nCeren Hanım danışma sürecinin hangi aşamasındadır?",
+    "options": {
+      "A": "Sonlandırma",
+      "B": "İzleme",
+      "C": "İlişki kurma",
+      "D": "Hedef belirleme",
+      "E": "Müdahale"
+    },
+    "answer": "C",
+    "solution": "Danışma sürecinin ilk aşaması, danışan ile danışman arasında güven ve çalışma ilişkisinin kurulmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Psikolojik danışma süreci: ilişki kurma"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-041",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Danışman Murat Bey ile danışan Elif birlikte oturup görüşmelerin sonunda ulaşmak istedikleri durumu, örneğin Elif'in sınav kaygısını yönetebilmesini, ölçülebilir ve gerçekçi biçimde belirlemişler; bu amaçlara ulaşmak için hangi yolların izleneceğini konuşmuşlardır. Hedefler yazılı olarak kaydedilmiş ve her oturumda yeniden gözden geçirilmiştir.\n\nBu çalışma danışma sürecinin hangi aşamasıdır?",
+    "options": {
+      "A": "İlişki kurma",
+      "B": "Hedef belirleme",
+      "C": "İzleme",
+      "D": "Sonlandırma",
+      "E": "Sorunu tanımlama"
+    },
+    "answer": "B",
+    "solution": "Hedef belirleme aşamasında danışman ve danışan ulaşılmak istenen amaçları somut ve gerçekçi biçimde birlikte belirler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Psikolojik danışma süreci: hedef belirleme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-042",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Altı oturumun sonunda Elif'in sınav kaygısı belirgin biçimde azalmış, belirlenen hedeflere ulaşılmıştır. Danışman, süreci birlikte değerlendirmiş, kazanımları özetlemiş ve gelecekte yeniden gerek duyarsa başvurabileceğini belirtip yardım ilişkisini kapatmıştır. Danışman Elif'e gerekli olursa tekrar başvurabileceğini söylemiş ve süreci birlikte tamamlamışlardır.\n\nBu çalışma danışma sürecinin hangi aşamasıdır?",
+    "options": {
+      "A": "Sonlandırma",
+      "B": "İlişki kurma",
+      "C": "Sorunu tanımlama",
+      "D": "Hedef belirleme",
+      "E": "Müdahale"
+    },
+    "answer": "A",
+    "solution": "Sonlandırma aşamasında hedeflere ulaşılıp ulaşılmadığı değerlendirilir, kazanımlar özetlenir ve yardım ilişkisi planlı biçimde sona erdirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Psikolojik danışma süreci: sonlandırma"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-043",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Nur Hanım, bir öğrencinin mesleki karar sürecinde önce öğrencinin ilgi, yetenek ve değerlerini tanımasını, sonra mesleklerin gerektirdiği özellikleri öğrenmesini ve sonunda bu ikisini mantıksal olarak eşleştirmesini önermektedir. Bu yaklaşım rehberliğin kurucusu olarak bilinen Frank Parsons'a dayanmaktadır.\n\nBu yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Psikanalitik yaklaşım modeli",
+      "B": "Özellik-faktör yaklaşımı",
+      "C": "Gelişimsel yaklaşım modeli",
+      "D": "Davranışçı yaklaşım modeli",
+      "E": "Karar verme yaklaşımı"
+    },
+    "answer": "B",
+    "solution": "Parsons'ın özellik-faktör yaklaşımı, bireyin özellikleri ile mesleğin gerektirdiği özelliklerin mantıksal olarak eşleştirilmesine dayanır; mesleki rehberliğin temelini oluşturur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Meslek rehberliği: Parsons (özellik-faktör)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-044",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Holland'ın kuramına göre rehber öğretmen Selçuk Bey, öğrencisinin ilgilerine bakarak onun soyut düşünmeyi, araştırma yapmayı ve problem çözmeyi sevdiğini, bilim ve matematik alanlarına ilgi duyduğunu belirlemiş ve onu araştırıcı bir kişilik tipi olarak değerlendirmiştir.\n\nHolland'ın altı kişilik tipinden hangisi bu öğrenciye uygundur?",
+    "options": {
+      "A": "Araştırıcı",
+      "B": "Geleneksel",
+      "C": "Sanatsal",
+      "D": "Sosyal",
+      "E": "Gerçekçi"
+    },
+    "answer": "A",
+    "solution": "Holland'ın araştırıcı tipi, bilimsel ve matematiksel etkinlikleri, problem çözmeyi ve soyut düşünmeyi tercih eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Meslek rehberliği: Holland (araştırıcı tip)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-045",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Holland'ın kuramına göre rehber öğretmen Ayşe Hanım, öğrencisi Elif'in resim, müzik ve yazı yazma gibi yaratıcı etkinlikleri sevdiğini, kuralların kısıtlamasını sevmediğini ve kendini sanat yoluyla ifade etmeyi tercih ettiğini gözlemlemiştir. Elif ayrıca birçok yaratıcı yarışmaya katılmakta ve ödüller almaktadır.\n\nHolland'ın altı kişilik tipinden hangisi bu öğrenciye uygundur?",
+    "options": {
+      "A": "Sanatsal",
+      "B": "Girişimci",
+      "C": "Gerçekçi",
+      "D": "Sosyal",
+      "E": "Araştırıcı"
+    },
+    "answer": "A",
+    "solution": "Holland'ın sanatsal tipi, yaratıcılığı, özgün ifadeyi ve esnek yapıları tercih eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Meslek rehberliği: Holland (sanatsal tip)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-046",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Holland'ın kuramına göre rehber öğretmen Mert Bey, öğrencisi Zeynep'in insanlara yardım etmeyi, onları dinlemeyi ve öğretmeyi sevdiğini, grup çalışmalarında çatışmaları çözmeye yatkın olduğunu belirlemiştir. Zeynep bu özelliklerini gönüllü çalışmalarda da göstermekte ve arkadaşları tarafından ilgiyle karşılanmaktadır.\n\nHolland'ın altı kişilik tipinden hangisi bu öğrenciye uygundur?",
+    "options": {
+      "A": "Girişimci",
+      "B": "Araştırıcı",
+      "C": "Gerçekçi",
+      "D": "Geleneksel",
+      "E": "Sosyal"
+    },
+    "answer": "E",
+    "solution": "Holland'ın sosyal tipi, insanlarla çalışmayı, öğretmeyi ve yardım etmeyi tercih eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Meslek rehberliği: Holland (sosyal tip)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-047",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Holland'ın kuramına göre rehber öğretmen Cem Bey, öğrencisi Barış'ın düzen ve ayrıntıya dikkat ettiğini, kayıt tutmayı, veri düzenlemeyi ve kuralları takip etmeyi sevdiğini, belirsiz ve esnek durumlardan rahatsız olduğunu gözlemlemiştir. Barış ayrıca bu özelliklerini ders çalışırken de sürekli olarak göstermektedir.\n\nHolland'ın altı kişilik tipinden hangisi bu öğrenciye uygundur?",
+    "options": {
+      "A": "Sanatsal",
+      "B": "Geleneksel",
+      "C": "Girişimci",
+      "D": "Gerçekçi",
+      "E": "Sosyal"
+    },
+    "answer": "B",
+    "solution": "Holland'ın geleneksel tipi, düzenli, ayrıntılı ve kurallara dayalı işleri, kayıt tutma ve veri düzenleme gibi faaliyetleri tercih eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Meslek rehberliği: Holland (geleneksel tip)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-048",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Super'in yaşam boyu gelişim kuramına göre on beş ile yirmi dört yaş arasındaki Okan, okulda, gönüllü çalışmalarda ve hobilerinde farklı rolleri denemekte, ilgilerini ve yeteneklerini keşfetmekte ve mesleki tercihlerini belirginleştirmeye başlamaktadır. Okan ayrıca yeni mesleklerle ilgili bilgi toplamak için staj olanaklarını da araştırmaktadır.\n\nOkan Super'in hangi mesleki gelişim evresindedir?",
+    "options": {
+      "A": "Büyüme",
+      "B": "Keşif",
+      "C": "Sürdürme",
+      "D": "Gerileme",
+      "E": "Yerleşme"
+    },
+    "answer": "B",
+    "solution": "Super'in beş evresinden keşif evresi (yaklaşık 15-24 yaş), bireyin ilgi ve yeteneklerini keşfettiği ve mesleki tercihlerini belirginleştirdiği dönemdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Meslek rehberliği: Super (keşif evresi)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-049",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Ginzberg'e göre on yaşındaki Ali, “Büyüyünce itfaiyeci olacağım” demekte; mesleği seçerken yeteneklerini veya mesleğin gerektirdiği nitelikleri düşünmemekte, yalnızca hayal gücüne dayanarak karar vermektedir. Ali'nin öğretmeni, çocuğun bu hayalini eğlenceli bir şekilde dinlemekte ve ilgisini desteklemektedir.\n\nAli, Ginzberg'in hangi meslek seçimi döneminde yer almaktadır?",
+    "options": {
+      "A": "Yerleşme dönemi",
+      "B": "Keşif dönemi",
+      "C": "Gerçekçi dönem",
+      "D": "Geçici dönem",
+      "E": "Fantezi dönemi"
+    },
+    "answer": "E",
+    "solution": "Ginzberg'in fantezi döneminde (yaklaşık 11 yaşına kadar) çocuk meslek seçimini hayal gücüne dayandırır; geçici dönemde ilgi ve yetenekleri, gerçekçi dönemde olanakları dikkate almaya başlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Meslek rehberliği: Ginzberg (fantezi dönemi)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-050",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Otuz beş yaşındaki öğretmen Mehmet Bey, mesleğine yerleşmiş, görevinde güven kazanmış ve terfi almak, deneyimini artırmak için çalışmaktadır. Mesleğinde kalıcı bir konum elde etmeye çalışmakta, artık yeni bir meslek seçmekten çok mevcut mesleğinde ilerlemeyi düşünmektedir.\n\nMehmet Bey Super'in hangi mesleki gelişim evresindedir?",
+    "options": {
+      "A": "Yerleşme",
+      "B": "Gerileme",
+      "C": "Sürdürme",
+      "D": "Büyüme",
+      "E": "Keşif"
+    },
+    "answer": "A",
+    "solution": "Super'in yerleşme evresi (yaklaşık 25-44 yaş), bireyin mesleğe girip orada kalıcı bir konum elde etmeye çalıştığı dönemdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Meslek rehberliği: Super (yerleşme evresi)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-051",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Sınıf öğretmeni Aylin Hanım, öğrencisi Deniz'in birkaç hafta boyunca ağlama nöbetleri geçirdiğini, arkadaşlarından uzaklaştığını ve notlarının belirgin biçimde düştüğünü fark etmiştir. Bu sorunu kendi başına çözemeyeceğini düşünerek durumu okul rehber öğretmenine iletmiş ve öğrencinin rehber servisine yönlendirilmesini sağlamıştır.\n\nAylin Hanım'ın bu uygulaması aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yerleştirme",
+      "B": "Yöneltme",
+      "C": "Bilgi verme",
+      "D": "İzleme",
+      "E": "Sevk"
+    },
+    "answer": "E",
+    "solution": "Sevk (referral), öğretmenin kendi uzmanlık alanı dışında gördüğü bir sorunu ilgili uzmana (rehber öğretmen, RAM, sağlık kuruluşu) yönlendirmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: sevk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-052",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okul rehber öğretmeni Selin Hanım, bir öğrencinin ruh sağlığı sorununun okuldaki rehberlik hizmetlerinin kapsamını aştığını görmüş; ailenin de onayını alarak öğrenciyi çocuk psikiyatri kliniğine yönlendirmiştir. Bu karar öğrencinin yararı gözetilerek ve ailenin de bilgisi dahilinde alınmıştır.\n\nSelin Hanım'ın bu uygulaması aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yöneltme",
+      "B": "Bilgi verme",
+      "C": "İzleme",
+      "D": "Sevk",
+      "E": "Yerleştirme"
+    },
+    "answer": "D",
+    "solution": "Sevk, rehberlik servisinin kapsamını aşan sorunlarda bireyin uygun uzman ya da kuruma yönlendirilmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: sevk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-053",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Danışman Barış Bey, danışanı lise öğrencisi Kaan'ın yakın zamanda kendine zarar vermeyi planladığını ve bunun ayrıntılı bir planını yaptığını öğrenmiştir. Kaan, bu bilgiyi kimseyle paylaşmaması için danışmandan söz almak istemiştir. Barış Bey ilk görüşmede gizlilik ve sınırlarını Kaan'a daha önce açıklamıştır.\n\nBarış Bey'in etik açıdan yapması gereken aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kaan'a söz verip durumu kimseye bildirmeden görüşmeleri sürdürmek",
+      "B": "Görüşmeyi hemen sonlandırıp bilgiyi dosyaya hiç kaydetmemek",
+      "C": "Bu durumu fark etmeyip görüşmeye aynı biçimde devam etmek",
+      "D": "Gizlilik ilkesinin sınırını açıklayıp ilgili kişileri bilgilendirmek",
+      "E": "Bilgiyi Kaan'ın arkadaşlarıyla paylaşıp onlardan destek istemek"
+    },
+    "answer": "D",
+    "solution": "Danışanın kendine veya başkasına zarar verme riski varsa gizlilik ilkesi sınırlanır; danışman, danışanı bu konuda bilgilendirip ilgili kişilere (aile, yönetim, uzmanlar) bildirmekle yükümlüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: gizlilik ve sınırları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-054",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Sınıf rehber öğretmeni Ece Hanım, her hafta sınıfında kısa bir rehberlik etkinliği yapmakta; öğrencilerin okula uyumunu izlemekte, sorun belirlediğinde okul rehber öğretmeniyle işbirliği yapmakta ve velilerle iletişim kurmaktadır. Psikolojik danışma yapmamaktadır. Ece Hanım aynı zamanda velilerle toplantılar yapmakta ve öğrencilerin gelişimini düzenli olarak izlemektedir.\n\nEce Hanım'ın bu rolü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Denetim",
+      "B": "Psikolojik danışma",
+      "C": "Sınıf rehberliği",
+      "D": "Sevk",
+      "E": "Yerleştirme"
+    },
+    "answer": "C",
+    "solution": "Sınıf rehber öğretmeni, sınıfın rehberlik etkinliklerini yürütür, öğrencileri izler ve gerektiğinde okul rehber öğretmeniyle işbirliği yaparak sevk eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: sınıf rehber öğretmeninin rolü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-055",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okuldaki bir öğretmen, rehberlik servisinden yardım almak yerine, her sorunlu davranış gösteren öğrenciyi cezalandırmayı ve sınıf dışına çıkarmayı tercih etmektedir. Rehber öğretmen, öğretmenin rehberlik hizmetlerine katkı sağlayan bir işbirliği tutumu sergilemesi gerektiğini düşünmektedir.\n\nRehber öğretmenin işaret ettiği ilke aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gizlilik",
+      "B": "Süreklilik",
+      "C": "İşbirliği",
+      "D": "Gönüllülük",
+      "E": "Bireyi kabul"
+    },
+    "answer": "C",
+    "solution": "Rehberlik, tüm okul çalışanlarının (öğretmen, yönetici, veli, uzman) işbirliğiyle yürütülen ortak bir sorumluluktur; öğretmen bu sürecin önemli bir ortağıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik ilkeleri: işbirliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-056",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Mert Bey, bir öğrencinin velisini okula çağırarak çocuğunun yaşadığı uyum sorununu, nedenlerini ve evde ailenin yapabileceği destekleyici davranışları konuşmuş; ailenin görüş ve gözlemlerini de dinleyerek ortak bir çalışma planı yapmıştır.\n\nMert Bey'in bu çalışması rehberliğin hangi boyutuyla ilgilidir?",
+    "options": {
+      "A": "Testle ölçme çalışması",
+      "B": "Bilgi verme hizmeti",
+      "C": "Yerleştirme hizmeti",
+      "D": "Okul denetimi çalışması",
+      "E": "Okul-aile işbirliği"
+    },
+    "answer": "E",
+    "solution": "Okul-aile işbirliği, öğrencinin gelişimini desteklemek için okul ile ailenin bilgi paylaşarak ortak çalışmasıdır; rehberlik hizmetlerinin etkililiğini artırır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: okul-aile işbirliği"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-057",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Ayhan Bey, okul rehberlik programını hazırlarken yılın başında öğrencilerin, velilerin ve öğretmenlerin ihtiyaçlarını anket ve görüşmelerle belirlemiş, ihtiyaçlara uygun etkinlikleri yıllık plana yerleştirmiş ve yıl sonunda programın etkinliğini değerlendirmiştir. Program yılın sonunda öğretmenler kuruluna sunulmuş ve gelecek yıl için öneriler alınmıştır.\n\nAyhan Bey'in izlediği bu yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yalnızca sorunlu öğrencilere yönelik tedavi edici program",
+      "B": "Denetim ve ceza odaklı program",
+      "C": "İhtiyaca dayalı gelişimsel rehberlik programı",
+      "D": "Yalnızca mezun öğrencilere yönelik program",
+      "E": "Merkezden gelen sabit program"
+    },
+    "answer": "C",
+    "solution": "Gelişimsel rehberlik programları tüm öğrencilerin ihtiyaçlarına dayalı olarak planlanır, uygulanır ve değerlendirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: okul rehberlik programı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-058",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Büyük bir deprem sonrasında okulun rehberlik servisi, öğrencilerin ve ailelerin yaşadığı korku ve kayıplarla başa çıkmaları için hemen grup görüşmeleri yapmış, öğrencilere güvende olduklarını hissettirmiş ve ağır etkilenenleri ruh sağlığı uzmanlarına yönlendirmiştir. Servis çalışmalarını deprem sonrası ilk haftalarda yoğun biçimde sürdürmüştür.\n\nBu çalışma rehberliğin hangi boyutuna örnektir?",
+    "options": {
+      "A": "Kriz müdahalesi",
+      "B": "Eğitsel rehberlik",
+      "C": "Önleyici çalışma",
+      "D": "Yerleştirme",
+      "E": "Mesleki rehberlik"
+    },
+    "answer": "A",
+    "solution": "Kriz müdahalesi, ani ve travmatik olaylar sonrasında bireylerin başa çıkmalarına yardım eden, kısa süreli ve acil destek çalışmalarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: kriz müdahalesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-059",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okul rehberlik servisi, öğrencilerin madde bağımlılığına başlamadan önce risk faktörlerini azaltmak amacıyla, ortaokulun ilk yılından itibaren sınıf içinde yaşam becerileri, karar verme ve reddetme becerileri üzerine düzenli eğitimler yapmaktadır. Eğitimler 12 hafta süreyle ve öğretmenlerin desteğiyle gerçekleştirilmiştir.\n\nBu çalışma aşağıdaki rehberlik rollerinden hangisine örnektir?",
+    "options": {
+      "A": "Yargılayıcı rol",
+      "B": "Tedavi edici rol",
+      "C": "Önleyici rol",
+      "D": "Düzeltici rol",
+      "E": "Denetleyici rol"
+    },
+    "answer": "C",
+    "solution": "Önleyici rol, bireyler henüz sorun yaşamadan önce risk faktörlerini azaltmak ve koruyucu becerileri geliştirmek için yapılan çalışmaları kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: önleyici rol"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-060",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okula yeni başlayan ve evinden ilk kez ayrılan bir öğrenci, uyum sorunu yaşamaktadır. Rehber öğretmen, sorun büyümeden önce öğrenciyle görüşüp okul tanıtımı yaparak, yeni arkadaşlıklar kurmasına yardım etmiş ve öğrencinin sınıf öğretmeniyle iş birliğini sağlamıştır.\n\nBu çalışma rehberliğin hangi hizmet türüne en yakındır?",
+    "options": {
+      "A": "Yerleştirme ve iş bulma çalışması",
+      "B": "Oryantasyon ve uyum çalışması",
+      "C": "Psikolojik test uygulama çalışması",
+      "D": "Sevk ve yönlendirme çalışması",
+      "E": "Yöneltme ve karar çalışması"
+    },
+    "answer": "B",
+    "solution": "Oryantasyon, bireyin yeni bir ortama (okul, sınıf) uyumunu kolaylaştıran bilgi verme ve destek çalışmalarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik: oryantasyon"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-061",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen Nilgün Hanım, son iki ayda sık sık okula gelmeyen Cem'i bütüncül değerlendirmek için ailesiyle görüşmüş, sağlık geçmişini incelemiş, sınıf öğretmeninden akademik başarısını öğrenmiş, arkadaş ilişkilerini gözlemlemiş ve bu bilgileri tek bir dosyada toplamıştır.\n\nNilgün Hanım'ın kullandığı bireyi tanıma tekniği aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Anket",
+      "B": "Olgu incelemesi",
+      "C": "Sosyometri",
+      "D": "Gözlem formu",
+      "E": "Otobiyografi"
+    },
+    "answer": "B",
+    "solution": "Bir bireyin durumunu farklı kaynaklardan ve tekniklerle toplanan bilgilerle bütüncül inceleyen teknik olgu incelemesidir (vaka çalışması).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma teknikleri: olgu incelemesi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-062",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Okul rehber öğretmeni, sekizinci sınıfın tüm şubelerini toplantı salonunda bir araya getirerek sınav kaygısıyla başa çıkma yollarını anlatan bir sunum yapmış; öğrencilerden gelen soruları yanıtlamıştır. Etkinliğin sonunda öğrencilere kısa bir bilgilendirme broşürü dağıtmıştır. Etkinlik yaklaşık kırk dakika sürmüştür.\n\nBu etkinlik rehberlik hizmetlerinden hangisine örnektir?",
+    "options": {
+      "A": "Bireysel psikolojik danışma",
+      "B": "Sevk",
+      "C": "Grup rehberliği",
+      "D": "İzleme",
+      "E": "Yerleştirme"
+    },
+    "answer": "C",
+    "solution": "Büyük bir öğrenci grubunun ortak ihtiyacına yönelik bilgi verme, tanıtım ve sunum biçimindeki çalışmalar grup rehberliğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmetleri: grup rehberliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-063",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Bir okulda rehberlik servisi, yeni eğitim-öğretim yılı için gelişimsel rehberlik programı hazırlayacaktır. Ekip, programı yazarken önce öğrencilerin, velilerin ve öğretmenlerin neye gereksinim duyduğunu anketlerle belirlemek, ardından hedefleri ve etkinlikleri planlamak istemektedir. Çalışma, okul müdürünün de onayıyla başlatılmıştır.\n\nBu planlamada programın hazırlanmasındaki ilk basamak aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sonuçların değerlendirilmesi",
+      "B": "İhtiyaçların belirlenmesi",
+      "C": "Hedeflerin yazılması",
+      "D": "Etkinliklerin uygulanması",
+      "E": "Kaynakların sağlanması"
+    },
+    "answer": "B",
+    "solution": "Okul rehberlik programı önce ihtiyaç belirlemeyle başlar; ardından hedefler, etkinlikler, uygulama ve değerlendirme gelir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Okul rehberlik programı: planlama basamakları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-064",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikolojik danışman, danışanını koşulsuz kabul etmekte, onun duygularını anlamaya çalışıp empatiyle yansıtmakta, kendisine karşı içten ve tutarlı davranmaktadır. Çözümü danışana vermemekte, danışanın kendi çözümünü bulabileceğine inanmaktadır. Görüşmeler haftada bir kez, sakin ve güvenli bir odada yürütülmektedir.\n\nDanışmanın bu yaklaşımı aşağıdaki kuramcılardan hangisine aittir?",
+    "options": {
+      "A": "Williamson",
+      "B": "Beck",
+      "C": "Ellis",
+      "D": "Perls",
+      "E": "Rogers"
+    },
+    "answer": "E",
+    "solution": "Rogers'ın danışan merkezli yaklaşımında danışman koşulsuz kabul, empati ve kendisi olma koşullarını sağlar; çözümü danışan bulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Psikolojik danışma kuramları: Rogers"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-065",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Danışan, bir iş görüşmesinde reddedildikten sonra “Başarısız oldum, bu yüzden hiçbir işe yaramam” diye düşünmekte ve çökkün hissetmektedir. Danışman, ona olay (A), inanç (B) ve sonuç (C) bağlantısını göstererek mantıksız inancı sorgulatmakta, yerine gerçekçi bir düşünce kazandırmaya çalışmaktadır.\n\nDanışmanın uyguladığı yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Danışan merkezli yaklaşım",
+      "B": "Özellik-faktör yaklaşımı",
+      "C": "Gerçeklik terapisi",
+      "D": "Gestalt terapisi",
+      "E": "Akılcı duygusal davranış terapisi"
+    },
+    "answer": "E",
+    "solution": "Ellis'in akılcı duygusal davranış terapisi, duyguların olayın kendisinden değil o olaya ilişkin inançlardan doğduğunu varsayar (A-B-C modeli) ve mantıksız inançları tartışır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Psikolojik danışma kuramları: Ellis"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-066",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Bir psikolojik danışman, meslek seçecek lise öğrencisinin yetenek, ilgi ve kişilik testlerini incelemiş; öğrencinin özelliklerini farklı mesleklerin gerektirdiği özelliklerle eşleştirmiş ve en uygun mesleklere yönlendirmiştir. Süreç boyunca öğrencinin duygusal çatışmaları değil ölçülebilir özellikleri esas alınmıştır.\n\nDanışmanın izlediği yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gestalt yaklaşımı",
+      "B": "Özellik-faktör yaklaşımı",
+      "C": "Danışan merkezli yaklaşım",
+      "D": "Gelişimsel yaklaşım",
+      "E": "Akılcı duygusal davranış terapisi"
+    },
+    "answer": "B",
+    "solution": "Parsons ve Williamson'ın özellik-faktör yaklaşımı, bireyin özelliklerini testlerle belirleyip mesleklerin gerektirdiği özelliklerle eşleştirmeyi esas alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mesleki rehberlik: özellik-faktör"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-067",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Bir uzman, bireylerin mesleki gelişiminin yaşam boyu süren bir süreç olduğunu; büyüme, keşfetme, yerleşme, sürdürme ve çekilme evrelerinden geçtiğini ve bireyin kendilik kavramının meslek seçimine yansıdığını açıklamaktadır. Bu görüş, mesleki gelişimin tek bir seçim anıyla sınırlı olmadığını vurgulamaktadır.\n\nUzmanın savunduğu bu görüş hangi kuramcıya aittir?",
+    "options": {
+      "A": "Holland",
+      "B": "Parsons",
+      "C": "Ginzberg",
+      "D": "Super",
+      "E": "Roe"
+    },
+    "answer": "D",
+    "solution": "Super'in yaşam boyu mesleki gelişim kuramı, mesleki gelişimi büyüme, keşfetme, yerleşme, sürdürme ve çekilme evreleriyle ve kendilik kavramıyla açıklar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mesleki gelişim kuramları: Super"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-068",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Bir kuramcı, bireylerin kişiliklerini gerçekçi, araştırıcı, sanatçı, sosyal, girişimci ve geleneksel olmak üzere altı tipe ayırmış; bireylerin kişilik tipine uygun iş ortamlarını seçtiklerinde daha mutlu ve başarılı olacaklarını savunmuştur. Kuramcı, kuramını gençlerin meslek seçimine rehberlik etmek için geliştirmiştir.\n\nBu kuram aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Super'in yaşam boyu gelişim kuramı",
+      "B": "Parsons'ın üç aşamalı modeli",
+      "C": "Ginzberg'in gelişim kuramı",
+      "D": "Roe'nin ihtiyaç kuramı",
+      "E": "Holland'ın kişilik tipleri kuramı"
+    },
+    "answer": "E",
+    "solution": "Holland, bireylerin altı kişilik tipinden (gerçekçi, araştırıcı, sanatçı, sosyal, girişimci, geleneksel) birine daha yakın olduğunu ve uyumlu iş ortamının doyumu artırdığını savunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mesleki gelişim kuramları: Holland"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

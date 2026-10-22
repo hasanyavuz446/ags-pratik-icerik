@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "ags-egt-oyt-001",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Hayat bilgisi öğretmeni Selim Bey, “canlıların yaşam alanları” konusunu işlerken bilgiyi öğrencilere hazır biçimde sunmayı seçmiş, bunun için anlatım yöntemini kullanmış ve anlatımı sınıfının dikkat süresine göre kısa bölümlere ayırıp araya kendi geliştirdiği küçük bulmacalar yerleştirmiştir. Bu küçük bulmacalar yalnızca Selim Bey'in kendi sınıfına özgü, kişisel bir uygulamadır.\n\nSelim Bey'in kendi sınıfına özgü bu bireysel uygulamaları aşağıdakilerden hangisiyle adlandırılır?",
+    "options": {
+      "A": "Öğretim yöntemi",
+      "B": "Öğretim taktiği",
+      "C": "Öğretim modeli",
+      "D": "Öğretim tekniği",
+      "E": "Öğretim stratejisi"
+    },
+    "answer": "B",
+    "solution": "Taktik, öğretmenin yöntem ve tekniği uygularken kendi kişiliğine, sınıfına ve durumuna özgü olarak geliştirdiği bireysel uygulamalardır. Strateji genel yaklaşım, yöntem izlenen yol, teknik ise yöntemin uygulanma biçimidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim kavramları: strateji, yöntem, teknik, taktik"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-002",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Bir öğretmen, yeni bir üniteyi işlemeden önce konuyu öğrencilere düzenlenmiş ve hazır bir biçimde mi sunacağına, yoksa öğrencilerin kendi çabalarıyla keşfetmelerini mi sağlayacağına karar vermektedir. Bu karar, o üniteyi işlerken izleyeceği bütün yöntem ve tekniklerin yönünü belirleyen geniş bir çerçeve niteliğindedir.\n\nÖğretmenin verdiği bu geniş kapsamlı karar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Öğretim stratejisi seçimi",
+      "B": "Öğretim taktiği geliştirme",
+      "C": "Ders planı hazırlama",
+      "D": "Ölçme aracı seçimi",
+      "E": "Öğretim tekniği seçimi"
+    },
+    "answer": "A",
+    "solution": "Öğretim stratejisi, hedeflere ulaşmak için izlenecek genel yaklaşımdır (sunuş, buluş, araştırma-inceleme gibi); yöntem ve teknikler bu çerçevede seçilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim kavramları: öğretim stratejisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-003",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğretmen Hülya Hanım, sosyal bilgiler dersinde tartışma yöntemini kullanmak istemiştir. Bunun için sınıfı iki karşıt gruba ayırmış, bir grubun savunduğu görüşe diğer grubun karşı çıktığı ve bir jürinin değerlendirdiği düzenli bir sınıf düzeni kurmuştur.\n\nBu düzenleme tartışma yöntemine göre nasıl adlandırılır?",
+    "options": {
+      "A": "Model",
+      "B": "Strateji",
+      "C": "Taktik",
+      "D": "İlke",
+      "E": "Teknik"
+    },
+    "answer": "E",
+    "solution": "Bir yöntemin sınıfta uygulanma biçimine teknik denir. Münazara, tartışma yönteminin uygulama tekniklerinden biridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim kavramları: yöntem ve teknik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-004",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "İlkokul 1. sınıf öğretmeni Aylin Hanım, toplama işlemini öğretirken önce öğrencilere fasulye taneleri ve bozuk paralarla gerçek nesneler kullanarak işlem yaptırmakta, ardından resimlerle gösterim yapmakta ve en sonunda sayılarla yazılı işleme geçmektedir.\n\nAylin Hanım'ın izlediği bu yol hangi öğretim ilkesine dayanır?",
+    "options": {
+      "A": "Somuttan soyuta",
+      "B": "Yakından uzağa",
+      "C": "Basitten karmaşığa",
+      "D": "Bütünden parçaya",
+      "E": "Bilinenden bilinmeyene"
+    },
+    "answer": "A",
+    "solution": "Somuttan soyuta ilkesinde, öğrencinin duyularıyla algılayabileceği gerçek nesnelerden başlanarak resim, model ve sonunda sembol ve soyut kavramlara geçilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim ilkeleri: somuttan soyuta"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-005",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Matematik öğretmeni Berna Hanım, ondalık kesirleri anlatmaya başlamadan önce öğrencilerin daha önce öğrendikleri kesir bilgisini hatırlatmış, ondalık kesirleri bu bilgiyle ilişkilendirerek “paydası 10, 100, 1000 olan kesirler” biçiminde tanıtmış ve öğrencilerin kendi kesir örneklerini bu yeni gösterime dönüştürmesini istemiştir.\n\nBerna Hanım hangi öğretim ilkesini uygulamıştır?",
+    "options": {
+      "A": "Yakından uzağa",
+      "B": "Bilinenden bilinmeyene",
+      "C": "Öğrencinin aktifliği",
+      "D": "Basitten karmaşığa",
+      "E": "Somuttan soyuta"
+    },
+    "answer": "B",
+    "solution": "Bilinenden bilinmeyene ilkesi, öğrencinin önceki bilgi ve deneyimlerinden başlayarak yeni bilgilere geçilmesini ifade eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim ilkeleri: bilinenden bilinmeyene"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-006",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sosyal bilgiler öğretmeni Cemil Bey, coğrafya konusunu işlerken öğrencilerine önce okulun ve mahallenin haritasını çizdirmekte, sonra yaşadıkları ilçeyi, ardından ili, ülkeyi, kıtayı ve en sonunda dünyayı ele almakta; her aşamada öğrencilerin kendi çevrelerinden örnekler getirmelerini istemektedir.\n\nCemil Bey'in bu sıralaması hangi öğretim ilkesine örnektir?",
+    "options": {
+      "A": "Somuttan soyuta",
+      "B": "Bilinenden bilinmeyene",
+      "C": "Yaşama yakınlık",
+      "D": "Bütünden parçaya",
+      "E": "Yakından uzağa"
+    },
+    "answer": "E",
+    "solution": "Yakından uzağa ilkesi, öğrencinin yakın çevresinden başlayıp giderek daha uzak alanlara geçilmesini öngörür; sosyal bilgiler ve coğrafyada yaygın kullanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim ilkeleri: yakından uzağa"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-007",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "İngilizce öğretmeni Derya Hanım, bir dilbilgisi konusunu öğretirken önce yalnızca tek bir kalıbı yeterince çalıştırmakta, öğrenciler bu kalıbı kavradıktan sonra iki kalıbı birleştirmekte, en sonunda uzun ve çok öğeli cümlelere geçmekte; her aşamaya ancak bir öncekini kavrayan öğrencileri almaktadır.\n\nBu öğretim sırası hangi ilkeye dayanır?",
+    "options": {
+      "A": "Yakından uzağa",
+      "B": "Somuttan soyuta",
+      "C": "Bilinenden bilinmeyene",
+      "D": "Ekonomiklik",
+      "E": "Basitten karmaşığa"
+    },
+    "answer": "E",
+    "solution": "Basitten karmaşığa ilkesi, konuların kolay ve tek öğeli olandan başlayarak çok öğeli ve zor olana doğru sıralanmasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim ilkeleri: basitten karmaşığa"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-008",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Fen bilgisi öğretmeni Orhan Bey, elektrik devresi konusunda öğrencilerine konuyu anlatmak yerine pil, ampul ve kablo vermiş; her öğrencinin kendi devresini kurmasını, denemesini ve sonuçları gözlemlemesini sağlamıştır. Öğrenciler derse bütün süre boyunca fiilen katılmıştır.\n\nOrhan Bey hangi öğretim ilkesini temel almıştır?",
+    "options": {
+      "A": "Ekonomiklik",
+      "B": "Bireysel farklılıklara uygunluk",
+      "C": "Öğrencinin aktifliği",
+      "D": "Açıklık",
+      "E": "Yaşama yakınlık"
+    },
+    "answer": "C",
+    "solution": "Öğrencinin aktifliği ilkesi, öğrencinin öğrenme sürecine zihinsel ve fiziksel olarak etkin biçimde katılmasını; yaparak yaşayarak öğrenmesini ifade eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim ilkeleri: öğrencinin aktifliği"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-009",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Matematik öğretmeni Sevgi Hanım, yüzde konusunu işlerken öğrencilerden alışveriş fişlerindeki indirim oranlarını, banka faiz hesaplarını ve sınıfın sınav başarı oranlarını hesaplamalarını istemektedir. Böylece öğrenciler konunun günlük yaşamdaki kullanım alanlarını görmekte ve öğrendiklerini kendi evlerinde de kullanabilmektedir.\n\nSevgi Hanım hangi öğretim ilkesini uygulamaktadır?",
+    "options": {
+      "A": "Öğrencinin aktifliği",
+      "B": "Somuttan soyuta",
+      "C": "Yakından uzağa",
+      "D": "Yaşama yakınlık (hayatilik)",
+      "E": "Bireysel farklılıklara uygunluk"
+    },
+    "answer": "D",
+    "solution": "Yaşama yakınlık ilkesi, öğretilen konuların öğrencinin günlük yaşamıyla ilişkilendirilmesini ve gerçek yaşam durumlarından örneklerle işlenmesini gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim ilkeleri: yaşama yakınlık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-010",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Türkçe öğretmeni Gizem Hanım, aynı okuma metni için üç ayrı düzeyde çalışma kâğıdı hazırlamıştır. Okuma hızı yavaş olan öğrenciler daha kısa ve görsel destekli, hızlı okuyan öğrenciler ise çıkarım ve yorum gerektiren sorularla çalışmaktadır.\n\nBu uygulama hangi öğretim ilkesine örnektir?",
+    "options": {
+      "A": "Yaşama yakınlık ilkesi",
+      "B": "Öğrencinin aktif katılımı ilkesi",
+      "C": "Somuttan soyuta ilerleme",
+      "D": "Ekonomiklik ilkesi",
+      "E": "Bireysel farklılıklara uygunluk"
+    },
+    "answer": "E",
+    "solution": "Bireysel farklılıklara uygunluk ilkesi, öğrencilerin hız, ilgi, hazırbulunuşluk ve öğrenme biçimlerindeki farklılıkların öğretimde dikkate alınmasını gerektirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim ilkeleri: bireysel farklılıklar"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-011",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Fen bilimleri öğretmeni Kerem Bey, “hücre” konusuna başlamadan önce öğrencilere konunun genel çerçevesini, ana kavramlar arasındaki ilişkiyi ve bu kavramların önceki derslerden bildikleriyle bağlantısını gösteren kısa bir özet sunmaktadır. Amacı, yeni bilgilerin öğrencilerin zihinsel yapısında yerleşeceği bir zemin hazırlamaktır.\n\nKerem Bey'in bu uygulaması Ausubel'in hangi kavramına örnektir?",
+    "options": {
+      "A": "Geri bildirim",
+      "B": "Ön test",
+      "C": "İleri düzenleyici",
+      "D": "Pekiştireç",
+      "E": "Kavram yanılgısı"
+    },
+    "answer": "C",
+    "solution": "Ausubel'e göre yeni konuya başlamadan önce sunulan, genel çerçeveyi veren ve önceki bilgilerle bağlantı kuran giriş malzemelerine ileri düzenleyici denir; sunuş yoluyla öğretimin temel öğesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sunuş yoluyla öğretim: ileri düzenleyici (Ausubel)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-012",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğretmen Aslı Hanım, tarih dersinde kavramları genelden özele doğru, düzenli ve mantıksal bir sırayla öğrencilere hazır biçimde sunmaktadır. Öğrencilerden bu bilgiyi anlamlı biçimde kavrayıp önceki bilgilerine bağlamaları beklenmekte; öğrenci kendi başına keşif yapmamakta, öğretmenin düzenlediği bilgi akışını izlemektedir.\n\nAslı Hanım hangi öğretim stratejisini kullanmaktadır?",
+    "options": {
+      "A": "Tam öğrenme",
+      "B": "Sunuş yoluyla öğretim",
+      "C": "Buluş yoluyla öğretim",
+      "D": "Bireyselleştirilmiş öğretim",
+      "E": "Araştırma-inceleme"
+    },
+    "answer": "B",
+    "solution": "Sunuş yoluyla öğretimde (Ausubel) bilgi öğrenciye düzenlenmiş ve hazır biçimde sunulur; amaç anlamlı sözel öğrenmedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sunuş yoluyla öğretim stratejisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-013",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Matematik öğretmeni Yasemin Hanım, üçgenin iç açılarının toplamıyla ilgili kuralı söylemeden, öğrencilerden farklı üçgenler çizip açılarını ölçmelerini ve ortak özelliği kendilerinin bulmasını istemiştir. Kural öğretmen tarafından verilmemiş, öğrencilerin kendi çıkarımlarıyla ve birbirleriyle paylaştıkları ölçüm sonuçlarıyla ortaya çıkmıştır.\n\nYasemin Hanım hangi stratejiyi uygulamıştır?",
+    "options": {
+      "A": "Sunuş yoluyla öğretim",
+      "B": "Modüler öğretim",
+      "C": "Tam öğrenme",
+      "D": "Programlı öğretim",
+      "E": "Buluş yoluyla öğretim"
+    },
+    "answer": "E",
+    "solution": "Buluş yoluyla öğretimde (Bruner) öğrenci, bilgiyi hazır olarak almak yerine örnek ve verilerden kendi çabasıyla kural ve ilkelere ulaşır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Buluş yoluyla öğretim stratejisi (Bruner)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-014",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Fen bilimleri öğretmeni Murat Bey, öğrencilerine önce metal, plastik ve tahta çubukların elektrik akımını iletip iletmediğini deneyle göstermiş, öğrenciler bu somut örneklerden hareketle “metaller iletkendir” genel sonucuna ulaşmıştır.\n\nBu öğretim yolu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Analoji",
+      "B": "Gösteri",
+      "C": "Tümdengelim",
+      "D": "Tümevarım",
+      "E": "Benzetim"
+    },
+    "answer": "D",
+    "solution": "Tümevarımda önce özel örnek ve olgular incelenir, ardından bunlardan genel kural ve ilkeye ulaşılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yolları: tümevarım"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-015",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Dilbilgisi öğretmeni Şule Hanım, “özne ile yüklem arasında uyum vardır” genel kuralını öğrencilere önce açıklamış, ardından bu kuralı çeşitli cümlelerde uygulatarak örneklerle pekiştirmiştir.\n\nŞule Hanım'ın izlediği bu yol aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Buluş",
+      "B": "Tümdengelim",
+      "C": "Tümevarım",
+      "D": "Benzetim",
+      "E": "Proje"
+    },
+    "answer": "B",
+    "solution": "Tümdengelimde önce genel kural, ilke veya tanım verilir; ardından bu genelden özel durumlara ve örneklere gidilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yolları: tümdengelim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-016",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Lise biyoloji öğretmeni Nilüfer Hanım, sınıfa “okul kantinindeki hazır gıdaların sağlığa etkisi hakkında yapılan paylaşımlara güvenilir mi?” sorusunu vermiştir. Öğrenciler gruplar hâlinde sorunun ne olduğunu tanımlamış, hangi bilgilere ihtiyaç duyduklarını belirlemiş, kaynak taramış ve çözüm önerileri sunmuştur. Öğretmen yalnızca yol gösterici olmuştur.\n\nBu çalışma hangi öğrenme yaklaşımına örnektir?",
+    "options": {
+      "A": "Ters yüz öğrenme",
+      "B": "Probleme dayalı öğrenme",
+      "C": "Programlı öğretim",
+      "D": "Proje tabanlı öğrenme",
+      "E": "Tam öğrenme"
+    },
+    "answer": "B",
+    "solution": "Probleme dayalı öğrenmede öğrenciler, gerçek yaşamdan gelen yapılandırılmamış bir problemi gruplar hâlinde tanımlar, gerekli bilgiyi araştırır ve çözüm üretir; öğretmen kolaylaştırıcıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme yaklaşımları: probleme dayalı öğrenme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-017",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Coğrafya dersinde öğrenciler dönem başında kendi seçtikleri konuda uzun süreli bir çalışma planlamışlar; görev paylaşımı yapmış, veri toplamış ve dönem sonunda sergilenecek bir maket ve rapor hazırlamışlardır. Öğretmen planlama, uygulama ve sunum aşamalarında yalnızca danışmanlık yapmıştır.\n\nBu uygulama aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Modüler öğretim",
+      "B": "Tam öğrenme",
+      "C": "Probleme dayalı öğrenme",
+      "D": "Ters yüz öğrenme",
+      "E": "Proje tabanlı öğrenme"
+    },
+    "answer": "E",
+    "solution": "Proje tabanlı öğrenmede öğrenciler uzun süreli bir çalışmayı planlar, yürütür ve sonunda somut bir ürün ortaya koyar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğrenme yaklaşımları: proje tabanlı öğrenme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-018",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Fen bilgisi öğretmeni Ahmet Bey, öğrencileriyle birlikte önce “bitkiler ışıksız ortamda da büyür mü?” sorununu belirlemiş, ardından olası açıklamaları (hipotezleri) yazmış, deney düzeneği kurup veri toplamış, bu verileri değerlendirip sonuca ulaşmıştır.\n\nAhmet Bey'in izlediği bu süreç hangi stratejiye en uygundur?",
+    "options": {
+      "A": "Araştırma-inceleme",
+      "B": "Sunuş yoluyla öğretim",
+      "C": "Tam öğrenme",
+      "D": "Modüler öğretim",
+      "E": "Programlı öğretim"
+    },
+    "answer": "A",
+    "solution": "Araştırma-inceleme stratejisinde bilimsel yöntem basamakları izlenir: problem belirleme, hipotez kurma, veri toplama, hipotezi sınama ve sonuca varma.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Araştırma-inceleme stratejisi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-019",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğrencilerinin hipotez kurma aşamasını tamamladığını gören bir fen öğretmeni, bilimsel yöntem basamaklarına göre bir sonraki aşamada öğrencilerden ne yapmalarını istemelidir?",
+    "options": {
+      "A": "Problemi yeniden tanımlamalarını",
+      "B": "Sonuç raporu yazmalarını",
+      "C": "Başka bir problem seçmelerini",
+      "D": "Veri toplayarak hipotezi sınamalarını",
+      "E": "Konuyu ezberlemelerini"
+    },
+    "answer": "D",
+    "solution": "Bilimsel yöntem basamakları sırasıyla problem belirleme, hipotez kurma, veri toplama ve hipotezi sınama, sonuca varma biçimindedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Araştırma-inceleme stratejisi: basamaklar"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-020",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Tarih öğretmeni Kenan Bey, yeni bir konunun kavramlarını ve olay örgüsünü yaklaşık yirmi dakika boyunca sözlü olarak anlatmakta; öğrenciler dinleyip not almaktadır. Bu süre boyunca öğrencilerden sınırlı bir katılım beklenmekte, konu kısa sürede ve düzenli bir sırayla bütün sınıfa aktarılmaktadır.\n\nKenan Bey hangi yöntemi kullanmaktadır?",
+    "options": {
+      "A": "Örnek olay",
+      "B": "Gösteri",
+      "C": "Anlatım",
+      "D": "Rol oynama",
+      "E": "Tartışma"
+    },
+    "answer": "C",
+    "solution": "Anlatım yönteminde bilgi öğretmen tarafından sözlü olarak aktarılır; kısa sürede çok bilgi verilebilir ancak öğrenci genellikle pasif kalır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: anlatım"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-021",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Kimya öğretmeni Banu Hanım, tehlikeli bir deneyi öğrencilerin güvenliği için kendisi yapmakta, öğrenciler sıralarında oturup deneyi izlemekte, gözlemlerini not alıp sorular sormaktadır.\n\nBanu Hanım hangi yöntemi uygulamaktadır?",
+    "options": {
+      "A": "Benzetim yöntemi",
+      "B": "Laboratuvar yöntemi",
+      "C": "Anlatım yöntemi",
+      "D": "Gezi-gözlem yöntemi",
+      "E": "Gösteri yöntemi"
+    },
+    "answer": "E",
+    "solution": "Gösteri yönteminde bir işlem, deney veya beceri öğretmen (veya uzman) tarafından yapılarak öğrencilere gösterilir; öğrenciler izler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: gösteri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-022",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Fizik dersinde öğrenciler dörder kişilik gruplar hâlinde deney düzeneğini kendi elleriyle kurmuş, ölçümleri kendileri almış, sonuçları tabloya işleyerek yorumlamışlardır. Öğretmen yalnızca grupları dolaşarak yardım etmiştir.\n\nBu çalışmada hangi yöntem kullanılmıştır?",
+    "options": {
+      "A": "Soru-cevap",
+      "B": "Gösteri",
+      "C": "Laboratuvar",
+      "D": "Anlatım",
+      "E": "Örnek olay"
+    },
+    "answer": "C",
+    "solution": "Laboratuvar yönteminde öğrenciler deney ve uygulamaları doğrudan kendileri yapar; gösteri yönteminden farkı, uygulayıcının öğrenci olmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: laboratuvar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-023",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sosyal bilgiler öğretmeni Ece Hanım, “Anadolu medeniyetleri” konusunu işlerken öğrencilerini arkeoloji müzesine götürmüş; öğrenciler eserleri yerinde incelemiş, rehberin açıklamalarını dinlemiş ve gözlemlerini not defterlerine kaydetmiştir.\n\nBu etkinlikte hangi yöntem kullanılmıştır?",
+    "options": {
+      "A": "Gösteri",
+      "B": "Tartışma",
+      "C": "Benzetim",
+      "D": "Gezi-gözlem",
+      "E": "Rol oynama"
+    },
+    "answer": "D",
+    "solution": "Gezi-gözlem yönteminde öğrenciler öğrenme konusunu gerçek ortamında yerinde gözlemler ve inceler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: gezi-gözlem"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-024",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Hayat bilgisi dersinde bir grup öğrenci kendilerine verilmiş rollerle (müşteri, kasiyer, yönetici) market kasasındaki bir şikâyet durumunu canlandırmış, canlandırmanın ardından sınıf, sorunun nasıl çözülebileceğini ve rollerin duygularını değerlendirmiştir.\n\nBu etkinlikte hangi yöntem uygulanmıştır?",
+    "options": {
+      "A": "Benzetim",
+      "B": "Tartışma",
+      "C": "Gösteri",
+      "D": "Rol oynama",
+      "E": "Örnek olay"
+    },
+    "answer": "D",
+    "solution": "Rol oynamada öğrenciler önceden belirlenmiş roller üstlenerek bir durum veya problemi canlandırır, ardından yaşantılar ve çözümler değerlendirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: rol oynama"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-025",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Eğitim yönetimi dersinde öğretmen, bir okulda yaşanmış gerçek bir disiplin olayını ayrıntılarıyla yazılı olarak öğrencilere dağıtmıştır. Öğrenciler olayın nedenlerini, taraflarını ve olası çözüm yollarını gruplarında incelemiş, her çözümün sonuçlarını tartışmıştır.\n\nBu çalışma aşağıdaki yöntemlerden hangisidir?",
+    "options": {
+      "A": "Anlatım",
+      "B": "Gösteri",
+      "C": "Benzetim",
+      "D": "Rol oynama",
+      "E": "Örnek olay"
+    },
+    "answer": "E",
+    "solution": "Örnek olay (vaka) yönteminde gerçek veya gerçeğe uygun bir olay incelenir; nedenleri, sonuçları ve çözüm seçenekleri üzerinde düşünülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: örnek olay"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-026",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Pilot adaylarının eğitiminde uçuş sırasında karşılaşılabilecek acil durumlar, gerçek uçak yerine bilgisayar yazılımıyla gerçeğe çok benzeyen bir sanal ortamda yaşatılmakta; adaylar komutları uygulamakta ve sonuçları anında görmektedir.\n\nBu uygulama hangi yöntemdir?",
+    "options": {
+      "A": "Rol oynama yöntemi",
+      "B": "Gezi-gözlem yöntemi",
+      "C": "Örnek olay yöntemi",
+      "D": "Benzetim yöntemi",
+      "E": "Gösteri yöntemi"
+    },
+    "answer": "D",
+    "solution": "Benzetim (simülasyon), gerçek bir durumun maliyetli veya tehlikeli yönlerini ortadan kaldıran yapay bir modelini oluşturup öğrenciye yaşatır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: benzetim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-027",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sınıf öğretmeni Ayhan Bey, “mevsimler neden oluşur?” konusunu işlerken önce öğrencilere dünyayı döndüren bir küre göstermiş, ardından öğrencilerin ön bilgilerini ölçen bir sorgulamayla derse girmiş, gelen cevaplara göre yeni sorgulamalar yaparak konuyu öğrenci cevapları üzerinden ilerletmiştir.\n\nAyhan Bey'in ders boyunca kullandığı temel yöntem aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gösteri",
+      "B": "Benzetim",
+      "C": "Rol oynama",
+      "D": "Soru-cevap",
+      "E": "Anlatım"
+    },
+    "answer": "D",
+    "solution": "Soru-cevap yönteminde ders, öğretmenin sorduğu ve öğrencilerin cevapladığı sorular aracılığıyla ilerler; ön bilgileri yoklamada ve düşünmeyi geliştirmede kullanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: soru-cevap"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-028",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sosyal bilgiler dersinde öğretmen, “sınıfta mobil telefon kullanımı” konusunu sınıfa açmış; öğrenciler bu konuda kendi görüşlerini söylemiş, birbirlerinin düşüncelerini dinleyip karşı görüş geliştirmiş ve öğretmen tartışmayı yöneterek, gerektiğinde süre vererek ortak sonuçlara varılmasını sağlamıştır.\n\nBu etkinlikte kullanılan temel yöntem aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tartışma",
+      "B": "Gösteri",
+      "C": "Anlatım",
+      "D": "Gezi-gözlem",
+      "E": "Benzetim"
+    },
+    "answer": "A",
+    "solution": "Tartışma yönteminde belirli bir konu veya problem üzerinde öğrenciler fikir alışverişinde bulunur; öğretmen yönetici ve kolaylaştırıcıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: tartışma"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-029",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Matematik öğretmeni Leyla Hanım, kuralları önceden belirlenmiş bir kart oyunuyla öğrencilerin çarpma tablosunu eğlenceli biçimde pekiştirmesini sağlamıştır. Öğrenciler sırayla kart çekmekte, çarpımı doğru söyleyenler puan almakta ve kazananlar sınıfça alkışlanmaktadır.\n\nLeyla Hanım hangi öğretim etkinliğini kullanmıştır?",
+    "options": {
+      "A": "Rol oynama",
+      "B": "Eğitsel oyun",
+      "C": "Proje",
+      "D": "Gösteri",
+      "E": "Benzetim"
+    },
+    "answer": "B",
+    "solution": "Eğitsel oyun, kuralları belli, eğlenceli bir etkinlik biçiminde öğrenme hedeflerine ulaşmayı sağlayan öğretim etkinliğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: eğitsel oyun"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-030",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sınıf öğretmeni Mine Hanım, “okul bahçemizi nasıl daha yeşil hâle getirebiliriz?” sorusunu tahtaya yazmış ve öğrencilerden aklına gelen her fikri söylemelerini istemiştir. Önce hiçbir fikir eleştirilmemiş, fikirler yalnızca not edilmiş; en sonunda sınıfça değerlendirilip uygulanabilir olanlar seçilmiştir.\n\nMine Hanım hangi tekniği kullanmıştır?",
+    "options": {
+      "A": "Akvaryum",
+      "B": "Altı şapkalı düşünme",
+      "C": "Panel",
+      "D": "Beyin fırtınası",
+      "E": "Münazara"
+    },
+    "answer": "D",
+    "solution": "Beyin fırtınasında amaç kısa sürede çok sayıda ve özgün fikir üretmektir; fikir üretme aşamasında eleştiri yapılmaz, değerlendirme sonra yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: beyin fırtınası"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-031",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sınıfta okulun uygulamaya koyduğu yeni “telefonsuz gün” kararı tartışılırken öğrenci Tolga, planın uygulanabilirliğiyle ilgili olarak “Veliler tepki gösterebilir, denetim zor olur ve kuralı çiğneyenlere ne yapacağımız belli değil” demiştir.\n\nTolga, de Bono'nun altı şapkalı düşünme tekniğinde hangi renkteki şapkayı giymektedir?",
+    "options": {
+      "A": "Beyaz şapka",
+      "B": "Siyah şapka",
+      "C": "Yeşil şapka",
+      "D": "Sarı şapka",
+      "E": "Kırmızı şapka"
+    },
+    "answer": "B",
+    "solution": "Siyah şapka eleştirel ve olumsuz yönleri, riskleri ve sakıncaları dile getirir; sarı şapka ise olumlu yönleri ve yararları ele alır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: altı şapkalı düşünme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-032",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğrenci Selma, okulda yeni bir geri dönüşüm kutusu kullanımını tartışırken “Kutuları okul çıkışında öğrencilerin yürüdüğü yola yerleştirebiliriz; üstelik her sınıfa renkli ve oyunlu bir kutu tasarlayıp yarışma açabiliriz” demiştir.\n\nSelma, altı şapkalı düşünme tekniğinde hangi şapkayı giymektedir?",
+    "options": {
+      "A": "Sarı şapka",
+      "B": "Yeşil şapka",
+      "C": "Siyah şapka",
+      "D": "Mavi şapka",
+      "E": "Beyaz şapka"
+    },
+    "answer": "B",
+    "solution": "Yeşil şapka yaratıcılığı, yeni fikir ve alternatif üretmeyi temsil eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: altı şapkalı düşünme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-033",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Altı şapkalı düşünme etkinliğinde grup lideri Cem, tartışmayı açmış, hangi şapkayla ne kadar süre konuşulacağını belirlemiş, tartışma sonunda yapılanları özetlemiş ve bir sonraki adımı önermiştir.\n\nCem hangi şapkayı giymektedir?",
+    "options": {
+      "A": "Yeşil şapka",
+      "B": "Sarı şapka",
+      "C": "Mavi şapka",
+      "D": "Beyaz şapka",
+      "E": "Kırmızı şapka"
+    },
+    "answer": "C",
+    "solution": "Mavi şapka süreci yöneten, düzenleyen ve özetleyen konumdur; düşünme sürecinin kontrolünü temsil eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: altı şapkalı düşünme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-034",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Altı şapkalı düşünme tekniğinde şapka-özellik eşleştirmelerinden hangileri doğrudur?\n\nI. Sarı şapka — olumlu yönler ve yararlar\n\nII. Beyaz şapka — duygular ve sezgiler\n\nIII. Mavi şapka — süreç yönetimi",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız III",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "D",
+    "solution": "Sarı şapka olumlu yönleri, mavi şapka süreç yönetimini temsil eder. Beyaz şapka nesnel veri ve bilgiyi, kırmızı şapka ise duygu ve sezgileri temsil eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: altı şapkalı düşünme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-035",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Bir lisede dört uzman, “yapay zekâ ve eğitim” konusunun farklı yönlerini birbirini kesmeden, her biri kendi hazırladığı sunumu yaparak sırayla anlatmıştır. Uzmanlar arasında karşılıklı bir tartışma yapılmamış; konuşmalar bittikten sonra yönetici söz vermiş ve dinleyiciler soru sormuştur.\n\nBu etkinlik aşağıdaki tekniklerden hangisine örnektir?",
+    "options": {
+      "A": "Sempozyum",
+      "B": "Beyin fırtınası",
+      "C": "Forum",
+      "D": "Münazara",
+      "E": "Akvaryum"
+    },
+    "answer": "A",
+    "solution": "Sempozyumda birkaç uzman, aynı konunun farklı yönlerini önceden hazırladıkları sunumlarla sırayla anlatır; konuşmacılar arasında tartışma yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: tartışma teknikleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-036",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sosyal bilgiler dersinde “ev ödevi kaldırılmalıdır” önergesi için iki grup oluşturulmuştur. Bir grup bu görüşü savunmuş, diğer grup karşı çıkmış; her grup sırayla kanıt sunmuş ve karşı grubun görüşlerini çürütmeye çalışmış, öğretmenin başkanlık ettiği bir jüri oylama yapmıştır.\n\nBu etkinlik hangi tekniktir?",
+    "options": {
+      "A": "Sempozyum",
+      "B": "Forum",
+      "C": "Panel",
+      "D": "Beyin fırtınası",
+      "E": "Münazara"
+    },
+    "answer": "E",
+    "solution": "Münazarada iki karşıt grup bir önerge üzerinde zıt görüşleri savunur ve jüri değerlendirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: münazara"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-037",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Edebiyat öğretmeni Ayşegül Hanım, sınıfı altışar kişilik gruplara ayırmış, her gruba altı dakikalık süre vererek “dijital çağda okuma alışkanlıkları” konusunda ortak bir sonuç üretmelerini istemiştir. Süre sonunda her grubun sözcüsü, grubunun vardığı ortak görüşü kısa bir sunumla sınıfa bildirmiştir.\n\nBu çalışmada hangi tekniğe başvurulmuştur?",
+    "options": {
+      "A": "Panel tekniği",
+      "B": "Altı-altı tekniği",
+      "C": "Akvaryum tekniği",
+      "D": "Sempozyum tekniği",
+      "E": "Beyin fırtınası tekniği"
+    },
+    "answer": "B",
+    "solution": "Phillips 66 (altı-altı) tekniğinde sınıf altışar kişilik gruplara ayrılır ve her grup altı dakika boyunca bir soru veya konu üzerinde tartışır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: tartışma teknikleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-038",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sosyoloji dersinde öğrencilerin bir bölümü sınıfın ortasında oturmuş ve “toplumda bireyin yeri” konusunu tartışmaktadır. Diğer öğrenciler tartışmacıların çevresinde dışarıdan bir halka oluşturmuş, söylenenleri sessizce gözlemleyip not almaktadır. Tartışma bitince roller değiştirilecek ve gözlemciler görüşlerini paylaşacaktır.\n\nBu çalışmada hangi tekniğe başvurulmaktadır?",
+    "options": {
+      "A": "Akvaryum tekniği",
+      "B": "Altı-altı tekniği",
+      "C": "Münazara tekniği",
+      "D": "Panel tekniği",
+      "E": "Sempozyum tekniği"
+    },
+    "answer": "A",
+    "solution": "Akvaryum tekniğinde bir grup ortada tartışırken diğerleri dış halkada gözlemci olarak bulunur; sonra roller değişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: akvaryum"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-039",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Okulda “çevre kirliliği” konusu bir uzman tarafından sunulduktan sonra, bütün sınıf dinleyicisi sunucuya soru sormuş, görüş bildirmiş ve konu hakkında geniş bir tartışma yürütülmüştür. Tartışma bir yönetici tarafından yönetilmiştir.\n\nBu etkinlik hangi tekniktir?",
+    "options": {
+      "A": "Altı-altı tekniği",
+      "B": "Sempozyum tekniği",
+      "C": "Münazara tekniği",
+      "D": "Beyin fırtınası tekniği",
+      "E": "Forum tekniği"
+    },
+    "answer": "E",
+    "solution": "Forumda konuşmacının sunumunun ardından dinleyicilerin tamamı konuya soru ve görüşlerle katılır; tartışmayı yönetici yönetir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: forum"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-040",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Tarih öğretmeni Selçuk Bey, sınıfı dörtlü “ev grupları”na ayırmış ve her ev grubundaki öğrenciye farklı bir alt konu vermiştir. Aynı alt konuyu alan öğrenciler “uzman gruplarında” bir araya gelip konuyu öğrenmiş, sonra ev gruplarına dönerek öğrendiklerini grup arkadaşlarına öğretmiştir.\n\nSelçuk Bey hangi işbirlikli öğrenme tekniğini kullanmıştır?",
+    "options": {
+      "A": "TGT tekniği",
+      "B": "Takım destekli bireyselleştirme",
+      "C": "STAD tekniği",
+      "D": "Birlikte öğrenme tekniği",
+      "E": "Jigsaw tekniği"
+    },
+    "answer": "E",
+    "solution": "Jigsaw'da (Aronson) öğrenciler hem ev grubunda hem uzman grubunda yer alır; her öğrenci bir alt konuda uzmanlaşıp grup arkadaşlarına öğretir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İşbirlikli öğrenme: jigsaw"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-041",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Matematik öğretmeni Gülçin Hanım, farklı başarı düzeylerinden öğrencilerin bulunduğu dörtlü takımlar kurmuş, konuyu anlattıktan sonra takımların birlikte çalışmasını sağlamıştır. Ardından her öğrenci bireysel bir sınava girmiş; öğrencilerin kendi önceki başarılarına göre gösterdikleri gelişim puanı, takım puanına eklenmiştir.\n\nGülçin Hanım hangi işbirlikli öğrenme tekniğini uygulamıştır?",
+    "options": {
+      "A": "Birlikte öğrenme tekniği",
+      "B": "Jigsaw tekniği",
+      "C": "STAD tekniği",
+      "D": "Beyin fırtınası tekniği",
+      "E": "TGT tekniği"
+    },
+    "answer": "C",
+    "solution": "STAD'da (Slavin) heterojen takımlar çalışır, bireysel testlerden elde edilen gelişim puanları takım puanını oluşturur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İşbirlikli öğrenme: STAD"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-042",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Fen öğretmeni Kaan Bey, işbirlikli öğrenme grupları kurarken her gruba tek bir kaynak, tek bir ortak görev ve tek bir rapor yazma yükümlülüğü vermiştir; öyle ki grubun hiçbir üyesi diğerlerinin katkısı olmadan görevi tamamlayamamaktadır.\n\nKaan Bey, Johnson ve Johnson'ın işbirlikli öğrenmenin temel öğelerinden hangisini sağlamıştır?",
+    "options": {
+      "A": "Olumlu bağımlılık",
+      "B": "Grup sürecinin değerlendirilmesi",
+      "C": "Sosyal beceriler",
+      "D": "Yüz yüze etkileşim",
+      "E": "Bireysel sorumluluk"
+    },
+    "answer": "A",
+    "solution": "Olumlu bağımlılıkta grup üyelerinin başarısı birbirine bağlıdır; biri başarmadan grup başarılı olamaz (\"ya hep birlikte ya hiç\").",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İşbirlikli öğrenme: temel öğeler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-043",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sınıf öğretmeni Nazlı Hanım, grup çalışmasından sonra grubun puanını, rastgele seçtiği bir üyenin bireysel performansına göre vermiştir. Böylece her öğrenci, grubun başarısı için kendi payını yerine getirmenin gerekli olduğunu görmüştür.\n\nBu uygulama işbirlikli öğrenmenin hangi öğesine örnektir?",
+    "options": {
+      "A": "Bireysel sorumluluk",
+      "B": "Olumlu bağımlılık",
+      "C": "Sosyal beceriler",
+      "D": "Grup sürecinin değerlendirilmesi",
+      "E": "Yüz yüze etkileşim"
+    },
+    "answer": "A",
+    "solution": "Bireysel sorumluluk, her öğrencinin grup görevinden kendi payına düşeni yapmasının ve bunun ölçülmesinin gerekliliğini ifade eder.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İşbirlikli öğrenme: temel öğeler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-044",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Aşağıdakilerden hangileri işbirlikli öğrenme tekniklerindendir?\n\nI. Jigsaw\n\nII. STAD\n\nIII. Beyin fırtınası",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "answer": "C",
+    "solution": "Jigsaw ve STAD işbirlikli öğrenme tekniklerindendir. Beyin fırtınası bir fikir üretme tekniğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İşbirlikli öğrenme: teknikler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-045",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Teknoloji ve tasarım dersinde sınıf dört masaya ayrılmış, her masada farklı bir etkinlik hazırlanmıştır. Öğrenci grupları belli sürelerle bir masadan diğerine geçerek her etkinliği sırayla yapmaktadır.\n\nBu düzenleme hangi tekniğe örnektir?",
+    "options": {
+      "A": "Beyin fırtınası",
+      "B": "Akvaryum",
+      "C": "Forum",
+      "D": "İstasyon tekniği",
+      "E": "Sempozyum"
+    },
+    "answer": "D",
+    "solution": "İstasyon tekniğinde sınıf farklı etkinlik masalarına (istasyonlara) ayrılır; gruplar belirli sürelerle dönüşümlü olarak her istasyonda çalışır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: istasyon"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-046",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Eğitim fakültesinde öğretmen adayları, bir sınıf ortamında 5-10 dakikalık süreyle, 5-10 öğrenciye kısa bir ders vermekte; dersleri kameraya kaydedilip incelenmekte ve öğretim becerileri geliştirilmeye çalışılmaktadır.\n\nBu uygulama hangi tekniktir?",
+    "options": {
+      "A": "Mikroöğretim",
+      "B": "Beyin fırtınası",
+      "C": "Benzetim",
+      "D": "Sempozyum",
+      "E": "Forum"
+    },
+    "answer": "A",
+    "solution": "Mikroöğretim, öğretmen adaylarının kısa süreli ve küçük gruplu derslerle belirli öğretim becerilerini geliştirdiği bir tekniktir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: mikroöğretim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-047",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğretmen Selen Hanım, Bloom'un geliştirdiği anlayışa göre her ünitenin sonunda öğrencilerine bir ölçme uygulamakta, eksik bilgileri belirleyip öğrenciye ek zaman ve farklı öğrenme yaşantıları sunmakta; böylece sınıftaki öğrencilerin çoğunun üniteyi tam olarak öğrenmesini hedeflemektedir.\n\nSelen Hanım hangi öğretim modelini uygulamaktadır?",
+    "options": {
+      "A": "Tam öğrenme",
+      "B": "Probleme dayalı öğrenme",
+      "C": "Modüler öğretim",
+      "D": "Programlı öğretim",
+      "E": "Ters yüz öğrenme"
+    },
+    "answer": "A",
+    "solution": "Tam öğrenme modelinde (Bloom) öğrencilerin çoğunun, yeterli zaman ve çeşitli öğrenme yaşantılarıyla hedeflenen yeterliğe ulaşması amaçlanır; düzenli ölçme ve düzeltme etkinlikleri kullanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim modelleri: tam öğrenme (Bloom)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-048",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Bir ders materyalinde konu çok küçük adımlara bölünmüştür. Öğrenci her adımda bir bilgi okuyup soruyu yanıtlamakta, yanıtın doğruluğunu hemen görmekte ve doğru cevap onu bir sonraki adıma geçirerek pekiştirmektedir. Öğrenci kendi hızında ilerlemektedir.\n\nBu materyalin dayandığı öğretim modeli aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Proje tabanlı öğrenme",
+      "B": "Tam öğrenme",
+      "C": "Programlı öğretim",
+      "D": "Modüler öğretim",
+      "E": "Ters yüz öğrenme"
+    },
+    "answer": "C",
+    "solution": "Programlı öğretim (Skinner), konunun küçük adımlara bölündüğü, her adımda anında dönüt ve pekiştirme verilen, öğrencinin kendi hızında ilerlediği bireysel bir öğretim modelidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim modelleri: programlı öğretim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-049",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğretim tasarımcısı bir okul için küçük, bağımsız ve kendi içinde tamamlanabilen öğrenme paketleri hazırlamıştır. Her paketin hedefleri, ön testi, öğrenme etkinlikleri ve son testi bulunmakta; öğrenci ilgisine göre paketleri seçip kendi hızında tamamlamaktadır.\n\nBu paketler hangi öğretim modeline örnektir?",
+    "options": {
+      "A": "Programlı öğretim",
+      "B": "Sempozyum",
+      "C": "Modüler öğretim",
+      "D": "Probleme dayalı öğrenme",
+      "E": "Tam öğrenme"
+    },
+    "answer": "C",
+    "solution": "Modüler öğretimde konu, hedef, etkinlik ve ölçme öğelerini içeren küçük bağımsız öğrenme paketlerine (modüllere) bölünür; öğrenci kendi hızında ilerler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim modelleri: modüler öğretim"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-050",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "5E öğrenme modelini uygulayan fen öğretmeni Rüya Hanım, öğrencilere mıknatıs, çeşitli cisimler ve pusula vermiş, öğrencilerden bunlarla serbestçe denemeler yapıp gözlemlerini not etmelerini istemiştir. Bu aşamada henüz kavramlar öğretmen tarafından açıklanmamıştır.\n\nBu etkinlik 5E modelinin hangi aşamasıdır?",
+    "options": {
+      "A": "Açıklama",
+      "B": "Girme",
+      "C": "Derinleştirme",
+      "D": "Değerlendirme",
+      "E": "Keşfetme"
+    },
+    "answer": "E",
+    "solution": "5E modelinde Keşfetme aşamasında öğrenciler somut deneyimlerle gözlem yapar, veri toplar ve açıklamayı henüz öğretmenden almadan kendi sorularıyla yüzleşir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim modelleri: 5E"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-051",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "5E modelinin uygulandığı bir derste, öğrenciler mıknatısın özelliklerini öğrendikten sonra öğretmenin verdiği yeni bir probleme (“mıknatıslı bir oyuncak tasarlayın”) önceki bilgilerini uygulamışlar; kavramı yeni bir durumda kullanmışlardır.\n\nBu etkinlik 5E modelinin hangi aşamasına örnektir?",
+    "options": {
+      "A": "Derinleştirme",
+      "B": "Keşfetme",
+      "C": "Girme",
+      "D": "Açıklama",
+      "E": "Değerlendirme"
+    },
+    "answer": "A",
+    "solution": "Derinleştirme aşamasında öğrenciler öğrendikleri kavram ve becerileri yeni durum ve problemlere uygular, bilgilerini genişletir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim modelleri: 5E"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-052",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Matematik öğretmeni Deniz Bey, öğrencilerinden konunun anlatıldığı kısa videoyu evde izlemelerini istemiş, sınıfta ise ders süresini problem çözme, soru sorma ve uygulama etkinliklerine ayırmıştır. Öğrenciler sınıfta öğretmenin desteğiyle çalışmaktadır.\n\nDeniz Bey'in uyguladığı bu yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Modüler öğretim",
+      "B": "Proje tabanlı öğrenme",
+      "C": "Ters yüz (flipped) öğrenme",
+      "D": "Tam öğrenme",
+      "E": "Programlı öğretim"
+    },
+    "answer": "C",
+    "solution": "Ters yüz öğrenmede bilgi aktarımı sınıf dışına (video, okuma), uygulama ve etkileşim ise sınıf içine taşınır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim modelleri: ters yüz öğrenme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-053",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğretmen Seçil Hanım, derse başlarken öğrencilerin önceki dersten öğrendiği “kesir” kavramını sorularla hatırlatmıştır. Amacı, yeni konunun bu bilgilere dayandırılabilmesidir.\n\nBu uygulama Gagné'nin dokuz öğretim olayından hangisine örnektir?",
+    "options": {
+      "A": "Dikkatin çekilmesi",
+      "B": "Hedefin bildirilmesi",
+      "C": "Kalıcılığın ve transferin sağlanması",
+      "D": "Geri bildirim verilmesi",
+      "E": "Ön öğrenmelerin hatırlatılması"
+    },
+    "answer": "E",
+    "solution": "Gagné'nin öğretim olayları arasında yer alan ön öğrenmelerin hatırlatılması, yeni öğrenmenin dayanacağı önceki bilgilerin çağrılmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ders planı: Gagné'nin öğretim olayları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-054",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Fen öğretmeni Ufuk Bey, öğrenciler deneyi yaptıktan sonra her öğrencinin sonucunu inceleyerek doğru ve yanlış yönlerini bildirmiş, yanlış yapan öğrenciye nerede hata yaptığını göstermiştir.\n\nBu uygulama Gagné'nin öğretim olaylarından hangisine örnektir?",
+    "options": {
+      "A": "Geri bildirim sağlama",
+      "B": "Ön öğrenmelerin hatırlatılması",
+      "C": "Uyarıcının sunulması",
+      "D": "Dikkatin çekilmesi",
+      "E": "Hedefin bildirilmesi"
+    },
+    "answer": "A",
+    "solution": "Geri bildirim sağlama, öğrencinin performansının doğruluğu ve düzeltilmesi gereken yönleri hakkında bilgilendirilmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ders planı: Gagné'nin öğretim olayları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-055",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Matematik öğretmeni Hakan Bey, derse başlar başlamaz tahtaya “Bu dersin sonunda üçgenleri kenar uzunluklarına göre sınıflandırabilecek ve her türün özelliğini bir örnekle açıklayabileceksiniz.” yazmış ve öğrencilerden bunu okumalarını istemiştir. Amacı, öğrencilerin dersten ne beklendiğini en başta bilmesidir.\n\nBu uygulama Gagné'nin öğretim olaylarından hangisine örnektir?",
+    "options": {
+      "A": "Ön öğrenmelerin hatırlatılması",
+      "B": "Hedefin bildirilmesi",
+      "C": "Geri bildirim sağlama",
+      "D": "Kalıcılığın ve transferin sağlanması",
+      "E": "Dikkatin çekilmesi"
+    },
+    "answer": "B",
+    "solution": "Gagné'nin öğretim olaylarında hedefin bildirilmesi, öğrenciye ders sonunda neleri yapabileceğinin açıkça söylenmesi, böylece beklentinin ve odağın oluşturulmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ders planı: Gagné'nin öğretim olayları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-056",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Aşağıdaki hedef ifadelerinden hangisi davranışsal (ölçülebilir) bir hedef özelliği taşır?",
+    "options": {
+      "A": "Öğrenci, üç basamaklı iki sayıyı hatasız çarpar.",
+      "B": "Öğrenci çarpma işlemini kavrar.",
+      "C": "Öğrenci çarpma işlemine ilgi duyar.",
+      "D": "Öğrenci çarpma işlemini sever.",
+      "E": "Öğrenci çarpma işleminin önemini bilir."
+    },
+    "answer": "A",
+    "solution": "Davranışsal hedefler gözlenebilir ve ölçülebilir fiillerle yazılır. “Kavrar, sever, bilir, ilgi duyar” gibi ifadeler doğrudan gözlenemez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hedef yazımı: davranışsal hedef"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-057",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "“Öğrenci, kendisine verilen sessiz haritada iklim bölgelerinin en az altısını doğru olarak gösterir.” hedef ifadesindeki “kendisine verilen sessiz haritada” bölümü, bir hedefin hangi öğesine karşılık gelir?",
+    "options": {
+      "A": "Ölçüt",
+      "B": "Koşul",
+      "C": "Eğitim durumu",
+      "D": "Davranış",
+      "E": "Bilişsel düzey"
+    },
+    "answer": "B",
+    "solution": "Davranışsal hedefin üç öğesi davranış (gösterir), koşul (verilen sessiz haritada) ve ölçüttür (en az altısını doğru olarak).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hedef yazımı: hedefin öğeleri"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-058",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Anlatım yönteminin en önemli sınırlılıklarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Zaman kaybına yol açması",
+      "B": "Büyük sınıflarda uygulanamaması",
+      "C": "Öğrenciyi pasif konuma düşürmesi",
+      "D": "Bilgi aktarımını sınırlaması",
+      "E": "Hazırlık gerektirmemesi"
+    },
+    "answer": "C",
+    "solution": "Anlatım yönteminde öğrenci genellikle dinleyici durumundadır; bu durum katılımı ve öğrenme kalıcılığını sınırlayabilir. Yöntemin güçlü yanı kısa sürede çok bilgi aktarılabilmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: anlatımın sınırlılıkları"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-059",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Aşağıdaki yöntem ve modellerden hangileri öğrenci merkezli bir öğretim anlayışını yansıtır?\n\nI. Düz anlatım\n\nII. Proje tabanlı öğrenme\n\nIII. Probleme dayalı öğrenme",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Proje tabanlı ve probleme dayalı öğrenmede öğrenci etkin, öğretmen kolaylaştırıcıdır. Düz anlatım öğretmen merkezli bir yöntemdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim yöntemleri: öğrenci merkezli yaklaşımlar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-060",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Beyin fırtınası tekniğinde fikir üretme aşamasında temel ilke aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Fikirler öğretmene sunulur ve onun onayına bağlıdır",
+      "B": "Fikir sayısı sınırlandırılır",
+      "C": "Fikirler eleştirilmeden toplanır",
+      "D": "Her fikir hemen değerlendirilir",
+      "E": "Sadece uygulanabilir fikirler söylenir"
+    },
+    "answer": "C",
+    "solution": "Beyin fırtınasında (Osborn) fikir üretme sırasında eleştiri ve değerlendirme yapılmaz; amaç çok sayıda ve özgün fikir toplamaktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: beyin fırtınası"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-061",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sosyal bilgiler öğretmeni Kaan Bey, Kurtuluş Savaşı'nın Sakarya Meydan Muharebesi konusunu anlatmak yerine öğrencilerden bazılarına komutan, asker ve köylü rollerini vermiş; öğrenciler olay sahnesini doğaçlama canlandırmış, ardından sınıfça canlandırmayı tartışarak yaşananları değerlendirmiştir.\n\nÖğretmenin kullandığı öğretim tekniği aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Örnek olay",
+      "B": "Beyin fırtınası",
+      "C": "Gezi-gözlem",
+      "D": "Gösterip yaptırma",
+      "E": "Drama"
+    },
+    "answer": "E",
+    "solution": "Öğrencilerin rol alıp bir olay ya da durumu doğaçlama canlandırdığı, ardından değerlendirdiği teknik dramadır (yaratıcı drama).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: drama"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-062",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Teknoloji ve tasarım öğretmeni, basit bir elektrik devresinin nasıl kurulacağını önce öğrencilerin önünde adım adım kurup çalıştırarak göstermiş, ardından her öğrenciden aynı devreyi kendi malzemeleriyle kurmasını istemiştir. Öğretmen, kurma sırasında dolaşıp hatalı bağlantıları düzeltmiştir.\n\nBu öğretimde kullanılan teknik aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Beyin fırtınası",
+      "B": "Gösterip yaptırma",
+      "C": "Panel",
+      "D": "Buluş yoluyla öğretim",
+      "E": "Soru-cevap"
+    },
+    "answer": "B",
+    "solution": "Bir becerinin öğretmen tarafından önce gösterilmesi, sonra öğrencilerin uygulayarak yapması gösterip yaptırma (demonstrasyon) tekniğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: gösterip yaptırma"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-063",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğretmen adayı Burcu, öğretmenlik uygulamasında beş dakikalık kısa bir ders parçasını sekiz kişilik küçük bir öğrenci grubuna anlatmış, dersin görüntüsü kaydedilmiştir. Daha sonra danışmanıyla kaydı izleyip güçlü ve zayıf yönlerini tartışmış, ardından dersi düzeltilmiş hâliyle yeniden vermiştir.\n\nBurcu'nun katıldığı bu uygulama aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Programlı öğretim",
+      "B": "Tam öğrenme",
+      "C": "Mikro öğretim",
+      "D": "Gösterip yaptırma",
+      "E": "Akran öğretimi"
+    },
+    "answer": "C",
+    "solution": "Kısa süreli, küçük gruba yönelik, kayıt edilip dönüt alınarak yinelenen öğretim uygulamasına mikro öğretim denir; öğretmen eğitiminde beceri geliştirmek için kullanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: mikro öğretim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-064",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğrenciler, fen bilimleri dersinde “Su döngüsü” konusunu, buharlaşma, yoğuşma ve yağış gibi kavramları kutular içine yazıp aralarını “…sonucunda oluşur” gibi bağ cümleleriyle çizgilerle birleştirerek ve genel kavramları üste yerleştirerek özetlemiştir. Öğretmen bu çalışmadan öğrencilerin kavram yanılgılarını da belirlemiştir.\n\nÖğrencilerin hazırladığı araç aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Venn şeması",
+      "B": "Kavram haritası",
+      "C": "Zaman çizelgesi",
+      "D": "Balık kılçığı diyagramı",
+      "E": "Akış şeması"
+    },
+    "answer": "B",
+    "solution": "Kavramların hiyerarşik düzende, aralarındaki ilişkiyi gösteren bağlayıcı ifadelerle ilişkilendirildiği çizimlere kavram haritası denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim araçları: kavram haritası"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-065",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Bir ortaokulda öğrenciler ünite çalışma paketlerini kendi hızlarında bireysel olarak tamamlamakta; paketi bitiren öğrenci kısa bir sınava girmekte, başarılı olursa bir sonraki üniteye geçmektedir. Sınıfın bütün öğrencileri aynı anda aynı üniteyi çalışmamakta, öğretmen yalnızca gerektiğinde yardım etmektedir.\n\nBu uygulama aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Sunuş yoluyla öğretim",
+      "B": "Panel",
+      "C": "Gezi-gözlem",
+      "D": "Bireyselleştirilmiş öğretim",
+      "E": "İşbirlikli öğrenme"
+    },
+    "answer": "D",
+    "solution": "Her öğrencinin kendi hızında, kendi öğrenme paketleriyle ve başarı ölçütünü karşılayınca ilerlediği düzenlemeler bireyselleştirilmiş öğretimdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyselleştirilmiş öğretim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-066",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Türkçe öğretmeni, sınıfa dört ayrı köşe kurmuştur: bir köşede okuma metni, bir köşede dinleme kaydı, bir köşede yazma etkinliği, bir köşede sözcük oyunu vardır. Öğrenci grupları her köşede on dakika çalışıp öğretmenin işaretiyle bir sonraki köşeye geçmekte, derste bütün köşeleri dolaşmaktadır.\n\nÖğretmenin kullandığı teknik aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Forum",
+      "B": "Gezi-gözlem",
+      "C": "Sempozyum",
+      "D": "İstasyon tekniği",
+      "E": "Panel"
+    },
+    "answer": "D",
+    "solution": "Sınıfta farklı etkinliklerin yer aldığı istasyonlara grupların sırayla geçtiği öğretim tekniğine istasyon tekniği denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim teknikleri: istasyon"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

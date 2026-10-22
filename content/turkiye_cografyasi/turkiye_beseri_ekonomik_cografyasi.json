@@ -1,0 +1,1796 @@
+[
+  {
+    "id": "ags-cog-bes-001",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Yüzölçümü 400 km² olan bir ilde 120.000 kişi yaşamaktadır. Bu ilin nüfus yoğunluğu kaç kişi/km²'dir?",
+    "options": {
+      "A": "3.000",
+      "B": "30",
+      "C": "333",
+      "D": "480",
+      "E": "300"
+    },
+    "answer": "E",
+    "solution": "Nüfus yoğunluğu = nüfus ÷ yüzölçümü = 120.000 ÷ 400 = 300 kişi/km².",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: nüfus yoğunluğu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-002",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Nüfus yoğunluğu 150 kişi/km² olan ve yüzölçümü 2.000 km² olan bir ilin nüfusu kaçtır?",
+    "options": {
+      "A": "150.000",
+      "B": "75.000",
+      "C": "3.000.000",
+      "D": "300.000",
+      "E": "30.000"
+    },
+    "answer": "D",
+    "solution": "Nüfus = yoğunluk × yüzölçümü = 150 × 2.000 = 300.000.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: yoğunluktan nüfus"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-003",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir ülkede doğum hızı binde 20, ölüm hızı binde 8 olduğuna göre doğal nüfus artış hızı binde kaçtır?",
+    "options": {
+      "A": "12",
+      "B": "8",
+      "C": "28",
+      "D": "160",
+      "E": "20"
+    },
+    "answer": "A",
+    "solution": "Doğal artış hızı = doğum hızı − ölüm hızı = 20 − 8 = binde 12.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: doğal artış hızı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-004",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Binde 25 doğum hızı ve binde 9 ölüm hızına sahip bir ülkede doğal nüfus artışı binde kaçtır?",
+    "options": {
+      "A": "9",
+      "B": "16",
+      "C": "25",
+      "D": "225",
+      "E": "34"
+    },
+    "answer": "B",
+    "solution": "25 − 9 = binde 16.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: doğal artış hızı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-005",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir ülkenin nüfusunun 24 birimi 0–14 yaş, 6 birimi 65 yaş ve üzeri, 60 birimi 15–64 yaş grubundadır. Bu ülkenin bağımlı nüfus oranı yüzde kaçtır?",
+    "options": {
+      "A": "24",
+      "B": "50",
+      "C": "30",
+      "D": "60",
+      "E": "40"
+    },
+    "answer": "B",
+    "solution": "Bağımlı nüfus oranı = (0–14 + 65+) ÷ (15–64) × 100 = 30 ÷ 60 × 100 = %50.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: bağımlı nüfus oranı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-006",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangisi nüfusun dağılışını etkileyen beşerî etkenlerden biridir?",
+    "options": {
+      "A": "Sanayi ve ticaretin gelişmesi",
+      "B": "Yer şekillerinin engebeli olması",
+      "C": "Toprağın verimli olması",
+      "D": "İklim koşullarındaki çeşitlilik",
+      "E": "Su kaynaklarının bulunması"
+    },
+    "answer": "A",
+    "solution": "İklim, yer şekilleri, su ve toprak doğal etkenlerdir; sanayi, ticaret ve ulaşım beşerî etkenlerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: dağılışı etkileyen etkenler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-007",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'de nüfus yoğunluğunun en fazla olduğu coğrafi bölge aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İç Anadolu Bölgesi",
+      "B": "Doğu Anadolu Bölgesi",
+      "C": "Güneydoğu Anadolu Bölgesi",
+      "D": "Marmara Bölgesi",
+      "E": "Karadeniz Bölgesi"
+    },
+    "answer": "D",
+    "solution": "Sanayi, ticaret ve ulaşım olanaklarının gelişmişliği nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: yoğunluk"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-008",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangisi köyden kente göçün nedenlerinden biri değildir?",
+    "options": {
+      "A": "Kırsal kesimde iş olanaklarının artması",
+      "B": "Kentlerde eğitim ve sağlık olanaklarının fazla olması",
+      "C": "Tarımda makineleşme ile işgücü ihtiyacının azalması",
+      "D": "Ulaşım olanaklarının gelişmesi",
+      "E": "Kentlerde iş olanaklarının fazla olması"
+    },
+    "answer": "A",
+    "solution": "Kırsalda iş olanaklarının artması göçü azaltır; ötekiler göçü hızlandıran nedenlerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: göç nedenleri (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-009",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Hızlı ve plansız kentleşmenin sonuçlarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Altyapı sorunlarının azalması",
+      "B": "Gecekondulaşmanın artması",
+      "C": "Tarım arazilerinin genişlemesi",
+      "D": "Kent çevresinde orman alanlarının büyümesi",
+      "E": "Kırsal nüfusun artması"
+    },
+    "answer": "B",
+    "solution": "Plansız kentleşmede konut ve altyapı ihtiyacı karşılanamaz; gecekondu bölgeleri oluşur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: kentleşme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-010",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'den 1960'lı yıllarda işçi göçünün en yoğun yönelim gösterdiği ülke aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Brezilya",
+      "B": "Kanada",
+      "C": "Almanya",
+      "D": "Avustralya",
+      "E": "Japonya"
+    },
+    "answer": "C",
+    "solution": "1961'den sonra yapılan işgücü anlaşmalarıyla Türkiye'den Avrupa'ya, özellikle Almanya'ya işçi göçü yaşanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: dış göç"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-011",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Tabanı geniş, tepesi dar olan bir nüfus piramidi aşağıdakilerden hangisini gösterir?",
+    "options": {
+      "A": "Doğum hızının çok düşük olduğunu",
+      "B": "Nüfusun azaldığını",
+      "C": "Genç nüfus oranının yüksek olduğunu",
+      "D": "Ortalama yaşam süresinin çok uzun olduğunu",
+      "E": "Yaşlı nüfus oranının yüksek olduğunu"
+    },
+    "answer": "C",
+    "solution": "Taban geniş ise doğum oranı yüksektir ve 0–14 yaş grubu kalabalıktır; piramit genç nüfusu gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: nüfus piramidi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-012",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Kırsal yerleşmelerde halkın temel geçim kaynağı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bilişim hizmetleri",
+      "B": "Bankacılık ve sigortacılık",
+      "C": "Otomotiv üretimi",
+      "D": "Gemi inşası",
+      "E": "Tarım ve hayvancılık"
+    },
+    "answer": "E",
+    "solution": "Köylerde ekonomik faaliyet ağırlıklı olarak tarım ve hayvancılığa dayanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yerleşme: kırsal yerleşme"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-013",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Karadeniz Bölgesi'nde kırsal yerleşmelerin dağınık olmasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yağışın çok az olması ve yerleşmenin kıyılardan uzak kurulması",
+      "B": "Bol yağışla suyun her yerde bulunması ve engebeli arazi",
+      "C": "Suyun belirli noktalarda toplanması ve başka yerde bulunmaması",
+      "D": "Arazinin çok geniş ve düz ovalardan oluşması",
+      "E": "Kış soğuklarının sert olması ve evlerin birbirine yakın kurulması"
+    },
+    "answer": "B",
+    "solution": "Su her yerde bulunduğundan ve düz alanlar sınırlı olduğundan evler dağınık kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yerleşme: dağınık yerleşme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-014",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "İç Anadolu'da yerleşmelerin toplu olmasında en önemli etken aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ormanların çok yaygın olması",
+      "B": "Arazinin çok engebeli olması",
+      "C": "Denizle komşu kıyı şeridinde yer alması",
+      "D": "Yağışın her mevsim çok bol olması",
+      "E": "Su kaynaklarının sınırlı olması"
+    },
+    "answer": "E",
+    "solution": "Az yağışlı bölgede suyun bulunduğu noktalar çevresinde evler toplu kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yerleşme: toplu yerleşme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-015",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Yaylacılık faaliyetinin temel amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Turistlere dağ evlerini kiralayarak gelir sağlamak",
+      "B": "Dağlık alanlarda maden ocakları işletmek",
+      "C": "Yaz aylarında hayvanları yüksek otlaklarda otlatmak",
+      "D": "Yaz boyunca kıyılarda balık avı yapmak",
+      "E": "Kış aylarında kıyılarda deniz ticareti yapmak"
+    },
+    "answer": "C",
+    "solution": "Yaz sıcaklarında hayvanlar serin ve çayırlık yaylalarda otlatılır; yayla yerleşmeleri geçicidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yerleşme: yaylacılık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-016",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdaki kentlerden hangisi önemli bir liman kentidir?",
+    "options": {
+      "A": "Kırıkkale (İç Anadolu)",
+      "B": "Afyon (Ege'nin iç kesimi)",
+      "C": "İskenderun (Hatay)",
+      "D": "Ankara (İç Anadolu)",
+      "E": "Konya (İç Anadolu)"
+    },
+    "answer": "C",
+    "solution": "İskenderun, Akdeniz'e açılan önemli bir liman kentidir; ötekiler iç bölgelerde bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Yerleşme: kentsel işlev"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-017",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'de fındık tarımının en yoğun yapıldığı bölge aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İç Anadolu Bölgesi",
+      "B": "Akdeniz Bölgesi",
+      "C": "Doğu Anadolu Bölgesi",
+      "D": "Karadeniz Bölgesi",
+      "E": "Güneydoğu Anadolu Bölgesi"
+    },
+    "answer": "D",
+    "solution": "Fındık, ılık ve nemli Karadeniz kıyılarında yetişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: fındık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-018",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Çay tarımının yoğun olarak yapıldığı il aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Muğla ve Aydın",
+      "B": "Erzurum ve Kars",
+      "C": "Van ve Hakkâri",
+      "D": "Rize ve Trabzon",
+      "E": "Konya ve Karaman"
+    },
+    "answer": "D",
+    "solution": "Çay, nemli ve ılık Doğu Karadeniz kıyısında, özellikle Rize çevresinde yetiştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: çay"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-019",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangisi pamuk tarımının yoğun yapıldığı alanlardan biridir?",
+    "options": {
+      "A": "Çukurova ve Ege ovaları",
+      "B": "Hakkâri yaylaları",
+      "C": "Erzurum–Kars platosu",
+      "D": "Doğu Karadeniz kıyıları",
+      "E": "Tuz Gölü çevresi"
+    },
+    "answer": "A",
+    "solution": "Pamuk uzun, sıcak ve sulanabilen alanlarda yetişir; Çukurova, Ege ovaları ve Güneydoğu'da yoğundur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: pamuk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-020",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Zeytin ağacı hangi iklim bölgesinin tipik ürünüdür?",
+    "options": {
+      "A": "Kutup iklimi",
+      "B": "Karasal iklim",
+      "C": "Ekvatoral iklim",
+      "D": "Akdeniz iklimi",
+      "E": "Karadeniz iklimi"
+    },
+    "answer": "D",
+    "solution": "Zeytin, yazı sıcak ve kurak, kışı ılık geçen Akdeniz iklimi bölgelerinde (Ege, Marmara ve Akdeniz kıyıları) yetişir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: zeytin"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-021",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Antep fıstığı yetiştiriciliğinin yoğun yapıldığı bölge aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Marmara Bölgesi",
+      "B": "Karadeniz Bölgesi",
+      "C": "Doğu Anadolu Bölgesi",
+      "D": "İç Anadolu Bölgesi",
+      "E": "Güneydoğu Anadolu"
+    },
+    "answer": "E",
+    "solution": "Antep fıstığı, kurak ve sıcak yazlara dayanıklıdır ve Gaziantep çevresinde yoğun yetiştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: antep fıstığı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-022",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Kayısı yetiştiriciliğiyle ün yapmış il aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Rize",
+      "B": "Malatya",
+      "C": "Sinop",
+      "D": "Antalya",
+      "E": "Edirne"
+    },
+    "answer": "B",
+    "solution": "Malatya, kuru ve taze kayısı üretimiyle bilinir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: kayısı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-023",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Şeker pancarı tarımı Türkiye'de en çok hangi bölgede yapılmaktadır?",
+    "options": {
+      "A": "Karadeniz Bölgesi",
+      "B": "İç Anadolu Bölgesi",
+      "C": "Marmara Bölgesi",
+      "D": "Akdeniz Bölgesi",
+      "E": "Doğu Anadolu Bölgesi"
+    },
+    "answer": "B",
+    "solution": "Şeker pancarı serin ve orta nemli koşulları sever; İç Anadolu'da yaygın olarak yetiştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: şeker pancarı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-024",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Haşhaş yetiştiriciliği hangi ilde yoğunlaşmıştır?",
+    "options": {
+      "A": "Mersin",
+      "B": "Rize",
+      "C": "Afyon",
+      "D": "Van",
+      "E": "Edirne"
+    },
+    "answer": "C",
+    "solution": "Haşhaş tarımı kontrollü biçimde Afyonkarahisar ve çevresinde yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: haşhaş"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-025",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Muz yetiştiriciliği Türkiye'de hangi kıyıda yoğunlaşmıştır?",
+    "options": {
+      "A": "Sinop çevresi",
+      "B": "Rize çevresi",
+      "C": "Çanakkale çevresi",
+      "D": "Trabzon çevresi",
+      "E": "Anamur çevresi"
+    },
+    "answer": "E",
+    "solution": "Muz, kışları ılık geçen Akdeniz kıyılarında, özellikle Anamur çevresinde yetiştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: muz"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-026",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Ayçiçeği tarımının yoğun yapıldığı alan aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Güneydoğu Toroslar",
+      "B": "Ege adaları",
+      "C": "Hakkâri yöresi",
+      "D": "Trakya Bölümü",
+      "E": "Doğu Karadeniz kıyısı"
+    },
+    "answer": "D",
+    "solution": "Ayçiçeği, Trakya'nın geniş ve verimli ovalarında yoğun biçimde yetiştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: ayçiçeği"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-027",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Antalya çevresinde örtü altı tarım (sera) yaygındır. Bunun asıl nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Toprağın yıl boyu karla kaplı kalması",
+      "B": "Ilık kışlar ve uzun güneşlenme süresi",
+      "C": "Kış yağışlarının kar biçiminde olması",
+      "D": "Yazların serin geçmesi ve kışın kar yağması",
+      "E": "Güneşlenme süresinin çok kısa olması"
+    },
+    "answer": "B",
+    "solution": "Ilık kışlar ve uzun güneşlenme sera üretimini kolaylaştırır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: sera tarımı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-028",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Tiftik üretimiyle ün yapmış hayvan türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ankara keçisi",
+      "B": "Merinos koyunu",
+      "C": "Holstein ineği",
+      "D": "Manda",
+      "E": "Kıl keçisi"
+    },
+    "answer": "A",
+    "solution": "Tiftik, Ankara keçisinden elde edilen değerli bir yün türüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hayvancılık: tiftik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-029",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Hamsi avcılığı Türkiye'de en çok hangi denizde yapılır?",
+    "options": {
+      "A": "Karadeniz",
+      "B": "Akdeniz",
+      "C": "Marmara Denizi",
+      "D": "Ege Denizi",
+      "E": "Hazar Denizi"
+    },
+    "answer": "A",
+    "solution": "Hamsi, Karadeniz'in en önemli av ürünüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Balıkçılık: hamsi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-030",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'de ormanların en yaygın olduğu coğrafi bölge aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Doğu Anadolu Bölgesi",
+      "B": "Güneydoğu Anadolu Bölgesi",
+      "C": "İç Anadolu Bölgesi",
+      "D": "Karadeniz Bölgesi",
+      "E": "Marmara Bölgesi"
+    },
+    "answer": "D",
+    "solution": "Bol yağış nedeniyle Karadeniz Bölgesi'nin yamaçları geniş ormanlarla kaplıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Orman: yayılış"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-031",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangisi Türkiye'de arıcılığın yaygın olmasında etkili olan etkenlerden biridir?",
+    "options": {
+      "A": "Çiçekli bitkilerin yok denecek kadar az olması",
+      "B": "Bitki örtüsünün çöl bitkilerinden oluşması",
+      "C": "Yıl boyunca aşırı soğuk ve karlı geçmesi",
+      "D": "Zengin bitki örtüsü ve bol nektar kaynakları",
+      "E": "Yağışın bulunmaması ve toprağın çoraklaşması"
+    },
+    "answer": "D",
+    "solution": "Zengin bitki örtüsü, arıcılık için bol nektar ve polen sağlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hayvancılık: arıcılık"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-032",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bor madeni rezervleri bakımından Türkiye'nin en zengin yatakları hangi il çevresindedir?",
+    "options": {
+      "A": "Mersin ve Hatay",
+      "B": "Eskişehir ve Kütahya",
+      "C": "Edirne ve Kırklareli",
+      "D": "Zonguldak ve Bartın",
+      "E": "Batman ve Siirt"
+    },
+    "answer": "B",
+    "solution": "Bor yatakları başlıca Eskişehir (Kırka), Kütahya (Emet) ve Balıkesir (Bigadiç) çevresindedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Madenler: bor"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-033",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bakır madeninin işletildiği yerlerden biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tunçbilek (Kütahya)",
+      "B": "Divriği (Sivas)",
+      "C": "Seydişehir (Konya)",
+      "D": "Kırka (Eskişehir)",
+      "E": "Ergani (Diyarbakır)"
+    },
+    "answer": "E",
+    "solution": "Ergani ve Murgul önemli bakır yataklarıdır; Seydişehir boksit, Kırka bor, Divriği demir, Tunçbilek linyit yatağıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Madenler: bakır"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-034",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Demir cevherinin çıkarıldığı yer aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Soma (Manisa)",
+      "B": "Ergani (Diyarbakır)",
+      "C": "Divriği (Sivas)",
+      "D": "Seydişehir (Konya)",
+      "E": "Batman (Batman)"
+    },
+    "answer": "C",
+    "solution": "Divriği (Sivas) önemli demir yataklarından biridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Madenler: demir"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-035",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Taşkömürü üretiminin yapıldığı kent aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Zonguldak",
+      "B": "Tunçbilek",
+      "C": "Soma (Manisa)",
+      "D": "Seyitömer",
+      "E": "Afşin–Elbistan"
+    },
+    "answer": "A",
+    "solution": "Türkiye'nin taşkömürü havzası Zonguldak ve çevresindedir; Soma, Elbistan, Tunçbilek ve Seyitömer linyit havzalarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Madenler: taşkömürü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-036",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Petrol üretiminin yoğun yapıldığı il aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kütahya",
+      "B": "Batman",
+      "C": "Zonguldak",
+      "D": "Trabzon",
+      "E": "Muğla"
+    },
+    "answer": "B",
+    "solution": "Türkiye'de petrol üretimi başlıca Batman ve çevresinde yapılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Madenler: petrol"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-037",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Mermer yatakları ve işletmeleriyle bilinen yöreler aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "Edirne ve Kırklareli",
+      "B": "Afyonkarahisar ve Muğla",
+      "C": "Rize, Artvin ve Giresun",
+      "D": "Van, Hakkâri ve Muş",
+      "E": "Samsun, Sinop ve Ordu"
+    },
+    "answer": "B",
+    "solution": "Afyonkarahisar, Muğla, Bilecik ve Denizli çevresi mermer yatakları bakımından zengindir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Madenler: mermer"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-038",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Fırat ve Dicle nehirleri üzerinde enerji, sulama ve kalkınma amacıyla yürütülen proje aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Zonguldak Projesi (ZOP)",
+      "B": "Konya Ovası Projesi (KOP)",
+      "C": "Doğu Karadeniz Projesi (DOKAP)",
+      "D": "Doğu Anadolu Projesi (DAP)",
+      "E": "Güneydoğu Anadolu Projesi (GAP)"
+    },
+    "answer": "E",
+    "solution": "GAP, Fırat–Dicle havzasında barajlar, hidroelektrik santraller ve sulama alanlarıyla Güneydoğu'yu kalkındırmayı amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Enerji: GAP"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-039",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Jeotermal enerji kaynakları açısından Türkiye'de en zengin bölge aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Trakya",
+      "B": "Karadeniz Bölgesi",
+      "C": "Ege Bölgesi",
+      "D": "Hakkâri yöresi",
+      "E": "Doğu Anadolu'nun kuzeyi"
+    },
+    "answer": "C",
+    "solution": "Ege'deki fay hatları sıcak su ve buhar kaynaklarının yüzeye çıkmasını sağlamıştır; Denizli, Aydın ve İzmir önemli sahalardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Enerji: jeotermal"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-040",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Rüzgâr enerjisi santrallerinin en yoğun kurulduğu bölgeler aşağıdakilerden hangisinde verilmiştir?",
+    "options": {
+      "A": "Güneydoğu ovaları",
+      "B": "Hakkâri dağları",
+      "C": "Ege ve Marmara kıyıları",
+      "D": "Tuz Gölü çukuru",
+      "E": "Doğu Karadeniz vadileri"
+    },
+    "answer": "C",
+    "solution": "Rüzgârı güçlü ve sürekli olan Ege ve Marmara kıyıları rüzgâr santralleri için elverişlidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Enerji: rüzgâr"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-041",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangisi yenilenemez enerji kaynaklarından biridir?",
+    "options": {
+      "A": "Hidroelektrik",
+      "B": "Petrol",
+      "C": "Rüzgâr",
+      "D": "Jeotermal",
+      "E": "Güneş"
+    },
+    "answer": "B",
+    "solution": "Petrol, kömür ve doğal gaz tükenen (yenilenemez) kaynaklardır; öteki kaynaklar yenilenebilirdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Enerji: yenilenemez kaynaklar"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-042",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'nin ilk entegre demir-çelik tesisi aşağıdaki kentlerden hangisinde kurulmuştur?",
+    "options": {
+      "A": "İskenderun",
+      "B": "Kırıkkale",
+      "C": "Karabük",
+      "D": "Ereğli",
+      "E": "Sivas"
+    },
+    "answer": "C",
+    "solution": "Karabük Demir-Çelik Fabrikaları 1939'da kurulmuş ilk entegre tesistir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sanayi: demir-çelik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-043",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Petrokimya sanayisinin kurulduğu yer aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Divriği (demir madeni)",
+      "B": "Karabük (demir-çelik)",
+      "C": "Kırıkkale (makine)",
+      "D": "Ereğli (demir-çelik)",
+      "E": "Aliağa (İzmir kıyısı)"
+    },
+    "answer": "E",
+    "solution": "Aliağa'da rafineri ve petrokimya tesisleri bulunur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sanayi: petrokimya"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-044",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Otomotiv sanayisinin yoğunlaştığı illerden ikisi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": {
+      "A": "Muş ve Bitlis",
+      "B": "Bursa ve Kocaeli",
+      "C": "Edirne ve Kars",
+      "D": "Siirt ve Şırnak",
+      "E": "Rize ve Artvin"
+    },
+    "answer": "B",
+    "solution": "Bursa ve Kocaeli, otomotiv ana ve yan sanayisinin yoğunlaştığı illerdir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sanayi: otomotiv"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-045",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Tekstil sanayisi ile ün yapmış kentlerden biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Zonguldak",
+      "B": "Karabük",
+      "C": "Batman",
+      "D": "Ergani",
+      "E": "Denizli"
+    },
+    "answer": "E",
+    "solution": "Denizli, özellikle ev tekstili ve havlu üretimiyle tanınır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sanayi: tekstil"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-046",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Şeker fabrikalarının hammadde kaynağına yakın kurulmasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Pancarın çok hafif ve taşınmasının ucuz olması",
+      "B": "Pancarın dünyada çok kıt bir hammadde olması",
+      "C": "Fabrikaların deniz kıyısında kurulması gerekliliği",
+      "D": "Pancarın çabuk bozulması ve taşımanın pahalı olması",
+      "E": "Ürünün tamamen ihracata yönelik olması"
+    },
+    "answer": "D",
+    "solution": "Pancar hacimlidir ve çabuk bozulur; bu yüzden fabrikalar tarlalara yakın kurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sanayi: yer seçimi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-047",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'de yolcu ve yük taşımacılığında en yaygın kullanılan ulaşım türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Boru hattı",
+      "B": "Demiryolu",
+      "C": "Karayolu",
+      "D": "Denizyolu",
+      "E": "Havayolu"
+    },
+    "answer": "C",
+    "solution": "Esnekliği ve ağ yoğunluğu nedeniyle karayolu en çok kullanılan ulaşım türüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ulaşım: karayolu"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-048",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bakü–Tiflis–Ceyhan (BTC) ham petrol boru hattının Türkiye'deki çıkış terminali aşağıdaki kentlerden hangisindedir?",
+    "options": {
+      "A": "Ceyhan",
+      "B": "İstanbul",
+      "C": "Trabzon",
+      "D": "Samsun",
+      "E": "İzmir"
+    },
+    "answer": "A",
+    "solution": "BTC hattı Azerbaycan petrolünü Gürcistan üzerinden Ceyhan terminaline taşır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ulaşım: BTC"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-049",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'nin dış ticaret yüklerinin büyük bölümü hangi ulaşım yoluyla taşınır?",
+    "options": {
+      "A": "Karayolu",
+      "B": "Denizyolu",
+      "C": "Demiryolu",
+      "D": "Boru hattı",
+      "E": "Havayolu"
+    },
+    "answer": "B",
+    "solution": "Uluslararası ticarette hacimli yüklerin taşınması için denizyolu en çok kullanılan yoldur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ulaşım: dış ticaret"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-050",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "İstanbul Boğazı hangi bakımdan önemli bir ulaşım yoludur?",
+    "options": {
+      "A": "Yerel balıkçı teknelerinin kullandığı küçük bir kanaldır",
+      "B": "Akdeniz ile Hazar Denizi'ni birbirine bağlayan yoldur",
+      "C": "Karadeniz ile Akdeniz arasında uluslararası geçiş yoludur",
+      "D": "Yıl boyu donduğu için ulaşıma kapalı bir yoldur",
+      "E": "Kara ulaşımına tamamen kapalı bir geçittir"
+    },
+    "answer": "C",
+    "solution": "İstanbul ve Çanakkale boğazları, Karadeniz'in Akdeniz'e çıkışını sağlayan stratejik yollardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ulaşım: boğazlar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-051",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Kapadokya bölgesi Türkiye'de başlıca hangi turizm türüyle öne çıkmaktadır?",
+    "options": {
+      "A": "Deniz–kum–güneş turizmi",
+      "B": "Kültür ve doğa turizmi",
+      "C": "Yayla turizmi",
+      "D": "Kış sporları turizmi",
+      "E": "Dalış turizmi"
+    },
+    "answer": "B",
+    "solution": "Peribacaları, yeraltı şehirleri ve kaya kiliseleriyle Kapadokya kültür ve doğa turizmi merkezidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Turizm: Kapadokya"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-052",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bursa'daki Uludağ hangi turizm türü için önemli bir merkezdir?",
+    "options": {
+      "A": "Deniz–kum–güneş turizmi",
+      "B": "Kış sporları turizmi",
+      "C": "Dalış turizmi",
+      "D": "Çöl safarisi turizmi",
+      "E": "Yat turizmi"
+    },
+    "answer": "B",
+    "solution": "Uludağ, kar kalınlığı ve eğimiyle kayak merkezidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Turizm: kış turizmi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-053",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Antalya kıyıları hangi turizm türünün Türkiye'deki en önemli merkezidir?",
+    "options": {
+      "A": "Deniz–kum–güneş turizmi",
+      "B": "Dağcılık ve doğa yürüyüşü turizmi",
+      "C": "Kış sporları ve kayak turizmi",
+      "D": "Kayak ve kızak turizmi",
+      "E": "Buz pateni ve kış turizmi"
+    },
+    "answer": "A",
+    "solution": "Uzun ve sıcak yazlar, temiz denizi ve plajlarıyla Antalya kıyıları deniz–kum–güneş turizminin merkezidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Turizm: deniz turizmi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-054",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'nin ilk millî parkı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Uludağ Millî Parkı",
+      "B": "Gelibolu Yarımadası Tarihî Millî Parkı",
+      "C": "Saklıkent Millî Parkı",
+      "D": "Yozgat Çamlığı Millî Parkı",
+      "E": "Kaçkar Dağları Millî Parkı"
+    },
+    "answer": "D",
+    "solution": "Yozgat Çamlığı, 1958'de ilan edilen ilk millî parktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Koruma alanları: millî parklar"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-055",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangisi Ramsar sözleşmesi kapsamında koruma altına alınmış sulak alanlardan biridir?",
+    "options": {
+      "A": "Kapadokya Tarihî Alanı",
+      "B": "Nemrut Dağı Anıtı",
+      "C": "Kızılırmak Deltası",
+      "D": "Uludağ Millî Parkı",
+      "E": "Pamukkale Travertenleri"
+    },
+    "answer": "C",
+    "solution": "Ramsar sözleşmesi, uluslararası öneme sahip sulak alanları korur; Kızılırmak Deltası bunlardandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Koruma alanları: Ramsar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-056",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Millî parklar, doğal koruma alanları ve Ramsar alanları gibi koruma statülerinin temel amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Doğal ve kültürel mirasın gelecek kuşaklara aktarılması",
+      "B": "Bölgedeki nüfusu hızla artırıp yerleşimi genişletmek",
+      "C": "Yeni sanayi tesisleri kurup üretimi artırmak",
+      "D": "Tarım ürünlerini satarak ihracatı büyütmek",
+      "E": "Maden çıkarımını hızlandırıp gelir sağlamak"
+    },
+    "answer": "A",
+    "solution": "Koruma alanları biyolojik çeşitliliği ve doğal-kültürel mirası korumak için ilan edilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Koruma alanları: amaç"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-057",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangileri Karadeniz Bölgesi'nde yetiştirilen tarım ürünleridir?\n\nI. Fındık\n\nII. Çay\n\nIII. Zeytin",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Fındık ve çay Karadeniz'in tipik ürünleridir; zeytin Akdeniz iklimi ürünüdür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tarım: öncüllü Karadeniz ürünleri"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-058",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangileri nüfusun dağılışını etkileyen etkenlerdendir?\n\nI. İklim\n\nII. Su kaynakları\n\nIII. Ulaşım olanakları",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "E",
+    "solution": "İklim ve su doğal, ulaşım ise beşerî etkendir; üçü de nüfus dağılışını etkiler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus: öncüllü etkenler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-059",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdaki maden–yer eşleştirmelerinden hangisi doğrudur?\n\nI. Bor – Eskişehir\n\nII. Krom – Zonguldak\n\nIII. Taşkömürü – Elazığ",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Bor yatakları Eskişehir'dedir; taşkömürü Zonguldak'ta, krom ise Elazığ ve Fethiye çevresindedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Madenler: öncüllü eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-060",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangileri yenilenebilir enerji kaynağıdır?\n\nI. Linyit\n\nII. Jeotermal\n\nIII. Rüzgâr",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Jeotermal ve rüzgâr yenilenebilirdir; linyit tükenen bir fosil yakıttır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Enerji: öncüllü yenilenebilir kaynaklar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-061",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangisi UNESCO Dünya Miras Listesi'nde yer alan, Hitit İmparatorluğu'nun başkenti olan arkeolojik alandır?",
+    "options": {
+      "A": "Hattuşa",
+      "B": "Göbekli Tepe",
+      "C": "Pamukkale",
+      "D": "Efes",
+      "E": "Safranbolu"
+    },
+    "answer": "A",
+    "solution": "Çorum'un Boğazkale ilçesinde bulunan Hattuşa, Hitit İmparatorluğu'nun başkentidir ve 1986'dan beri UNESCO Dünya Miras Listesi'ndedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kültürel miras: Hattuşa"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-062",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Ramsar Sözleşmesi ile uluslararası düzeyde korunan alanlar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sulak alanlar",
+      "B": "Buzul alanları",
+      "C": "Çöl ekosistemleri",
+      "D": "Mercan resifleri",
+      "E": "Orman yangını bölgeleri"
+    },
+    "answer": "A",
+    "solution": "Ramsar Sözleşmesi, özellikle su kuşları yaşam alanı olan sulak alanların (göl, delta, sazlık, bataklık) korunmasını amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Koruma alanları: Ramsar sözleşmesi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-063",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Aşağıdakilerden hangisi Türkiye'deki Ramsar alanlarından biridir?",
+    "options": {
+      "A": "Uludağ",
+      "B": "Kapadokya",
+      "C": "Gelibolu Yarımadası",
+      "D": "Ağrı Dağı",
+      "E": "Göksu Deltası"
+    },
+    "answer": "E",
+    "solution": "Mersin'deki Göksu Deltası, sulak alan özelliğiyle Ramsar Sözleşmesi kapsamında korunan alanlardandır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Koruma alanları: Ramsar alanları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-064",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Kırsal kesimdeki tarım arazilerinin miras yoluyla küçülmesi ve iş olanaklarının yetersizliği nedeniyle köylerden kentlere yapılan göçte, bu nedenler aşağıdaki göç faktörlerinden hangisine örnektir?",
+    "options": {
+      "A": "Çekici faktör",
+      "B": "Siyasi faktör",
+      "C": "İtici faktör",
+      "D": "Teknolojik faktör",
+      "E": "Doğal faktör"
+    },
+    "answer": "C",
+    "solution": "Göç edilen yerden insanı uzaklaştıran (işsizlik, arazi yetersizliği) nedenler itici faktör, gidilen yeri cazip kılan nedenler çekici faktördür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus ve göç: itici-çekici faktörler"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-065",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Güneydoğu Anadolu Projesi (GAP) kapsamında yer alan illerden biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Şanlıurfa",
+      "B": "Erzurum",
+      "C": "Elazığ",
+      "D": "Van",
+      "E": "Malatya"
+    },
+    "answer": "A",
+    "solution": "GAP; Adıyaman, Batman, Diyarbakır, Gaziantep, Kilis, Mardin, Siirt, Şanlıurfa ve Şırnak illerini kapsar; Van, Erzurum, Elazığ ve Malatya kapsam dışıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ekonomik coğrafya: GAP"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-066",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Sanayi tesislerinin planlı bir alanda toplanarak altyapı hizmetlerinin ortak kullanıldığı, çevre sorunlarının azaltılmasını da amaçlayan sanayi alanlarına ne ad verilir?",
+    "options": {
+      "A": "Kalkınma ajansı",
+      "B": "Teknokent",
+      "C": "Serbest bölge",
+      "D": "Organize sanayi bölgesi",
+      "E": "Sanayi sitesi"
+    },
+    "answer": "D",
+    "solution": "Organize sanayi bölgeleri (OSB), sanayinin planlı kurulması, altyapının ortak kullanılması ve çevre sorunlarının azaltılması amacıyla oluşturulan sanayi alanlarıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sanayi: organize sanayi bölgeleri"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-067",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'de deniz balıkçılığının (avcılığın) en yoğun yapıldığı ve hamsinin başlıca av ürünü olduğu deniz aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Akdeniz",
+      "B": "Ege Denizi",
+      "C": "Marmara Denizi",
+      "D": "Hazar Denizi",
+      "E": "Karadeniz"
+    },
+    "answer": "E",
+    "solution": "Türkiye'de deniz ürünleri avcılığı en çok Karadeniz'de yapılır; en önemli av ürünü hamsidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ekonomik coğrafya: balıkçılık"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-068",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'de 1950'lerden sonra kırdan kente göçün hızlanmasında aşağıdakilerden hangisinin payı büyüktür?",
+    "options": {
+      "A": "Tarım ürünü fiyatlarının sürekli artması",
+      "B": "Kentlerde konut arzının talepten fazla olması",
+      "C": "Tarımda makineleşme sonucu iş gücü ihtiyacının azalması",
+      "D": "Köylerde nüfusun hızla azalması sonucu okulların kapanması",
+      "E": "Kırsal kesimde sanayinin hızla yaygınlaşması"
+    },
+    "answer": "C",
+    "solution": "1950'lerden sonra tarımda makineleşme, kırsal kesimde iş gücü ihtiyacını azaltmış (itici etken); kentlerdeki iş olanakları ise çekici etken olmuş ve kırdan kente göçü hızlandırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus ve yerleşme: kırdan kente göç"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-069",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'de kentleşmenin, sanayileşmeden daha hızlı gerçekleşmesi sonucunda kentlerde ortaya çıkan başlıca sorun aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gecekondulaşma ve çarpık kentleşme",
+      "B": "Kırsal nüfusun hızla artması",
+      "C": "Tarım topraklarının genişlemesi",
+      "D": "Kentlerde işgücü fazlasının bulunmaması",
+      "E": "Yerleşmelerin dağınık kalması"
+    },
+    "answer": "A",
+    "solution": "Kırdan kente göçle kentlerin sanayi ve konut olanaklarının üzerinde nüfus alması gecekondulaşma, altyapı yetersizliği ve çarpık kentleşme gibi sorunlar doğurmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Nüfus ve yerleşme: kentleşme sorunları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-070",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir ekonomi dersinde bir madenle ilgili şu bilgiler verilmiştir:\n\n“Dünya rezervlerinin çok büyük bir bölümü Türkiye'de bulunur. Eskişehir, Balıkesir, Kütahya ve Bursa çevresinde çıkarılır. Cam, seramik, temizlik maddeleri ve nükleer enerji sektöründe kullanılır. Üretimi ve satışı büyük ölçüde bir kamu kuruluşu tarafından yürütülür.”\n\nBu bilgiler aşağıdaki madenlerden hangisine aittir?",
+    "options": {
+      "A": "Linyit",
+      "B": "Krom",
+      "C": "Demir",
+      "D": "Bor",
+      "E": "Boksit"
+    },
+    "answer": "D",
+    "solution": "Dünya bor rezervlerinin büyük bölümü Türkiye'dedir; Eskişehir (Kırka), Balıkesir (Bigadiç), Kütahya (Emet) ve Bursa (Kestelek) başlıca yataklardır. Bor cam, seramik ve temizlik sektöründe kullanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-071",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir araştırmacı Türkiye'deki yenilenebilir enerji kaynaklarını şöyle tanıtmıştır:\n\n“Akarsular üzerindeki barajlarda suyun gücünden yararlanılır. Ege ve Marmara kıyılarında esen sürekli rüzgârlar, kıyıya yakın tepelere kurulan türbinlerle elektriğe dönüştürülür. Yer altındaki sıcak su ve buhar, Ege'deki graben alanlarında enerji üretiminde kullanılır. Akdeniz ve Güneydoğu Anadolu'daki bol güneşlenme süresinden panellerle elektrik elde edilir.”\n\nBu metinde aşağıdaki enerji kaynaklarından hangisine değinilmemiştir?",
+    "options": {
+      "A": "Jeotermal",
+      "B": "Hidroelektrik",
+      "C": "Rüzgâr",
+      "D": "Dalga enerjisi",
+      "E": "Güneş"
+    },
+    "answer": "D",
+    "solution": "Metinde hidroelektrik, rüzgâr, jeotermal ve güneş enerjisi anlatılmıştır; Türkiye'de kullanımı çok sınırlı olan dalga enerjisinden söz edilmemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-072",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir haber metninde bir ulaşım projesi şöyle tanıtılmıştır:\n\n“İki kıtayı Boğaz'ın altından geçen tüp tünelle birleştiren raylı sistem, 29 Ekim 2013'te hizmete açılmıştır. Hat, şehrin iki yakasındaki banliyö hatlarını birbirine bağlayarak günlük yolcu taşıma kapasitesini artırmıştır.”\n\nBu bilgiler aşağıdaki projelerden hangisine aittir?",
+    "options": {
+      "A": "Marmaray",
+      "B": "Yavuz Sultan Selim Köprüsü",
+      "C": "Avrasya Tüneli",
+      "D": "Bakü-Tiflis-Kars Demiryolu",
+      "E": "Osmangazi Köprüsü"
+    },
+    "answer": "A",
+    "solution": "Marmaray, İstanbul Boğazı'nın altından geçen tüp geçitle Asya ve Avrupa yakalarını raylı sistemle birleştiren projedir (2013). Avrasya Tüneli karayolu taşıtları içindir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-073",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir turizm kitabında Türkiye'nin turizm çeşitleri şöyle anlatılmıştır:\n\n“Kar yağışının bol olduğu dağlık alanlarda kayak merkezleri kurulmuştur. Sıcak ve mineralli su kaynaklarının bulunduğu yerlerde tedavi amaçlı tesisler yapılmıştır. Camiler, kiliseler ve türbelerin bulunduğu şehirler dinî amaçlı ziyaretçileri çeker. Antik kentler ve müzeler ise geçmiş uygarlıkları görmek isteyenlerin ilgisini toplar.”\n\nBu metinde aşağıdaki turizm çeşitlerinden hangisine değinilmemiştir?",
+    "options": {
+      "A": "İnanç turizmi",
+      "B": "Sağlık turizmi",
+      "C": "Kış turizmi",
+      "D": "Kültür turizmi",
+      "E": "Yayla turizmi"
+    },
+    "answer": "E",
+    "solution": "Metinde kış (kayak), sağlık (kaplıca), inanç ve kültür turizmi anlatılmıştır; yayla turizminden söz edilmemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-074",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir coğrafya ders notunda bir yerleşme tipi şöyle tanıtılmıştır:\n\n“Evler geniş bir alana dağılmıştır; her ev çevresindeki tarla veya fındık bahçesiyle iç içedir. Yağışın bol ve arazinin engebeli olması, bu dağınıklığın başlıca nedenleridir. Su ihtiyacı her yerde kolay karşılanır.”\n\nBu bilgiler aşağıdaki yerleşme biçimlerinden hangisine aittir?",
+    "options": {
+      "A": "Göçebe yerleşme",
+      "B": "Doğrusal (yol boyu) yerleşme",
+      "C": "Planlı kent yerleşmesi",
+      "D": "Toplu yerleşme",
+      "E": "Dağınık yerleşme"
+    },
+    "answer": "E",
+    "solution": "Doğu Karadeniz gibi yağışın bol, arazinin engebeli ve suyun her yerde bulunduğu yerlerde evler tarlalara dağılmış, dağınık yerleşme görülür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-075",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir sanayi kitabında bir alan şöyle tanımlanmıştır:\n\n“Sanayi kuruluşlarının planlı bir düzen içinde yer aldığı, yol, elektrik, su, arıtma gibi altyapı hizmetlerinin ortak sağlandığı ve sanayinin kontrolsüz yayılmasını önlemek amacıyla kurulan özel sanayi bölgeleridir.”\n\nBu tanım aşağıdakilerden hangisine aittir?",
+    "options": {
+      "A": "Küçük sanayi sitesi",
+      "B": "Serbest bölge",
+      "C": "Teknoloji geliştirme bölgesi",
+      "D": "Organize sanayi bölgesi",
+      "E": "Liman işletmesi"
+    },
+    "answer": "D",
+    "solution": "Organize sanayi bölgeleri (OSB), planlı sanayileşmeyi sağlamak, altyapı hizmetlerini ortak sunmak ve sanayinin kontrolsüz yayılmasını önlemek için kurulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-076",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir nüfus kitabında bir ülkenin nüfus piramidi şöyle anlatılmıştır:\n\n“Piramidin tabanı geniştir ve yaşlandıkça hızla daralır. Doğum oranı yüksektir; 0–14 yaş grubu toplam nüfus içinde büyük pay alır. Yaşlı nüfus oranı düşüktür.”\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Genç nüfus oranının yüksek olduğuna",
+      "B": "Doğum oranının yüksek olduğuna",
+      "C": "Eğitim ve sağlık hizmetlerine talebin fazla olduğuna",
+      "D": "Nüfusun yaşlı olduğuna",
+      "E": "Nüfusun hızlı arttığına"
+    },
+    "answer": "D",
+    "solution": "Tabanı geniş, tepesi dar piramit genç nüfuslu bir ülkeyi gösterir; yaşlı nüfus oranı düşüktür. Metinden nüfusun yaşlı olduğu sonucuna ulaşılamaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-077",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Bir tarım kitabında bir bitki şöyle tanıtılmıştır:\n\n“Yıl boyu yağış alan, nemli ve yamaç arazilerde yetişir. Sulama gerektirmez; asitli topraklarda iyi gelişir. Türkiye'de üretimi Doğu Karadeniz kıyılarında yoğunlaşmıştır. Yaprakları toplanıp işlenerek içecek olarak tüketilir.”\n\nBu bilgiler aşağıdaki ürünlerden hangisine aittir?",
+    "options": {
+      "A": "Fındık",
+      "B": "Zeytin",
+      "C": "Tütün",
+      "D": "Pamuk",
+      "E": "Çay"
+    },
+    "answer": "E",
+    "solution": "Çay, yıl boyu yağışlı, nemli ve asitli topraklı yamaçlarda yetişir; Türkiye'de üretimi Rize başta olmak üzere Doğu Karadeniz'de yoğunlaşmıştır. Fındık da Karadeniz'de yetişir ancak yaprağı içecek olarak tüketilmez.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-cog-bes-078",
+    "ders": "turkiye_cografyasi",
+    "konu": "turkiye_beseri_ekonomik_cografyasi",
+    "stem": "Türkiye'de 1950'lerden sonra tarımda makineleşmenin artması ve sanayinin gelişmesiyle kırsal alandan kentlere yoğun göç başlamıştır.\n\nBu göçün;\n\nI. Kentsel nüfusun hızla artması,\n\nII. Kırsal alanda nüfus yoğunluğunun artması,\n\nIII. Büyük kentlerde konut ve altyapı sorunlarının yaşanması\n\nsonuçlarından hangilerine yol açması beklenebilir?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Kırdan kente göç kentsel nüfusu artırır, kırsal nüfus yoğunluğunu azaltır ve büyük kentlerde konut (gecekondulaşma) ve altyapı sorunlarına yol açar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Türkiye beşerî ve ekonomik coğrafyası: yeni nesil (açıklamalı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]

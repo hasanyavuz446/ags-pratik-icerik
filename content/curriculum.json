@@ -1,0 +1,421 @@
+{
+  "version": 4,
+  "programs": [
+    {
+      "id": "ags",
+      "name": "Akademi Giriş Sınavı",
+      "shortName": "AGS",
+      "examModel": {
+        "totalQuestions": 80,
+        "durationMinutes": 110,
+        "wrongPenalty": 0.25,
+        "sessions": 1
+      },
+      "sections": [
+        {
+          "id": "genel_yetenek",
+          "name": "Genel Yetenek",
+          "order": 1,
+          "lessonIds": [
+            "sozel_yetenek",
+            "sayisal_yetenek"
+          ]
+        },
+        {
+          "id": "genel_kultur",
+          "name": "Genel Kültür",
+          "order": 2,
+          "lessonIds": [
+            "tarih",
+            "turkiye_cografyasi"
+          ]
+        },
+        {
+          "id": "egitim_mevzuat",
+          "name": "Eğitim ve Mevzuat",
+          "order": 3,
+          "lessonIds": [
+            "egitim_bilimleri",
+            "mevzuat"
+          ]
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sozel_yetenek",
+      "name": "Sözel Yetenek",
+      "order": 1,
+      "programIds": [
+        "ags"
+      ],
+      "isActive": true,
+      "description": "Sözcük, cümle, paragraf ve sözel mantık",
+      "examQuestionCount": 15,
+      "p1Weight": 20,
+      "topics": [
+        {
+          "id": "sozcukte_anlam",
+          "name": "Sözcükte Anlam",
+          "order": 1,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "cumlede_anlam",
+          "name": "Cümlede Anlam",
+          "order": 2,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "anlatimin_olusmasi",
+          "name": "Anlatımın Oluşması",
+          "order": 3,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "paragrafta_anlam",
+          "name": "Paragrafta Anlam",
+          "order": 4,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 90
+        },
+        {
+          "id": "sozel_mantik",
+          "name": "Sözel Mantık",
+          "order": 5,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        }
+      ]
+    },
+    {
+      "id": "sayisal_yetenek",
+      "name": "Sayısal Yetenek",
+      "order": 2,
+      "programIds": [
+        "ags"
+      ],
+      "isActive": true,
+      "description": "Temel matematik, grafik-tablo yorumlama ve mantıksal muhakeme",
+      "examQuestionCount": 15,
+      "p1Weight": 20,
+      "topics": [
+        {
+          "id": "temel_matematik",
+          "name": "Temel Matematik",
+          "order": 1,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 120
+        },
+        {
+          "id": "grafik_tablo_yorumlama",
+          "name": "Grafik ve Tablo Yorumlama",
+          "order": 2,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "mantiksal_muhakeme",
+          "name": "Mantıksal Muhakeme Problemleri",
+          "order": 3,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        }
+      ]
+    },
+    {
+      "id": "tarih",
+      "name": "Tarih",
+      "order": 3,
+      "programIds": [
+        "ags"
+      ],
+      "isActive": true,
+      "description": "Türk ve dünya tarihi, Atatürk ilkeleri ve inkılap tarihi",
+      "examQuestionCount": 6,
+      "p1Weight": 15,
+      "topics": [
+        {
+          "id": "osmanli_oncesi_turk_devletleri",
+          "name": "Osmanlı Öncesi Türk Devletleri Tarihi",
+          "order": 1,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "osmanli_tarihi",
+          "name": "Osmanlı Tarihi",
+          "order": 2,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "ataturk_ilkeleri_inkilap_tarihi",
+          "name": "Atatürk İlkeleri ve İnkılap Tarihi",
+          "order": 3,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 90
+        },
+        {
+          "id": "cagdas_turk_dunya_tarihi",
+          "name": "Çağdaş Türk ve Dünya Tarihi",
+          "order": 4,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        }
+      ]
+    },
+    {
+      "id": "turkiye_cografyasi",
+      "name": "Türkiye Coğrafyası",
+      "order": 4,
+      "programIds": [
+        "ags"
+      ],
+      "isActive": true,
+      "description": "Fiziki, beşerî ve ekonomik coğrafya",
+      "examQuestionCount": 6,
+      "p1Weight": 10,
+      "topics": [
+        {
+          "id": "turkiye_fiziki_cografyasi",
+          "name": "Türkiye Fiziki Coğrafyası",
+          "order": 1,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "turkiye_beseri_ekonomik_cografyasi",
+          "name": "Türkiye Beşerî ve Ekonomik Coğrafyası",
+          "order": 2,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        }
+      ]
+    },
+    {
+      "id": "egitim_bilimleri",
+      "name": "Eğitim Bilimleri ve Türk Millî Eğitim Sistemi",
+      "order": 5,
+      "programIds": [
+        "ags"
+      ],
+      "isActive": true,
+      "description": "Öğretmenlik meslek bilgisi ve millî eğitim sistemi",
+      "examQuestionCount": 30,
+      "p1Weight": 25,
+      "topics": [
+        {
+          "id": "egitimin_temelleri",
+          "name": "Eğitimin Tarihî, Felsefi, Toplumsal, Ekonomik ve Politik Temelleri",
+          "order": 1,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "ogretim_yontem_teknikleri",
+          "name": "Öğretim Yöntem ve Teknikleri",
+          "order": 2,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "sinif_yonetimi",
+          "name": "Sınıf Yönetimi",
+          "order": 3,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "program_okuryazarligi",
+          "name": "Program Okuryazarlığı",
+          "order": 4,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "olcme_degerlendirme",
+          "name": "Eğitimde Ölçme ve Değerlendirme",
+          "order": 5,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "ogrenme_psikolojisi",
+          "name": "Öğrenme Psikolojisi",
+          "order": 6,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "gelisim_psikolojisi",
+          "name": "Gelişim Psikolojisi",
+          "order": 7,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "rehberlik",
+          "name": "Rehberlik",
+          "order": 8,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "egitim_ogretim_teknolojileri",
+          "name": "Eğitim ve Öğretim Teknolojileri",
+          "order": 9,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "tmes_genel_yapisi",
+          "name": "Türk Millî Eğitim Sisteminin Genel Yapısı",
+          "order": 10,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "maarif_modeli",
+          "name": "Türkiye Yüzyılı Maarif Modeli",
+          "order": 11,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        }
+      ]
+    },
+    {
+      "id": "mevzuat",
+      "name": "Mevzuat",
+      "order": 6,
+      "programIds": [
+        "ags"
+      ],
+      "isActive": true,
+      "description": "Anayasa ve eğitim kanunları",
+      "examQuestionCount": 8,
+      "p1Weight": 10,
+      "topics": [
+        {
+          "id": "anayasa_insan_haklari",
+          "name": "Anayasa ve İnsan Hakları Hukuku",
+          "order": 1,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "milli_egitim_temel_kanunu",
+          "name": "1739 sayılı Millî Eğitim Temel Kanunu",
+          "order": 2,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "ilkogretim_ve_egitim_kanunu",
+          "name": "222 sayılı İlköğretim ve Eğitim Kanunu",
+          "order": 3,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 60
+        },
+        {
+          "id": "ogretmenlik_meslek_kanunu",
+          "name": "7528 sayılı Öğretmenlik Meslek Kanunu",
+          "order": 4,
+          "programIds": [
+            "ags"
+          ],
+          "isActive": true,
+          "targetQuestions": 90
+        }
+      ]
+    }
+  ]
+}

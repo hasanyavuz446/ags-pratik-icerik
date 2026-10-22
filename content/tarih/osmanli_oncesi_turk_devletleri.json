@@ -1,0 +1,1589 @@
+[
+  {
+    "id": "ags-tar-oot-001",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Orduyu onlu sisteme göre örgütleyerek Asya Hun Devleti'ni güçlendiren hükümdar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bumin Kağan",
+      "B": "Teoman",
+      "C": "Attila",
+      "D": "Mete Han",
+      "E": "Bilge Kağan"
+    },
+    "answer": "D",
+    "solution": "Mete, orduyu onluk, yüzlük, binlik ve on binlik birliklere ayırmış; Hun Devleti'ni en güçlü dönemine ulaştırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hunlar: Mete Han"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-002",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Çin'in Kuzey sınırına Çin Seddi'nin yapılmasında etkili olan Türk devleti aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Karahanlı Devleti",
+      "B": "Uygur Devleti",
+      "C": "Kök Türk Devleti",
+      "D": "Asya Hun Devleti",
+      "E": "Avar Kağanlığı"
+    },
+    "answer": "D",
+    "solution": "Çin, Hun akınlarına karşı kuzey sınırını Çin Seddi ile korumaya çalışmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hunlar: Çin Seddi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-003",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdakilerden hangisi Asya Hun Devleti'nin zayıflamasına yol açan nedenlerden biri değildir?",
+    "options": {
+      "A": "Müslüman Araplarla yapılan savaşlar",
+      "B": "Hükümdarlık mücadeleleri ve taht kavgaları",
+      "C": "Boyların birliğinin bozulması",
+      "D": "Çin'in Hunlar arasında karışıklık çıkarma politikası",
+      "E": "Doğal afetler ve ekonomik sıkıntılar"
+    },
+    "answer": "A",
+    "solution": "Müslüman Arapların Orta Asya'ya gelişi Hun Devleti'nden çok sonradır; Hunlar MS 48'de Kuzey ve Güney Hunları olarak ayrılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hunlar: zayıflama nedenleri (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-004",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Avrupa Hunlarının batıya ilerleyişi sonucunda 375'te başlayan ve Roma İmparatorluğu'nun yıkılışını hızlandıran olay aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Haçlı Seferleri",
+      "B": "Kavimler Göçü",
+      "C": "Reform Hareketi",
+      "D": "Rönesans Hareketi",
+      "E": "Coğrafi Keşifler"
+    },
+    "answer": "B",
+    "solution": "Avrupa Hunlarının Karadeniz'in kuzeyinden batıya baskısı, Germen kavimlerini Roma topraklarına itmiştir; Kavimler Göçü Ortaçağ'ın başlangıcı sayılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hunlar: Kavimler Göçü"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-005",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Avrupa Hun hükümdarı Attila'nın 451'de Batı Roma ve müttefiklerine yenildiği savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Pasinler Savaşı",
+      "B": "Talas Savaşı",
+      "C": "Dandanakan Savaşı",
+      "D": "Malazgirt Savaşı",
+      "E": "Katalaunum Savaşı"
+    },
+    "answer": "E",
+    "solution": "Attila, 451'de Galya'daki Katalaunum Ovası Savaşı'nda yenilmiş, yönünü İtalya'ya çevirmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hunlar: Katalaunum Savaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-006",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Doğu Roma'ya vergi bağlatan ve 'Tanrı'nın Kırbacı' lakabıyla anılan Avrupa Hun hükümdarı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bleda",
+      "B": "Mete Han",
+      "C": "Rua (Ruga)",
+      "D": "Attila",
+      "E": "Balamir"
+    },
+    "answer": "D",
+    "solution": "Attila, Avrupa Hun Devleti'nin en güçlü hükümdarıdır; Doğu Roma'yı vergi vermeye zorlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hunlar: Attila"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-007",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Hunların Avrupa'dan çekilmesinin ardından Orta Avrupa'da (Pannonya) kurulan Türk devleti aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bulgar Devleti",
+      "B": "Peçenek Devleti",
+      "C": "Avar Kağanlığı",
+      "D": "Hazar Kağanlığı",
+      "E": "Karluk Yabguluğu"
+    },
+    "answer": "C",
+    "solution": "Avarlar, Bayan Kağan zamanında Orta Avrupa'da güçlenmiş ve Bizans'ı vergiye bağlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hunlar: Avar Kağanlığı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-008",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Devlet adı olarak 'Türk' adını kullanan ilk Türk devleti aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Uygur Devleti",
+      "B": "Avar Kağanlığı",
+      "C": "Karahanlı Devleti",
+      "D": "Asya Hun Devleti",
+      "E": "Kök Türk Devleti"
+    },
+    "answer": "E",
+    "solution": "Kök Türk Devleti, 552'de Bumin Kağan tarafından kurulmuş, Türk adını devlet adı olarak ilk kez kullanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kök Türk: devlet adı"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-009",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "552'de Kök Türk Devleti'ni kuran hükümdar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bilge Kağan",
+      "B": "Bumin Kağan",
+      "C": "Mete Han",
+      "D": "Kül Tigin",
+      "E": "İstemi Yabgu"
+    },
+    "answer": "B",
+    "solution": "Bumin Kağan 552'de devleti kurmuş, kardeşi İstemi Yabgu ise devletin batı kolunu yönetmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kök Türk: Bumin Kağan"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-010",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Çin egemenliğine girdikten sonra 682'de Kök Türk Devleti'ni yeniden kuran hükümdar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tonyukuk",
+      "B": "Kutluk Kağan",
+      "C": "Yollug Tigin",
+      "D": "Bumin Kağan",
+      "E": "Bilge Kağan"
+    },
+    "answer": "B",
+    "solution": "Kök Türkler 630'da Çin'e bağımlı hâle gelmiş; Kutluk Kağan 682'de bağımsızlığı yeniden sağlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kök Türk: İkinci Kök Türk Devleti"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-011",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Kül Tigin ve Bilge Kağan yazıtlarını yazan kişi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kürşad",
+      "B": "Kutluk Kağan",
+      "C": "Yollug Tigin",
+      "D": "Bumin Kağan",
+      "E": "Tonyukuk"
+    },
+    "answer": "C",
+    "solution": "Orhun Yazıtlarından Kül Tigin (732) ve Bilge Kağan (735) yazıtlarını Yollug Tigin kaleme almıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kök Türk: Orhun Yazıtları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-012",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "1893'te Orhun Yazıtlarının okunmasını sağlayan Danimarkalı bilgin aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Hasan Eren",
+      "B": "Vilhelm Thomsen",
+      "C": "Wilhelm Radloff",
+      "D": "Reşit Rahmeti Arat",
+      "E": "Nikolay Yadrintsev"
+    },
+    "answer": "B",
+    "solution": "Yazıtlar 1889'da Yadrintsev tarafından bulunmuş, 1893'te Thomsen tarafından çözülmüştür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kök Türk: Orhun Yazıtları'nın çözümü"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-013",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Kutluk Kağan, Kapgan Kağan ve Bilge Kağan dönemlerinde başdanışmanlık yapan, adına yazıt dikilen Kök Türk devlet adamı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yollug Tigin",
+      "B": "Tonyukuk",
+      "C": "Bumin Kağan",
+      "D": "İstemi Yabgu",
+      "E": "Kül Tigin"
+    },
+    "answer": "B",
+    "solution": "Tonyukuk Yazıtı, Kök Türk devlet adamı Tonyukuk'un kendi adına yazdırdığı yazıttır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kök Türk: Tonyukuk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-014",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdakilerden hangisi Kök Türk Devleti için söylenemez?",
+    "options": {
+      "A": "Türk adını devlet adı olarak kullanan ilk devlettir",
+      "B": "Orhun Yazıtları bu devrin ürünüdür",
+      "C": "Kağanlık, hanedan üyeleri arasında paylaşılmıştır",
+      "D": "Maniheizm'i resmî din olarak benimsemiştir",
+      "E": "Devlet, doğu ve batı olarak iki bölümde yönetilmiştir"
+    },
+    "answer": "D",
+    "solution": "Maniheizm'i devlet dini yapan Uygurlardır; Kök Türklerin ortak inancı Gök Tanrı inancıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kök Türk: olumsuz kök"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-015",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Maniheizm'i devlet dini olarak kabul eden ve yerleşik hayata geçen Türk devleti aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Hazar Kağanlığı",
+      "B": "Kök Türk Devleti",
+      "C": "Uygur Devleti",
+      "D": "Asya Hun Devleti",
+      "E": "Karahanlı Devleti"
+    },
+    "answer": "C",
+    "solution": "Uygurlar 744'te kurulmuş, Bögü Kağan zamanında Maniheizm'i benimsemiş ve şehirleşmeye yönelmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Uygurlar: Maniheizm"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-016",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Uygurlarda Maniheizm'in kabul edildiği dönemde hüküm süren kağan aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Bögü Kağan",
+      "B": "Kutluk Kağan",
+      "C": "Kutluk Bilge Kül Kağan",
+      "D": "Bilge Kağan",
+      "E": "Çağrı Bey"
+    },
+    "answer": "A",
+    "solution": "Bögü Kağan, 762'de Maniheizm'i devlet dini olarak benimsemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Uygurlar: Bögü Kağan"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-017",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "840'ta Uygur Devleti'ne son veren Türk topluluğu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Oğuzlar",
+      "B": "Karluklar",
+      "C": "Peçenekler",
+      "D": "Kıpçaklar",
+      "E": "Kırgızlar"
+    },
+    "answer": "E",
+    "solution": "Yenisey bölgesindeki Kırgızlar, 840'ta Uygur başkenti Ordubalık'ı yıkmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Uygurlar: yıkılış"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-018",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Yahudiliği benimseyen Türk devleti aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Peçenek Devleti",
+      "B": "Avar Kağanlığı",
+      "C": "Uygur Devleti",
+      "D": "Hazar Kağanlığı",
+      "E": "Volga Bulgar Devleti"
+    },
+    "answer": "D",
+    "solution": "Hazarlar Karadeniz'in kuzeyinde kurulmuş; hükümdar ve yönetici sınıf Yahudiliği benimsemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş topluluklar: Hazarlar"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-019",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Abbasi halifesinin elçisini kabul ederek 922'de İslamiyet'i resmen benimseyen Türk topluluğu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Peçenekler",
+      "B": "Volga Bulgarları",
+      "C": "Avarlar",
+      "D": "Uygurlar",
+      "E": "Hazarlar"
+    },
+    "answer": "B",
+    "solution": "Volga Bulgar hükümdarı Almış Han, halifeden din bilginleri isteyerek İslamiyet'i benimsemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş topluluklar: Volga Bulgarları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-020",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "751 Talas Savaşı'nın sonuçlarından biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Çin'in Batı Türkistan'daki egemenliğini kesinleştirmesi",
+      "B": "Araplarla Çinlilerin Orta Asya'dan çekilmesi",
+      "C": "Karluk Türklerinin Çin saflarında savaşması",
+      "D": "Kök Türk Devleti'nin yeniden kurulması",
+      "E": "Türklerin İslamiyet'le tanışmasının hızlanması"
+    },
+    "answer": "E",
+    "solution": "Talas'ta Araplar Çin'i yenmiş, Çin'in Orta Asya'ya ilerleyişi durmuş ve Türkler İslamiyet'le yoğun biçimde tanışmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Çağdaş topluluklar: Talas Savaşı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-021",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "İslamiyet öncesi Türk devletlerinde han seçimi, savaş ve barış kararlarının görüşüldüğü meclis aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kurultay (Toy)",
+      "B": "Divan",
+      "C": "Kut",
+      "D": "Yargu",
+      "E": "Töre"
+    },
+    "answer": "A",
+    "solution": "Kurultay, hükümdarın yanında devlet erkânının toplandığı danışma meclisidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi: kurultay"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-022",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "İslamiyet öncesi Türklerde devleti yönetme yetkisinin Tanrı tarafından hükümdara verildiği inancına ne ad verilir?",
+    "options": {
+      "A": "Töre",
+      "B": "Balbal",
+      "C": "Tuğ",
+      "D": "Kut",
+      "E": "Yarlık"
+    },
+    "answer": "D",
+    "solution": "Kut inancına göre hükümdarlık yetkisi Gök Tanrı tarafından hanedan üyelerine verilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi: kut"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-023",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Gelenek ve göreneklerden oluşan, hükümdarı da bağlayan yazısız hukuk kurallarına ne ad verilir?",
+    "options": {
+      "A": "Kut",
+      "B": "Yarlık",
+      "C": "Töre",
+      "D": "Toy",
+      "E": "Yasa"
+    },
+    "answer": "C",
+    "solution": "Töre, Türklerde devlet yönetimini ve toplumsal düzeni belirleyen yazısız kurallardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi: töre"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-024",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinin ortak özelliklerinden biri değildir?",
+    "options": {
+      "A": "Ülkenin hanedan üyeleri arasında ortak mülk sayılması",
+      "B": "Hükümdarlık yetkisinin Tanrı'dan geldiğine inanılması",
+      "C": "Yazısız hukuk kurallarına (töre) bağlı kalınması",
+      "D": "Devlet yönetiminde ikta sisteminin uygulanması",
+      "E": "Orduların onlu sisteme göre örgütlenmesi"
+    },
+    "answer": "D",
+    "solution": "İkta sistemi İslam devletlerinde (özellikle Büyük Selçuklularda) yaygınlaşan bir uygulamadır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi: olumsuz kök"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-025",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "İslamiyet'i devlet dini olarak kabul eden ilk Türk devleti aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Karahanlı Devleti",
+      "B": "Gazneli Devleti",
+      "C": "Uygur Devleti",
+      "D": "Büyük Selçuklu Devleti",
+      "E": "Hazar Kağanlığı"
+    },
+    "answer": "A",
+    "solution": "Karahanlılar Satuk Buğra Han döneminde İslamiyet'i devlet dini yapmış, ilk Türk-İslam devleti olmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Karahanlılar: İslamiyet'in kabulü"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-026",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Karahanlılarda İslamiyet'i kabul ederek Abdülkerim adını alan hükümdar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Satuk Buğra Han",
+      "B": "Tavgaç Buğra Han",
+      "C": "Alptigin",
+      "D": "Tuğrul Bey",
+      "E": "Bilge Kül Kadır Han"
+    },
+    "answer": "A",
+    "solution": "Satuk Buğra Han, İslamiyet'i kabul ederek Abdülkerim adını almış ve İslamiyet'i devlet dini yapmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Karahanlılar: Satuk Buğra Han"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-027",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Karahanlı hükümdarı Tavgaç Buğra Han'a sunulan, Türk-İslam kültüründe devlet yönetimini ele alan eser olan Kutadgu Bilig'in yazarı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Nizamülmülk",
+      "B": "Kaşgarlı Mahmud",
+      "C": "Edip Ahmed Yükneki",
+      "D": "Yusuf Has Hacib",
+      "E": "Ahmed Yesevi"
+    },
+    "answer": "D",
+    "solution": "Kutadgu Bilig, 1069'da Balasagunlu Yusuf Has Hacib tarafından yazılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Karahanlılar: Kutadgu Bilig"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-028",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Türkçe-Arapça karşılaştırmalı ilk sözlük olan Divanü Lügati't-Türk'ü Abbasi halifesine sunan bilgin aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ömer Hayyam",
+      "B": "Yusuf Has Hacib",
+      "C": "Ahmed Yesevi",
+      "D": "Edip Ahmed Yükneki",
+      "E": "Kaşgarlı Mahmud"
+    },
+    "answer": "E",
+    "solution": "Kaşgarlı Mahmud, 1074'te Divanü Lügati't-Türk'ü tamamlayıp halife Muktedi'ye sunmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Karahanlılar: Divanü Lügati't-Türk"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-029",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdaki eserlerden hangileri Karahanlılar döneminde yazılmıştır?\n\nI. Kutadgu Bilig\n\nII. Atabetü'l-Hakayık\n\nIII. Siyasetname",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Kutadgu Bilig ve Atabetü'l-Hakayık Karahanlı dönemi eserleridir; Siyasetname Büyük Selçuklu veziri Nizamülmülk'ündür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Karahanlılar: eserler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-030",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Hindistan'a on yedi sefer düzenleyerek İslamiyet'in yayılmasında etkili olan Gazneli hükümdar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mesud",
+      "B": "Sebük Tigin",
+      "C": "Tuğrul Bey",
+      "D": "Alptigin",
+      "E": "Gazneli Mahmud"
+    },
+    "answer": "E",
+    "solution": "Gazneli Mahmud, Hindistan seferleriyle Gazne'yi zenginleştirmiş ve devleti en parlak dönemine ulaştırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gazneliler: Gazneli Mahmud"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-031",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Şehname adlı eserini Gazneli Mahmud'a sunan şair aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Firdevsi",
+      "B": "Nizamülmülk",
+      "C": "Biruni",
+      "D": "Ömer Hayyam",
+      "E": "Gazali"
+    },
+    "answer": "A",
+    "solution": "Firdevsi, İran destanlarını Şehname'de toplayıp Gazneli Mahmud'a sunmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gazneliler: Firdevsi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-032",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdakilerden hangisi Gazneli Mahmud dönemine aittir?\n\nI. Katvan Savaşı'nın yapılması\n\nII. Hindistan seferlerinin düzenlenmesi\n\nIII. Pasinler Savaşı'nın kazanılması",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Hindistan seferleri Gazneli Mahmud dönemindedir; Katvan (1141) Sencer, Pasinler (1048) Selçuklular devrindedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gazneliler: dönem eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-033",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Cengiz Han'ın Harzemşahlar üzerine yürümesine yol açan 1218 tarihli olay aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Katvan Olayı",
+      "B": "Otrar Olayı",
+      "C": "Dandanakan Olayı",
+      "D": "Talas Olayı",
+      "E": "Nesa Olayı"
+    },
+    "answer": "B",
+    "solution": "Harzemşah valisinin Moğol tüccar kafilesini öldürtmesi (Otrar Olayı) Moğol seferine neden olmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Harzemşahlar: Otrar Olayı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-034",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Moğollara karşı verdiği mücadeleyle tanınan son Harzemşah hükümdarı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Alaaddin Tekiş",
+      "B": "Anuştekin",
+      "C": "Celaleddin Harzemşah",
+      "D": "Tacüddin Yıldız",
+      "E": "Alaaddin Muhammed"
+    },
+    "answer": "C",
+    "solution": "Celaleddin Harzemşah, Moğollara karşı direnmiş ve Hindistan'dan Anadolu'ya uzanan bir mücadele yürütmüştür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Harzemşahlar: Celaleddin"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-035",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Selçukluların bağımsızlığını kazanmasını ve Büyük Selçuklu Devleti'nin temellerinin atılmasını sağlayan 1040 tarihli savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Katvan Savaşı",
+      "B": "Malazgirt Savaşı",
+      "C": "Talas Savaşı",
+      "D": "Dandanakan Savaşı",
+      "E": "Pasinler Savaşı"
+    },
+    "answer": "D",
+    "solution": "Tuğrul ve Çağrı Beyler, Dandanakan'da Gazneli Mesud'u yenerek Horasan'a egemen olmuşlardır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: Dandanakan"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-036",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Tuğrul Bey'in 1055'te Bağdat'a girerek etkisini sona erdirdiği, Abbasi halifesi üzerinde baskı kuran Şii devlet aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Fatımîler",
+      "B": "Büveyhoğulları",
+      "C": "Eyyubiler",
+      "D": "Gazneliler",
+      "E": "Karahanlılar"
+    },
+    "answer": "B",
+    "solution": "Tuğrul Bey Bağdat'ı Büveyhoğullarından alarak halifeyi korumuş ve 'Sultan' unvanını almıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: Tuğrul Bey"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-037",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Selçukluların Bizans'a karşı Anadolu'da kazandığı ilk büyük zafer olan 1048 tarihli savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Pasinler Savaşı",
+      "B": "Katvan Savaşı",
+      "C": "Miryokefalon Savaşı",
+      "D": "Dandanakan Savaşı",
+      "E": "Malazgirt Savaşı"
+    },
+    "answer": "A",
+    "solution": "İbrahim Yınal komutasındaki Selçuklu kuvvetleri Pasinler'de Bizans ve Gürcü ordusunu yenmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: Pasinler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-038",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdakilerden hangisi 1071 Malazgirt Zaferi'nin sonuçlarından biri değildir?",
+    "options": {
+      "A": "Anadolu'nun kapılarının Türklere açılması",
+      "B": "Bizans'ın başkentinin Türklerin eline geçmesi",
+      "C": "Haçlı Seferleri'ne zemin hazırlanması",
+      "D": "Türk boylarının Anadolu'ya yerleşmesinin hızlanması",
+      "E": "Bizans'ın Anadolu'daki askerî üstünlüğünü kaybetmesi"
+    },
+    "answer": "B",
+    "solution": "İstanbul 1453'te fethedilmiştir; Malazgirt'te yalnız Bizans'ın Anadolu'daki üstünlüğü sarsılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: Malazgirt'in sonuçları (olumsuz)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-039",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Alparslan ve Melikşah'ın veziri olup Nizamiye Medreselerini açtıran devlet adamı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gazali",
+      "B": "Biruni",
+      "C": "Ömer Hayyam",
+      "D": "Nizamülmülk",
+      "E": "Firdevsi"
+    },
+    "answer": "D",
+    "solution": "Nizamülmülk, Siyasetname'nin de yazarıdır ve ikta sistemini yaygınlaştırmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: Nizamülmülk"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-040",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Büyük Selçuklu Devleti'nin en geniş sınırlara ulaştığı dönemde tahtta bulunan hükümdar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Alparslan",
+      "B": "Tuğrul Bey",
+      "C": "Sencer",
+      "D": "Berkyaruk",
+      "E": "Melikşah"
+    },
+    "answer": "E",
+    "solution": "Melikşah döneminde (1072-1092) devlet Orta Asya'dan Akdeniz'e uzanmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: Melikşah dönemi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-041",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Melikşah döneminde Ömer Hayyam başkanlığındaki bilginlerce hazırlanan takvim aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Miladi Takvim",
+      "B": "Gregoryen Takvimi",
+      "C": "Rumi Takvim",
+      "D": "Celali Takvimi",
+      "E": "Hicri Takvim"
+    },
+    "answer": "D",
+    "solution": "Celali Takvimi, 1079'da hazırlanan ve Gregoryen'den daha hassas sayılan güneş takvimidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: Celali Takvimi"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-042",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdakilerden hangisi/hangileri Büyük Selçuklu Devleti dönemine aittir?\n\nI. Kutadgu Bilig'in yazılması\n\nII. Nizamiye Medreselerinin açılması\n\nIII. Celali Takvimi'nin hazırlanması",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Nizamiye Medreseleri ve Celali Takvimi Büyük Selçuklu eserleridir; Kutadgu Bilig Karahanlı eseridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-043",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Sultan Sencer'in 1141'de Karahıtaylara yenildiği savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Dandanakan Savaşı",
+      "B": "Pasinler Savaşı",
+      "C": "Kösedağ Savaşı",
+      "D": "Miryokefalon Savaşı",
+      "E": "Katvan Savaşı"
+    },
+    "answer": "E",
+    "solution": "Katvan Savaşı'ndan sonra Büyük Selçuklu Devleti hızla zayıflamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: Katvan"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-044",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Büyük Selçuklu Devleti'ne 1194'te son veren devlet aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Karahıtaylar",
+      "B": "Gazneliler",
+      "C": "Moğollar",
+      "D": "Harzemşahlar",
+      "E": "Büveyhoğulları"
+    },
+    "answer": "D",
+    "solution": "Irak Selçuklu hükümdarı II. Tuğrul, Harzemşah Alaaddin Tekiş'e yenilince Büyük Selçuklu hanedanı sona ermiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: yıkılış"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-045",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Toprak gelirinin ordu masraflarına karşılık olarak askerî ve idari görevlilere verildiği Büyük Selçuklu uygulaması aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tımar sistemi",
+      "B": "Mukataa sistemi",
+      "C": "İkta sistemi",
+      "D": "İltizam sistemi",
+      "E": "Vakıf sistemi"
+    },
+    "answer": "C",
+    "solution": "Nizamülmülk döneminde yaygınlaşan ikta sistemi, merkezî hazineyi yormadan asker beslenmesini sağlamıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: ikta"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-046",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Birinci Haçlı Seferi sırasında Haçlıların 1097'de Anadolu Selçuklu Devleti'nden aldığı başkent aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İznik",
+      "B": "Konya",
+      "C": "Kayseri",
+      "D": "Sivas",
+      "E": "Malatya"
+    },
+    "answer": "A",
+    "solution": "Haçlılar İznik'i alınca Anadolu Selçuklu Devleti başkentini Konya'ya taşımıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Büyük Selçuklu: I. Haçlı Seferi"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-047",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Anadolu Selçuklu Devleti'ni İznik'i merkez alarak kuran hükümdar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Süleymanşah",
+      "B": "Çaka Bey",
+      "C": "I. Kılıç Arslan",
+      "D": "Danişmend Gazi",
+      "E": "Alparslan"
+    },
+    "answer": "A",
+    "solution": "Süleymanşah, 1075'te İznik'te Anadolu Selçuklu Devleti'ni kurmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anadolu Selçuklu: kuruluş"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-048",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Haçlılar İznik'i aldıktan sonra Konya'yı başkent yapan Anadolu Selçuklu hükümdarı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Süleymanşah",
+      "B": "I. Alaaddin Keykubad",
+      "C": "II. Kılıç Arslan",
+      "D": "Kutalmış",
+      "E": "I. Kılıç Arslan"
+    },
+    "answer": "E",
+    "solution": "Haçlı Seferleri sırasında I. Kılıç Arslan, başkenti Konya'ya taşımıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anadolu Selçuklu: Konya'nın başkent oluşu"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-049",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "II. Kılıç Arslan'ın 1176'da Bizans İmparatoru Manuel Komnenos'u yendiği savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Katvan Savaşı",
+      "B": "Malazgirt Savaşı",
+      "C": "Pasinler Savaşı",
+      "D": "Kösedağ Savaşı",
+      "E": "Miryokefalon Savaşı"
+    },
+    "answer": "E",
+    "solution": "Miryokefalon Savaşı, Anadolu'nun Türk yurdu olduğunu Bizans'a kesin biçimde kabul ettirmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anadolu Selçuklu: Miryokefalon"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-050",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Anadolu Selçuklu Devleti'nin en parlak dönemini yaşadığı hükümdar aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "I. Alaaddin Keykubad",
+      "B": "I. Gıyaseddin Keyhüsrev",
+      "C": "II. Kılıç Arslan",
+      "D": "II. Gıyaseddin Keyhüsrev",
+      "E": "Süleymanşah"
+    },
+    "answer": "A",
+    "solution": "I. Alaaddin Keykubad zamanında (1220-1237) Alanya alınmış, kervansaraylar ve saraylar yapılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anadolu Selçuklu: Alaaddin Keykubad"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-051",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "1240'ta Anadolu Selçuklu Devleti'ne karşı ayaklanarak devleti zayıflatan Türkmen hareketi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Şeyh Bedreddin İsyanı",
+      "B": "Celali İsyanları",
+      "C": "Karmatî İsyanı",
+      "D": "Haşhaşi İsyanı",
+      "E": "Babai İsyanı"
+    },
+    "answer": "E",
+    "solution": "Baba İlyas önderliğindeki Babai İsyanı, Selçuklu devletinin Kösedağ'dan önce zayıflamasına yol açmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anadolu Selçuklu: Babai İsyanı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-052",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Anadolu Selçuklu Devleti'nin 1243'te Moğollara yenilerek İlhanlı egemenliğine girmesine yol açan savaş aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Katvan Savaşı",
+      "B": "Pasinler Savaşı",
+      "C": "Kösedağ Savaşı",
+      "D": "Miryokefalon Savaşı",
+      "E": "Dandanakan Savaşı"
+    },
+    "answer": "C",
+    "solution": "II. Gıyaseddin Keyhüsrev, Kösedağ'da Moğollara yenilmiş ve Selçuklu devleti Moğol himayesine girmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anadolu Selçuklu: Kösedağ"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-053",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Anadolu'da esnaf ve sanatkârları ahlaki ve mesleki bakımdan örgütleyen Ahilik teşkilatının kurucusu olarak bilinen kişi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ahi Evran",
+      "B": "Mevlana Celaleddin Rumi",
+      "C": "Hacı Bektaş Veli",
+      "D": "Yunus Emre",
+      "E": "Sadreddin Konevi"
+    },
+    "answer": "A",
+    "solution": "Ahi Evran, Kırşehir'de yaşamış ve Ahilik teşkilatını kurmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anadolu Selçuklu: Ahilik"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-054",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Anadolu Selçuklu döneminde ticaret yolları üzerinde konaklama için yapılan, çoğunlukla taş işçiliğiyle öne çıkan yapılara ne ad verilir?",
+    "options": {
+      "A": "Medrese",
+      "B": "Külliye",
+      "C": "Mescit",
+      "D": "Darüşşifa",
+      "E": "Kervansaray"
+    },
+    "answer": "E",
+    "solution": "Sultanhanı gibi kervansaraylar, ticareti ve güvenliği korumak amacıyla yapılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anadolu Selçuklu: kervansaray"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-055",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Merkezi Sivas olan ve Anadolu'nun ilk Türk beyliklerinden biri sayılan beylik aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Çobanoğulları",
+      "B": "Danişmentliler",
+      "C": "Artuklular",
+      "D": "Saltuklular",
+      "E": "Mengücekler"
+    },
+    "answer": "B",
+    "solution": "Danişmentliler, Danişmend Gazi tarafından Sivas-Tokat-Amasya çevresinde kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Beylikler: Danişmentliler"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-056",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "İzmir'de ilk Türk donanmasını kuran Anadolu beyi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Çaka Bey",
+      "B": "Süleymanşah",
+      "C": "Mengücek Gazi",
+      "D": "Danişmend Gazi",
+      "E": "Artuk Bey"
+    },
+    "answer": "A",
+    "solution": "Çaka Bey, İzmir merkezli kurduğu donanmayla adaları ve Bizans kıyılarını fethetmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Beylikler: Çaka Bey"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-057",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Türkçeyi resmî dil ilan eden Türkiye beyliği hükümdarı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Osman Bey",
+      "B": "Aydınoğlu Mehmet Bey",
+      "C": "Menteşe Bey",
+      "D": "Germiyanoğlu Yakup Bey",
+      "E": "Karamanoğlu Mehmet Bey"
+    },
+    "answer": "E",
+    "solution": "Karamanoğlu Mehmet Bey 1277'de Konya'yı alınca Türkçenin resmî dil olduğunu ilan etmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Beylikler: Karamanoğlu Mehmet Bey"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-058",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Mısır'da kurulan ilk Türk-İslam devleti aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İhşidiler",
+      "B": "Tolunoğulları",
+      "C": "Eyyubiler",
+      "D": "Memlükler",
+      "E": "Fatımîler"
+    },
+    "answer": "B",
+    "solution": "Tolunoğulları, Ahmed bin Tolun tarafından 868'de Mısır'da kurulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Beylikler: Tolunoğulları"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-059",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdaki olayların kronolojik sıralaması hangisidir?\n\nI. Kösedağ Savaşı\n\nII. Talas Savaşı\n\nIII. Malazgirt Savaşı\n\nIV. Dandanakan Savaşı",
+    "options": {
+      "A": "I - II - III - IV",
+      "B": "II - III - IV - I",
+      "C": "II - IV - III - I",
+      "D": "IV - II - III - I",
+      "E": "III - II - IV - I"
+    },
+    "answer": "C",
+    "solution": "Talas 751, Dandanakan 1040, Malazgirt 1071, Kösedağ 1243'tür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kronoloji: Talas-Dandanakan-Malazgirt-Kösedağ"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-060",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Aşağıdakilerden hangisi Asya Hun Devleti dönemine aittir?\n\nI. Orduda onlu sistemin uygulanması\n\nII. Orhun Yazıtlarının dikilmesi\n\nIII. Maniheizm'in devlet dini olması",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Onlu sistem Mete döneminde uygulanmıştır; Orhun Yazıtları Kök Türklere, Maniheizm Uygurlara aittir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hunlar: eşleştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-061",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Bir tarih kitabında şu bilgiler yer almaktadır:\n\n“Karadeniz'in kuzeyinden Orta Asya'ya uzanan bozkırlarda MÖ VII. yüzyılda göçebe hayvancılıkla geçinen, savaşçı özellikleriyle bilinen bir topluluk yaşamıştır. İran kaynaklarında Efrasiyab adıyla geçen hükümdarı Alp Er Tunga, Türk destanlarında da anılır; ona yazılan ağıt (sagu) Türk edebiyatının bilinen ilk örnekleri arasındadır.”\n\nBu bilgilerin ilişkin olduğu topluluk aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Avarlar",
+      "B": "İskitler (Sakalar)",
+      "C": "Peçenekler",
+      "D": "Avrupa Hun İmparatorluğu",
+      "E": "Orhun Uygurları"
+    },
+    "answer": "B",
+    "solution": "Alp Er Tunga (Efrasiyab), İskit (Saka) hükümdarı kabul edilir; Türk edebiyatının bilinen ilk ürünleri arasında sayılan Sagu (ağıt) ona yazılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-062",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Bir Türk yazıtında şu ifadeler okunmaktadır:\n\n“Üstte mavi gök, altta yağız yer yaratıldığında, ikisinin arasında insanoğlu yaratılmış. İnsanoğlunun üzerine atalarım Bumin Kağan, İstemi Kağan oturmuş. Oturup Türk milletinin ilini, töresini tutup düzenlemiş.”\n\nBu ifadelere göre Türklerle ilgili aşağıdakilerden hangisine ulaşılamaz?",
+    "options": {
+      "A": "Gök Tanrı inancının var olduğuna",
+      "B": "Devletin töreye göre yönetildiğine",
+      "C": "Hükümdarlığın atalardan geçtiğine",
+      "D": "Türk milletinin ayrı bir il kurduğuna",
+      "E": "Hükümdarın yetkisini halk meclisinden aldığına"
+    },
+    "answer": "E",
+    "solution": "Metinde gök ve yer yaratılışı (Gök Tanrı inancı), töre, atalarının kağan olması ve “Türk milletinin ili” ifadeleri vardır; hükümdarın yetkisini halk meclisinden alması metinden çıkarılamaz (yazıtlarda kağanın yetkisi gökten gelen kut anlayışıyla ilişkilendirilir).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-063",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Bir tarih notunda bir devlet için şu bilgiler verilmiştir:\n\n“Başkenti Ordubalık'tır. Hükümdarlarından Bögü Kağan, Maniheizm'i devlet dini olarak kabul etmiştir. Bu devlette tarıma ve yerleşik hayata geçiş belirgindir; kendilerine ait bir alfabe kullanılmış, resim ve minyatür sanatı gelişmiştir.”\n\nBu bilgiler aşağıdaki devletlerden hangisine aittir?",
+    "options": {
+      "A": "Kırgız Devleti",
+      "B": "Karluk Devleti",
+      "C": "Uygur Kağanlığı",
+      "D": "Asya Hun Devleti",
+      "E": "Göktürk Devleti"
+    },
+    "answer": "C",
+    "solution": "Ordubalık başkentli, Maniheizm'i kabul eden ve yerleşik hayata geçişi belirgin olan Türk devleti Uygurlardır (744–840).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-064",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Bir ders notunda bir devletle ilgili şu bilgiler yer almaktadır:\n\n“1526'da Panipat Savaşı'nı kazanan Timur soyundan bir hükümdar, Hindistan'da bir devlet kurmuştur. Bu devlet yaklaşık üç yüzyıl sürmüş; Hint kültürüyle Türk-İslam kültürünü kaynaştırmış, Taç Mahal gibi eserler bırakmıştır.”\n\nBu bilgiler aşağıdaki devletlerden hangisine aittir?",
+    "options": {
+      "A": "Memlük Devleti",
+      "B": "Babür Devleti",
+      "C": "Gazneli Devleti",
+      "D": "Delhi Sultanlığı",
+      "E": "Harezmşahlar Devleti"
+    },
+    "answer": "B",
+    "solution": "1526'da Panipat'ta İbrahim Lodi'yi yenen Babür Şah, Hindistan'da Babür Devleti'ni kurmuştur; Taç Mahal bu devletin eseridir. Gazneliler Hindistan seferlerini daha erken yapmış, Delhi Sultanlığı Babürlerden öncedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-065",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "XII. yüzyılda Artuklu hükümdarlarının hizmetinde çalışan bir Türk bilim insanı, yazdığı eserde su saatleri, otomatik makineler ve su kaldırma düzenekleri gibi çok sayıda mekanik aygıtı resimleriyle anlatmıştır. Eserinde krank-biyel mekanizmasına benzer bir sistemi de tarif etmiştir.\n\nBu bilgilerin ilişkin olduğu bilim insanı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "El-Cezeri",
+      "B": "Ali Kuşçu",
+      "C": "İbn-i Sina",
+      "D": "Farabi",
+      "E": "Biruni"
+    },
+    "answer": "A",
+    "solution": "Cizre doğumlu El-Cezeri, Artuklu sarayında çalışmış, Kitâbü'l-Hiyel adlı eserinde otomatik makineleri ve su saatlerini anlatmış, makine mühendisliğinin öncülerinden sayılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-066",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Bir ders kitabında İslamiyet öncesi bir Türk devletinin yönetimi şöyle anlatılmıştır:\n\n“Devletin kurucusu Mete'dir. Ordu, onluk sisteme göre örgütlenmiş; devlet toprakları doğu ve batı olarak ikiye ayrılıp bu bölgelerin yönetimi hükümdarın yakınlarına verilmiştir. Hükümdar, ülkenin önemli kararlarını boy beylerinin katıldığı bir danışma meclisinde almış; hükümdarın yetkilerini ise bir yazısız hukuk kuralları bütünü sınırlamıştır.”\n\nBu metinde aşağıdaki kavramlardan hangisine değinilmemiştir?",
+    "options": {
+      "A": "Onluk sistem",
+      "B": "Kurultay",
+      "C": "Kut",
+      "D": "Töre",
+      "E": "Sağ-sol kanat yönetimi"
+    },
+    "answer": "C",
+    "solution": "Metinde onluk ordu sistemi, kurultay (danışma meclisi), töre ve doğu-batı (sağ-sol kanat) ikili yönetimi anlatılmıştır; hükümdarın yetkisinin gökten gelen kut anlayışına dayandığından söz edilmemiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-067",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Bir tarih notunda bir hükümdarla ilgili şu bilgiler verilmiştir:\n\n“XI. yüzyılın başlarında Hindistan'a on yediden fazla sefer düzenlemiş; seferlerinden getirdiği ganimetlerle başkentini bir bilim ve sanat merkezi yapmıştır. Abbasi halifesi ona sultan unvanını vermiştir. Sarayında birçok bilim insanı ve şair yetiştirilmiştir.”\n\nBu bilgiler aşağıdaki devletlerden hangisine aittir?",
+    "options": {
+      "A": "Babür Devleti",
+      "B": "Karahanlı Devleti",
+      "C": "Harezmşahlar Devleti",
+      "D": "Gazneli Devleti",
+      "E": "Büyük Selçuklu Devleti"
+    },
+    "answer": "D",
+    "solution": "Gazneli Mahmud (998–1030) Hindistan'a çok sayıda sefer düzenlemiş, Gazne'yi bir kültür merkezi yapmış ve Abbasi halifesinden sultan unvanını almıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-068",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Bir bilim tarihi dersinde bir bilginle ilgili şu açıklama yer almaktadır:\n\n“Harezm'de doğan bu bilgin, Gazne sarayında çalışmıştır. Hindistan'a yaptığı bir gezide edindiği bilgilerle o ülkeyi dil, din ve bilim yönünden anlatan bir eser yazmış; yerin çevresini ölçmeye yönelik çalışmalarıyla da tanınmıştır.”\n\nBu bilgiler aşağıdaki bilginlerden hangisine aittir?",
+    "options": {
+      "A": "İbn-i Sina",
+      "B": "Kaşgarlı Mahmud",
+      "C": "Biruni",
+      "D": "Harezmi",
+      "E": "Farabi"
+    },
+    "answer": "C",
+    "solution": "Harezm doğumlu Biruni, Gazneli Mahmud'un sarayında çalışmış, Hindistan'ı anlatan Tahkîk mâ li'l-Hind adlı eseri yazmış ve yerin çevresini ölçmeye yönelik çalışmalar yapmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-tar-oot-069",
+    "ders": "tarih",
+    "konu": "osmanli_oncesi_turk_devletleri",
+    "stem": "Bir edebiyat tarihi dersinde bir eser şöyle tanıtılmıştır:\n\n“Balasagun doğumlu bir bilgin, 1069-1070'te bu eseri yazarak bir Karahanlı hükümdarına sunmuştur. Eser, hükümdar, vezir, bilge ve kanaatkâr kişi gibi dört simgesel kahramanın diyaloglarıyla devlet yönetimini ve mutluluk kavramını işler. Bu hizmeti nedeniyle yazarına 'Has Hacib' unvanı verilmiştir.”\n\nBu bilgiler aşağıdaki eserlerden hangisine aittir?",
+    "options": {
+      "A": "Divanü Lügati't-Türk",
+      "B": "Atabetü'l-Hakayık",
+      "C": "Kutadgu Bilig",
+      "D": "Divan-ı Hikmet",
+      "E": "Siyasetname"
+    },
+    "answer": "C",
+    "solution": "Yusuf Has Hacib'in Kutadgu Bilig'i (1069-70), Karahanlı hükümdarı Tavgaç Buğra Han'a sunulmuş mesnevi biçiminde bir siyaset ve ahlak eseridir; Kaşgarlı Mahmud'un eseri sözlüktür.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "İslamiyet öncesi ve Türk-İslam tarihi: yeni nesil (kaynak tabanlı)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  }
+]
