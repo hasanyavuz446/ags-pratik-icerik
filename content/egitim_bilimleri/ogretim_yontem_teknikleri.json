@@ -6,12 +6,12 @@
     "stem": "Hayat bilgisi öğretmeni Selim Bey, “canlıların yaşam alanları” konusunu işlerken bilgiyi öğrencilere hazır biçimde sunmayı seçmiş, bunun için anlatım yöntemini kullanmış ve anlatımı sınıfının dikkat süresine göre kısa bölümlere ayırıp araya kendi geliştirdiği küçük bulmacalar yerleştirmiştir. Bu küçük bulmacalar yalnızca Selim Bey'in kendi sınıfına özgü, kişisel bir uygulamadır.\n\nSelim Bey'in kendi sınıfına özgü bu bireysel uygulamaları aşağıdakilerden hangisiyle adlandırılır?",
     "options": {
       "A": "Öğretim yöntemi",
-      "B": "Öğretim taktiği",
-      "C": "Öğretim modeli",
+      "B": "Öğretim modeli",
+      "C": "Öğretim taktiği",
       "D": "Öğretim tekniği",
       "E": "Öğretim stratejisi"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Taktik, öğretmenin yöntem ve tekniği uygularken kendi kişiliğine, sınıfına ve durumuna özgü olarak geliştirdiği bireysel uygulamalardır. Strateji genel yaklaşım, yöntem izlenen yol, teknik ise yöntemin uygulanma biçimidir.",
     "source": {
       "kind": "generated",
@@ -28,13 +28,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Bir öğretmen, yeni bir üniteyi işlemeden önce konuyu öğrencilere düzenlenmiş ve hazır bir biçimde mi sunacağına, yoksa öğrencilerin kendi çabalarıyla keşfetmelerini mi sağlayacağına karar vermektedir. Bu karar, o üniteyi işlerken izleyeceği bütün yöntem ve tekniklerin yönünü belirleyen geniş bir çerçeve niteliğindedir.\n\nÖğretmenin verdiği bu geniş kapsamlı karar aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Öğretim stratejisi seçimi",
-      "B": "Öğretim taktiği geliştirme",
-      "C": "Ders planı hazırlama",
-      "D": "Ölçme aracı seçimi",
-      "E": "Öğretim tekniği seçimi"
+      "A": "Öğretim taktiği geliştirme",
+      "B": "Ders planı hazırlama",
+      "C": "Ölçme aracı seçimi",
+      "D": "Öğretim tekniği seçimi",
+      "E": "Öğretim stratejisi seçimi"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Öğretim stratejisi, hedeflere ulaşmak için izlenecek genel yaklaşımdır (sunuş, buluş, araştırma-inceleme gibi); yöntem ve teknikler bu çerçevede seçilir.",
     "source": {
       "kind": "generated",
@@ -53,11 +53,11 @@
     "options": {
       "A": "Model",
       "B": "Strateji",
-      "C": "Taktik",
-      "D": "İlke",
-      "E": "Teknik"
+      "C": "Teknik",
+      "D": "Taktik",
+      "E": "İlke"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Bir yöntemin sınıfta uygulanma biçimine teknik denir. Münazara, tartışma yönteminin uygulama tekniklerinden biridir.",
     "source": {
       "kind": "generated",
@@ -74,13 +74,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "İlkokul 1. sınıf öğretmeni Aylin Hanım, toplama işlemini öğretirken önce öğrencilere fasulye taneleri ve bozuk paralarla gerçek nesneler kullanarak işlem yaptırmakta, ardından resimlerle gösterim yapmakta ve en sonunda sayılarla yazılı işleme geçmektedir.\n\nAylin Hanım'ın izlediği bu yol hangi öğretim ilkesine dayanır?",
     "options": {
-      "A": "Somuttan soyuta",
-      "B": "Yakından uzağa",
-      "C": "Basitten karmaşığa",
-      "D": "Bütünden parçaya",
-      "E": "Bilinenden bilinmeyene"
+      "A": "Yakından uzağa",
+      "B": "Basitten karmaşığa",
+      "C": "Bütünden parçaya",
+      "D": "Bilinenden bilinmeyene",
+      "E": "Somuttan soyuta"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Somuttan soyuta ilkesinde, öğrencinin duyularıyla algılayabileceği gerçek nesnelerden başlanarak resim, model ve sonunda sembol ve soyut kavramlara geçilir.",
     "source": {
       "kind": "generated",
@@ -98,12 +98,12 @@
     "stem": "Matematik öğretmeni Berna Hanım, ondalık kesirleri anlatmaya başlamadan önce öğrencilerin daha önce öğrendikleri kesir bilgisini hatırlatmış, ondalık kesirleri bu bilgiyle ilişkilendirerek “paydası 10, 100, 1000 olan kesirler” biçiminde tanıtmış ve öğrencilerin kendi kesir örneklerini bu yeni gösterime dönüştürmesini istemiştir.\n\nBerna Hanım hangi öğretim ilkesini uygulamıştır?",
     "options": {
       "A": "Yakından uzağa",
-      "B": "Bilinenden bilinmeyene",
-      "C": "Öğrencinin aktifliği",
-      "D": "Basitten karmaşığa",
-      "E": "Somuttan soyuta"
+      "B": "Öğrencinin aktifliği",
+      "C": "Basitten karmaşığa",
+      "D": "Somuttan soyuta",
+      "E": "Bilinenden bilinmeyene"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Bilinenden bilinmeyene ilkesi, öğrencinin önceki bilgi ve deneyimlerinden başlayarak yeni bilgilere geçilmesini ifade eder.",
     "source": {
       "kind": "generated",
@@ -121,12 +121,12 @@
     "stem": "Sosyal bilgiler öğretmeni Cemil Bey, coğrafya konusunu işlerken öğrencilerine önce okulun ve mahallenin haritasını çizdirmekte, sonra yaşadıkları ilçeyi, ardından ili, ülkeyi, kıtayı ve en sonunda dünyayı ele almakta; her aşamada öğrencilerin kendi çevrelerinden örnekler getirmelerini istemektedir.\n\nCemil Bey'in bu sıralaması hangi öğretim ilkesine örnektir?",
     "options": {
       "A": "Somuttan soyuta",
-      "B": "Bilinenden bilinmeyene",
-      "C": "Yaşama yakınlık",
-      "D": "Bütünden parçaya",
-      "E": "Yakından uzağa"
+      "B": "Yakından uzağa",
+      "C": "Bilinenden bilinmeyene",
+      "D": "Yaşama yakınlık",
+      "E": "Bütünden parçaya"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Yakından uzağa ilkesi, öğrencinin yakın çevresinden başlayıp giderek daha uzak alanlara geçilmesini öngörür; sosyal bilgiler ve coğrafyada yaygın kullanılır.",
     "source": {
       "kind": "generated",
@@ -146,10 +146,10 @@
       "A": "Yakından uzağa",
       "B": "Somuttan soyuta",
       "C": "Bilinenden bilinmeyene",
-      "D": "Ekonomiklik",
-      "E": "Basitten karmaşığa"
+      "D": "Basitten karmaşığa",
+      "E": "Ekonomiklik"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Basitten karmaşığa ilkesi, konuların kolay ve tek öğeli olandan başlayarak çok öğeli ve zor olana doğru sıralanmasını gerektirir.",
     "source": {
       "kind": "generated",
@@ -168,11 +168,11 @@
     "options": {
       "A": "Ekonomiklik",
       "B": "Bireysel farklılıklara uygunluk",
-      "C": "Öğrencinin aktifliği",
-      "D": "Açıklık",
+      "C": "Açıklık",
+      "D": "Öğrencinin aktifliği",
       "E": "Yaşama yakınlık"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Öğrencinin aktifliği ilkesi, öğrencinin öğrenme sürecine zihinsel ve fiziksel olarak etkin biçimde katılmasını; yaparak yaşayarak öğrenmesini ifade eder.",
     "source": {
       "kind": "generated",
@@ -189,13 +189,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Matematik öğretmeni Sevgi Hanım, yüzde konusunu işlerken öğrencilerden alışveriş fişlerindeki indirim oranlarını, banka faiz hesaplarını ve sınıfın sınav başarı oranlarını hesaplamalarını istemektedir. Böylece öğrenciler konunun günlük yaşamdaki kullanım alanlarını görmekte ve öğrendiklerini kendi evlerinde de kullanabilmektedir.\n\nSevgi Hanım hangi öğretim ilkesini uygulamaktadır?",
     "options": {
-      "A": "Öğrencinin aktifliği",
-      "B": "Somuttan soyuta",
-      "C": "Yakından uzağa",
-      "D": "Yaşama yakınlık (hayatilik)",
+      "A": "Yaşama yakınlık (hayatilik)",
+      "B": "Öğrencinin aktifliği",
+      "C": "Somuttan soyuta",
+      "D": "Yakından uzağa",
       "E": "Bireysel farklılıklara uygunluk"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Yaşama yakınlık ilkesi, öğretilen konuların öğrencinin günlük yaşamıyla ilişkilendirilmesini ve gerçek yaşam durumlarından örneklerle işlenmesini gerektirir.",
     "source": {
       "kind": "generated",
@@ -213,12 +213,12 @@
     "stem": "Türkçe öğretmeni Gizem Hanım, aynı okuma metni için üç ayrı düzeyde çalışma kâğıdı hazırlamıştır. Okuma hızı yavaş olan öğrenciler daha kısa ve görsel destekli, hızlı okuyan öğrenciler ise çıkarım ve yorum gerektiren sorularla çalışmaktadır.\n\nBu uygulama hangi öğretim ilkesine örnektir?",
     "options": {
       "A": "Yaşama yakınlık ilkesi",
-      "B": "Öğrencinin aktif katılımı ilkesi",
-      "C": "Somuttan soyuta ilerleme",
-      "D": "Ekonomiklik ilkesi",
-      "E": "Bireysel farklılıklara uygunluk"
+      "B": "Bireysel farklılıklara uygunluk",
+      "C": "Öğrencinin aktif katılımı ilkesi",
+      "D": "Somuttan soyuta ilerleme",
+      "E": "Ekonomiklik ilkesi"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Bireysel farklılıklara uygunluk ilkesi, öğrencilerin hız, ilgi, hazırbulunuşluk ve öğrenme biçimlerindeki farklılıkların öğretimde dikkate alınmasını gerektirir.",
     "source": {
       "kind": "generated",
@@ -236,12 +236,12 @@
     "stem": "Fen bilimleri öğretmeni Kerem Bey, “hücre” konusuna başlamadan önce öğrencilere konunun genel çerçevesini, ana kavramlar arasındaki ilişkiyi ve bu kavramların önceki derslerden bildikleriyle bağlantısını gösteren kısa bir özet sunmaktadır. Amacı, yeni bilgilerin öğrencilerin zihinsel yapısında yerleşeceği bir zemin hazırlamaktır.\n\nKerem Bey'in bu uygulaması Ausubel'in hangi kavramına örnektir?",
     "options": {
       "A": "Geri bildirim",
-      "B": "Ön test",
-      "C": "İleri düzenleyici",
+      "B": "İleri düzenleyici",
+      "C": "Ön test",
       "D": "Pekiştireç",
       "E": "Kavram yanılgısı"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Ausubel'e göre yeni konuya başlamadan önce sunulan, genel çerçeveyi veren ve önceki bilgilerle bağlantı kuran giriş malzemelerine ileri düzenleyici denir; sunuş yoluyla öğretimin temel öğesidir.",
     "source": {
       "kind": "generated",
@@ -259,12 +259,12 @@
     "stem": "Öğretmen Aslı Hanım, tarih dersinde kavramları genelden özele doğru, düzenli ve mantıksal bir sırayla öğrencilere hazır biçimde sunmaktadır. Öğrencilerden bu bilgiyi anlamlı biçimde kavrayıp önceki bilgilerine bağlamaları beklenmekte; öğrenci kendi başına keşif yapmamakta, öğretmenin düzenlediği bilgi akışını izlemektedir.\n\nAslı Hanım hangi öğretim stratejisini kullanmaktadır?",
     "options": {
       "A": "Tam öğrenme",
-      "B": "Sunuş yoluyla öğretim",
-      "C": "Buluş yoluyla öğretim",
-      "D": "Bireyselleştirilmiş öğretim",
-      "E": "Araştırma-inceleme"
+      "B": "Buluş yoluyla öğretim",
+      "C": "Bireyselleştirilmiş öğretim",
+      "D": "Araştırma-inceleme",
+      "E": "Sunuş yoluyla öğretim"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Sunuş yoluyla öğretimde (Ausubel) bilgi öğrenciye düzenlenmiş ve hazır biçimde sunulur; amaç anlamlı sözel öğrenmedir.",
     "source": {
       "kind": "generated",
@@ -283,11 +283,11 @@
     "options": {
       "A": "Sunuş yoluyla öğretim",
       "B": "Modüler öğretim",
-      "C": "Tam öğrenme",
-      "D": "Programlı öğretim",
-      "E": "Buluş yoluyla öğretim"
+      "C": "Buluş yoluyla öğretim",
+      "D": "Tam öğrenme",
+      "E": "Programlı öğretim"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Buluş yoluyla öğretimde (Bruner) öğrenci, bilgiyi hazır olarak almak yerine örnek ve verilerden kendi çabasıyla kural ve ilkelere ulaşır.",
     "source": {
       "kind": "generated",
@@ -351,12 +351,12 @@
     "stem": "Lise biyoloji öğretmeni Nilüfer Hanım, sınıfa “okul kantinindeki hazır gıdaların sağlığa etkisi hakkında yapılan paylaşımlara güvenilir mi?” sorusunu vermiştir. Öğrenciler gruplar hâlinde sorunun ne olduğunu tanımlamış, hangi bilgilere ihtiyaç duyduklarını belirlemiş, kaynak taramış ve çözüm önerileri sunmuştur. Öğretmen yalnızca yol gösterici olmuştur.\n\nBu çalışma hangi öğrenme yaklaşımına örnektir?",
     "options": {
       "A": "Ters yüz öğrenme",
-      "B": "Probleme dayalı öğrenme",
-      "C": "Programlı öğretim",
-      "D": "Proje tabanlı öğrenme",
+      "B": "Programlı öğretim",
+      "C": "Proje tabanlı öğrenme",
+      "D": "Probleme dayalı öğrenme",
       "E": "Tam öğrenme"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Probleme dayalı öğrenmede öğrenciler, gerçek yaşamdan gelen yapılandırılmamış bir problemi gruplar hâlinde tanımlar, gerekli bilgiyi araştırır ve çözüm üretir; öğretmen kolaylaştırıcıdır.",
     "source": {
       "kind": "generated",
@@ -396,13 +396,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Fen bilgisi öğretmeni Ahmet Bey, öğrencileriyle birlikte önce “bitkiler ışıksız ortamda da büyür mü?” sorununu belirlemiş, ardından olası açıklamaları (hipotezleri) yazmış, deney düzeneği kurup veri toplamış, bu verileri değerlendirip sonuca ulaşmıştır.\n\nAhmet Bey'in izlediği bu süreç hangi stratejiye en uygundur?",
     "options": {
-      "A": "Araştırma-inceleme",
-      "B": "Sunuş yoluyla öğretim",
-      "C": "Tam öğrenme",
+      "A": "Sunuş yoluyla öğretim",
+      "B": "Tam öğrenme",
+      "C": "Araştırma-inceleme",
       "D": "Modüler öğretim",
       "E": "Programlı öğretim"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Araştırma-inceleme stratejisinde bilimsel yöntem basamakları izlenir: problem belirleme, hipotez kurma, veri toplama, hipotezi sınama ve sonuca varma.",
     "source": {
       "kind": "generated",
@@ -419,13 +419,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Öğrencilerinin hipotez kurma aşamasını tamamladığını gören bir fen öğretmeni, bilimsel yöntem basamaklarına göre bir sonraki aşamada öğrencilerden ne yapmalarını istemelidir?",
     "options": {
-      "A": "Problemi yeniden tanımlamalarını",
-      "B": "Sonuç raporu yazmalarını",
-      "C": "Başka bir problem seçmelerini",
-      "D": "Veri toplayarak hipotezi sınamalarını",
+      "A": "Veri toplayarak hipotezi sınamalarını",
+      "B": "Problemi yeniden tanımlamalarını",
+      "C": "Sonuç raporu yazmalarını",
+      "D": "Başka bir problem seçmelerini",
       "E": "Konuyu ezberlemelerini"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Bilimsel yöntem basamakları sırasıyla problem belirleme, hipotez kurma, veri toplama ve hipotezi sınama, sonuca varma biçimindedir.",
     "source": {
       "kind": "generated",
@@ -467,11 +467,11 @@
     "options": {
       "A": "Benzetim yöntemi",
       "B": "Laboratuvar yöntemi",
-      "C": "Anlatım yöntemi",
-      "D": "Gezi-gözlem yöntemi",
-      "E": "Gösteri yöntemi"
+      "C": "Gösteri yöntemi",
+      "D": "Anlatım yöntemi",
+      "E": "Gezi-gözlem yöntemi"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Gösteri yönteminde bir işlem, deney veya beceri öğretmen (veya uzman) tarafından yapılarak öğrencilere gösterilir; öğrenciler izler.",
     "source": {
       "kind": "generated",
@@ -489,12 +489,12 @@
     "stem": "Fizik dersinde öğrenciler dörder kişilik gruplar hâlinde deney düzeneğini kendi elleriyle kurmuş, ölçümleri kendileri almış, sonuçları tabloya işleyerek yorumlamışlardır. Öğretmen yalnızca grupları dolaşarak yardım etmiştir.\n\nBu çalışmada hangi yöntem kullanılmıştır?",
     "options": {
       "A": "Soru-cevap",
-      "B": "Gösteri",
-      "C": "Laboratuvar",
+      "B": "Laboratuvar",
+      "C": "Gösteri",
       "D": "Anlatım",
       "E": "Örnek olay"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Laboratuvar yönteminde öğrenciler deney ve uygulamaları doğrudan kendileri yapar; gösteri yönteminden farkı, uygulayıcının öğrenci olmasıdır.",
     "source": {
       "kind": "generated",
@@ -512,12 +512,12 @@
     "stem": "Sosyal bilgiler öğretmeni Ece Hanım, “Anadolu medeniyetleri” konusunu işlerken öğrencilerini arkeoloji müzesine götürmüş; öğrenciler eserleri yerinde incelemiş, rehberin açıklamalarını dinlemiş ve gözlemlerini not defterlerine kaydetmiştir.\n\nBu etkinlikte hangi yöntem kullanılmıştır?",
     "options": {
       "A": "Gösteri",
-      "B": "Tartışma",
-      "C": "Benzetim",
-      "D": "Gezi-gözlem",
+      "B": "Gezi-gözlem",
+      "C": "Tartışma",
+      "D": "Benzetim",
       "E": "Rol oynama"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Gezi-gözlem yönteminde öğrenciler öğrenme konusunu gerçek ortamında yerinde gözlemler ve inceler.",
     "source": {
       "kind": "generated",
@@ -537,10 +537,10 @@
       "A": "Benzetim",
       "B": "Tartışma",
       "C": "Gösteri",
-      "D": "Rol oynama",
-      "E": "Örnek olay"
+      "D": "Örnek olay",
+      "E": "Rol oynama"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Rol oynamada öğrenciler önceden belirlenmiş roller üstlenerek bir durum veya problemi canlandırır, ardından yaşantılar ve çözümler değerlendirilir.",
     "source": {
       "kind": "generated",
@@ -559,11 +559,11 @@
     "options": {
       "A": "Anlatım",
       "B": "Gösteri",
-      "C": "Benzetim",
-      "D": "Rol oynama",
-      "E": "Örnek olay"
+      "C": "Örnek olay",
+      "D": "Benzetim",
+      "E": "Rol oynama"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Örnek olay (vaka) yönteminde gerçek veya gerçeğe uygun bir olay incelenir; nedenleri, sonuçları ve çözüm seçenekleri üzerinde düşünülür.",
     "source": {
       "kind": "generated",
@@ -582,11 +582,11 @@
     "options": {
       "A": "Rol oynama yöntemi",
       "B": "Gezi-gözlem yöntemi",
-      "C": "Örnek olay yöntemi",
-      "D": "Benzetim yöntemi",
+      "C": "Benzetim yöntemi",
+      "D": "Örnek olay yöntemi",
       "E": "Gösteri yöntemi"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Benzetim (simülasyon), gerçek bir durumun maliyetli veya tehlikeli yönlerini ortadan kaldıran yapay bir modelini oluşturup öğrenciye yaşatır.",
     "source": {
       "kind": "generated",
@@ -604,12 +604,12 @@
     "stem": "Sınıf öğretmeni Ayhan Bey, “mevsimler neden oluşur?” konusunu işlerken önce öğrencilere dünyayı döndüren bir küre göstermiş, ardından öğrencilerin ön bilgilerini ölçen bir sorgulamayla derse girmiş, gelen cevaplara göre yeni sorgulamalar yaparak konuyu öğrenci cevapları üzerinden ilerletmiştir.\n\nAyhan Bey'in ders boyunca kullandığı temel yöntem aşağıdakilerden hangisidir?",
     "options": {
       "A": "Gösteri",
-      "B": "Benzetim",
-      "C": "Rol oynama",
-      "D": "Soru-cevap",
+      "B": "Soru-cevap",
+      "C": "Benzetim",
+      "D": "Rol oynama",
       "E": "Anlatım"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Soru-cevap yönteminde ders, öğretmenin sorduğu ve öğrencilerin cevapladığı sorular aracılığıyla ilerler; ön bilgileri yoklamada ve düşünmeyi geliştirmede kullanılır.",
     "source": {
       "kind": "generated",
@@ -650,12 +650,12 @@
     "stem": "Matematik öğretmeni Leyla Hanım, kuralları önceden belirlenmiş bir kart oyunuyla öğrencilerin çarpma tablosunu eğlenceli biçimde pekiştirmesini sağlamıştır. Öğrenciler sırayla kart çekmekte, çarpımı doğru söyleyenler puan almakta ve kazananlar sınıfça alkışlanmaktadır.\n\nLeyla Hanım hangi öğretim etkinliğini kullanmıştır?",
     "options": {
       "A": "Rol oynama",
-      "B": "Eğitsel oyun",
-      "C": "Proje",
-      "D": "Gösteri",
+      "B": "Proje",
+      "C": "Gösteri",
+      "D": "Eğitsel oyun",
       "E": "Benzetim"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Eğitsel oyun, kuralları belli, eğlenceli bir etkinlik biçiminde öğrenme hedeflerine ulaşmayı sağlayan öğretim etkinliğidir.",
     "source": {
       "kind": "generated",
@@ -673,12 +673,12 @@
     "stem": "Sınıf öğretmeni Mine Hanım, “okul bahçemizi nasıl daha yeşil hâle getirebiliriz?” sorusunu tahtaya yazmış ve öğrencilerden aklına gelen her fikri söylemelerini istemiştir. Önce hiçbir fikir eleştirilmemiş, fikirler yalnızca not edilmiş; en sonunda sınıfça değerlendirilip uygulanabilir olanlar seçilmiştir.\n\nMine Hanım hangi tekniği kullanmıştır?",
     "options": {
       "A": "Akvaryum",
-      "B": "Altı şapkalı düşünme",
-      "C": "Panel",
-      "D": "Beyin fırtınası",
+      "B": "Beyin fırtınası",
+      "C": "Altı şapkalı düşünme",
+      "D": "Panel",
       "E": "Münazara"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Beyin fırtınasında amaç kısa sürede çok sayıda ve özgün fikir üretmektir; fikir üretme aşamasında eleştiri yapılmaz, değerlendirme sonra yapılır.",
     "source": {
       "kind": "generated",
@@ -695,13 +695,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Sınıfta okulun uygulamaya koyduğu yeni “telefonsuz gün” kararı tartışılırken öğrenci Tolga, planın uygulanabilirliğiyle ilgili olarak “Veliler tepki gösterebilir, denetim zor olur ve kuralı çiğneyenlere ne yapacağımız belli değil” demiştir.\n\nTolga, de Bono'nun altı şapkalı düşünme tekniğinde hangi renkteki şapkayı giymektedir?",
     "options": {
-      "A": "Beyaz şapka",
-      "B": "Siyah şapka",
+      "A": "Siyah şapka",
+      "B": "Beyaz şapka",
       "C": "Yeşil şapka",
       "D": "Sarı şapka",
       "E": "Kırmızı şapka"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Siyah şapka eleştirel ve olumsuz yönleri, riskleri ve sakıncaları dile getirir; sarı şapka ise olumlu yönleri ve yararları ele alır.",
     "source": {
       "kind": "generated",
@@ -719,12 +719,12 @@
     "stem": "Öğrenci Selma, okulda yeni bir geri dönüşüm kutusu kullanımını tartışırken “Kutuları okul çıkışında öğrencilerin yürüdüğü yola yerleştirebiliriz; üstelik her sınıfa renkli ve oyunlu bir kutu tasarlayıp yarışma açabiliriz” demiştir.\n\nSelma, altı şapkalı düşünme tekniğinde hangi şapkayı giymektedir?",
     "options": {
       "A": "Sarı şapka",
-      "B": "Yeşil şapka",
-      "C": "Siyah şapka",
-      "D": "Mavi şapka",
-      "E": "Beyaz şapka"
+      "B": "Siyah şapka",
+      "C": "Mavi şapka",
+      "D": "Beyaz şapka",
+      "E": "Yeşil şapka"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Yeşil şapka yaratıcılığı, yeni fikir ve alternatif üretmeyi temsil eder.",
     "source": {
       "kind": "generated",
@@ -742,12 +742,12 @@
     "stem": "Altı şapkalı düşünme etkinliğinde grup lideri Cem, tartışmayı açmış, hangi şapkayla ne kadar süre konuşulacağını belirlemiş, tartışma sonunda yapılanları özetlemiş ve bir sonraki adımı önermiştir.\n\nCem hangi şapkayı giymektedir?",
     "options": {
       "A": "Yeşil şapka",
-      "B": "Sarı şapka",
-      "C": "Mavi şapka",
+      "B": "Mavi şapka",
+      "C": "Sarı şapka",
       "D": "Beyaz şapka",
       "E": "Kırmızı şapka"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Mavi şapka süreci yöneten, düzenleyen ve özetleyen konumdur; düşünme sürecinin kontrolünü temsil eder.",
     "source": {
       "kind": "generated",
@@ -787,13 +787,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Bir lisede dört uzman, “yapay zekâ ve eğitim” konusunun farklı yönlerini birbirini kesmeden, her biri kendi hazırladığı sunumu yaparak sırayla anlatmıştır. Uzmanlar arasında karşılıklı bir tartışma yapılmamış; konuşmalar bittikten sonra yönetici söz vermiş ve dinleyiciler soru sormuştur.\n\nBu etkinlik aşağıdaki tekniklerden hangisine örnektir?",
     "options": {
-      "A": "Sempozyum",
-      "B": "Beyin fırtınası",
-      "C": "Forum",
-      "D": "Münazara",
+      "A": "Beyin fırtınası",
+      "B": "Forum",
+      "C": "Münazara",
+      "D": "Sempozyum",
       "E": "Akvaryum"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Sempozyumda birkaç uzman, aynı konunun farklı yönlerini önceden hazırladıkları sunumlarla sırayla anlatır; konuşmacılar arasında tartışma yoktur.",
     "source": {
       "kind": "generated",
@@ -811,12 +811,12 @@
     "stem": "Sosyal bilgiler dersinde “ev ödevi kaldırılmalıdır” önergesi için iki grup oluşturulmuştur. Bir grup bu görüşü savunmuş, diğer grup karşı çıkmış; her grup sırayla kanıt sunmuş ve karşı grubun görüşlerini çürütmeye çalışmış, öğretmenin başkanlık ettiği bir jüri oylama yapmıştır.\n\nBu etkinlik hangi tekniktir?",
     "options": {
       "A": "Sempozyum",
-      "B": "Forum",
-      "C": "Panel",
-      "D": "Beyin fırtınası",
-      "E": "Münazara"
+      "B": "Münazara",
+      "C": "Forum",
+      "D": "Panel",
+      "E": "Beyin fırtınası"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Münazarada iki karşıt grup bir önerge üzerinde zıt görüşleri savunur ve jüri değerlendirir.",
     "source": {
       "kind": "generated",
@@ -834,12 +834,12 @@
     "stem": "Edebiyat öğretmeni Ayşegül Hanım, sınıfı altışar kişilik gruplara ayırmış, her gruba altı dakikalık süre vererek “dijital çağda okuma alışkanlıkları” konusunda ortak bir sonuç üretmelerini istemiştir. Süre sonunda her grubun sözcüsü, grubunun vardığı ortak görüşü kısa bir sunumla sınıfa bildirmiştir.\n\nBu çalışmada hangi tekniğe başvurulmuştur?",
     "options": {
       "A": "Panel tekniği",
-      "B": "Altı-altı tekniği",
-      "C": "Akvaryum tekniği",
+      "B": "Akvaryum tekniği",
+      "C": "Altı-altı tekniği",
       "D": "Sempozyum tekniği",
       "E": "Beyin fırtınası tekniği"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Phillips 66 (altı-altı) tekniğinde sınıf altışar kişilik gruplara ayrılır ve her grup altı dakika boyunca bir soru veya konu üzerinde tartışır.",
     "source": {
       "kind": "generated",
@@ -856,13 +856,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Sosyoloji dersinde öğrencilerin bir bölümü sınıfın ortasında oturmuş ve “toplumda bireyin yeri” konusunu tartışmaktadır. Diğer öğrenciler tartışmacıların çevresinde dışarıdan bir halka oluşturmuş, söylenenleri sessizce gözlemleyip not almaktadır. Tartışma bitince roller değiştirilecek ve gözlemciler görüşlerini paylaşacaktır.\n\nBu çalışmada hangi tekniğe başvurulmaktadır?",
     "options": {
-      "A": "Akvaryum tekniği",
-      "B": "Altı-altı tekniği",
+      "A": "Altı-altı tekniği",
+      "B": "Akvaryum tekniği",
       "C": "Münazara tekniği",
       "D": "Panel tekniği",
       "E": "Sempozyum tekniği"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Akvaryum tekniğinde bir grup ortada tartışırken diğerleri dış halkada gözlemci olarak bulunur; sonra roller değişir.",
     "source": {
       "kind": "generated",
@@ -879,13 +879,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Okulda “çevre kirliliği” konusu bir uzman tarafından sunulduktan sonra, bütün sınıf dinleyicisi sunucuya soru sormuş, görüş bildirmiş ve konu hakkında geniş bir tartışma yürütülmüştür. Tartışma bir yönetici tarafından yönetilmiştir.\n\nBu etkinlik hangi tekniktir?",
     "options": {
-      "A": "Altı-altı tekniği",
-      "B": "Sempozyum tekniği",
-      "C": "Münazara tekniği",
-      "D": "Beyin fırtınası tekniği",
-      "E": "Forum tekniği"
+      "A": "Forum tekniği",
+      "B": "Altı-altı tekniği",
+      "C": "Sempozyum tekniği",
+      "D": "Münazara tekniği",
+      "E": "Beyin fırtınası tekniği"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Forumda konuşmacının sunumunun ardından dinleyicilerin tamamı konuya soru ve görüşlerle katılır; tartışmayı yönetici yönetir.",
     "source": {
       "kind": "generated",
@@ -903,12 +903,12 @@
     "stem": "Tarih öğretmeni Selçuk Bey, sınıfı dörtlü “ev grupları”na ayırmış ve her ev grubundaki öğrenciye farklı bir alt konu vermiştir. Aynı alt konuyu alan öğrenciler “uzman gruplarında” bir araya gelip konuyu öğrenmiş, sonra ev gruplarına dönerek öğrendiklerini grup arkadaşlarına öğretmiştir.\n\nSelçuk Bey hangi işbirlikli öğrenme tekniğini kullanmıştır?",
     "options": {
       "A": "TGT tekniği",
-      "B": "Takım destekli bireyselleştirme",
-      "C": "STAD tekniği",
-      "D": "Birlikte öğrenme tekniği",
-      "E": "Jigsaw tekniği"
+      "B": "Jigsaw tekniği",
+      "C": "Takım destekli bireyselleştirme",
+      "D": "STAD tekniği",
+      "E": "Birlikte öğrenme tekniği"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Jigsaw'da (Aronson) öğrenciler hem ev grubunda hem uzman grubunda yer alır; her öğrenci bir alt konuda uzmanlaşıp grup arkadaşlarına öğretir.",
     "source": {
       "kind": "generated",
@@ -925,13 +925,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Matematik öğretmeni Gülçin Hanım, farklı başarı düzeylerinden öğrencilerin bulunduğu dörtlü takımlar kurmuş, konuyu anlattıktan sonra takımların birlikte çalışmasını sağlamıştır. Ardından her öğrenci bireysel bir sınava girmiş; öğrencilerin kendi önceki başarılarına göre gösterdikleri gelişim puanı, takım puanına eklenmiştir.\n\nGülçin Hanım hangi işbirlikli öğrenme tekniğini uygulamıştır?",
     "options": {
-      "A": "Birlikte öğrenme tekniği",
-      "B": "Jigsaw tekniği",
-      "C": "STAD tekniği",
+      "A": "STAD tekniği",
+      "B": "Birlikte öğrenme tekniği",
+      "C": "Jigsaw tekniği",
       "D": "Beyin fırtınası tekniği",
       "E": "TGT tekniği"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "STAD'da (Slavin) heterojen takımlar çalışır, bireysel testlerden elde edilen gelişim puanları takım puanını oluşturur.",
     "source": {
       "kind": "generated",
@@ -948,13 +948,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Fen öğretmeni Kaan Bey, işbirlikli öğrenme grupları kurarken her gruba tek bir kaynak, tek bir ortak görev ve tek bir rapor yazma yükümlülüğü vermiştir; öyle ki grubun hiçbir üyesi diğerlerinin katkısı olmadan görevi tamamlayamamaktadır.\n\nKaan Bey, Johnson ve Johnson'ın işbirlikli öğrenmenin temel öğelerinden hangisini sağlamıştır?",
     "options": {
-      "A": "Olumlu bağımlılık",
-      "B": "Grup sürecinin değerlendirilmesi",
-      "C": "Sosyal beceriler",
-      "D": "Yüz yüze etkileşim",
-      "E": "Bireysel sorumluluk"
+      "A": "Grup sürecinin değerlendirilmesi",
+      "B": "Sosyal beceriler",
+      "C": "Yüz yüze etkileşim",
+      "D": "Bireysel sorumluluk",
+      "E": "Olumlu bağımlılık"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Olumlu bağımlılıkta grup üyelerinin başarısı birbirine bağlıdır; biri başarmadan grup başarılı olamaz (\"ya hep birlikte ya hiç\").",
     "source": {
       "kind": "generated",
@@ -971,13 +971,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Sınıf öğretmeni Nazlı Hanım, grup çalışmasından sonra grubun puanını, rastgele seçtiği bir üyenin bireysel performansına göre vermiştir. Böylece her öğrenci, grubun başarısı için kendi payını yerine getirmenin gerekli olduğunu görmüştür.\n\nBu uygulama işbirlikli öğrenmenin hangi öğesine örnektir?",
     "options": {
-      "A": "Bireysel sorumluluk",
-      "B": "Olumlu bağımlılık",
-      "C": "Sosyal beceriler",
-      "D": "Grup sürecinin değerlendirilmesi",
+      "A": "Olumlu bağımlılık",
+      "B": "Sosyal beceriler",
+      "C": "Grup sürecinin değerlendirilmesi",
+      "D": "Bireysel sorumluluk",
       "E": "Yüz yüze etkileşim"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Bireysel sorumluluk, her öğrencinin grup görevinden kendi payına düşeni yapmasının ve bunun ölçülmesinin gerekliliğini ifade eder.",
     "source": {
       "kind": "generated",
@@ -1017,13 +1017,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Teknoloji ve tasarım dersinde sınıf dört masaya ayrılmış, her masada farklı bir etkinlik hazırlanmıştır. Öğrenci grupları belli sürelerle bir masadan diğerine geçerek her etkinliği sırayla yapmaktadır.\n\nBu düzenleme hangi tekniğe örnektir?",
     "options": {
-      "A": "Beyin fırtınası",
-      "B": "Akvaryum",
-      "C": "Forum",
-      "D": "İstasyon tekniği",
+      "A": "İstasyon tekniği",
+      "B": "Beyin fırtınası",
+      "C": "Akvaryum",
+      "D": "Forum",
       "E": "Sempozyum"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "İstasyon tekniğinde sınıf farklı etkinlik masalarına (istasyonlara) ayrılır; gruplar belirli sürelerle dönüşümlü olarak her istasyonda çalışır.",
     "source": {
       "kind": "generated",
@@ -1063,13 +1063,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Öğretmen Selen Hanım, Bloom'un geliştirdiği anlayışa göre her ünitenin sonunda öğrencilerine bir ölçme uygulamakta, eksik bilgileri belirleyip öğrenciye ek zaman ve farklı öğrenme yaşantıları sunmakta; böylece sınıftaki öğrencilerin çoğunun üniteyi tam olarak öğrenmesini hedeflemektedir.\n\nSelen Hanım hangi öğretim modelini uygulamaktadır?",
     "options": {
-      "A": "Tam öğrenme",
-      "B": "Probleme dayalı öğrenme",
+      "A": "Probleme dayalı öğrenme",
+      "B": "Tam öğrenme",
       "C": "Modüler öğretim",
       "D": "Programlı öğretim",
       "E": "Ters yüz öğrenme"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Tam öğrenme modelinde (Bloom) öğrencilerin çoğunun, yeterli zaman ve çeşitli öğrenme yaşantılarıyla hedeflenen yeterliğe ulaşması amaçlanır; düzenli ölçme ve düzeltme etkinlikleri kullanılır.",
     "source": {
       "kind": "generated",
@@ -1086,13 +1086,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Bir ders materyalinde konu çok küçük adımlara bölünmüştür. Öğrenci her adımda bir bilgi okuyup soruyu yanıtlamakta, yanıtın doğruluğunu hemen görmekte ve doğru cevap onu bir sonraki adıma geçirerek pekiştirmektedir. Öğrenci kendi hızında ilerlemektedir.\n\nBu materyalin dayandığı öğretim modeli aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Proje tabanlı öğrenme",
-      "B": "Tam öğrenme",
-      "C": "Programlı öğretim",
+      "A": "Programlı öğretim",
+      "B": "Proje tabanlı öğrenme",
+      "C": "Tam öğrenme",
       "D": "Modüler öğretim",
       "E": "Ters yüz öğrenme"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Programlı öğretim (Skinner), konunun küçük adımlara bölündüğü, her adımda anında dönüt ve pekiştirme verilen, öğrencinin kendi hızında ilerlediği bireysel bir öğretim modelidir.",
     "source": {
       "kind": "generated",
@@ -1111,11 +1111,11 @@
     "options": {
       "A": "Programlı öğretim",
       "B": "Sempozyum",
-      "C": "Modüler öğretim",
-      "D": "Probleme dayalı öğrenme",
-      "E": "Tam öğrenme"
+      "C": "Probleme dayalı öğrenme",
+      "D": "Tam öğrenme",
+      "E": "Modüler öğretim"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Modüler öğretimde konu, hedef, etkinlik ve ölçme öğelerini içeren küçük bağımsız öğrenme paketlerine (modüllere) bölünür; öğrenci kendi hızında ilerler.",
     "source": {
       "kind": "generated",
@@ -1134,11 +1134,11 @@
     "options": {
       "A": "Açıklama",
       "B": "Girme",
-      "C": "Derinleştirme",
-      "D": "Değerlendirme",
-      "E": "Keşfetme"
+      "C": "Keşfetme",
+      "D": "Derinleştirme",
+      "E": "Değerlendirme"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "5E modelinde Keşfetme aşamasında öğrenciler somut deneyimlerle gözlem yapar, veri toplar ve açıklamayı henüz öğretmenden almadan kendi sorularıyla yüzleşir.",
     "source": {
       "kind": "generated",
@@ -1180,11 +1180,11 @@
     "options": {
       "A": "Modüler öğretim",
       "B": "Proje tabanlı öğrenme",
-      "C": "Ters yüz (flipped) öğrenme",
-      "D": "Tam öğrenme",
-      "E": "Programlı öğretim"
+      "C": "Tam öğrenme",
+      "D": "Programlı öğretim",
+      "E": "Ters yüz (flipped) öğrenme"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Ters yüz öğrenmede bilgi aktarımı sınıf dışına (video, okuma), uygulama ve etkileşim ise sınıf içine taşınır.",
     "source": {
       "kind": "generated",
@@ -1203,11 +1203,11 @@
     "options": {
       "A": "Dikkatin çekilmesi",
       "B": "Hedefin bildirilmesi",
-      "C": "Kalıcılığın ve transferin sağlanması",
-      "D": "Geri bildirim verilmesi",
-      "E": "Ön öğrenmelerin hatırlatılması"
+      "C": "Ön öğrenmelerin hatırlatılması",
+      "D": "Kalıcılığın ve transferin sağlanması",
+      "E": "Geri bildirim verilmesi"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Gagné'nin öğretim olayları arasında yer alan ön öğrenmelerin hatırlatılması, yeni öğrenmenin dayanacağı önceki bilgilerin çağrılmasıdır.",
     "source": {
       "kind": "generated",
@@ -1224,13 +1224,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Fen öğretmeni Ufuk Bey, öğrenciler deneyi yaptıktan sonra her öğrencinin sonucunu inceleyerek doğru ve yanlış yönlerini bildirmiş, yanlış yapan öğrenciye nerede hata yaptığını göstermiştir.\n\nBu uygulama Gagné'nin öğretim olaylarından hangisine örnektir?",
     "options": {
-      "A": "Geri bildirim sağlama",
-      "B": "Ön öğrenmelerin hatırlatılması",
-      "C": "Uyarıcının sunulması",
-      "D": "Dikkatin çekilmesi",
+      "A": "Ön öğrenmelerin hatırlatılması",
+      "B": "Uyarıcının sunulması",
+      "C": "Dikkatin çekilmesi",
+      "D": "Geri bildirim sağlama",
       "E": "Hedefin bildirilmesi"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Geri bildirim sağlama, öğrencinin performansının doğruluğu ve düzeltilmesi gereken yönleri hakkında bilgilendirilmesidir.",
     "source": {
       "kind": "generated",
@@ -1247,13 +1247,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Matematik öğretmeni Hakan Bey, derse başlar başlamaz tahtaya “Bu dersin sonunda üçgenleri kenar uzunluklarına göre sınıflandırabilecek ve her türün özelliğini bir örnekle açıklayabileceksiniz.” yazmış ve öğrencilerden bunu okumalarını istemiştir. Amacı, öğrencilerin dersten ne beklendiğini en başta bilmesidir.\n\nBu uygulama Gagné'nin öğretim olaylarından hangisine örnektir?",
     "options": {
-      "A": "Ön öğrenmelerin hatırlatılması",
-      "B": "Hedefin bildirilmesi",
+      "A": "Hedefin bildirilmesi",
+      "B": "Ön öğrenmelerin hatırlatılması",
       "C": "Geri bildirim sağlama",
       "D": "Kalıcılığın ve transferin sağlanması",
       "E": "Dikkatin çekilmesi"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Gagné'nin öğretim olaylarında hedefin bildirilmesi, öğrenciye ders sonunda neleri yapabileceğinin açıkça söylenmesi, böylece beklentinin ve odağın oluşturulmasıdır.",
     "source": {
       "kind": "generated",
@@ -1270,13 +1270,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Aşağıdaki hedef ifadelerinden hangisi davranışsal (ölçülebilir) bir hedef özelliği taşır?",
     "options": {
-      "A": "Öğrenci, üç basamaklı iki sayıyı hatasız çarpar.",
-      "B": "Öğrenci çarpma işlemini kavrar.",
-      "C": "Öğrenci çarpma işlemine ilgi duyar.",
-      "D": "Öğrenci çarpma işlemini sever.",
+      "A": "Öğrenci çarpma işlemini kavrar.",
+      "B": "Öğrenci çarpma işlemine ilgi duyar.",
+      "C": "Öğrenci çarpma işlemini sever.",
+      "D": "Öğrenci, üç basamaklı iki sayıyı hatasız çarpar.",
       "E": "Öğrenci çarpma işleminin önemini bilir."
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Davranışsal hedefler gözlenebilir ve ölçülebilir fiillerle yazılır. “Kavrar, sever, bilir, ilgi duyar” gibi ifadeler doğrudan gözlenemez.",
     "source": {
       "kind": "generated",
@@ -1318,11 +1318,11 @@
     "options": {
       "A": "Zaman kaybına yol açması",
       "B": "Büyük sınıflarda uygulanamaması",
-      "C": "Öğrenciyi pasif konuma düşürmesi",
-      "D": "Bilgi aktarımını sınırlaması",
+      "C": "Bilgi aktarımını sınırlaması",
+      "D": "Öğrenciyi pasif konuma düşürmesi",
       "E": "Hazırlık gerektirmemesi"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Anlatım yönteminde öğrenci genellikle dinleyici durumundadır; bu durum katılımı ve öğrenme kalıcılığını sınırlayabilir. Yöntemin güçlü yanı kısa sürede çok bilgi aktarılabilmesidir.",
     "source": {
       "kind": "generated",
@@ -1409,12 +1409,12 @@
     "stem": "Teknoloji ve tasarım öğretmeni, basit bir elektrik devresinin nasıl kurulacağını önce öğrencilerin önünde adım adım kurup çalıştırarak göstermiş, ardından her öğrenciden aynı devreyi kendi malzemeleriyle kurmasını istemiştir. Öğretmen, kurma sırasında dolaşıp hatalı bağlantıları düzeltmiştir.\n\nBu öğretimde kullanılan teknik aşağıdakilerden hangisidir?",
     "options": {
       "A": "Beyin fırtınası",
-      "B": "Gösterip yaptırma",
-      "C": "Panel",
+      "B": "Panel",
+      "C": "Gösterip yaptırma",
       "D": "Buluş yoluyla öğretim",
       "E": "Soru-cevap"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Bir becerinin öğretmen tarafından önce gösterilmesi, sonra öğrencilerin uygulayarak yapması gösterip yaptırma (demonstrasyon) tekniğidir.",
     "source": {
       "kind": "generated",
@@ -1433,11 +1433,11 @@
     "options": {
       "A": "Programlı öğretim",
       "B": "Tam öğrenme",
-      "C": "Mikro öğretim",
-      "D": "Gösterip yaptırma",
-      "E": "Akran öğretimi"
+      "C": "Gösterip yaptırma",
+      "D": "Akran öğretimi",
+      "E": "Mikro öğretim"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Kısa süreli, küçük gruba yönelik, kayıt edilip dönüt alınarak yinelenen öğretim uygulamasına mikro öğretim denir; öğretmen eğitiminde beceri geliştirmek için kullanılır.",
     "source": {
       "kind": "generated",
@@ -1454,13 +1454,13 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Öğrenciler, fen bilimleri dersinde “Su döngüsü” konusunu, buharlaşma, yoğuşma ve yağış gibi kavramları kutular içine yazıp aralarını “…sonucunda oluşur” gibi bağ cümleleriyle çizgilerle birleştirerek ve genel kavramları üste yerleştirerek özetlemiştir. Öğretmen bu çalışmadan öğrencilerin kavram yanılgılarını da belirlemiştir.\n\nÖğrencilerin hazırladığı araç aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Venn şeması",
-      "B": "Kavram haritası",
+      "A": "Kavram haritası",
+      "B": "Venn şeması",
       "C": "Zaman çizelgesi",
       "D": "Balık kılçığı diyagramı",
       "E": "Akış şeması"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Kavramların hiyerarşik düzende, aralarındaki ilişkiyi gösteren bağlayıcı ifadelerle ilişkilendirildiği çizimlere kavram haritası denir.",
     "source": {
       "kind": "generated",
@@ -1480,10 +1480,10 @@
       "A": "Sunuş yoluyla öğretim",
       "B": "Panel",
       "C": "Gezi-gözlem",
-      "D": "Bireyselleştirilmiş öğretim",
-      "E": "İşbirlikli öğrenme"
+      "D": "İşbirlikli öğrenme",
+      "E": "Bireyselleştirilmiş öğretim"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Her öğrencinin kendi hızında, kendi öğrenme paketleriyle ve başarı ölçütünü karşılayınca ilerlediği düzenlemeler bireyselleştirilmiş öğretimdir.",
     "source": {
       "kind": "generated",
@@ -1500,18 +1500,133 @@
     "konu": "ogretim_yontem_teknikleri",
     "stem": "Türkçe öğretmeni, sınıfa dört ayrı köşe kurmuştur: bir köşede okuma metni, bir köşede dinleme kaydı, bir köşede yazma etkinliği, bir köşede sözcük oyunu vardır. Öğrenci grupları her köşede on dakika çalışıp öğretmenin işaretiyle bir sonraki köşeye geçmekte, derste bütün köşeleri dolaşmaktadır.\n\nÖğretmenin kullandığı teknik aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Forum",
-      "B": "Gezi-gözlem",
-      "C": "Sempozyum",
-      "D": "İstasyon tekniği",
+      "A": "İstasyon tekniği",
+      "B": "Forum",
+      "C": "Gezi-gözlem",
+      "D": "Sempozyum",
       "E": "Panel"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Sınıfta farklı etkinliklerin yer aldığı istasyonlara grupların sırayla geçtiği öğretim tekniğine istasyon tekniği denir.",
     "source": {
       "kind": "generated",
       "styleRef": "AGS_URETIM_KURALLARI",
       "legislationRef": "Öğretim teknikleri: istasyon"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-067",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Coğrafya öğretmeni Türkiye'nin iklim bölgelerini işlerken önce bütün ülkenin genel iklim özelliklerini ve bölgelerin harita üzerindeki yerini göstermiş, ardından sırasıyla her bölgenin sıcaklık, yağış ve bitki örtüsü özelliklerine ayrıntılı olarak girmiştir. Derste genel çerçeve önce, ayrıntılar sonra verilmiştir.\n\nÖğretmenin izlediği öğretim ilkesi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Parçadan bütüne",
+      "B": "Somuttan soyuta",
+      "C": "Basitten karmaşığa",
+      "D": "Bütünden parçaya",
+      "E": "Yakından uzağa"
+    },
+    "answer": "D",
+    "solution": "Bütünden parçaya ilkesinde konunun genel çerçevesi önce sunulur, ayrıntılara sonra inilir; parçadan bütüne ilkesinde ise önce ayrıntılar verilip sonra bütün oluşturulur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öğretim ilkeleri: bütünden parçaya"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-068",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Sınıf rehber öğretmeni, öğrencilerle birlikte “Derslerde başarısızlık” sorununu tahtadaki bir şeklin baş kısmına yazmış; öğrenciler sorunun olası nedenlerini “öğrenci”, “öğretmen”, “aile” ve “okul ortamı” başlıklı dallara ayırarak yazmış, her dalın altına ayrıntılı nedenler eklemiştir.\n\nBu çalışmada aşağıdaki tekniklerden hangisi kullanılmıştır?",
+    "options": {
+      "A": "Beyin fırtınası",
+      "B": "Altı şapkalı düşünme",
+      "C": "Kavram haritası",
+      "D": "Zihin haritası",
+      "E": "Balık kılçığı tekniği"
+    },
+    "answer": "E",
+    "solution": "Balık kılçığı (neden–sonuç) diyagramında sorun balığın baş kısmına yazılır; olası nedenler kategorilere ayrılarak kılçıklara yerleştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Balık kılçığı tekniği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-069",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğretmen, ders planını hazırlarken dersin başında öğrencilerin yeni konuyu öğrenebilmesi için daha önce edinmiş olmaları gereken bilgi ve becerileri belirlemiş ve bunları planın bir bölümüne yazmıştır. Derse başlamadan önce öğrencilerin bu bilgi ve becerilere sahip olup olmadığını yoklamayı da planlamıştır.\n\nÖğretmenin planında yazdığı bu bölüm aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ölçme-değerlendirme etkinliği",
+      "B": "Ek kaynaklar",
+      "C": "Hedef davranışlar",
+      "D": "Sınıf düzeni",
+      "E": "Giriş davranışları"
+    },
+    "answer": "E",
+    "solution": "Giriş (ön koşul) davranışları, yeni öğrenmeye geçmeden önce öğrencide bulunması gereken önceki bilgi ve becerilerdir; ders planında hedef davranışlardan ayrı belirtilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ders planı: giriş davranışları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-070",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Öğretmen adayı Burcu, üniversitede öğretim becerilerini geliştirmek için beş dakikalık kısa bir dersi yalnızca üç dört öğrencinin bulunduğu küçük bir gruba anlatmış; dersin kamera kaydı arkadaşlarıyla birlikte izlenerek soru sorma becerisi üzerinde dönüt verilmiştir.\n\nBu uygulama aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Gösterip yaptırma",
+      "B": "Örnek olay incelemesi",
+      "C": "Rol oynama",
+      "D": "Mikro öğretim",
+      "E": "Simülasyon"
+    },
+    "answer": "D",
+    "solution": "Mikro öğretimde kısa süreli, küçük gruba yapılan ve kayıtla izlenen ders sunuları aracılığıyla belirli öğretim becerileri geliştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Mikro öğretim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-oyt-071",
+    "ders": "egitim_bilimleri",
+    "konu": "ogretim_yontem_teknikleri",
+    "stem": "Matematik öğretmeni her ünite sonunda kısa bir biçimlendirici test uygulamakta, kazanımlara ulaşamayan öğrencilere farklı materyallerle ve ek sürelerle yeniden öğretim yapmaktadır. Hedefi, öğrencilerin büyük çoğunluğunun ünite kazanımlarına belirlenen ölçüte ulaşmasını sağlamaktır.\n\nÖğretmenin kullandığı öğretim modeli aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tam öğrenme modeli",
+      "B": "Proje tabanlı öğrenme",
+      "C": "Probleme dayalı öğrenme",
+      "D": "İşbirlikli öğrenme",
+      "E": "Buluş yoluyla öğrenme"
+    },
+    "answer": "A",
+    "solution": "Bloom'un tam öğrenme modelinde ön öğrenmeler tamamlanır, biçimlendirici değerlendirme yapılır, eksiklikler düzeltici öğretim ve ek zamanla giderilerek öğrencilerin çoğunun ustalaşması amaçlanır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tam öğrenme modeli (Bloom)"
     },
     "validYear": 2026,
     "difficulty": "medium",

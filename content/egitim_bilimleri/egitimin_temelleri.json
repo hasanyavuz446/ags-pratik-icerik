@@ -5,13 +5,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Ayşe Hanım, kızı Elif'le birlikte pazara gittiğinde Elif satıcılarla yapılan pazarlığı, para üstü hesabını ve kibar konuşma biçimlerini yalnızca gözlemleyerek öğrenmektedir. Bu sırada amaçlanmış bir program, belirlenmiş bir süre veya bir kurum bulunmamaktadır.\n\nBu öğrenme ortamı aşağıdaki eğitim türlerinden hangisine örnektir?",
     "options": {
-      "A": "Hizmet içi eğitim",
-      "B": "Uzaktan eğitim",
-      "C": "Gelişigüzel (informal) eğitim",
+      "A": "Gelişigüzel (informal) eğitim",
+      "B": "Hizmet içi eğitim",
+      "C": "Uzaktan eğitim",
       "D": "Yaygın (non-formal) eğitim",
       "E": "Örgün (formal) eğitim"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Planlanmamış, kurum ve program dışında gündelik yaşam içinde gerçekleşen eğitime gelişigüzel (informal) eğitim denir. Örgün eğitim okul sisteminde, yaygın eğitim ise okul sistemi dışında ama planlı biçimde yürütülür.",
     "source": {
       "kind": "generated",
@@ -28,13 +28,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Bir halk eğitim merkezinde, okul çağını geçirmiş yetişkinlere yönelik bir okuma-yazma kursu açılmıştır. Kursun belirli bir programı, kursiyer listesi, haftalık ders çizelgesi ve süresi bulunmakta; ancak kurs, örgün eğitim sisteminin kademelerine bağlı olmadan ve diploma vermeden yürütülmektedir.\n\nBu uygulama hangi eğitim türüne girer?",
     "options": {
-      "A": "Hizmet öncesi eğitim",
-      "B": "Orta öğretim",
-      "C": "Örgün (formal) eğitim",
-      "D": "Yaygın (non-formal) eğitim",
+      "A": "Yaygın (non-formal) eğitim",
+      "B": "Hizmet öncesi eğitim",
+      "C": "Orta öğretim",
+      "D": "Örgün (formal) eğitim",
       "E": "Gelişigüzel (informal) eğitim"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Okul sisteminin dışında, planlı ve programlı biçimde yürütülen eğitim yaygın (non-formal) eğitimdir. Halk eğitim merkezi kursları tipik örnektir.",
     "source": {
       "kind": "generated",
@@ -52,12 +52,12 @@
     "stem": "Rehber öğretmen, öğrencilerin ilgi, yetenek ve başarı düzeylerini belirleyerek her birinin kendisine uygun program ve okullara yönelmesini sağlamaktadır. Böylece toplumun ihtiyaç duyduğu çeşitli meslek dallarına yeterli sayıda ve nitelikte insan yetişmesi, her bireyin de kendi kapasitesine uygun bir yerde bulunması amaçlanmaktadır.\n\nBu çalışma eğitimin hangi işlevine örnektir?",
     "options": {
       "A": "Toplumsal değişmeyi hızlandırma işlevi",
-      "B": "Seçme ve yerleştirme işlevi",
-      "C": "Toplumsal kontrol işlevi",
-      "D": "Kültürü aktarma işlevi",
-      "E": "Siyasal sosyalleşme işlevi"
+      "B": "Toplumsal kontrol işlevi",
+      "C": "Kültürü aktarma işlevi",
+      "D": "Siyasal sosyalleşme işlevi",
+      "E": "Seçme ve yerleştirme işlevi"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Eğitim, bireyleri yetenekleri doğrultusunda eğitim kademelerine ve mesleklere yönlendirerek toplumda uygun yerlere yerleştirir; buna seçme ve yerleştirme işlevi denir.",
     "source": {
       "kind": "generated",
@@ -121,12 +121,12 @@
     "stem": "Yeni göreve başlayan öğretmen, öğrencilerin sırada beklemeyi, sırayla söz almayı, arkadaşlarına saygı göstermeyi ve okul kurallarına uymayı öğrenmesini sağlayan bir sınıf düzeni kurmuştur. Böylece öğrenciler toplumun değer, norm ve rollerini öğrenerek topluma uyum sağlamaktadır.\n\nBu süreç aşağıdaki kavramlardan hangisiyle ifade edilir?",
     "options": {
       "A": "Sosyal değişme",
-      "B": "Sosyal hareketlilik",
-      "C": "Kültürel gecikme",
-      "D": "Toplumsallaşma",
+      "B": "Toplumsallaşma",
+      "C": "Sosyal hareketlilik",
+      "D": "Kültürel gecikme",
       "E": "Kültürleşme (akültürasyon)"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Bireyin içinde yaşadığı toplumun değer, norm ve rollerini öğrenerek topluma uyum sağlaması sürecine toplumsallaşma denir; okul ikincil toplumsallaştırıcı kurumdur.",
     "source": {
       "kind": "generated",
@@ -143,13 +143,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Çocuğun ilk toplumsallaşma ortamı ve bu süreçteki en etkili birincil grup aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Kitle iletişim araçları",
-      "B": "Akran grubu",
-      "C": "Aile",
+      "A": "Aile",
+      "B": "Kitle iletişim araçları",
+      "C": "Akran grubu",
       "D": "Okul",
       "E": "Din kurumu"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Çocuğun doğumdan itibaren ilk karşılaştığı ve temel değer, norm ve davranışları edindiği birincil grup ailedir. Okul ise ikincil toplumsallaştırıcıdır.",
     "source": {
       "kind": "generated",
@@ -166,13 +166,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Felsefe öğretmeni Selin Hanım, derslerinde gerçek bilginin duyularla değil, akılla ve düşünce yoluyla elde edildiğini savunmaktadır. Öğrencilerine sorular yönelterek her birinin zihnindeki doğruyu kendisinin ortaya çıkarmasına yardım etmekte, sınıfta tartışmalı sorulara diyalog yoluyla yanıt aramaktadır.\n\nSelin Hanım'ın bu anlayışı hangi felsefi akıma dayanmaktadır?",
     "options": {
-      "A": "Pragmatizm",
-      "B": "Varoluşçuluk",
-      "C": "Realizm",
-      "D": "İdealizm",
+      "A": "İdealizm",
+      "B": "Pragmatizm",
+      "C": "Varoluşçuluk",
+      "D": "Realizm",
       "E": "Pozitivizm"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "İdealizme göre gerçeklik fikirler dünyasındadır; bilgi akıl yoluyla elde edilir. Sokrates'in soru-cevap (diyalog) yöntemi ve Platon'un fikirler kuramı idealist eğitim anlayışının tipik örnekleridir.",
     "source": {
       "kind": "generated",
@@ -214,11 +214,11 @@
     "options": {
       "A": "Varoluşçuluk",
       "B": "Daimicilik",
-      "C": "Realizm",
-      "D": "Pragmatizm",
+      "C": "Pragmatizm",
+      "D": "Realizm",
       "E": "İdealizm"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Pragmatizm, bilginin doğruluğunu pratikte sağladığı fayda ve işe yararlılığıyla ölçer. Dewey'in \"yaparak yaşayarak öğrenme\" anlayışı bu akımın eğitime yansımasıdır.",
     "source": {
       "kind": "generated",
@@ -237,11 +237,11 @@
     "options": {
       "A": "Esasicilik",
       "B": "Pozitivizm",
-      "C": "Varoluşçuluk",
-      "D": "Realizm",
+      "C": "Realizm",
+      "D": "Varoluşçuluk",
       "E": "İdealizm"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Varoluşçulukta birey özgürdür; kendi anlamını seçimleriyle yaratır ve sorumluluğunu taşır (\"varoluş özden önce gelir\"). Öğretmen rehberdir, öğrenciye seçme özgürlüğü tanınır.",
     "source": {
       "kind": "generated",
@@ -259,12 +259,12 @@
     "stem": "Rousseau'nun Emile adlı eserinde savunduğu gibi, ana okulu öğretmeni Gül Hanım çocukların doğal gelişimlerine müdahale etmemekte, onları toplumun baskı ve yapaylıklarından uzak, bahçede ve doğal ortamlarda kendi hızlarında keşfetmeye bırakmakta, çocuğun içinden gelen eğilimlerin gelişmesine engel olmamaya özen göstermektedir.\n\nGül Hanım'ın bu anlayışı aşağıdaki akımlardan hangisiyle ilişkilidir?",
     "options": {
       "A": "Yeniden kurmacılık",
-      "B": "Pozitivizm",
-      "C": "Esasicilik",
-      "D": "Doğalcılık",
+      "B": "Doğalcılık",
+      "C": "Pozitivizm",
+      "D": "Esasicilik",
       "E": "Daimicilik"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Doğalcılığa göre çocuk doğuştan iyidir; eğitim çocuğun doğal gelişimini engellememeli, onu toplumun olumsuz etkilerinden korumalıdır. Rousseau'nun Emile'i bu görüşün temel eseridir.",
     "source": {
       "kind": "generated",
@@ -281,13 +281,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Edebiyat öğretmeni Cem Bey, her çağda geçerli olan evrensel ve değişmez gerçeklerin bulunduğuna inanmaktadır. Öğrencilerinin akıl yeteneğini geliştirmek için dünya klasiklerini okutmakta, okul programının değişen toplumsal ihtiyaçlara göre değil, bu değişmez ilkelere göre kurulması gerektiğini savunmaktadır.\n\nCem Bey'in eğitim anlayışı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Daimicilik",
-      "B": "Yeniden kurmacılık",
-      "C": "Varoluşçuluk",
-      "D": "Esasicilik",
+      "A": "Yeniden kurmacılık",
+      "B": "Varoluşçuluk",
+      "C": "Esasicilik",
+      "D": "Daimicilik",
       "E": "İlerlemecilik"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Daimicilik; değişmeyen evrensel gerçeklere, aklın geliştirilmesine ve klasik eserlere (büyük kitaplara) dayanır. Programı toplumsal ihtiyaçlardan çok değişmez ilkeler belirler.",
     "source": {
       "kind": "generated",
@@ -305,12 +305,12 @@
     "stem": "Okul müdürü Fatma Hanım, ilkokulda okuma-yazma, temel matematik ve fen bilgilerinin öğrencilere sistemli biçimde kazandırılmasını, toplumun kültürel mirasının öğretmen tarafından aktarılmasını ve çağın gerektirdiği temel becerilerin öncelikle verilmesini istemektedir. Programın öğretmen merkezli olmasını savunmaktadır.\n\nFatma Hanım'ın bu anlayışı aşağıdakilerden hangisine karşılık gelir?",
     "options": {
       "A": "Yeniden kurmacılık",
-      "B": "İlerlemecilik",
-      "C": "Daimicilik",
-      "D": "Doğalcılık",
-      "E": "Esasicilik"
+      "B": "Esasicilik",
+      "C": "İlerlemecilik",
+      "D": "Daimicilik",
+      "E": "Doğalcılık"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Esasicilik, kültürel mirasın temel bilgi ve becerilerini (okuma-yazma, matematik, fen) öğretmen merkezli ve sistemli biçimde aktarmayı savunur. Daimicilikten farkı, değişmez klasikler yerine çağın gerektirdiği temel bilgi ve becerileri öne çıkarmasıdır.",
     "source": {
       "kind": "generated",
@@ -353,10 +353,10 @@
       "A": "Esasicilik",
       "B": "Doğalcılık",
       "C": "Daimicilik",
-      "D": "İlerlemecilik",
-      "E": "Yeniden kurmacılık"
+      "D": "Yeniden kurmacılık",
+      "E": "İlerlemecilik"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Yeniden kurmacılık (reconstructionism), okulu toplumsal sorunları çözen ve yeni, daha adil bir toplum düzeni kuran bir araç olarak görür; Brameld ve Counts temsilcileridir.",
     "source": {
       "kind": "generated",
@@ -422,10 +422,10 @@
       "A": "Johann Herbart",
       "B": "Jean-Jacques Rousseau",
       "C": "Platon",
-      "D": "Jean Piaget",
-      "E": "John Dewey"
+      "D": "John Dewey",
+      "E": "Jean Piaget"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "John Dewey, pragmatizmin eğitime uygulayıcısı ve ilerlemeci eğitimin en önemli temsilcisidir; eğitimi yaşamla bütünleştirmeyi savunmuştur.",
     "source": {
       "kind": "generated",
@@ -442,13 +442,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Sosyoloji öğretmeni Alper Bey, toplumsal olayların da doğa olayları gibi gözlem, deney ve karşılaştırma yoluyla incelenebileceğini, toplumların gelişmesinin bilimsel yasalara bağlı olduğunu ve metafizik açıklamaların yerini bilimsel bilginin alması gerektiğini söylemektedir. Öğrencilerine olguları yansız gözlemleyip kaydetmelerini öğütlemektedir.\n\nAlper Bey'in bu görüşü aşağıdaki akımlardan hangisiyle ilişkilidir?",
     "options": {
-      "A": "Daimicilik",
-      "B": "Pozitivizm",
+      "A": "Pozitivizm",
+      "B": "Daimicilik",
       "C": "Varoluşçuluk",
       "D": "İdealizm",
       "E": "Doğalcılık"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Pozitivizm (Comte), bilgiyi yalnızca gözlem ve deneye dayandırır, toplumsal olayların da bilimsel yöntemlerle incelenebileceğini savunur ve metafizik açıklamaları reddeder.",
     "source": {
       "kind": "generated",
@@ -465,13 +465,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Okullara akıllı tahtalar ve tabletler hızla yerleştirilmiş, ancak öğretmenlerin büyük bölümü derslerini hâlâ eski yöntemlerle sürdürmekte, yeni araçların nasıl kullanılacağına ilişkin tutum ve alışkanlıklarını değiştirmekte zorlanmaktadır. Teknolojik araçlar kısa sürede değişirken, öğretim alışkanlıkları ve tutumları aynı hızda değişmemiştir.\n\nBu durumu açıklayan kavram aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Kültür aktarımı",
-      "B": "Kültürel gecikme",
+      "A": "Kültürel gecikme",
+      "B": "Kültür aktarımı",
       "C": "Kültürleşme",
       "D": "Toplumsallaşma",
       "E": "Sosyal kontrol"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Ogburn'a göre maddi kültür (teknoloji) manevi kültürden (tutum, değer, alışkanlık) daha hızlı değişir; aradaki uyumsuzluğa kültürel gecikme denir.",
     "source": {
       "kind": "generated",
@@ -488,13 +488,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Başka bir ülkeden göç ederek gelen ailelerin çocukları, sürekli temas içinde oldukları okulda ve çevrede zamanla yeni toplumun dilini, alışkanlıklarını ve kurallarını benimsemekte, kendi kültürel özelliklerinin bir kısmı da değişmekte; aynı zamanda yerli çocukların bazı alışkanlıkları da bu temastan etkilenmektedir.\n\nBu süreç aşağıdaki kavramlardan hangisiyle ifade edilir?",
     "options": {
-      "A": "Kültürleşme (akültürasyon)",
-      "B": "Sosyal kontrol",
-      "C": "Kültürel gecikme",
-      "D": "Dikey hareketlilik",
+      "A": "Sosyal kontrol",
+      "B": "Kültürel gecikme",
+      "C": "Dikey hareketlilik",
+      "D": "Kültürleşme (akültürasyon)",
       "E": "Toplumsallaşma"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "İki farklı kültürün sürekli ve doğrudan teması sonucu kültürel özelliklerin karşılıklı değişmesine kültürleşme (akültürasyon) denir.",
     "source": {
       "kind": "generated",
@@ -514,10 +514,10 @@
       "A": "Yatay sosyal hareketlilik",
       "B": "Coğrafi hareketlilik",
       "C": "Sosyal tabakalaşma",
-      "D": "Sosyal kontrol",
-      "E": "Dikey sosyal hareketlilik"
+      "D": "Dikey sosyal hareketlilik",
+      "E": "Sosyal kontrol"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Bireyin bir sosyal tabakadan diğerine (yukarı veya aşağı) geçmesine dikey sosyal hareketlilik denir; eğitim, dikey hareketliliğin en önemli kanallarından biridir.",
     "source": {
       "kind": "generated",
@@ -534,13 +534,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Bir eğitim sosyoloğu, okulun toplumun düzen ve devamlılığı için gereken ortak değer ve normları yeni kuşaklara kazandırdığını, böylece toplumsal bütünleşmeyi sağladığını ve toplumdaki farklı rollere uygun bireyler yetiştirdiğini, okuldaki başarının da bireyin yeteneğine göre toplumda uygun yeri bulmasını sağladığını ileri sürmektedir.\n\nBu sosyolog eğitime hangi kuramsal yaklaşımla bakmaktadır?",
     "options": {
-      "A": "Fonksiyonalist (işlevselci) yaklaşım",
-      "B": "Davranışçı yaklaşım",
-      "C": "Çatışma kuramı",
-      "D": "Sembolik etkileşimcilik",
-      "E": "Eleştirel pedagoji"
+      "A": "Davranışçı yaklaşım",
+      "B": "Çatışma kuramı",
+      "C": "Sembolik etkileşimcilik",
+      "D": "Eleştirel pedagoji",
+      "E": "Fonksiyonalist (işlevselci) yaklaşım"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Fonksiyonalist yaklaşım okulu, toplumun uyumlu işleyişini ve bütünleşmesini sağlayan bir kurum olarak görür; Durkheim ve Parsons temsilcileridir.",
     "source": {
       "kind": "generated",
@@ -559,11 +559,11 @@
     "options": {
       "A": "Yapılandırmacılık",
       "B": "Davranışçılık",
-      "C": "Fonksiyonalizm",
-      "D": "Beşeri sermaye kuramı",
-      "E": "Çatışma kuramı"
+      "C": "Çatışma kuramı",
+      "D": "Fonksiyonalizm",
+      "E": "Beşeri sermaye kuramı"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Çatışma kuramı okulu, egemen sınıfın ayrıcalıklarını ve eşitsizliği yeniden üreten bir kurum olarak değerlendirir (Marx, Bourdieu, Bowles & Gintis).",
     "source": {
       "kind": "generated",
@@ -718,13 +718,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Bir okulda öğrencilerin okul kurallarına uyması için ödül ve ceza sistemi uygulanmakta, kurallara uymayanlara disiplin işlemi yapılmakta, yönetici ve öğretmenler davranışları sürekli izlemektedir. Bu uygulamalarla öğrencilerin toplumun beklentilerine uygun davranması sağlanmaktadır.\n\nBu durum eğitimin hangi işlevine örnektir?",
     "options": {
-      "A": "Seçme ve yerleştirme",
-      "B": "Sosyal hareketliliği sağlama",
-      "C": "Sosyal kontrol",
+      "A": "Sosyal kontrol",
+      "B": "Seçme ve yerleştirme",
+      "C": "Sosyal hareketliliği sağlama",
       "D": "Toplumsal değişmeyi hızlandırma",
       "E": "Kültürü aktarma"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Eğitim kurumları kurallar, ödül ve ceza yoluyla bireylerin toplumsal normlara uygun davranmasını sağlayarak sosyal kontrol işlevini yerine getirir.",
     "source": {
       "kind": "generated",
@@ -744,10 +744,10 @@
       "A": "Sembolik etkileşim kuramı",
       "B": "Çatışma kuramı",
       "C": "Kültürel sermaye kuramı",
-      "D": "Fonksiyonalist kuram",
-      "E": "Beşeri (insan) sermayesi kuramı"
+      "D": "Beşeri (insan) sermayesi kuramı",
+      "E": "Fonksiyonalist kuram"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Beşeri sermaye kuramına (Schultz, Becker) göre eğitim bir yatırımdır; bireyin üretkenliğini ve gelirini, dolayısıyla ulusal geliri artırır.",
     "source": {
       "kind": "generated",
@@ -766,11 +766,11 @@
     "options": {
       "A": "Sabit maliyet",
       "B": "Marjinal maliyet",
-      "C": "Doğrudan maliyet",
-      "D": "Fırsat maliyeti",
+      "C": "Fırsat maliyeti",
+      "D": "Doğrudan maliyet",
       "E": "Toplumsal getiri"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Bir kaynağın (zaman, para) başka bir alternatifte kullanılması hâlinde elde edilebilecek getirinin kaybına fırsat maliyeti denir; öğrencinin vazgeçtiği kazanç eğitimin dolaylı maliyetidir.",
     "source": {
       "kind": "generated",
@@ -790,10 +790,10 @@
       "A": "Doğrudan maliyet",
       "B": "Bireysel getiri",
       "C": "Fırsat maliyeti",
-      "D": "Marjinal verim",
-      "E": "Dışsal (toplumsal) getiri"
+      "D": "Dışsal (toplumsal) getiri",
+      "E": "Marjinal verim"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Eğitimin bireyin kendisi dışında topluma sağladığı yararlara (suç oranında azalma, sağlık, demokratik katılım) dışsal ya da toplumsal getiri denir.",
     "source": {
       "kind": "generated",
@@ -811,12 +811,12 @@
     "stem": "Bir ülkede eğitim planlamacıları, ekonominin gelecekte ihtiyaç duyacağı mühendis, teknisyen ve öğretmen sayılarını belirleyerek yükseköğretim kontenjanlarını buna göre düzenlemektedir.\n\nBu planlama aşağıdaki yaklaşımlardan hangisine dayanmaktadır?",
     "options": {
       "A": "Toplumsal (sosyal) talep yaklaşımı",
-      "B": "Katılımcı planlama yaklaşımı",
-      "C": "Merkezî olmayan planlama yaklaşımı",
-      "D": "Getiri oranı yaklaşımı",
-      "E": "İnsan gücü ihtiyacı yaklaşımı"
+      "B": "İnsan gücü ihtiyacı yaklaşımı",
+      "C": "Katılımcı planlama yaklaşımı",
+      "D": "Merkezî olmayan planlama yaklaşımı",
+      "E": "Getiri oranı yaklaşımı"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "İnsan gücü ihtiyacı yaklaşımı eğitim planlamasını ekonominin gelecekteki nitelikli iş gücü ihtiyacına göre yapar; toplumsal talep ise bireylerin eğitime yönelik taleplerini esas alır.",
     "source": {
       "kind": "generated",
@@ -833,13 +833,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Bir ilde ortaöğretime geçişte her yıl artan başvuru sayısına göre yeni okul açılmakta; kontenjanlar, ilin ekonomisinin hangi mesleklerde işgücüne ihtiyaç duyduğuna bakılmaksızın, ailelerin ve öğrencilerin eğitime yönelik talebi doğrultusunda genişletilmektedir.\n\nBu uygulama hangi eğitim planlama yaklaşımına örnektir?",
     "options": {
-      "A": "Merkezî planlama yaklaşımı",
-      "B": "Bölgesel kalkınma yaklaşımı",
-      "C": "Toplumsal (sosyal) talep yaklaşımı",
+      "A": "Toplumsal (sosyal) talep yaklaşımı",
+      "B": "Merkezî planlama yaklaşımı",
+      "C": "Bölgesel kalkınma yaklaşımı",
       "D": "Getiri oranı yaklaşımı",
       "E": "İnsan gücü ihtiyacı yaklaşımı"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Toplumsal talep yaklaşımı, eğitim planlamasını bireylerin ve ailelerin eğitim kademelerine yönelik talebine göre yapar.",
     "source": {
       "kind": "generated",
@@ -880,12 +880,12 @@
     "stem": "Bir kamu kurumu yetkilisi, eğitimin ekonomik büyümeye katkısını ölçerken eğitim düzeyi yükseldikçe bireylerin gelirlerinin arttığını ve işsizlik riskinin azaldığını göstermiştir.\n\nBu bulgu eğitimin hangi işlevini gösterir?",
     "options": {
       "A": "Sosyal kontrol işlevini",
-      "B": "Ekonomik işlevini",
-      "C": "Siyasal sosyalleşme işlevini",
-      "D": "Seçme ve yerleştirme işlevini",
+      "B": "Siyasal sosyalleşme işlevini",
+      "C": "Seçme ve yerleştirme işlevini",
+      "D": "Ekonomik işlevini",
       "E": "Kültürel aktarım işlevini"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Eğitim bireylerin gelirini artırır, iş bulma olanağını yükseltir ve ulusal kalkınmayı destekler; bunlar eğitimin ekonomik işlevleridir.",
     "source": {
       "kind": "generated",
@@ -905,10 +905,10 @@
       "A": "Doğrudan maliyet",
       "B": "Fırsat maliyeti",
       "C": "Marjinal verim",
-      "D": "Bireysel (özel) getiri",
-      "E": "Dışsal (toplumsal) getiri"
+      "D": "Dışsal (toplumsal) getiri",
+      "E": "Bireysel (özel) getiri"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Eğitim gören bireyin elde ettiği gelir artışı, iş güvencesi ve statü gibi yararlar eğitimin bireysel (özel) getirisidir; topluma yansıyan yararlar ise dışsal (toplumsal) getiridir.",
     "source": {
       "kind": "generated",
@@ -925,13 +925,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Sosyal bilgiler öğretmeni Esin Hanım, sınıf başkanı seçimi için gizli oy açık sayım yöntemini uygulamakta, aday gösterme ve propaganda kurallarını öğrencilerle birlikte belirlemekte ve öğrenci meclisi toplantılarında alınan kararları oylamayla belirlemektedir. Böylece öğrencilerin demokratik katılım becerisi ve yurttaşlık bilinci gelişmektedir.\n\nBu uygulama eğitimin hangi işlevine örnektir?",
     "options": {
-      "A": "Siyasal sosyalleşme",
-      "B": "Sosyal hareketlilik",
-      "C": "Kültürel gecikme",
-      "D": "Ekonomik işlev",
+      "A": "Sosyal hareketlilik",
+      "B": "Kültürel gecikme",
+      "C": "Ekonomik işlev",
+      "D": "Siyasal sosyalleşme",
       "E": "Seçme ve yerleştirme"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Bireylerin siyasal sistemin değer, norm ve kurallarını öğrenerek yurttaşlık rollerini kazanmasına siyasal sosyalleşme denir; okul bu süreçte önemli rol oynar.",
     "source": {
       "kind": "generated",
@@ -948,13 +948,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Bir ülkede eğitime ilişkin ders programları, öğretmen atamaları, okul yönetimine ait kararların büyük bölümü merkezî yönetimde toplanmış; yerel yönetimler ve okullar karar sürecinde sınırlı yetkiye sahiptir.\n\nBu yönetim anlayışı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Merkeziyetçilik",
-      "B": "Özerklik",
-      "C": "Yerinden yönetim",
-      "D": "Yetki genişliği",
+      "A": "Özerklik",
+      "B": "Yerinden yönetim",
+      "C": "Yetki genişliği",
+      "D": "Merkeziyetçilik",
       "E": "Katılımcı yönetim"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Karar ve yetkinin merkezde toplanması merkeziyetçiliktir; yerinden yönetim ise yetkinin yerel birimlere devredilmesidir.",
     "source": {
       "kind": "generated",
@@ -973,11 +973,11 @@
     "options": {
       "A": "Tarihî temel",
       "B": "Ekonomik temel",
-      "C": "Politik (siyasal) temel",
-      "D": "Felsefi temel",
-      "E": "Psikolojik temel"
+      "C": "Felsefi temel",
+      "D": "Psikolojik temel",
+      "E": "Politik (siyasal) temel"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Eğitimin yurttaşlık bilinci kazandırma, siyasal sistemi tanıtma ve demokratik katılımı geliştirme işlevleri eğitimin politik (siyasal) temeline girer.",
     "source": {
       "kind": "generated",
@@ -997,10 +997,10 @@
       "A": "Enderun",
       "B": "Rüştiye",
       "C": "İdadi",
-      "D": "Sıbyan mektebi",
-      "E": "Medrese"
+      "D": "Medrese",
+      "E": "Sıbyan mektebi"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Sıbyan mektepleri Osmanlı'da çocuklara temel okuma-yazma ve dinî bilgiler veren ilk kademe okullarıdır. Medreseler yüksek düzeyde dinî ve bilimsel öğretim yapardı.",
     "source": {
       "kind": "generated",
@@ -1018,12 +1018,12 @@
     "stem": "Osmanlı'da saray içinde kurulan, devşirilen yetenekli gençlerin devlet yönetimi, ordu ve saray görevleri için yetiştirildiği, Fatih döneminde sistemli hâle gelen eğitim kurumu aşağıdakilerden hangisidir?",
     "options": {
       "A": "Sıbyan mektebi",
-      "B": "Rüştiye",
-      "C": "Nizamiye Medresesi",
-      "D": "Dârülfünun",
-      "E": "Enderun"
+      "B": "Enderun",
+      "C": "Rüştiye",
+      "D": "Nizamiye Medresesi",
+      "E": "Dârülfünun"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Enderun, Osmanlı'da yönetici ve saray görevlileri yetiştiren, dinî ve askerî bilgilerle birlikte sanat ve beden eğitimi de veren saray okuludur.",
     "source": {
       "kind": "generated",
@@ -1040,13 +1040,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Selçuklu veziri Nizamülmülk tarafından 11. yüzyılda Bağdat ve diğer şehirlerde kurulan, devlet desteğiyle yönetilen ve Türk-İslam eğitim tarihinde ilk düzenli yüksek öğretim kurumları sayılan okullar aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Enderun",
-      "B": "Sahn-ı Seman Medreseleri",
-      "C": "Süleymaniye Medreseleri",
-      "D": "Nizamiye Medreseleri",
+      "A": "Nizamiye Medreseleri",
+      "B": "Enderun",
+      "C": "Sahn-ı Seman Medreseleri",
+      "D": "Süleymaniye Medreseleri",
       "E": "Dârülfünun"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Nizamiye Medreseleri, Büyük Selçuklu veziri Nizamülmülk tarafından kurulan ve devlet tarafından yönetilen ilk düzenli medreselerdir.",
     "source": {
       "kind": "generated",
@@ -1066,10 +1066,10 @@
       "A": "Dârülmuallimîn — 1869",
       "B": "Dârülmuallimât — 1870",
       "C": "Mekteb-i Sultani — 1868",
-      "D": "Dârülmuallimîn — 1848",
-      "E": "Dârülfünun — 1863"
+      "D": "Dârülfünun — 1863",
+      "E": "Dârülmuallimîn — 1848"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Osmanlı'da ilk öğretmen okulu Dârülmuallimîn 1848'de İstanbul'da açılmıştır. Kız öğretmen okulu Dârülmuallimât ise 1870'te açılmıştır.",
     "source": {
       "kind": "generated",
@@ -1086,13 +1086,13 @@
     "konu": "egitimin_temelleri",
     "stem": "Osmanlı'da ilkokulun zorunlu olduğunu belirten, eğitimi sıbyan, rüştiye, idadi ve sultani gibi kademelere ayıran, devlet eğitim örgütünün ilk kapsamlı düzenlemesi sayılan 1869 tarihli belge aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Maarif-i Umumiye Nizamnamesi",
-      "B": "Tanzimat Fermanı",
-      "C": "Millî Eğitim Temel Kanunu",
-      "D": "Maarif Teşkilatına Dair Kanun",
-      "E": "Tevhid-i Tedrisat Kanunu"
+      "A": "Tanzimat Fermanı",
+      "B": "Millî Eğitim Temel Kanunu",
+      "C": "Maarif Teşkilatına Dair Kanun",
+      "D": "Tevhid-i Tedrisat Kanunu",
+      "E": "Maarif-i Umumiye Nizamnamesi"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Maarif-i Umumiye Nizamnamesi (1869), Osmanlı'da eğitim kademelerini, ilköğretimin zorunluluğunu ve eğitim yönetimini düzenleyen ilk kapsamlı belgedir.",
     "source": {
       "kind": "generated",
@@ -1111,11 +1111,11 @@
     "options": {
       "A": "Harf Kanunu",
       "B": "Maarif-i Umumiye Nizamnamesi",
-      "C": "Tevhid-i Tedrisat Kanunu",
-      "D": "Millî Eğitim Temel Kanunu",
+      "C": "Millî Eğitim Temel Kanunu",
+      "D": "Tevhid-i Tedrisat Kanunu",
       "E": "Maarif Teşkilatına Dair Kanun"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Tevhid-i Tedrisat Kanunu (3 Mart 1924) eğitimi tek elde toplamış, medreseleri kaldırmış ve laik eğitimin hukuki temelini atmıştır.",
     "source": {
       "kind": "generated",
@@ -1134,11 +1134,11 @@
     "options": {
       "A": "Köy Enstitüleri",
       "B": "Akşam Sanat Okulları",
-      "C": "Halk Odaları",
-      "D": "Halkevleri",
-      "E": "Millet Mektepleri"
+      "C": "Millet Mektepleri",
+      "D": "Halk Odaları",
+      "E": "Halkevleri"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Millet Mektepleri, Harf Devrimi'nden sonra yetişkinlerin yeni harflerle okuma-yazma öğrenmesi için açılan kurslardır.",
     "source": {
       "kind": "generated",
@@ -1155,13 +1155,13 @@
     "konu": "egitimin_temelleri",
     "stem": "1932'de Cumhuriyet Halk Partisi bünyesinde kurulan, sanat, spor, kitaplık ve kurslar gibi alanlarda halkı kültürel ve toplumsal olarak eğitmeyi amaçlayan kurumlar aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Halkevleri",
-      "B": "Halk Eğitim Merkezleri",
-      "C": "Köy Enstitüleri",
-      "D": "Millet Mektepleri",
+      "A": "Halk Eğitim Merkezleri",
+      "B": "Köy Enstitüleri",
+      "C": "Millet Mektepleri",
+      "D": "Halkevleri",
       "E": "Türk Ocakları"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Halkevleri (1932), halkın kültürel, sanatsal ve toplumsal gelişimini desteklemek için kurulan yaygın eğitim kuruluşlarıdır.",
     "source": {
       "kind": "generated",
@@ -1178,13 +1178,13 @@
     "konu": "egitimin_temelleri",
     "stem": "1940 tarihli bir kanunla kurulan, köy çocuklarından seçilerek kendi köylerine öğretmen yetiştirmeyi amaçlayan, tarım ve el sanatlarını da programına alan ve \"iş içinde eğitim\" ilkesini uygulayan kurum aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Öğretmen okulları",
-      "B": "Köy Enstitüleri",
+      "A": "Köy Enstitüleri",
+      "B": "Öğretmen okulları",
       "C": "Halkevleri",
       "D": "Akşam Sanat Okulları",
       "E": "Millet Mektepleri"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Köy Enstitüleri (3803 sayılı Kanun, 17 Nisan 1940), köy çocuklarını köy öğretmeni olarak yetiştiren, iş içinde eğitim anlayışını uygulayan kurumlardır.",
     "source": {
       "kind": "generated",
@@ -1201,13 +1201,13 @@
     "konu": "egitimin_temelleri",
     "stem": "1924'te Atatürk'ün daveti üzerine Türkiye'ye gelen ve Türk eğitim sistemi hakkında rapor hazırlayan Amerikalı eğitimci aşağıdakilerden hangisidir?",
     "options": {
-      "A": "John Dewey",
-      "B": "Maria Montessori",
+      "A": "Maria Montessori",
+      "B": "John Dewey",
       "C": "Jean Piaget",
       "D": "Johann Pestalozzi",
       "E": "Friedrich Fröbel"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "John Dewey 1924'te Türkiye'ye davet edilmiş, ülkenin eğitim sistemi hakkında bir rapor hazırlamıştır.",
     "source": {
       "kind": "generated",
@@ -1225,12 +1225,12 @@
     "stem": "Türk Millî Eğitim sisteminin temel ilke ve amaçlarını belirleyen, ilköğretim ve ortaöğretim ile ilgili genel esasları düzenleyen 1739 sayılı Millî Eğitim Temel Kanunu hangi yıl kabul edilmiştir?",
     "options": {
       "A": "1982",
-      "B": "1997",
-      "C": "1961",
-      "D": "1973",
+      "B": "1973",
+      "C": "1997",
+      "D": "1961",
       "E": "2012"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "1739 sayılı Millî Eğitim Temel Kanunu 14 Haziran 1973'te kabul edilmiş, 24 Haziran 1973'te Resmî Gazetede yayımlanmıştır.",
     "source": {
       "kind": "generated",
@@ -1271,12 +1271,12 @@
     "stem": "Zorunlu eğitimin 12 yıl olarak düzenlenmesi ve 4+4+4 yapısına geçilmesi, ilköğretimin ilkokul ve ortaokul olarak ayrılması hangi yılda çıkarılan kanunla gerçekleşmiştir?",
     "options": {
       "A": "2018",
-      "B": "2012",
-      "C": "2016",
+      "B": "2016",
+      "C": "2012",
       "D": "2008",
       "E": "2014"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "6287 sayılı Kanun (30 Mart 2012) zorunlu eğitimi 12 yıla çıkarmış ve 4+4+4 yapısını getirmiştir.",
     "source": {
       "kind": "generated",
@@ -1339,13 +1339,13 @@
     "konu": "egitimin_temelleri",
     "stem": "İlk anaokulunu (Kindergarten) kuran ve çocuk eğitiminde oyunu temel alan Alman eğitimci aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Fröbel",
-      "B": "Montessori",
-      "C": "Pestalozzi",
+      "A": "Montessori",
+      "B": "Pestalozzi",
+      "C": "Fröbel",
       "D": "Herbart",
       "E": "Comenius"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Friedrich Fröbel 1837'de ilk anaokulunu (Kindergarten) kurmuş, oyun ve etkinlikle öğrenmeyi savunmuştur.",
     "source": {
       "kind": "generated",
@@ -1363,12 +1363,12 @@
     "stem": "Eğitimde öğretim basamaklarını (açıklık, birleştirme, sistem, yöntem) geliştiren ve öğretimi psikolojiye dayandırmaya çalışan Alman eğitimci aşağıdakilerden hangisidir?",
     "options": {
       "A": "Fröbel",
-      "B": "Herbart",
-      "C": "Dewey",
+      "B": "Dewey",
+      "C": "Herbart",
       "D": "Pestalozzi",
       "E": "Comenius"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Herbart, öğretimde formal basamak öğretisini geliştirmiş ve pedagojiyi bilimsel temellere oturtmaya çalışmıştır.",
     "source": {
       "kind": "generated",
@@ -1386,12 +1386,12 @@
     "stem": "Rönesans dönemiyle birlikte Avrupa'da insanın aklını, değerini ve yaratıcı gücünü merkeze alan, eğitimde bireyin kişiliğinin her yönüyle gelişmesini amaçlayan bir düşünce akımı yaygınlaşmıştır. Bu akım, skolastik düşüncenin dogmatik etkisine karşı çıkmıştır.\n\nBu düşünce akımı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Pragmatizm",
-      "B": "Skolastik düşünce",
-      "C": "Hümanizm",
+      "B": "Hümanizm",
+      "C": "Skolastik düşünce",
       "D": "Pozitivizm",
       "E": "Realizm"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Hümanizm, Rönesans'ta insanı ve insani değerleri merkeze alan, klasik kültüre dönüşü savunan ve eğitimde bireyin çok yönlü gelişimini hedefleyen akımdır.",
     "source": {
       "kind": "generated",
@@ -1410,11 +1410,11 @@
     "options": {
       "A": "Eğitimin sürekliliği",
       "B": "Toplumsallaşma",
-      "C": "Eğitimde planlılık",
-      "D": "Eğitimde fırsat ve imkân eşitliği",
+      "C": "Eğitimde fırsat ve imkân eşitliği",
+      "D": "Eğitimde planlılık",
       "E": "Eğitimde verimlilik"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Herkesin eğitimde aynı fırsat ve imkânlardan yararlanması fırsat ve imkân eşitliği ilkesidir; taşımalı eğitim, burs ve yatılı okullar bu ilkenin araçlarıdır.",
     "source": {
       "kind": "generated",
@@ -1434,10 +1434,10 @@
       "A": "Yatay sosyal hareketlilik",
       "B": "Toplumsallaşma",
       "C": "Kültürleşme",
-      "D": "Dikey (yukarı doğru) sosyal hareketlilik",
-      "E": "Sosyal değişme"
+      "D": "Sosyal değişme",
+      "E": "Dikey (yukarı doğru) sosyal hareketlilik"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Bireyin bir toplumsal tabakadan başka bir tabakaya (daha üst ya da alt) geçişi dikey sosyal hareketliliktir; eğitim, yukarı doğru hareketliliğin önemli bir aracıdır.",
     "source": {
       "kind": "generated",
@@ -1466,6 +1466,75 @@
       "kind": "generated",
       "styleRef": "AGS_URETIM_KURALLARI",
       "legislationRef": "Türk eğitim tarihi: Darülmuallimin"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tem-065",
+    "ders": "egitim_bilimleri",
+    "konu": "egitimin_temelleri",
+    "stem": "Avrupa'daki üniversiteler, diplomaların birbirine denkliğini kolaylaştırmak, ortak bir kredi sistemi (AKTS) oluşturmak ve öğrenci ile öğretim üyesi hareketliliğini artırmak için ortak bir yükseköğretim alanı oluşturmayı hedeflemiştir. Türkiye de bu çalışmalara katılmıştır.\n\nBu çalışma aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Lizbon Stratejisi",
+      "B": "Kopenhag Süreci",
+      "C": "Maastricht Antlaşması",
+      "D": "Comenius Programı",
+      "E": "Bologna Süreci"
+    },
+    "answer": "E",
+    "solution": "Bologna Süreci, Avrupa Yükseköğretim Alanı'nı oluşturmayı amaçlar; ortak kredi (AKTS), diploma eki ve hareketlilik gibi uygulamaları içerir ve eğitimde küreselleşmenin bir örneğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Eğitimde küreselleşme: Bologna Süreci"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tem-066",
+    "ders": "egitim_bilimleri",
+    "konu": "egitimin_temelleri",
+    "stem": "Bir okula etkileşimli tahtalar ve tabletler alınmıştır; ancak öğretmenlerin çoğu bu araçları yalnızca eski tahta gibi kullanmakta, dersleri yine anlatım ağırlıklı sürdürmekte ve öğrencilerin teknolojiyle etkileşim kurmasına fırsat vermemektedir. Okuldaki teknik donanım hızla değişmiş, öğretim anlayışı ise yerinde kalmıştır.\n\nBu durum sosyolojide aşağıdaki kavramlardan hangisiyle açıklanır?",
+    "options": {
+      "A": "Kültürel yayılma",
+      "B": "Kültürleşme",
+      "C": "Toplumsallaşma",
+      "D": "Sosyal kontrol",
+      "E": "Kültürel gecikme"
+    },
+    "answer": "E",
+    "solution": "Ogburn'a göre maddi kültürdeki değişme, manevi kültür öğelerindeki (anlayış, alışkanlık) değişmeden hızlı olur; bu farka kültürel gecikme denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Kültürel gecikme (Ogburn)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-tem-067",
+    "ders": "egitim_bilimleri",
+    "konu": "egitimin_temelleri",
+    "stem": "Bir okulda öğretmen, öğrencilerle birlikte toplumdaki adaletsizlikleri ve çevre sorunlarını incelemekte; öğrencileri bu sorunlara çözüm üretmeye ve toplumsal değişimin aktif bir parçası olmaya yönlendirmektedir. Eğitimin amacını, mevcut toplumu korumak değil adil bir toplum için yeniden biçimlendirmek olarak görmektedir.\n\nÖğretmenin eğitim anlayışı aşağıdaki eğitim felsefesi akımlarından hangisine uygundur?",
+    "options": {
+      "A": "Daimicilik",
+      "B": "İlerlemecilik",
+      "C": "Yeniden kurmacılık",
+      "D": "Esasicilik",
+      "E": "Varoluşçuluk"
+    },
+    "answer": "C",
+    "solution": "Yeniden kurmacılığa (Brameld) göre eğitim toplumsal değişimin aracıdır ve öğrencileri adil bir toplumu yeniden kurmaya hazırlamalıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Eğitim felsefesi: yeniden kurmacılık"
     },
     "validYear": 2026,
     "difficulty": "medium",

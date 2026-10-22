@@ -99,11 +99,11 @@
     "options": {
       "A": "Sönme",
       "B": "Spontan geri gelme",
-      "C": "Genelleme",
-      "D": "Ayırt etme",
-      "E": "İkinci derece koşullanma"
+      "C": "Ayırt etme",
+      "D": "İkinci derece koşullanma",
+      "E": "Genelleme"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Koşullu tepkinin, koşullu uyarıcıya benzeyen diğer uyarıcılar karşısında da ortaya çıkmasına genelleme denir.",
     "source": {
       "kind": "generated",
@@ -121,12 +121,12 @@
     "stem": "Bir köpek tarafından ısırılan Mert, tedavi sürecinde köpeklerle kontrollü biçimde karşılaşmış; böylece yalnızca ısıran köpeğe karşı korku göstermeyi sürdürmüş, tanıdık ve sakin köpekler karşısında korku tepkisi vermemeyi öğrenmiştir. Terapist bu ilerlemeyi bir kavramla ifade etmiştir.\n\nMert'in yaşadığı bu öğrenme klasik koşullanmada aşağıdakilerden hangisidir?",
     "options": {
       "A": "Sönme",
-      "B": "Ayırt etme",
-      "C": "Genelleme",
-      "D": "Spontan geri gelme",
+      "B": "Genelleme",
+      "C": "Spontan geri gelme",
+      "D": "Ayırt etme",
       "E": "Pekiştirme"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Ayırt etmede birey, koşullu uyarıcıyla benzer uyarıcıları birbirinden ayırır ve yalnızca koşullu uyarıcıya tepki verir.",
     "source": {
       "kind": "generated",
@@ -145,11 +145,11 @@
     "options": {
       "A": "İkinci derece koşullanma",
       "B": "Sönme",
-      "C": "Spontan geri gelme",
-      "D": "Genelleme",
-      "E": "Ayırt etme"
+      "C": "Genelleme",
+      "D": "Ayırt etme",
+      "E": "Spontan geri gelme"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Sönmüş bir koşullu tepkinin bir dinlenme süresinden sonra yeniden ortaya çıkmasına spontan geri gelme denir; sönmenin tam bir unutma olmadığını gösterir.",
     "source": {
       "kind": "generated",
@@ -166,13 +166,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Okula yeni başlayan Selin, ilk günlerinde sınıf arkadaşları tarafından birkaç kez alay edilmiş ve ağlamıştır. Birkaç hafta sonra, alay edilmediği günlerde bile okul binasını uzaktan görünce kaygılanmaya, karnının ağrıdığını söylemeye başlamıştır. Anne ve babası bu durumu kuramsal olarak açıklamak istemektedir.\n\nSelin'in okul korkusunu en iyi açıklayan öğrenme kuramı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Klasik koşullanma",
-      "B": "Kavrayış yoluyla öğrenme",
+      "A": "Kavrayış yoluyla öğrenme",
+      "B": "Klasik koşullanma",
       "C": "Sosyal öğrenme",
       "D": "Gizil öğrenme",
       "E": "Edimsel koşullanma"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Başlangıçta nötr olan okul binası, alay edilme gibi hoş olmayan bir olayla eşleşerek korku ve kaygı tepkisini oluşturmuştur; bu, duygusal tepkilerin klasik koşullanma yoluyla öğrenilmesine örnektir.",
     "source": {
       "kind": "generated",
@@ -191,11 +191,11 @@
     "options": {
       "A": "Sönme",
       "B": "Olumsuz pekiştirme",
-      "C": "İkinci tip ceza",
-      "D": "Birinci tip ceza",
-      "E": "Olumlu pekiştirme"
+      "C": "Olumlu pekiştirme",
+      "D": "İkinci tip ceza",
+      "E": "Birinci tip ceza"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "İstenen davranışın ardından hoşa giden bir uyarıcı (ödül, çıkartma, teşekkür) sunulur ve davranışın tekrarlanma olasılığı artarsa buna olumlu pekiştirme denir.",
     "source": {
       "kind": "generated",
@@ -212,13 +212,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Okul müdürü Selma Hanım, haftalık nöbet tutan öğretmenler arasında en az bir hafta boyunca hiçbir geç kalma yaşamayanların sıradaki nöbet görevinden muaf tutulacağını duyurmuştur. Bu uygulamanın ardından öğretmenlerin zamanında okula gelme oranı belirgin biçimde artmıştır.\n\nBu uygulama edimsel koşullanmada aşağıdakilerden hangisine örnektir?",
     "options": {
-      "A": "Olumsuz pekiştirme",
-      "B": "Birinci tip ceza",
-      "C": "Sönme",
+      "A": "Birinci tip ceza",
+      "B": "Sönme",
+      "C": "Olumsuz pekiştirme",
       "D": "Olumlu pekiştirme",
       "E": "İkinci tip ceza"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "İstenen davranışın ardından hoşa gitmeyen bir uyarıcı (nöbet görevi) ortadan kaldırılır ve davranış artarsa buna olumsuz pekiştirme denir. Ceza davranışı azaltırken olumsuz pekiştirme artırır.",
     "source": {
       "kind": "generated",
@@ -237,11 +237,11 @@
     "options": {
       "A": "İkinci tip ceza",
       "B": "Olumsuz pekiştirme",
-      "C": "Birinci tip ceza",
-      "D": "Olumlu pekiştirme",
-      "E": "Sönme"
+      "C": "Olumlu pekiştirme",
+      "D": "Sönme",
+      "E": "Birinci tip ceza"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "İstenmeyen davranışın ardından hoşa gitmeyen bir uyarıcı eklenir ve davranış azalırsa buna birinci tip ceza (olumlu ceza) denir.",
     "source": {
       "kind": "generated",
@@ -258,13 +258,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Sınıf öğretmeni Zeynep Hanım, kuralları çiğneyerek derste telefonla oynayan Deniz'in telefonunu bir hafta boyunca ders saatinde kendi masasında tutmuştur. Böylece Deniz, sevdiği bir uyarıcıdan geçici olarak yoksun kalmıştır. Birkaç gün sonra Deniz'in derste telefon kullanımı belirgin biçimde azalmıştır.\n\nBu uygulama edimsel koşullanmada aşağıdakilerden hangisine örnektir?",
     "options": {
-      "A": "İkinci tip ceza",
-      "B": "Birinci tip ceza",
-      "C": "Olumlu pekiştirme",
-      "D": "Olumsuz pekiştirme",
+      "A": "Birinci tip ceza",
+      "B": "Olumlu pekiştirme",
+      "C": "Olumsuz pekiştirme",
+      "D": "İkinci tip ceza",
       "E": "Sönme"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "İstenmeyen davranışın ardından hoşa giden bir uyarıcı (telefon) ortadan kaldırılır ve davranış azalırsa buna ikinci tip ceza (olumsuz ceza) denir.",
     "source": {
       "kind": "generated",
@@ -284,10 +284,10 @@
       "A": "İkinci tip ceza",
       "B": "Birinci tip ceza",
       "C": "Olumsuz pekiştirme",
-      "D": "Sönme",
-      "E": "Spontan geri gelme"
+      "D": "Spontan geri gelme",
+      "E": "Sönme"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Daha önce pekiştirilen bir davranışın artık pekiştirilmemesi sonucunda zamanla azalıp kaybolmasına sönme denir; ceza ise davranışın ardından aversif bir uyarıcının sunulması veya hoş bir uyarıcının çekilmesidir.",
     "source": {
       "kind": "generated",
@@ -304,13 +304,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Dükkân sahibi Salih Bey, müşterilere her beşinci alışverişte, hangi tutarda alışveriş yaparsa yapsın bir hediye vermektedir. Müşteriler beşinci alışverişlerine yaklaştıkça sık sık alışveriş yapmakta, hediyeyi aldıktan sonra kısa bir ara vermektedir. Salih Bey bu uygulamayı yıl boyunca değiştirmeden sürdürmüştür.\n\nBu uygulamada hangi pekiştirme tarifesi kullanılmıştır?",
     "options": {
-      "A": "Sürekli pekiştirme",
-      "B": "Değişken aralıklı pekiştirme",
-      "C": "Değişken oranlı pekiştirme",
-      "D": "Sabit oranlı pekiştirme",
+      "A": "Sabit oranlı pekiştirme",
+      "B": "Sürekli pekiştirme",
+      "C": "Değişken aralıklı pekiştirme",
+      "D": "Değişken oranlı pekiştirme",
       "E": "Sabit aralıklı pekiştirme"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Sabit oranlı tarifede pekiştireç belirli sayıda tepkiden sonra verilir (burada her beşinci alışverişte). Pekiştireçten sonra kısa bir duraklama görülür.",
     "source": {
       "kind": "generated",
@@ -352,11 +352,11 @@
     "options": {
       "A": "Sabit oranlı pekiştirme",
       "B": "Değişken aralıklı pekiştirme",
-      "C": "Sabit aralıklı pekiştirme",
-      "D": "Sürekli pekiştirme",
+      "C": "Sürekli pekiştirme",
+      "D": "Sabit aralıklı pekiştirme",
       "E": "Değişken oranlı pekiştirme"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Sabit aralıklı tarifede pekiştireç belirli zaman aralıklarıyla (burada her hafta) verilir; pekiştireç zamanı yaklaştıkça tepki hızı artar.",
     "source": {
       "kind": "generated",
@@ -373,13 +373,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Öğretmen Pelin Hanım, öğrencilerin ders boyunca hazırlıklı olması için önceden haber vermeden ders içinde bazen on, bazen kırk dakika sonra kısa bir sürpriz yoklama yapmaktadır. Öğrenciler yoklamanın ne zaman geleceğini bilmediği için her ders düzenli çalışmaktadır.\n\nBu uygulamada hangi pekiştirme tarifesi kullanılmıştır?",
     "options": {
-      "A": "Sabit oranlı pekiştirme",
-      "B": "Sabit aralıklı pekiştirme",
-      "C": "Değişken oranlı pekiştirme",
-      "D": "Değişken aralıklı pekiştirme",
+      "A": "Değişken aralıklı pekiştirme",
+      "B": "Sabit oranlı pekiştirme",
+      "C": "Sabit aralıklı pekiştirme",
+      "D": "Değişken oranlı pekiştirme",
       "E": "Sürekli pekiştirme"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Değişken aralıklı tarifede pekiştireç değişen zaman aralıklarıyla verilir; tepki hızı düzenli ve istikrarlı olur, sönmeye direnç yüksektir.",
     "source": {
       "kind": "generated",
@@ -398,11 +398,11 @@
     "options": {
       "A": "Modelle öğrenme",
       "B": "Sönme",
-      "C": "Ayırt etme",
-      "D": "Genelleme",
-      "E": "Şekillendirme"
+      "C": "Şekillendirme",
+      "D": "Ayırt etme",
+      "E": "Genelleme"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Şekillendirmede (ardışık yaklaşımlar yöntemi) karmaşık bir davranış, hedef davranışa giderek yaklaşan tepkilerin adım adım pekiştirilmesiyle kazandırılır.",
     "source": {
       "kind": "generated",
@@ -419,13 +419,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Sınıf öğretmeni Aylin Hanım, matematik ödevini bitirmekte zorlanan Kerem'e “Önce ödevini bitir, sonra en çok sevdiğin resim çalışmasına geçebilirsin” demiştir. Kerem sevdiği etkinliği yapabilmek için ödevini kısa sürede tamamlamaktadır. Kerem bu düzenlemeden sonra ödevlerini daha düzenli tamamlamaktadır ve öğretmen uygulamayı diğer öğrencilere de önermektedir.\n\nAylin Hanım'ın uyguladığı ilke aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Premack ilkesi",
-      "B": "Şekillendirme",
+      "A": "Şekillendirme",
+      "B": "Premack ilkesi",
       "C": "Dolaylı pekiştirme",
       "D": "Ayırt etme",
       "E": "Etki yasası"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Premack ilkesinde (büyükanne kuralı) sık yapılan ve sevilen bir etkinlik, az yapılan ve sevilmeyen bir etkinliği pekiştirmek için kullanılır.",
     "source": {
       "kind": "generated",
@@ -443,12 +443,12 @@
     "stem": "Okuma-yazma öğretmeni Elçin Hanım, öğrencilerin yazım hatalarını önce her seferinde ödüllendirip düzelttiğinde daha sonra bu ödülü yalnızca ara sıra ve rastgele vermeye başlamıştır. Ödül tamamen kesildiğinde bile öğrenciler yazı çalışmalarını uzun süre sürdürmüştür.\n\nBu durum aşağıdakilerden hangisini en iyi açıklar?",
     "options": {
       "A": "Cezanın istenmeyen davranışı kalıcı biçimde silmesi",
-      "B": "Kısmi pekiştirmenin sönmeye karşı direnci artırması",
-      "C": "Sürekli pekiştirmenin davranışın sönmesini hızlandırması",
+      "B": "Sürekli pekiştirmenin davranışın sönmesini hızlandırması",
+      "C": "Kısmi pekiştirmenin sönmeye karşı direnci artırması",
       "D": "Ayırt etmenin davranışı bütün uyarıcılara yayması",
       "E": "Genellemenin yeni öğrenmeyi bozması"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Davranışın her seferinde değil ara sıra pekiştirilmesi (kısmi pekiştirme), davranışın pekiştireç kesildikten sonra da uzun süre sürmesini, yani sönmeye direncin artmasını sağlar.",
     "source": {
       "kind": "generated",
@@ -466,12 +466,12 @@
     "stem": "Sınıfında davranışı, sonuçlarının hoş veya hoş olmadığına göre şekillendiğini savunan öğretmen Barış Bey, Thorndike'ın görüşüne dayanarak ödüllendirilen davranışların tekrarlanma olasılığının arttığını, hoş olmayan sonuç doğuran davranışların ise azaldığını söylemektedir. Barış Bey bu görüşünü sınıf içi uygulamalarını açıklarken öğretmen arkadaşlarıyla da paylaşmıştır.\n\nBarış Bey'in dayandığı yasa aşağıdakilerden hangisidir?",
     "options": {
       "A": "Alıştırma yasası",
-      "B": "Etki yasası",
-      "C": "Yakınlık yasası",
-      "D": "Hazır olma yasası",
-      "E": "Benzerlik yasası"
+      "B": "Yakınlık yasası",
+      "C": "Hazır olma yasası",
+      "D": "Benzerlik yasası",
+      "E": "Etki yasası"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Thorndike'ın etki yasasına göre, doyum sağlayan sonuçlar davranışı pekiştirir, rahatsız edici sonuçlar ise davranışı zayıflatır.",
     "source": {
       "kind": "generated",
@@ -490,11 +490,11 @@
     "options": {
       "A": "Kavrayış yoluyla öğrenme",
       "B": "Gizil öğrenme",
-      "C": "Sosyal öğrenme kuramı",
-      "D": "Klasik koşullanma",
+      "C": "Klasik koşullanma",
+      "D": "Sosyal öğrenme kuramı",
       "E": "Edimsel koşullanma"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Bandura'nın Bobo bebek deneyi, bireyin başkalarını gözleyerek ve model alarak, doğrudan pekiştirilmeden de öğrenebileceğini gösterir.",
     "source": {
       "kind": "generated",
@@ -534,13 +534,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Beden eğitimi öğretmeni Selçuk Bey, yeni bir jimnastik hareketini öğretirken hareketi gösterirken sınıf çok gürültülü olduğundan bazı öğrenciler hareketin önemli ayrıntılarını izleyememiştir. Bu öğrenciler hareketi yaptıklarında temel hataları tekrarlamıştır. Hareketi öğrenme sırasında öğrencilerin ilgisi yüksek olmasına karşın ortam dikkat dağıtıcıdır.\n\nBandura'nın gözlem yoluyla öğrenme süreçlerinden hangisi bu öğrencilerde yeterince işlememiştir?",
     "options": {
-      "A": "Güdülenme süreci",
-      "B": "Tutma (hatırlama) süreci",
-      "C": "Dikkat süreci",
+      "A": "Dikkat süreci",
+      "B": "Güdülenme süreci",
+      "C": "Tutma (hatırlama) süreci",
       "D": "Yeniden üretim süreci",
       "E": "Pekiştirme süreci"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Bandura'ya göre gözlem yoluyla öğrenme dikkat, tutma, yeniden üretim ve güdülenme süreçlerinden oluşur. Modelin ayrıntıları fark edilmediği için dikkat süreci işlememiştir.",
     "source": {
       "kind": "generated",
@@ -583,10 +583,10 @@
       "A": "Anımsatıcı sözcük",
       "B": "Zihinsel imgeleme",
       "C": "Ayrıntılama",
-      "D": "Bakım provası",
-      "E": "Gruplama (öbekleme)"
+      "D": "Gruplama (öbekleme)",
+      "E": "Bakım provası"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Gruplama (chunking), tek tek birimleri anlamlı öbeklere bağlayarak kısa süreli belleğin sınırlı kapasitesinden daha verimli yararlanmayı sağlar.",
     "source": {
       "kind": "generated",
@@ -603,13 +603,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Tarih öğretmeni Ufuk Bey, öğrencilerden yeni öğrendikleri Kurtuluş Savaşı olayını daha önce bildikleri başka bir olayla karşılaştırmalarını, olayın nedenlerini ve sonuçlarını kendi cümleleriyle açıklamalarını istemektedir. Öğrenciler bilgiyi mevcut bilgileriyle ilişkilendirerek derinlemesine işlemektedir. Öğrenciler derse bu etkinlikle başlamış ve bilgilerini sınıf arkadaşlarına da aktarmıştır.\n\nBu strateji aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Ayrıntılama",
-      "B": "Gruplama",
-      "C": "Zihinsel imgeleme",
-      "D": "Bakım provası",
-      "E": "Ezberleme"
+      "A": "Gruplama",
+      "B": "Zihinsel imgeleme",
+      "C": "Bakım provası",
+      "D": "Ezberleme",
+      "E": "Ayrıntılama"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Ayrıntılamada yeni bilgi, mevcut bilgilerle ilişkilendirilerek, açıklama ve örneklerle derin işleme yoluyla uzun süreli belleğe aktarılır.",
     "source": {
       "kind": "generated",
@@ -650,12 +650,12 @@
     "stem": "Coğrafya öğretmeni Hale Hanım'ın öğrencisi Taner, Türkiye'nin başkentinin Ankara olduğunu, Ege Denizi'nin Türkiye'nin batısında yer aldığını ve suyun 100 derecede kaynadığını bilmektedir. Bu bilgileri nerede ve ne zaman öğrendiğini ise hatırlamamaktadır. Taner genel kültür sınavlarında bu tür sorulara kolayca yanıt vermektedir.\n\nTaner'in bu bilgileri depolayan bellek türü aşağıdakilerden hangisidir?",
     "options": {
       "A": "İşlemsel bellek",
-      "B": "Anlamsal bellek",
-      "C": "Çalışan bellek",
+      "B": "Çalışan bellek",
+      "C": "Anlamsal bellek",
       "D": "Olaysal bellek",
       "E": "Duyusal bellek"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Anlamsal bellek, genel dünya bilgisini, kavramları ve olguları, öğrenildiği zaman ve yerden bağımsız olarak depolar.",
     "source": {
       "kind": "generated",
@@ -672,13 +672,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Edebiyat öğretmeni Nurten Hanım, öğrencisi Asya'ya geçen yaz tatilinde nerede olduğunu, kimlerle gittiğini ve o gün neler yaşadığını sormuştur. Asya, tatilin üçüncü günündeki sahil gezisini, yanında kimin olduğunu ve hissettiklerini ayrıntılarıyla anlatabilmiştir.\n\nAsya'nın bu bilgileri hatırlamasını sağlayan bellek türü aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Olaysal bellek",
-      "B": "İşlemsel bellek",
-      "C": "Çalışan bellek",
-      "D": "Anlamsal bellek",
+      "A": "İşlemsel bellek",
+      "B": "Çalışan bellek",
+      "C": "Anlamsal bellek",
+      "D": "Olaysal bellek",
       "E": "Duyusal bellek"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Olaysal (episodik) bellek, kişisel yaşantıları zaman, yer ve duygularla birlikte depolayan açık (bildirimsel) bellek türüdür.",
     "source": {
       "kind": "generated",
@@ -696,12 +696,12 @@
     "stem": "Yıllardır bisiklet kullanmayan Okan, geçen hafta bisiklete yeniden bindiğinde dengesini kolayca sağlamış ve pedal çevirmeyi düşünmeden başarabilmiştir. Bisiklet sürmenin adımlarını sözel olarak ayrıntılı biçimde anlatmakta ise zorlanmaktadır. Okan yetişkinlik döneminde bisikleti çocukken arkadaşlarıyla öğrenmiştir.\n\nOkan'ın bu becerisi hangi bellek türüne aittir?",
     "options": {
       "A": "Anlamsal bellek",
-      "B": "İşlemsel bellek",
-      "C": "Çalışan bellek",
+      "B": "Çalışan bellek",
+      "C": "İşlemsel bellek",
       "D": "Olaysal bellek",
       "E": "Duyusal bellek"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "İşlemsel bellek, beceri ve alışkanlıkların (bisiklet sürmek, yazı yazmak) bilinçli hatırlama gerektirmeden depolandığı örtük bellek türüdür.",
     "source": {
       "kind": "generated",
@@ -721,10 +721,10 @@
       "A": "12 ± 2",
       "B": "15 ± 2",
       "C": "5 ± 2",
-      "D": "7 ± 2",
-      "E": "9 ± 2"
+      "D": "9 ± 2",
+      "E": "7 ± 2"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Miller'a göre kısa süreli bellek ortalama yedi (artı eksi iki) birimlik bilgiyi aynı anda tutabilir; gruplama ile bu birimler genişletilebilir.",
     "source": {
       "kind": "generated",
@@ -742,12 +742,12 @@
     "stem": "Öğretmen Rıza Bey, öğrencilerinden yirmi sözcükten oluşan bir listeyi dinleyip hemen ardından hatırlayabildikleri sözcükleri yazmalarını istemiştir. Öğrenciler en çok listenin başındaki ve sonundaki sözcükleri hatırlayabilmiş, ortadaki sözcüklerin büyük bölümünü unutmuştur. Sözcükler öğrencilere birer saniye aralıkla okunmuş, öğrencilerden sonra kâğıda yazmaları istenmiştir.\n\nBu bulgu aşağıdaki kavramlardan hangisiyle açıklanır?",
     "options": {
       "A": "Spontan geri gelme",
-      "B": "Zeigarnik etkisi",
-      "C": "Genelleme",
-      "D": "Seri konum etkisi",
+      "B": "Seri konum etkisi",
+      "C": "Zeigarnik etkisi",
+      "D": "Genelleme",
       "E": "Girişim etkisi"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Seri konum etkisinde, listenin başındaki (ilklik etkisi) ve sonundaki (sonluk etkisi) öğeler ortadakilerden daha iyi hatırlanır.",
     "source": {
       "kind": "generated",
@@ -787,13 +787,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Öğrenci Çağrı, Almanca öğrenmeye başlamadan önce yıllarca Fransızca çalışmıştır. Almanca sözcükleri çalışırken sürekli Fransızca karşılıkları aklına gelmekte ve Almanca sözcükleri hatırlamakta zorlanmaktadır. Çağrı Almanca dersini bu nedenle sevmekte ancak çalışırken sıkça Fransızca kelimeler aklına gelmektedir. Bu durum sınav başarısını da düşürmektedir.\n\nÇağrı'nın yaşadığı bu unutma türü aşağıdakilerden hangisidir?",
     "options": {
-      "A": "İleriye etki (ileriye dönük girişim)",
-      "B": "İz silinmesi",
-      "C": "Kodlama özgüllüğü",
-      "D": "Güdülenmiş unutma",
+      "A": "İz silinmesi",
+      "B": "Kodlama özgüllüğü",
+      "C": "Güdülenmiş unutma",
+      "D": "İleriye etki (ileriye dönük girişim)",
       "E": "Geriye etki (geriye dönük girişim)"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Daha önce öğrenilmiş bilginin yeni öğrenilen bilginin hatırlanmasını bozmasına ileriye etki (proaktif girişim) denir.",
     "source": {
       "kind": "generated",
@@ -810,13 +810,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Ortaokul öğrencisi Arda, geçen yıl sınıfının önünde konuşurken herkesin gülmesine yol açan çok utanç verici bir olay yaşamıştır. Arda şimdi bu olayı hatırlamamakta, olaydan söz edildiğinde de “Ben böyle bir şey yaşamadım” demektedir. Arda'nın aile ve arkadaşları olayı çok iyi hatırlamaktadır.\n\nArda'nın bu unutma türü aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Güdülenmiş unutma",
-      "B": "Kodlama özgüllüğü ilkesi",
+      "A": "Kodlama özgüllüğü ilkesi",
+      "B": "Güdülenmiş unutma",
       "C": "İz silinmesi kuramı",
       "D": "Geriye dönük girişim",
       "E": "İleriye dönük girişim"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Güdülenmiş unutma (bastırma), kaygı ve utanç verici anıların bilinçdışında tutularak hatırlanmamasıdır.",
     "source": {
       "kind": "generated",
@@ -835,11 +835,11 @@
     "options": {
       "A": "Sosyal öğrenme yoluyla öğrenme",
       "B": "Klasik koşullanma yoluyla öğrenme",
-      "C": "Edimsel koşullanma yoluyla öğrenme",
-      "D": "Kavrayış (içgörü) yoluyla öğrenme",
+      "C": "Kavrayış (içgörü) yoluyla öğrenme",
+      "D": "Edimsel koşullanma yoluyla öğrenme",
       "E": "Gizil öğrenme yoluyla öğrenme"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Gestalt kuramcısı Köhler'e göre problem çözmede durum bütün olarak algılanır ve çözüm ani bir kavrayış (içgörü, aha) ile bulunur.",
     "source": {
       "kind": "generated",
@@ -856,13 +856,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Tolman'ın deneyinde labirentte hiçbir pekiştireç almadan gezdirilen fareler, labirentin sonuna yiyecek konulduğunda, aynı labirentte pekiştirilerek öğrenen farelerle neredeyse aynı hızda doğru yolu bulmaya başlamıştır. Fareler öğrenmiş, ancak öğrendiklerini pekiştireç olmadan sergilememiştir. Araştırmacı bu bulguyu öğrenme ile performans arasındaki ayrımın kanıtı olarak sunmuştur.\n\nBu bulgu hangi kavramı destekler?",
     "options": {
-      "A": "Şekillendirme",
-      "B": "Klasik koşullanma",
-      "C": "Gizil öğrenme",
+      "A": "Gizil öğrenme",
+      "B": "Şekillendirme",
+      "C": "Klasik koşullanma",
       "D": "Dolaylı pekiştirme",
       "E": "Kavrayış yoluyla öğrenme"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Tolman'a göre pekiştireç olmadan da öğrenme oluşabilir, ancak performans pekiştireç gelince görünür hâle gelir; bu duruma gizil (örtük) öğrenme denir.",
     "source": {
       "kind": "generated",
@@ -881,11 +881,11 @@
     "options": {
       "A": "Dengeleme",
       "B": "Kavramsal çatışma",
-      "C": "Şemalar",
-      "D": "Yakınsak gelişim alanı",
+      "C": "Yakınsak gelişim alanı",
+      "D": "Şemalar",
       "E": "Akıl yürütme"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Vygotsky'ye göre bireyin tek başına yapabildiği ile başkalarının desteğiyle yapabileceği düzey arasındaki alana yakınsak gelişim alanı denir.",
     "source": {
       "kind": "generated",
@@ -902,13 +902,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Öğretmen Banu Hanım, yeni bir yazım kuralını öğretirken başlangıçta öğrencilere bol ipucu, örnek ve yönlendirici sorular vermekte, öğrenciler kuralı kavradıkça bu desteği aşamalı biçimde azaltarak onları bağımsız çalışmaya bırakmaktadır. Öğrenciler kuralı bu sayede bireysel olarak kullanabilir duruma gelmiştir.\n\nBanu Hanım'ın uyguladığı bu yaklaşım aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Şekillendirme",
-      "B": "Yapı iskeleleme",
+      "A": "Yapı iskeleleme",
+      "B": "Şekillendirme",
       "C": "Gizil öğrenme",
       "D": "Kavramsal çatışma",
       "E": "Dolaylı pekiştirme"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Yapı iskeleleme (scaffolding), öğrenme başlangıcında verilen desteğin, öğrenci yeterlik kazandıkça aşamalı olarak çekilmesidir.",
     "source": {
       "kind": "generated",
@@ -925,13 +925,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Öğretmen Kadir Bey, öğrencilerden gruplar halinde bir problem üzerinde tartışmalarını, birbirlerinin görüşlerini sorgulayarak ortak bir anlam oluşturmalarını istemiştir. Kadir Bey'e göre bilgi, bireyin zihninde yalnız başına değil, başkalarıyla kurulan etkileşimler ve ortak kültür içinde oluşmaktadır.\n\nKadir Bey'in bu görüşü hangi yaklaşıma dayanır?",
     "options": {
-      "A": "Sosyal yapılandırmacılık",
-      "B": "Sosyal öğrenme kuramı",
-      "C": "Davranışçılık",
+      "A": "Sosyal öğrenme kuramı",
+      "B": "Davranışçılık",
+      "C": "Sosyal yapılandırmacılık",
       "D": "Klasik koşullanma",
       "E": "Gestalt kuramı"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Sosyal yapılandırmacılığa (Vygotsky) göre bilgi toplumsal etkileşim, dil ve kültür aracılığıyla ortak olarak oluşturulur.",
     "source": {
       "kind": "generated",
@@ -951,10 +951,10 @@
       "A": "Dışsal güdülenme",
       "B": "Dışsal pekiştirme",
       "C": "Güdülenmemişlik",
-      "D": "İçsel güdülenme",
-      "E": "Başarısızlıktan kaçınma"
+      "D": "Başarısızlıktan kaçınma",
+      "E": "İçsel güdülenme"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "İçsel güdülenmede birey, etkinliğin kendisinden zevk aldığı veya merak ettiği için davranır; ödül veya ceza gibi dış etkenler gerekli değildir.",
     "source": {
       "kind": "generated",
@@ -995,12 +995,12 @@
     "stem": "Öğretmen Seren Hanım, okula aç gelen ve öğle yemeğini bile bulamayan bir öğrencinin derslere dikkatini veremediğini fark etmiştir. Sonrasında okul yönetimi öğrenciye sıcak bir öğle yemeği sağlamış, öğrencinin derse katılımı düzelmiştir.\n\nBu durum Maslow'un ihtiyaçlar hiyerarşisinde hangi basamağın karşılanmasıyla ilişkilidir?",
     "options": {
       "A": "Saygı ihtiyacı",
-      "B": "Fizyolojik ihtiyaçlar",
-      "C": "Kendini gerçekleştirme",
+      "B": "Kendini gerçekleştirme",
+      "C": "Fizyolojik ihtiyaçlar",
       "D": "Güvenlik ihtiyacı",
       "E": "Ait olma ve sevgi ihtiyacı"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Maslow'a göre alt basamaktaki fizyolojik ihtiyaçlar (açlık, uyku, barınma) karşılanmadan üst basamaklara (öğrenme gibi) yönelim güçleşir.",
     "source": {
       "kind": "generated",
@@ -1017,13 +1017,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Yeni bir okula başlayan Ela, arkadaşlarınca kabul görmek, bir gruba ait olmak ve sevildiğini hissetmek istemektedir. Teneffüslerde arkadaş grubuyla zaman geçirdiğinde derse daha istekli katılmakta, dışlandığı günlerde ise derse ilgisi azalmaktadır. Ela'nın öğretmeni bu gözlemi veli toplantısında anne babasıyla da paylaşmıştır.\n\nEla'nın bu gereksinimi Maslow'un hangi basamağındadır?",
     "options": {
-      "A": "Güvenlik ihtiyacı",
-      "B": "Fizyolojik ihtiyaçlar",
-      "C": "Kendini gerçekleştirme",
-      "D": "Ait olma ve sevgi ihtiyacı",
+      "A": "Ait olma ve sevgi ihtiyacı",
+      "B": "Güvenlik ihtiyacı",
+      "C": "Fizyolojik ihtiyaçlar",
+      "D": "Kendini gerçekleştirme",
       "E": "Saygı ihtiyacı"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Maslow'un üçüncü basamağı ait olma ve sevgi ihtiyacıdır; bir gruba kabul edilme, arkadaşlık ve sevgi gereksinimini kapsar.",
     "source": {
       "kind": "generated",
@@ -1040,13 +1040,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Matematik sınavından düşük not alan Mert, durumu “Ben zaten matematik konusunda yeteneksizim, ne yaparsam yapayım değişmez” diye açıklamaktadır. Mert, başarısızlığın nedenini kendi içinde bulunan, zamanla değişmeyen ve kendi kontrolü dışında olan bir özelliğe bağlamaktadır.\n\nMert'in başarısızlığı açıklama biçimi Weiner'in atıf kuramına göre aşağıdakilerden hangisidir?",
     "options": {
-      "A": "İçsel, sabit ve kontrol edilemez neden",
-      "B": "Dışsal, sabit ve kontrol edilebilir neden",
+      "A": "Dışsal, sabit ve kontrol edilebilir neden",
+      "B": "İçsel, sabit ve kontrol edilemez neden",
       "C": "Dışsal, değişken ve kontrol edilemez neden",
       "D": "İçsel, değişken ve kontrol edilebilir neden",
       "E": "İçsel, değişken ve kontrol edilemez neden"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Yetenek, Weiner'e göre içsel, kararlı (sabit) ve kontrol edilemez bir nedendir; başarısızlığı yeteneğe bağlamak motivasyonu en çok düşüren atıftır.",
     "source": {
       "kind": "generated",
@@ -1063,13 +1063,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Sınavdan düşük not alan Defne, “Bu sınava yeterince çalışmadığım için başarısız oldum; bir dahaki sefere daha fazla çalışırsam başarırım” demektedir. Defne, başarısızlığın nedenini kendi içinde bulunan, değişebilen ve kendi kontrolü altında olan bir etkene bağlamaktadır.\n\nDefne'nin atfı Weiner'in atıf kuramına göre aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Dışsal, değişken ve kontrol edilemez neden",
-      "B": "İçsel, sabit ve kontrol edilemez neden",
-      "C": "İçsel, sabit ve kontrol edilebilir neden",
-      "D": "Dışsal, sabit ve kontrol edilebilir neden",
-      "E": "İçsel, değişken ve kontrol edilebilir neden"
+      "A": "İçsel, değişken ve kontrol edilebilir neden",
+      "B": "Dışsal, değişken ve kontrol edilemez neden",
+      "C": "İçsel, sabit ve kontrol edilemez neden",
+      "D": "İçsel, sabit ve kontrol edilebilir neden",
+      "E": "Dışsal, sabit ve kontrol edilebilir neden"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Çaba, Weiner'e göre içsel, değişken ve kontrol edilebilir bir nedendir; başarısızlığı çabaya bağlamak ileriki motivasyonu ve çalışmayı destekler.",
     "source": {
       "kind": "generated",
@@ -1088,11 +1088,11 @@
     "options": {
       "A": "Gizil öğrenme",
       "B": "Kavrayış yoluyla öğrenme",
-      "C": "Öz yeterlik",
-      "D": "Öğrenilmiş çaresizlik",
+      "C": "Öğrenilmiş çaresizlik",
+      "D": "Öz yeterlik",
       "E": "Dışsal güdülenme"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Seligman'a göre kontrol edilemeyen olumsuz yaşantıların tekrarı, bireyin durumu değiştirmek için çaba göstermemesine yol açar; buna öğrenilmiş çaresizlik denir.",
     "source": {
       "kind": "generated",
@@ -1135,10 +1135,10 @@
       "A": "Sıfır transfer",
       "B": "Negatif transfer",
       "C": "İleriye etki",
-      "D": "Geriye etki",
-      "E": "Pozitif transfer"
+      "D": "Pozitif transfer",
+      "E": "Geriye etki"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Önceki öğrenmenin sonraki öğrenmeyi kolaylaştırmasına pozitif (olumlu) transfer denir.",
     "source": {
       "kind": "generated",
@@ -1155,13 +1155,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Yıllardır manuel vitesli araç kullanan Lale, otomatik vitesli bir araca bindiğinde sol ayağıyla debriyaj pedalını aramakta ve sık sık ani frene basmaktadır. Eski alışkanlığı yeni durumda sürüş becerisini zorlaştırmaktadır. Lale araç kullanma becerisi açısından deneyimli olmasına karşın bu durumdan rahatsız olmaktadır.\n\nBu durum aşağıdakilerden hangisine örnektir?",
     "options": {
-      "A": "Sıfır transfer",
-      "B": "Dikey transfer",
-      "C": "Negatif transfer",
+      "A": "Negatif transfer",
+      "B": "Sıfır transfer",
+      "C": "Dikey transfer",
       "D": "Yatay transfer",
       "E": "Pozitif transfer"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Önceki öğrenmenin sonraki öğrenmeyi güçleştirmesi ya da bozmasına negatif (olumsuz) transfer denir.",
     "source": {
       "kind": "generated",
@@ -1178,13 +1178,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Toplama ve çıkarma işlemlerini iyi öğrenmiş olan Burcu, bu ön bilgisini kullanarak çarpma ve bölme işlemlerini çok daha kolay öğrenmiştir. Burada alt düzey bir beceri, daha karmaşık ve üst düzey bir becerinin öğrenilmesine katkıda bulunmuştur.\n\nBu transfer türü aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Yatay transfer",
-      "B": "Yakın transfer",
-      "C": "Sıfır transfer",
-      "D": "Negatif transfer",
-      "E": "Dikey transfer"
+      "A": "Dikey transfer",
+      "B": "Yatay transfer",
+      "C": "Yakın transfer",
+      "D": "Sıfır transfer",
+      "E": "Negatif transfer"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Alt düzey bir öğrenmenin, daha üst düzey ve karmaşık bir öğrenmeyi kolaylaştırmasına dikey transfer denir; aynı düzeydeki öğrenmeler arasındaki aktarım yatay transferdir.",
     "source": {
       "kind": "generated",
@@ -1224,13 +1224,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Okul gazetesinin editörü Ceyda, arkadaşları arasındaki anlaşmazlıkları kolayca çözmekte, başkalarının duygularını ve niyetlerini hızlı fark edebilmekte, grup çalışmalarında doğal lider olarak kabul edilmektedir. Öğretmenleri de Ceyda'nın bu yönünü sıkça takdir etmektedir.\n\nCeyda'nın baskın olduğu zekâ alanı Gardner'ın çoklu zekâ kuramına göre aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Kişilerarası (sosyal) zekâ",
-      "B": "Mantıksal-matematiksel zekâ",
+      "A": "Mantıksal-matematiksel zekâ",
+      "B": "Kişilerarası (sosyal) zekâ",
       "C": "Doğacı zekâ",
       "D": "Müziksel zekâ",
       "E": "Kişisel (içsel) zekâ"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Kişilerarası zekâ, başkalarını anlama, onlarla etkili iletişim kurma ve işbirliği yapabilme yeteneğidir.",
     "source": {
       "kind": "generated",
@@ -1247,13 +1247,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Beden eğitimi öğretmeni Orhan Bey, öğrencisi Emre'nin dans figürlerini bir kez görünce taklit edebildiğini, el becerisi gerektiren işlerde çok başarılı olduğunu ve düşüncelerini hareketle ifade ettiğini fark etmiştir. Emre sınıf içi yazılı derslerde ise sınıf arkadaşlarından daha az başarılıdır.\n\nEmre'nin baskın zekâ alanı Gardner'ın çoklu zekâ kuramına göre aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Müziksel zekâ",
-      "B": "Görsel-uzamsal zekâ",
-      "C": "Kişilerarası zekâ",
-      "D": "Doğacı zekâ",
-      "E": "Bedensel-kinestetik zekâ"
+      "A": "Bedensel-kinestetik zekâ",
+      "B": "Müziksel zekâ",
+      "C": "Görsel-uzamsal zekâ",
+      "D": "Kişilerarası zekâ",
+      "E": "Doğacı zekâ"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Bedensel-kinestetik zekâ, bedeni ve el becerisini kullanarak düşünceleri ifade etme ve nesneleri ustalıkla kullanma yeteneğidir.",
     "source": {
       "kind": "generated",
@@ -1270,13 +1270,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Bir şirket yöneticisi, çalışanlarını işe alırken yalnızca bilgi ve beceri değil, kişinin kendi duygularını fark etme, yönetme, başkalarının duygularını anlama ve ilişkileri yürütme yeteneğine de bakmaktadır. Bu yeteneğin iş ve yaşam başarısında akademik zekâ kadar önemli olduğuna inanmaktadır.\n\nBu anlayış hangi kavramla ilişkilidir?",
     "options": {
-      "A": "Mantıksal-matematiksel zekâ",
-      "B": "Sosyal öğrenme",
-      "C": "Duygusal zekâ (Goleman)",
+      "A": "Duygusal zekâ (Goleman)",
+      "B": "Mantıksal-matematiksel zekâ",
+      "C": "Sosyal öğrenme",
       "D": "Akışkan zekâ",
       "E": "Genel zekâ faktörü (g)"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Goleman'ın duygusal zekâ kavramı; kendini tanıma, duyguları yönetme, kendini güdüleme, empati ve sosyal becerileri kapsar.",
     "source": {
       "kind": "generated",
@@ -1386,12 +1386,12 @@
     "stem": "Matematik öğretmeni Selin Hanım, üçgenlerin iç açıları toplamını anlatırken hazır formülü yazmak yerine öğrencilere farklı üçgenler çizdirip açıları ölçtürmüş; öğrenciler ölçümlerini karşılaştırarak toplamın hep aynı çıktığını kendileri fark etmiş ve kuralı birlikte ifade etmiştir. Öğretmen yalnızca yönlendirici sorular sormuştur.\n\nBu öğretimde Bruner'in önerdiği öğrenme yaklaşımı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Gözlem yoluyla öğrenme",
-      "B": "Tam öğrenme",
-      "C": "Keşfederek öğrenme",
+      "B": "Keşfederek öğrenme",
+      "C": "Tam öğrenme",
       "D": "Alıcı (sunuş yoluyla) öğrenme",
       "E": "Koşullanma yoluyla öğrenme"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Bruner'e göre öğrenci, kavram ve ilkeleri hazır almak yerine örnekler üzerinde inceleme yaparak kendisi keşfeder. Öğretmenin rolü yönlendirmektir.",
     "source": {
       "kind": "generated",
@@ -1409,12 +1409,12 @@
     "stem": "Fen bilgisi öğretmeni, kesirleri öğretirken önce öğrencilere gerçek elma parçalarını ellerinde tutturmuş, sonra aynı bölünmeleri çizilmiş şekillerle göstermiş, en sonunda ½ ve ¼ gibi sayısal simgelerle işlem yaptırmıştır. Öğrenme, nesneden resme, resimden simgeye doğru ilerlemiştir.\n\nBu sıralama hangi kuramcının öğrenmede temsil biçimleriyle (eylemsel, imgesel, simgesel) açıklanır?",
     "options": {
       "A": "Gagné",
-      "B": "Vygotsky",
-      "C": "Bruner",
+      "B": "Bruner",
+      "C": "Vygotsky",
       "D": "Ausubel",
       "E": "Piaget"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Bruner, bilginin eylemsel (enaktif), imgesel (ikonik) ve simgesel (sembolik) olmak üzere üç biçimde temsil edildiğini ve öğretimin bu sırayı izleyebileceğini söyler.",
     "source": {
       "kind": "generated",
@@ -1431,13 +1431,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Tarih öğretmeni, Osmanlı'da yenileşme hareketlerini işlemeden önce tahtaya konunun genel çerçevesini ve öğrencilerin daha önce öğrendiği Lale Devri bilgisiyle bağlantılarını gösteren kısa bir kavram şeması çizmiş, ardından ayrıntılara geçmiştir. Amacı, yeni bilgilerin zihinde hazır tutunacak bir yapı bulmasıdır.\n\nÖğretmenin kullandığı bu araç Ausubel'e göre aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Ön düzenleyici",
-      "B": "Pekiştireç",
-      "C": "Duyusal kayıt",
-      "D": "Ön test",
+      "A": "Pekiştireç",
+      "B": "Duyusal kayıt",
+      "C": "Ön test",
+      "D": "Ön düzenleyici",
       "E": "Dönüt"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Ausubel'in anlamlı öğrenme kuramında, yeni konudan önce verilen ve eski bilgiyle yeni bilgi arasında köprü kuran genel, soyut kısa çerçeveye ön düzenleyici denir.",
     "source": {
       "kind": "generated",
@@ -1480,10 +1480,10 @@
       "A": "Bandura",
       "B": "Skinner",
       "C": "Thorndike",
-      "D": "Gagné",
-      "E": "Bruner"
+      "D": "Bruner",
+      "E": "Gagné"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Gagné, öğrenme sürecinin dışarıdan desteklenmesi için dikkat çekme, hedefi bildirme, ön bilgileri hatırlatma, içeriği sunma, yönlendirme, performans, dönüt, değerlendirme ve kalıcılık olmak üzere dokuz öğretim olayı önerir.",
     "source": {
       "kind": "generated",
@@ -1500,13 +1500,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Psikolog, Mehmet'in okulda sınavlarda analiz yeteneğiyle başarılı olduğunu, yeni ve özgün fikirler üretebildiğini ve günlük yaşamdaki sorunlara pratik çözümler bulup çevresine uyum sağlayabildiğini gözlemlemiştir. Bu üç yeteneğin birlikte işlediğini ve her birinin ayrı geliştirilebileceğini belirtmiştir.\n\nPsikologun bu zekâ anlayışı kimin kuramına dayanır?",
     "options": {
-      "A": "Sternberg",
-      "B": "Gardner",
-      "C": "Piaget",
-      "D": "Spearman",
+      "A": "Gardner",
+      "B": "Piaget",
+      "C": "Spearman",
+      "D": "Sternberg",
       "E": "Goleman"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Sternberg'in üçlü (triarşik) zekâ kuramı zekâyı analitik, yaratıcı ve pratik olmak üzere üç bileşenle açıklar.",
     "source": {
       "kind": "generated",
@@ -1548,11 +1548,11 @@
     "options": {
       "A": "Piaget",
       "B": "Skinner",
-      "C": "Bandura",
-      "D": "Köhler",
-      "E": "Watson"
+      "C": "Watson",
+      "D": "Bandura",
+      "E": "Köhler"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Watson, Küçük Albert deneyiyle korkunun klasik koşullanmayla öğrenilebileceğini göstermiştir; davranışçılığın kurucusu olarak kabul edilir.",
     "source": {
       "kind": "generated",
@@ -1569,13 +1569,13 @@
     "konu": "ogrenme_psikolojisi",
     "stem": "Elif, sınavdan önce çalıştığı yeni sözcükleri kırk saniye boyunca içinden defalarca tekrar etmiş ve bu sayede sözcükleri aklında tutarak soruya geçmiştir. Tekrar bırakıldığında ise sözcükler çabucak aklından çıkmıştır. Elif, bu bilgileri uzun süreli belleğe aktaramamıştır.\n\nBilgi işleme modelinde Elif'in sözcükleri aklında tutmasını sağlayan işlem hangisidir?",
     "options": {
-      "A": "Anlamlandırma",
-      "B": "Kodlama derinliği",
-      "C": "Bilgiyi çağırma",
-      "D": "Duyusal kayıt",
-      "E": "Yineleme (prova)"
+      "A": "Yineleme (prova)",
+      "B": "Anlamlandırma",
+      "C": "Kodlama derinliği",
+      "D": "Bilgiyi çağırma",
+      "E": "Duyusal kayıt"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Kısa süreli bellekte bilgi, tekrar edilerek (prova) süre sınırından daha uzun tutulabilir; ancak anlamlı kodlama yapılmadığı sürece uzun süreli belleğe geçmez.",
     "source": {
       "kind": "generated",
@@ -1584,6 +1584,144 @@
     },
     "validYear": 2026,
     "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-ogr-070",
+    "ders": "egitim_bilimleri",
+    "konu": "ogrenme_psikolojisi",
+    "stem": "Fen bilgisi dersinde bir metni okuyan Deniz, bir paragrafın sonunda söylenenleri anlamadığını fark etmiş, “Bu kısım bana net gelmedi” diyerek paragrafı başa dönüp yavaşça okumuş, ardından anahtar sözcüklerin altını çizmiştir. Öğretmeni, Deniz'in kendi anlamasını izleyip gerektiğinde stratejisini değiştirdiğini belirtmiştir.\n\nDeniz'in bu davranışı aşağıdakilerden hangisiyle açıklanır?",
+    "options": {
+      "A": "Duyusal kayıt",
+      "B": "Tekrar stratejisi",
+      "C": "Örgütleme stratejisi",
+      "D": "Üst biliş",
+      "E": "Seçici dikkat"
+    },
+    "answer": "D",
+    "solution": "Üst biliş (Flavell), bireyin kendi düşünme ve öğrenme sürecini planlaması, izlemesi ve gerektiğinde düzeltmesidir; Deniz anlamadığını fark edip stratejisini değiştirerek öğrenmesini izlemiş ve yönetmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Üst biliş (Flavell): izleme ve düzenleme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-ogr-071",
+    "ders": "egitim_bilimleri",
+    "konu": "ogrenme_psikolojisi",
+    "stem": "Ece, sınava hazırlanırken önce her hafta için çözeceği soru sayısını belirlemiş, takvim yapmış, çalışırken ilerlemesini bir çizelgeye işlemiş ve hedefinin gerisinde kaldığı günlerde çalışma yöntemini değiştirmiştir. Sınavdan sonra performansını kendi ölçütleriyle değerlendirerek bir sonraki dönem için yeni hedefler koymuştur.\n\nEce'nin öğrenmesi aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Keşfederek öğrenme",
+      "B": "Alıcı öğrenme",
+      "C": "Dışsal güdülenmeli öğrenme",
+      "D": "Tam öğrenme",
+      "E": "Öz düzenlemeli öğrenme"
+    },
+    "answer": "E",
+    "solution": "Öz düzenlemeli öğrenmede birey hedef belirler, planlar, uygulamasını izler ve sonucu değerlendirerek sürece yeni hedeflerle devam eder; Ece'nin bütün davranışları bu döngüyü gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Öz düzenlemeli öğrenme (Zimmerman)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-ogr-072",
+    "ders": "egitim_bilimleri",
+    "konu": "ogrenme_psikolojisi",
+    "stem": "Ali, matematik sınavlarında arkadaşlarından daha yüksek not almak istediği için çalışmaktadır; zor ve yeni türden soruları çözmekten kaçınmakta, hata yapıp başkalarının gözünde başarısız görünmemek için yalnızca kolay soruları seçmektedir. Öğretmeni, Ali'nin öğrenmekten çok başkalarıyla kıyaslanmaya odaklandığını fark etmiştir.\n\nAli'nin bu eğilimi hangi hedef yönelimidir?",
+    "options": {
+      "A": "Öğrenme hedefi yönelimi",
+      "B": "İçsel güdülenme",
+      "C": "Kontrol odağı",
+      "D": "Performans hedefi yönelimi",
+      "E": "Öğrenilmiş çaresizlik"
+    },
+    "answer": "D",
+    "solution": "Performans hedefi yönelimli öğrenci, yetenek göstermeyi ve başkalarından iyi görünmeyi amaçlar; hata yapmaktan kaçındığı için zor görevleri seçmez. Öğrenme hedefi yönelimli öğrenci ise ustalaşmayı amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Hedef yönelimleri: performans ve öğrenme"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-ogr-073",
+    "ders": "egitim_bilimleri",
+    "konu": "ogrenme_psikolojisi",
+    "stem": "Bir psikolog, zekânın tek bir genel yetenek değil, birbirinden göreli bağımsız yedi temel zihinsel yetenekten oluştuğunu savunmaktadır. Bunlar sözel anlama, sözcük akıcılığı, sayısal yetenek, uzamsal görselleştirme, bellek, algılama hızı ve akıl yürütmedir. Psikolog, her bireyin bu yeteneklerde farklı bir profile sahip olduğunu ifade etmiştir.\n\nPsikologun bu görüşü aşağıdaki kuramlardan hangisine dayanmaktadır?",
+    "options": {
+      "A": "Birincil zihinsel yetenekler kuramı",
+      "B": "Duygusal zekâ kuramı",
+      "C": "İki faktörlü zekâ kuramı",
+      "D": "Çoklu zekâ kuramı",
+      "E": "Üçlü zekâ kuramı"
+    },
+    "answer": "A",
+    "solution": "Thurstone'un birincil zihinsel yetenekler kuramı, zekâyı yedi göreli bağımsız temel yetenekle açıklar ve Spearman'ın tek genel zekâ (g) anlayışına karşı çıkar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Thurstone: birincil zihinsel yetenekler"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-ogr-074",
+    "ders": "egitim_bilimleri",
+    "konu": "ogrenme_psikolojisi",
+    "stem": "Altmış beş yaşındaki emekli öğretmen Nuri Bey, kelime bilgisinde, genel kültüründe ve yıllarca edindiği deneyimlerden gelen yargılarında çok başarılıdır; ancak daha önce hiç görmediği soyut şekil örüntülerini hızla çözmekte genç yetişkinlere göre belirgin biçimde yavaştır.\n\nPsikologa göre Nuri Bey'in güçlü olduğu zekâ türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yaratıcı zekâ",
+      "B": "Akışkan zekâ",
+      "C": "Uzamsal zekâ",
+      "D": "Duygusal zekâ",
+      "E": "Kristalleşmiş zekâ"
+    },
+    "answer": "E",
+    "solution": "Cattell'e göre kristalleşmiş zekâ, öğrenme ve deneyimle edinilen bilgilere dayanır ve yaşla artmayı sürdürür; akışkan zekâ ise yeni ve soyut sorunları çözme hızıdır ve erken yetişkinlikten sonra azalır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Cattell: akışkan ve kristalleşmiş zekâ"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-ogr-075",
+    "ders": "egitim_bilimleri",
+    "konu": "ogrenme_psikolojisi",
+    "stem": "Bir deneyde fareler, ödül konulmayan bir labirentte on gün boyunca serbestçe dolaştırılmıştır. On birinci gün labirentin çıkışına yiyecek konulduğunda fareler, hiç ödül almadıkları hâlde labirentin yapısını öğrenmiş gibi çıkışa hemen en kısa yoldan ulaşmıştır.\n\nBu deneyde ortaya çıkan öğrenme türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gizil (örtük) öğrenme",
+      "B": "Edimsel koşullanma",
+      "C": "Gözlem yoluyla öğrenme",
+      "D": "Klasik koşullanma",
+      "E": "İçgörü ile öğrenme"
+    },
+    "answer": "A",
+    "solution": "Tolman'a göre pekiştireç olmadan da öğrenme gerçekleşir; ancak performansa yansıması ödülle ortaya çıkar. Bu tür öğrenmeye gizil (örtük) öğrenme, zihinsel haritaya ise bilişsel harita denir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Tolman: gizil öğrenme ve bilişsel harita"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
     "mockExamId": null
   }
 ]

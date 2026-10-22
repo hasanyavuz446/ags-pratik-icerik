@@ -31,10 +31,10 @@
       "A": "Akıl ve duygu dengesi",
       "B": "Madde ve mana dengesi",
       "C": "Nefis ve vicdan arasındaki denge",
-      "D": "Teori ve uygulama dengesi",
-      "E": "İnsan ve toplum dengesi"
+      "D": "İnsan ve toplum dengesi",
+      "E": "Teori ve uygulama dengesi"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Metinde gözetilen dengeler madde-mana, akıl-duygu, nefis-vicdan, insan-toplum ve zaman-mekân olarak sayılır; teori-uygulama dengesi bu sayımda yer almaz.",
     "source": {
       "kind": "generated",
@@ -75,12 +75,12 @@
     "stem": "Fen bilimleri öğretmeni Orhan Bey öğrencilerin öğrendikleri bilgilerin yalnızca ezberlenmesini istemiyor; bu bilgilerin çevreye ve topluma yönelik eylemlerle desteklenmesini hedefliyor. Öğrencileri, bildiklerinin sonuçlarından kendilerinin de sorumlu olduğunu fark etmeye yönlendiriyor.\n\nOrhan Bey'in yaklaşımı modelin hangi iki temel kavramı bütünlemesine dayanır?",
     "options": {
       "A": "Yetkinlik ve rekabet",
-      "B": "Bilme ve sorumluluk",
-      "C": "Hak ve özgürlük",
-      "D": "Bilgi ve başarı",
+      "B": "Hak ve özgürlük",
+      "C": "Bilgi ve başarı",
+      "D": "Bilme ve sorumluluk",
       "E": "Akıl ve irade"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Modelde bilme ile sorumluluk birbirini bütünleyen iki temel kavramdır; sorumluluk, çevreye, topluma, insanlığa ve tüm kâinata yönelik eylemlerle desteklenmiş bir bütün olarak değerlendirilir.",
     "source": {
       "kind": "generated",
@@ -97,13 +97,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir ortaokulda matematik, fen ve sosyal bilgiler öğretmenleri, öğrencilerin öğrendikleri konuları anlatırken Türkçeyi doğru ve etkili kullanmalarına her derste özen göstermektedir. Müdür, bu tutumun eğitim sisteminde belirli bir yaklaşımın gereği olduğunu belirtmiştir. Çalışmaların sonuçları yıl sonunda okul zümrelerinde de değerlendirilmiştir ve raporlanmıştır.\n\nMüdürün sözünü ettiği yaklaşım aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Türkçenin öğretimi ve geliştirilmesinin eğitim sisteminde temel bir politika olması",
-      "B": "Dilin sadece bir iletişim aracı olarak görülüp düşünce ve değer üretimiyle ilişkilendirilmemesi",
-      "C": "Türkçenin sadece Türkçe derslerinde ele alınması ve diğer derslerde dil kullanımına bakılmaması",
-      "D": "Yabancı dil öğretiminin Türkçe öğretiminin önüne geçirilerek eğitim dilinin sürekli değiştirilmesi",
-      "E": "Türkçe öğretiminin ilkokul kademesiyle sınırlandırılıp sonraki kademelerde dikkate alınmaması"
+      "A": "Dilin sadece bir iletişim aracı olarak görülüp düşünce ve değer üretimiyle ilişkilendirilmemesi",
+      "B": "Türkçenin sadece Türkçe derslerinde ele alınması ve diğer derslerde dil kullanımına bakılmaması",
+      "C": "Yabancı dil öğretiminin Türkçe öğretiminin önüne geçirilerek eğitim dilinin sürekli değiştirilmesi",
+      "D": "Türkçe öğretiminin ilkokul kademesiyle sınırlandırılıp sonraki kademelerde dikkate alınmaması",
+      "E": "Türkçenin öğretimi ve geliştirilmesinin eğitim sisteminde temel bir politika olması"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Modelde dil; insanın varlık dünyasına erişiminin, düşünceyi oluşturmasının ve değer üretmesinin temel aracıdır; Türkçemizin öğretimi ve geliştirilmesi eğitim sistemimizde temel bir politika olarak yer alır.",
     "source": {
       "kind": "generated",
@@ -122,11 +122,11 @@
     "options": {
       "A": "Teknolojiye uyumlu işgücü yetiştirmek",
       "B": "Sınavlarda başarılı nesiller yetiştirmek",
-      "C": "Yetkin ve erdemli insan yetiştirmek",
-      "D": "Girişimci birey yetiştirmek",
-      "E": "Akademik başarısı yüksek öğrenci yetiştirmek"
+      "C": "Girişimci birey yetiştirmek",
+      "D": "Akademik başarısı yüksek öğrenci yetiştirmek",
+      "E": "Yetkin ve erdemli insan yetiştirmek"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Modelin nihai hedefi, yetkin ve erdemli insanlar yetiştirmektir; yetkinlik ve erdem birbirini tamamlayan iki önemli değerdir.",
     "source": {
       "kind": "generated",
@@ -143,13 +143,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir zümre başkanı, yeni öğretim programlarının hangi kanuni ve ilkesel çerçeve esas alınarak hazırlandığını meslektaşlarına hatırlatmak istemektedir. Programların, Türk Millî Eğitiminin Genel Amaçları ile Temel İlkelerini esas aldığını, bunların bir kanun maddesinde ifade edildiğini söylemektedir.\n\nZümre başkanı hangi kanun maddesine işaret etmektedir?",
     "options": {
-      "A": "2709 sayılı Anayasa'nın 42. maddesi",
-      "B": "7528 sayılı Öğretmenlik Meslek Kanunu'nun 2. maddesi",
-      "C": "222 sayılı İlköğretim ve Eğitim Kanunu'nun 2. maddesi",
-      "D": "1739 sayılı Millî Eğitim Temel Kanunu'nun 18. maddesi",
-      "E": "1739 sayılı Millî Eğitim Temel Kanunu'nun 2. maddesi"
+      "A": "1739 sayılı Millî Eğitim Temel Kanunu'nun 2. maddesi",
+      "B": "2709 sayılı Anayasa'nın 42. maddesi",
+      "C": "7528 sayılı Öğretmenlik Meslek Kanunu'nun 2. maddesi",
+      "D": "222 sayılı İlköğretim ve Eğitim Kanunu'nun 2. maddesi",
+      "E": "1739 sayılı Millî Eğitim Temel Kanunu'nun 18. maddesi"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Öğretim programları, 1739 sayılı Kanun'un 2. maddesinde ifade edilen Türk Millî Eğitiminin Genel Amaçları ile Türk Millî Eğitiminin Temel İlkeleri esas alınarak hazırlanmıştır.",
     "source": {
       "kind": "generated",
@@ -167,12 +167,12 @@
     "stem": "Okul rehber öğretmeni Selim Bey, bir öğrencinin bedensel, zihinsel, ruhsal ve sosyal yönlerinin dengeli gelişmesini; beslenme, uyku ve egzersizin yanında sorumluluk, irade ve ahlaki değerlerin de ele alındığı bütüncül bir bakışla izlemektedir. Selim Bey akıl ve vicdanın birlikte hareket etmesine önem vermektedir.\n\nBu bakış modelin öğrenci profilindeki hangi bütünlükle ilgilidir?",
     "options": {
       "A": "Zamansal bütünlük",
-      "B": "Ontolojik bütünlük",
-      "C": "Epistemolojik bütünlük",
+      "B": "Epistemolojik bütünlük",
+      "C": "Ontolojik bütünlük",
       "D": "Pedagojik bütünlük",
       "E": "Aksiyolojik olgunluk"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Ontolojik bütünlük, öğrencinin bedensel, zihinsel, ruhsal ve sosyal yönlerini dengeli geliştirmeyi hedefleyen ruh ve beden bütünlüğüdür.",
     "source": {
       "kind": "generated",
@@ -212,13 +212,13 @@
     "konu": "maarif_modeli",
     "stem": "Tarih öğretmeni Dilek Hanım, dersinde öğrencinin yalnızca kendi geçmişini değil, içinde büyüdüğü toplumun ortak geçmişini ve tarihsel tecrübesini de sürece katmaktadır. Millet olarak sahip olunan ortak bilinç, kültür ve değerlerin öğrenciye kazandırılmasını hedeflemektedir.\n\nBu çalışma öğrenci profilindeki hangi kavramla ilişkilidir?",
     "options": {
-      "A": "Zamansal bütünlük",
-      "B": "Aksiyolojik olgunluk",
-      "C": "Ontolojik bütünlük",
-      "D": "Mekânsal bütünlük",
+      "A": "Aksiyolojik olgunluk",
+      "B": "Ontolojik bütünlük",
+      "C": "Mekânsal bütünlük",
+      "D": "Zamansal bütünlük",
       "E": "Epistemolojik bütünlük"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Zamansal bütünlük, eğitimin hayatın her aşamasında devam eden ve geçmişten geleceğe uzanan bir süreç olarak ele alınmasını, toplumun tarihsel tecrübesinin sürece dâhil edilmesini vurgular.",
     "source": {
       "kind": "generated",
@@ -259,12 +259,12 @@
     "stem": "Bir ortaokul öğrencisi Deniz, korkularına rağmen yeni deneyimlere atılmakta, zorluklarla yüzleşmekten çekinmemekte ve grup çalışmalarında fikir üretip işleri başlatarak liderlik yapmaktadır. Gerektiğinde ilk adımı cesurca atmaktadır. Çalışma ortamında arkadaşlarıyla birlikte hareket etmeyi de seven Deniz, öğretmenleri tarafından ayrıca izlenmektedir.\n\nDeniz'in bu özellikleri modelin öğrenci profili özelliklerinden hangisini yansıtmaktadır?",
     "options": {
       "A": "Bilge",
-      "B": "İradeli",
-      "C": "Üretken",
-      "D": "Sorgulayıcı",
-      "E": "Cesaretli"
+      "B": "Cesaretli",
+      "C": "İradeli",
+      "D": "Üretken",
+      "E": "Sorgulayıcı"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Cesaretli profil özelliği; yiğit ve mert olmayı, risk almayı, inisiyatif almayı, destekleyici olmayı ve girişimci olmayı içerir.",
     "source": {
       "kind": "generated",
@@ -284,10 +284,10 @@
       "A": "Estetik",
       "B": "Cesaretli",
       "C": "İradeli",
-      "D": "Merhametli",
-      "E": "Üretken"
+      "D": "Üretken",
+      "E": "Merhametli"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Üretken profil özelliği; hayal ve hedefleri olmayı, çalışkan olmayı, öğrenmeye istekli olmayı, azimli ve sabırlı olmayı, iletişime ve dayanışmaya açık olmayı ve yaratıcı olmayı içerir.",
     "source": {
       "kind": "generated",
@@ -305,12 +305,12 @@
     "stem": "Öğrenci Emir, millî sembollere ve bayrağa saygı göstermekte, Türkçeye hâkim olup güzel yazıp konuşmakta, vatandaşlık hak ve sorumluluklarını bilmekte ve ülkesinin kalkınmasına katkı sağlamaya çalışmaktadır. Millî kültürüne ve manevi değerlerine bağlıdır. Emir, bu özelliklerini yalnızca okulda değil, aile ve çevresinde de sürdürmektedir ve arkadaşlarına örnek olmaktadır.\n\nEmir'in özellikleri modelin öğrenci profili özelliklerinden hangisini yansıtmaktadır?",
     "options": {
       "A": "Ahlaklı",
-      "B": "Merhametli",
-      "C": "Vatansever",
+      "B": "Vatansever",
+      "C": "Merhametli",
       "D": "Bilge",
       "E": "Sorgulayıcı"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Vatansever profil özelliği; bayrağını sevmeyi, Türkçeye sahip çıkmayı, vatanını ve milletini sevmeyi, gelişmiş bir devlet bilincine sahip olmayı, vatandaşlık hak ve sorumluluklarını bilmeyi ve millî kültüre bağlı olmayı kapsar.",
     "source": {
       "kind": "generated",
@@ -329,11 +329,11 @@
     "options": {
       "A": "Erdemlerden eylemlere, eylemlerden değerlere ve oradan bilgiye ulaşmak",
       "B": "Becerilerden eğilimlere, eğilimlerden değerlere ulaşmak",
-      "C": "Eylemlerden değerlere, değerlerden erdemli insana ulaşmak",
-      "D": "Değerlerden erdemlere, erdemlerden bilgiye ulaşmak",
+      "C": "Değerlerden erdemlere, erdemlerden bilgiye ulaşmak",
+      "D": "Eylemlerden değerlere, değerlerden erdemli insana ulaşmak",
       "E": "Bilgiden eyleme, eylemden başarıya ulaşmak"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Modelin ana hedefi; eylemlerden değerlere, değerlerden erdemli insana, erdemli insandan ise nihai hedef olan huzurlu aile ve toplum ile yaşanabilir çevrede huzurlu insana ulaşmaktır.",
     "source": {
       "kind": "generated",
@@ -351,12 +351,12 @@
     "stem": "Bir il millî eğitim müdürlüğü, Erdem-Değer-Eylem Çerçevesi'ni öğretmenlere tanıtırken çerçevenin merkezindeki üç değeri öne çıkarmıştır. Bu değerler, diğer bütün değerlerle yoğun kesişim noktaları olan değer yapılarını temsil etmektedir. Toplantıya ilçedeki okul müdürleri ve rehber öğretmenler de katılmış, konuşmanın ardından sorular alınmıştır.\n\nBu üç değer aşağıdakilerden hangisidir?",
     "options": {
       "A": "Temizlik, estetik ve duyarlılık",
-      "B": "Saygı, sorumluluk ve adalet",
-      "C": "Dürüstlük, sevgi ve dostluk",
-      "D": "Sabır, çalışkanlık ve tasarruf",
-      "E": "Vatanseverlik, özgürlük ve yardımseverlik"
+      "B": "Dürüstlük, sevgi ve dostluk",
+      "C": "Sabır, çalışkanlık ve tasarruf",
+      "D": "Vatanseverlik, özgürlük ve yardımseverlik",
+      "E": "Saygı, sorumluluk ve adalet"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Modelde saygı, sorumluluk ve adalet çatı değerler olarak yer alır; çatı değerler diğer bütün değerler ile yoğun kesişim noktaları olan değer yapılarıdır.",
     "source": {
       "kind": "generated",
@@ -373,13 +373,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir okulda öğretmenler kişisel hayat açısından önemli görülen tasarruf, sabır, mahremiyet, mütevazılık, sağlıklı yaşam ve çalışkanlık değerlerini bir panoda toplamıştır. Panonun başlığı olarak Erdem-Değer-Eylem Çerçevesi'ndeki ilgili alanın adını yazmak istemektedirler. Öğretmenler panoyu öğrencilerin de görebileceği bir koridora asmayı düşünmektedir ve çalışma sınıf düzeyine uygun hazırlanmıştır.\n\nPanonun başlığı aşağıdakilerden hangisi olmalıdır?",
     "options": {
-      "A": "Huzurlu Aile ve Toplum",
-      "B": "Huzurlu İnsan",
+      "A": "Huzurlu İnsan",
+      "B": "Huzurlu Aile ve Toplum",
       "C": "Yaşanabilir Çevre",
       "D": "Çatı Değerler",
       "E": "Yetkin Birey"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Çerçevede tasarruf, sabır, mahremiyet, mütevazılık, sağlıklı yaşam ve çalışkanlık değerleri kişisel hayat açısından önemli olup insan alanında yer alır.",
     "source": {
       "kind": "generated",
@@ -399,10 +399,10 @@
       "A": "Bilge Nesil ve Toplum",
       "B": "Yaşanabilir Çevre ve Toplum",
       "C": "Huzurlu İnsan ve Aile",
-      "D": "Çatı Değerler Alanı",
-      "E": "Huzurlu Aile ve Toplum"
+      "D": "Huzurlu Aile ve Toplum",
+      "E": "Çatı Değerler Alanı"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Çerçevede sevgi, dostluk, özgürlük, dürüstlük, vatanseverlik, yardımseverlik ve aile bütünlüğü değerleri aile ve sosyal çevre alanında, yani huzurlu aile ve toplum alanında yer alır.",
     "source": {
       "kind": "generated",
@@ -442,13 +442,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir öğretmen, çerçevedeki değerleri alanlarına göre sınıflandıran bir etkinlik hazırlamıştır. Öğrencilerden, Huzurlu Aile ve Toplum alanındaki değerler arasında bulunmayan bir değeri belirlemelerini istemiştir. Listede alanlardan birine ait olmayan bir değer yer almaktadır.\n\nAşağıdakilerden hangisi Huzurlu Aile ve Toplum alanındaki değerlerden biri değildir?",
     "options": {
-      "A": "Yardımseverlik",
-      "B": "Mütevazılık",
+      "A": "Mütevazılık",
+      "B": "Yardımseverlik",
       "C": "Dürüstlük",
       "D": "Özgürlük",
       "E": "Dostluk"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Mütevazılık, çerçevede kişisel hayat açısından önemli olan insan alanındaki değerlerdendir; dostluk, dürüstlük, özgürlük ve yardımseverlik ise aile ve sosyal çevre alanında yer alır.",
     "source": {
       "kind": "generated",
@@ -465,13 +465,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir öğretmen, sorumluluk değerini kazandırmak için haftada bir saati ayırıp öğrencilere bu değeri diğer konulardan bağımsız, ayrı bir ders gibi anlatmayı planlamaktadır. Müdür yardımcısı, bu planın modelin değerlere yaklaşımıyla uyuşmadığını belirtmektedir. Planın gerekçesi, değerlerin kolayca öğrenilebilmesi için sınıfta yeterli zaman ayırmak olarak açıklanmıştır ve öğretmen kararlıdır.\n\nModelin değerlere yaklaşımı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Değerler ayrık işlenmez; programa kaynaşık biçimde ünite, tema ya da öğrenme alanıyla tutarlı yaşantılarda ele alınır",
-      "B": "Değerler sınıf düzeyine bakılmaksızın ezberletilerek ve sözlü yoklamalarla kazandırılır",
-      "C": "Değerler sadece rehberlik etkinlikleri sırasında ve program dışında ele alınır, derslere yansıtılmaz",
+      "A": "Değerler sınıf düzeyine bakılmaksızın ezberletilerek ve sözlü yoklamalarla kazandırılır",
+      "B": "Değerler sadece rehberlik etkinlikleri sırasında ve program dışında ele alınır, derslere yansıtılmaz",
+      "C": "Değerler ayrık işlenmez; programa kaynaşık biçimde ünite, tema ya da öğrenme alanıyla tutarlı yaşantılarda ele alınır",
       "D": "Değerler becerilerden ve içerikten ayrı, bağımsız bir ders olarak ve ayrı bir saatte okutulur",
       "E": "Değerler her dönem başında tek bir etkinlikle öğrencilere öğretilir ve yıl boyunca ayrıca ele alınmaz"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Modelde değerler programın diğer ögelerinden, becerilerden ve alan içeriğinden ayrık değil, programa kaynaşık olarak işlenir ve ünite/tema/öğrenme alanı ile tutarlı biçimde öğrenme-öğretme yaşantılarında ele alınır.",
     "source": {
       "kind": "generated",
@@ -536,11 +536,11 @@
     "options": {
       "A": "Üst düzey düşünme becerileri",
       "B": "Temel beceriler",
-      "C": "Bütünleşik beceriler",
-      "D": "Sosyal-duygusal öğrenme becerileri",
-      "E": "Okuryazarlık becerileri"
+      "C": "Sosyal-duygusal öğrenme becerileri",
+      "D": "Okuryazarlık becerileri",
+      "E": "Bütünleşik beceriler"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Bütünleşik beceriler süreç modellemesi yapılabilen eylemlerdir; gözlemleme, sınıflandırma, karşılaştırma ve çıkarım yapma bunlar arasında yer alır.",
     "source": {
       "kind": "generated",
@@ -581,12 +581,12 @@
     "stem": "Bir öğretmen, sınıfındaki öğrencilerin empati kurabildiğini, sorumluluk aldığını, girişken davrandığını, arkadaşlarına güvendiğini ve oyun oynamaktan keyif aldığını gözlemlemiştir. Modelde bu özelliklerin kişinin içsel özelliklerini sosyal ortamda becerilerine yansıtmasıyla ilgili bir eğilim grubunda toplandığı söylenmektedir. Öğretmen bu özellikleri bir dönem boyunca not almış ve sınıf rehber öğretmeniyle de paylaşmıştır.\n\nBu eğilim grubu aşağıdakilerden hangisidir?",
     "options": {
       "A": "Entelektüel eğilimler",
-      "B": "Ahlaki eğilimler",
-      "C": "Benlik eğilimleri",
-      "D": "Sosyal eğilimler",
+      "B": "Sosyal eğilimler",
+      "C": "Ahlaki eğilimler",
+      "D": "Benlik eğilimleri",
       "E": "Duygusal eğilimler"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Modelde sosyal eğilimler empati, sorumluluk, girişkenlik, güven ve oyunseverlik olmak üzere beş eğilimdir.",
     "source": {
       "kind": "generated",
@@ -629,10 +629,10 @@
       "A": "Öğrenmenin niteliği açısından değerleri tetikleyici, eğitimin niteliği açısından becerileri besleyici bir rol üstlenir",
       "B": "Yalnızca ölçme ve değerlendirme sürecinde kullanılan ölçüt işlevi görür",
       "C": "Bilgi kümelerinin sınıflandırılmasında kullanılan bir araç olarak yer alır",
-      "D": "Öğrenmenin niteliği açısından becerileri tetikleyici, eğitimin niteliği açısından değerleri besleyici bir rol üstlenir",
-      "E": "Becerilerden bağımsız çalışan ve yalnızca doğuştan gelen özellikleri ifade eden bir yapı sunar"
+      "D": "Becerilerden bağımsız çalışan ve yalnızca doğuştan gelen özellikleri ifade eden bir yapı sunar",
+      "E": "Öğrenmenin niteliği açısından becerileri tetikleyici, eğitimin niteliği açısından değerleri besleyici bir rol üstlenir"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Eğilimler, öğrenmenin niteliği açısından becerileri tetikleyici, eğitimin niteliği açısından değerleri besleyici bir rol üstlenir.",
     "source": {
       "kind": "generated",
@@ -650,12 +650,12 @@
     "stem": "Bir ortaokul öğrencisi, bir olay karşısında hissettiği duyguları fark etmekte, bunları ayırt edip adlandırmakta ve duygularının davranışlarını nasıl etkilediğini anlamaya çalışmaktadır. Rehber öğretmen bu çabanın sosyal-duygusal öğrenme becerilerindeki benlik becerilerinden birine karşılık geldiğini söylemektedir. Rehber öğretmen öğrenciyle yaptığı görüşmeden sonra durumu not almış ve sınıf öğretmeniyle de paylaşmıştır.\n\nBu beceri aşağıdakilerden hangisidir?",
     "options": {
       "A": "Kendine uyarlama (öz yansıtma)",
-      "B": "Sosyal farkındalık",
-      "C": "Kendini düzenleme (öz düzenleme)",
-      "D": "Sorumlu karar verme",
-      "E": "Kendini tanıma (öz farkındalık)"
+      "B": "Kendini tanıma (öz farkındalık)",
+      "C": "Sosyal farkındalık",
+      "D": "Kendini düzenleme (öz düzenleme)",
+      "E": "Sorumlu karar verme"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Kendini tanıma (öz farkındalık becerisi), kişisel özelliklerin duygu, düşünce ve davranışlara yansımasının bilincinde olunmasıdır; olaylar karşısında yaşanan duyguları fark etmek bu becerinin süreç bileşenlerindendir.",
     "source": {
       "kind": "generated",
@@ -673,12 +673,12 @@
     "stem": "Bir okul rehberlik servisi, uyum, esneklik ve sorumlu karar verme becerilerini öğrencilere kazandırmayı planlamaktadır. Programı hazırlayan uzman, bu becerilerin sosyal-duygusal öğrenme becerilerinin ne tür bir bileşeninde toplandığını açıklamaktadır. Uzman, programın uygulanmasında öğretmenlere yardımcı olacak örnek etkinlikleri de ayrıca tanıtmıştır.\n\nUyum, esneklik ve sorumlu karar verme becerileri hangi bileşende yer alır?",
     "options": {
       "A": "Sosyal yaşam becerileri bileşeni",
-      "B": "Ortak/birleşik beceriler",
-      "C": "Temel beceriler",
+      "B": "Temel beceriler",
+      "C": "Ortak/birleşik beceriler",
       "D": "Alan becerileri",
       "E": "Benlik becerileri"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Sosyal-duygusal öğrenme becerileri benlik becerileri, sosyal yaşam becerileri ve ortak/birleşik beceriler olarak üçe ayrılır; uyum, esneklik ve sorumlu karar verme ortak/birleşik becerilerdir.",
     "source": {
       "kind": "generated",
@@ -742,12 +742,12 @@
     "stem": "Bir okulda öğrenciler, finansal okuryazarlık konusunda öğrendiklerini kullanarak bütçe planlama kampanyası yürütmekte ve çevrelerini bilgilendirmektedir. Öğretmen öğrencilerin yalnızca bilgi ve kavramların farkında olmakla kalmayıp edindikleri bilgilerle eyleme geçtiğini belirtmektedir. Etkinliğin sonunda öğrenciler hazırladıkları bilgilendirme afişlerini okulun giriş katında sergilemiştir.\n\nBu durum okuryazarlık becerilerinin hangi düzeyine karşılık gelir?",
     "options": {
       "A": "Kavramsallık düzeyi",
-      "B": "Süreklilik düzeyi",
-      "C": "Farkındalık düzeyi",
-      "D": "İşlevsellik düzeyi",
-      "E": "Eylemsellik düzeyi"
+      "B": "Eylemsellik düzeyi",
+      "C": "Süreklilik düzeyi",
+      "D": "Farkındalık düzeyi",
+      "E": "İşlevsellik düzeyi"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Okuryazarlık becerileri farkındalık, işlevsellik ve eylemsellik olmak üzere üç düzeyde kurgulanmıştır; edinilen bilgilere yönelik eyleme geçme eylemsellik düzeyidir.",
     "source": {
       "kind": "generated",
@@ -787,13 +787,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir matematik öğretmeni, modelde matematik alan becerileri arasında yer alan becerilerden birini sınıfında geliştirmek istemektedir. Öğrencilerin farklı gösterim biçimlerini kullanarak matematiksel fikirleri ifade etmelerini ve ilişkileri göstermelerini hedeflemektedir. Öğretmenin hazırladığı etkinlikler sınıfta uygulanmış ve öğrencilerin ilgisini çekmiştir ve etkinlik zenginleştirilmiştir.\n\nÖğretmenin geliştirmek istediği alan becerisi aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Matematiksel ezber",
-      "B": "Matematiksel temsil",
+      "A": "Matematiksel temsil",
+      "B": "Matematiksel ezber",
       "C": "Algoritmik yazma",
       "D": "Hızlı işlem yapma",
       "E": "Matematiksel hızlı işlem becerisi"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Modelde matematik alan becerileri matematiksel muhakeme, matematiksel problem çözme, matematiksel temsil, veri ile çalışma ve veriye dayalı karar verme, matematiksel araç ve teknoloji ile çalışmadır.",
     "source": {
       "kind": "generated",
@@ -812,11 +812,11 @@
     "options": {
       "A": "İçerik çerçevesi",
       "B": "Öğrenme kanıtı",
-      "C": "Süreç bileşeni",
-      "D": "Öğrenme çıktısı",
+      "C": "Öğrenme çıktısı",
+      "D": "Süreç bileşeni",
       "E": "Kazanım"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Programın temel ögelerinden biri olan dersin hedefleri, modelde öğrenme çıktıları olarak ifade edilir; öğrenme çıktıları bilgi kümesinin ilişkili alan becerileri ya da kavramsal beceriler ile birleştirilmesiyle oluşturulur.",
     "source": {
       "kind": "generated",
@@ -858,11 +858,11 @@
     "options": {
       "A": "Öğrenciye sadece ezberletilecek tüm konu başlıklarının eksiksiz sıralandığı kapsamlı bir bilgi kataloğudur",
       "B": "Öğretmenin ders işlerken uyması gereken yöntem ve tekniklerin ayrıntılı biçimde listelendiği bölümdür",
-      "C": "Konulardan bağımsız olarak sadece becerilerin sıralandığı ve içeriğin yer almadığı bir tablodur",
-      "D": "Bir bilgi kataloğu değil, sağlam, güvenilir, dayanıklı ve geçerli bilgiye karşılık gelen yapıdır",
+      "C": "Bir bilgi kataloğu değil, sağlam, güvenilir, dayanıklı ve geçerli bilgiye karşılık gelen yapıdır",
+      "D": "Konulardan bağımsız olarak sadece becerilerin sıralandığı ve içeriğin yer almadığı bir tablodur",
       "E": "Sadece sınav sorularının hazırlanmasında kullanılan ve konuları ayrıntılı sıralayan bir kaynak listesidir"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Modelde içerik çerçevesi, öğrenilmesinin amaç olarak görüldüğü bir bilgi kataloğunu temsil etmekten ziyade sağlam, güvenilir, dayanıklı ve geçerli bilgiye karşılık gelir ve \"Öğrenci ne bilmeli?\" sorusuna cevap verir.",
     "source": {
       "kind": "generated",
@@ -880,12 +880,12 @@
     "stem": "Bir program uzmanı, ünitelerdeki bilgi kümelerini sınıflandırmaktadır. Uzmana göre bazı bilgiler alan uzmanlarının nasıl çalıştığını ve düşündüğünü anlamaya yardımcı olmakta, öğrencilerin öğrenmenin amacını bulmalarını ve öğrenmeyi derinleştirmelerini sağlamaktadır. Uzman sınıflandırmayı hazırlarken ders programlarını ve öğretmen kılavuzlarını da incelemiştir ve notlar almıştır.\n\nBu bilgi türü modelde aşağıdakilerden hangisidir?",
     "options": {
       "A": "Disiplinler arası bilgi",
-      "B": "Epistemik bilgi",
-      "C": "İşlemsel bilgi",
-      "D": "Disipline özgü bilgi",
-      "E": "Bağlamsal bilgi"
+      "B": "İşlemsel bilgi",
+      "C": "Disipline özgü bilgi",
+      "D": "Bağlamsal bilgi",
+      "E": "Epistemik bilgi"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Modelde bilgi kümeleri disipline özgü, disiplinler arası, epistemik ve işlemsel bilgi olarak belirlenmiştir; epistemik bilgi, alan uzmanlarının nasıl çalıştığını ve düşündüğünü anlamaya yardımcı olur.",
     "source": {
       "kind": "generated",
@@ -904,11 +904,11 @@
     "options": {
       "A": "Doğrusal boyut",
       "B": "Bağlamsal boyut",
-      "C": "Dikey boyut",
-      "D": "Yatay boyut",
+      "C": "Yatay boyut",
+      "D": "Dikey boyut",
       "E": "Sarmal boyut"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Öğretim programlarında içerik hem yatay hem dikey boyutta ele alınmıştır; yatay boyut farklı konu alanları arasındaki ilişkiyi, dikey boyut ise bir konu alanının farklı sınıf düzeylerine göre seviyesini gösterir.",
     "source": {
       "kind": "generated",
@@ -948,13 +948,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir ünite programında, öğrencilerin üniteye başlamadan önce sahip olmaları beklenen kavram, ilke ve genellemeler listelenmiştir. Bu ön öğrenmeler, öğrencilerin bildiği kabul edilen öğrenmeleri kapsamakta ve ön değerlendirme sürecinde ele alınmaktadır. Öğretmenler programın bu bölümünü ilk kez inceledikleri için dikkatle okumaktadır ve soru sormaktadır.\n\nProgramda bu ön öğrenmelere verilen ad aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Öğrenme kanıtları",
-      "B": "Temel kabuller",
+      "A": "Temel kabuller",
+      "B": "Öğrenme kanıtları",
       "C": "Farklılaştırma",
       "D": "Köprü kurma",
       "E": "Program dışı etkinlikler"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Öğrencilerin ünite/tema/öğrenme alanı ile ilgili ihtiyaç duyacağı ön öğrenmeler, öğretim programlarında temel kabuller olarak ifade edilir.",
     "source": {
       "kind": "generated",
@@ -972,12 +972,12 @@
     "stem": "Öğretmen Ahmet Bey, yeni üniteye başlamadan önce öğrencilerin ünite için gerekli bilgi ve becerilere sahip olup olmadığını yoklamakta; ayrıca öğrencilerin öğrenme sürecinden beklentilerini anlamaya çalışmakta ve içeriği buna göre özelleştirmektedir. Ahmet Bey bu çalışmayı üniteye başlamadan birkaç gün önce yapmış ve sonuçları not etmiştir.\n\nAhmet Bey'in bu çalışması öğrenme-öğretme yaşantılarının hangi bölümüne örnektir?",
     "options": {
       "A": "Öğretmen yansıtması",
-      "B": "Öğrenme kanıtları",
-      "C": "Köprü kurma",
-      "D": "Okul temelli planlama süreci",
-      "E": "Ön değerlendirme süreci"
+      "B": "Ön değerlendirme süreci",
+      "C": "Öğrenme kanıtları",
+      "D": "Köprü kurma",
+      "E": "Okul temelli planlama süreci"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Ön değerlendirme süreci, temel kabullere öğrencilerin sahip olup olmadığının nasıl değerlendirileceğini ifade eder; amaçları mevcut bilgi ve beceri düzeylerini belirlemek, beklentileri anlamak ve içeriği özelleştirmektir.",
     "source": {
       "kind": "generated",
@@ -995,12 +995,12 @@
     "stem": "Öğretmen Hülya Hanım, yeni bir kavramı anlatırken öğrencilerin daha önce öğrendikleri konuları hatırlatmakta, benzerlik ve metaforlardan yararlanmakta ve kavramı öğrencilerin günlük yaşam deneyimleriyle ilişkilendirmektedir. Böylece yeni bilginin daha anlamlı olması hedeflenmektedir. Hülya Hanım'ın sınıfı yirmi sekiz öğrenciden oluşmaktadır ve ders kırk dakika sürmektedir.\n\nHülya Hanım'ın uyguladığı bu süreç aşağıdakilerden hangisidir?",
     "options": {
       "A": "Farklılaştırma",
-      "B": "Destekleme",
-      "C": "Köprü kurma",
+      "B": "Köprü kurma",
+      "C": "Destekleme",
       "D": "Okul temelli planlama",
       "E": "Ön değerlendirme"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Köprü kurma, öğrencilerin mevcut bilgi ve becerileri ile edinecekleri bilgi ve beceriler arasında bağlantı oluşturma sürecidir; öğretmenler benzerlik ve metaforlardan, somut örneklerden yararlanır.",
     "source": {
       "kind": "generated",
@@ -1017,13 +1017,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir okulda öğretmenler, model doğrultusunda sınıftaki rollerini yeniden tanımlamaktadır. Öğrenci soruları, seçimleri ve özerkliği ön plandadır; öğretmen yalnızca bilgi aktaran kişi olarak değil, öğrenme sürecini öğrenci merkezli biçimde tasarlayan bir uzman olarak çalışmaktadır.\n\nModelde öğretmen için tanımlanan rol aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Öğretici rolünün yanında rehber ve kolaylaştırıcı rolleri üstlenen tasarım uzmanı",
-      "B": "Öğrencinin yerine kararları veren ve tüm süreci tek başına yöneten yönetici",
-      "C": "Bilgiyi tek yönlü aktaran, öğrenme sürecini sürekli denetleyen ve öğrencilerin seçimlerini sınırlayan otorite",
-      "D": "Ders kitabını uygulayan, sınavları yapan ve sonuçları raporlayan uygulayıcı",
+      "A": "Öğrencinin yerine kararları veren ve tüm süreci tek başına yöneten yönetici",
+      "B": "Bilgiyi tek yönlü aktaran, öğrenme sürecini sürekli denetleyen ve öğrencilerin seçimlerini sınırlayan otorite",
+      "C": "Ders kitabını uygulayan, sınavları yapan ve sonuçları raporlayan uygulayıcı",
+      "D": "Öğretici rolünün yanında rehber ve kolaylaştırıcı rolleri üstlenen tasarım uzmanı",
       "E": "Öğrenci etkinliklerine müdahale etmeyen gözlemci"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Öğrenme-öğretme uygulamalarında öğretmenler öğretici rollerinin yanında rehber ve kolaylaştırıcı rollerini üstlenir ve öğrenme sürecini öğrenci merkezli biçimde tasarlayan tasarım uzmanları olarak görülür.",
     "source": {
       "kind": "generated",
@@ -1043,10 +1043,10 @@
       "A": "Bilgi, beceri, eğilim ve değerleri birlikte kullanarak bütüncül gelişime odaklanır",
       "B": "Öğrencilerin bilgi ve becerilerini yapılandırması için araştırma ve sorgulamayı merkeze alır",
       "C": "Derin öğrenmeyi sağlamak amacıyla anlamlı öğrenme bağlamları içinde gerçekleşir",
-      "D": "Öğrencinin aktif katılımını sağlayacak öğrenci merkezli etkinlikler temel alınır",
-      "E": "Öğretmen merkezli ve anlatıma dayalı etkinliklerle bilgi aktarımına öncelik verilir"
+      "D": "Öğretmen merkezli ve anlatıma dayalı etkinliklerle bilgi aktarımına öncelik verilir",
+      "E": "Öğrencinin aktif katılımını sağlayacak öğrenci merkezli etkinlikler temel alınır"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Öğrenme sürecinin temel ilkeleri öğrenci merkezli etkinlikler, esnek ve zenginleştirilmiş yaşantılar, anlamlı bağlamlar, araştırma ve sorgulama ile bütüncül gelişime odaklanmadır; öğretmen merkezli anlatım bu ilkelerden değildir.",
     "source": {
       "kind": "generated",
@@ -1064,12 +1064,12 @@
     "stem": "Öğretmen Burcu Hanım, öğrenci performansını belirlemek için yalnızca bir sınav yapmak yerine portfolyoları, projeleri, performans görevlerini, gözlem formlarını ve öz/akran değerlendirmelerini birlikte kullanmaktadır. Birden fazla kaynaktan elde ettiği bilgileri öğrenme çıktılarına ulaşma düzeyini belirlemek için değerlendirmektedir.\n\nBu bilgiler modelde ne olarak adlandırılır?",
     "options": {
       "A": "Süreç bileşenleri",
-      "B": "Temel kabuller",
-      "C": "Program dışı etkinlikler",
-      "D": "Öğrenme kanıtları",
+      "B": "Öğrenme kanıtları",
+      "C": "Temel kabuller",
+      "D": "Program dışı etkinlikler",
       "E": "Öğretmen yansıtmaları"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Öğrenme kanıtları; portfolyolar, projeler, performans görevleri, gözlem formları, öz/akran değerlendirmeleri gibi birden fazla kaynaktan elde edilen ve öğrenci performansını ölçmek ve geliştirmek için kullanılan kanıtlardır.",
     "source": {
       "kind": "generated",
@@ -1089,10 +1089,10 @@
       "A": "Yalnızca sonuca odaklanan ve dönem sonunda uygulanan değerlendirme",
       "B": "Öğretmenin yalnızca gözlemine dayanan öznel değerlendirme",
       "C": "Öğrencilerin birbirine göre sıralanmasını amaçlayan yarıştırıcı değerlendirme",
-      "D": "Yalnızca çoktan seçmeli sınavlara dayanan nesnel değerlendirme",
-      "E": "Sürekli, geliştirici (biçimlendirici) ve süreç temelli değerlendirme"
+      "D": "Sürekli, geliştirici (biçimlendirici) ve süreç temelli değerlendirme",
+      "E": "Yalnızca çoktan seçmeli sınavlara dayanan nesnel değerlendirme"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Modelde öğrenmeleri iyileştirmek için sürekli, geliştirici (biçimlendirici) ölçme ve değerlendirme kullanılmış; yalnızca sonuca odaklanan bir yaklaşımdan ziyade süreç içindeki öğrenme düzeylerinin izlenmesi esas alınmıştır.",
     "source": {
       "kind": "generated",
@@ -1132,13 +1132,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir öğretmen, bir ünitede öğrencilerin ne öğrendiklerini, nasıl öğrendiklerini ve öğrendiklerini nasıl yansıttıklarını farklı yaklaşımlarla ele almak istemektedir. Bunun için öğretmenin farklılaştırabileceği program ögeleri hakkında bilgi vermesi istenmiştir. Öğretmen, ünite sonunda öğrencilerle kısa bir görüşme yaparak çalışmaların etkisini de sorgulamıştır.\n\nModele göre öğretmenin farklılaştırabileceği boyutlar aşağıdakilerden hangisidir?",
     "options": {
-      "A": "İçerik, süreç ve ürün",
-      "B": "Hedef, yöntem ve değerlendirme",
-      "C": "Girdi, süreç ve çıktı",
-      "D": "Bilgi, beceri ve değer",
-      "E": "Zaman, mekân ve araç"
+      "A": "Hedef, yöntem ve değerlendirme",
+      "B": "Girdi, süreç ve çıktı",
+      "C": "Bilgi, beceri ve değer",
+      "D": "Zaman, mekân ve araç",
+      "E": "İçerik, süreç ve ürün"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Farklılaştırılmış öğretimde öğretmen içerik, süreç ve ürün boyutlarını farklılaştırırken öğrencilerin ne öğrendiklerini, nasıl öğrendiklerini ve öğrendiklerini nasıl yansıttıklarını farklı yaklaşımlarla ele alır.",
     "source": {
       "kind": "generated",
@@ -1178,13 +1178,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir ortaokulda bir öğretmen, akranlarına göre daha ileri düzeyde olan öğrenciler için öğretim programının ötesine geçen, genişletilmiş ve derinlemesine öğrenme fırsatları tasarlamıştır. Öğrenciler ileri düzey kavramları ve karmaşık düşünce yapılarını keşfetmeye teşvik edilmektedir. Etkinlik sınıfta iki ders saati sürmüş ve sonunda öğrenciler yaptıklarını arkadaşlarına sunmuştur.\n\nBu uygulama farklılaştırmanın hangi boyutuna örnektir?",
     "options": {
-      "A": "Destekleme",
-      "B": "Köprü kurma",
-      "C": "Okul temelli planlama",
-      "D": "Zenginleştirme",
+      "A": "Zenginleştirme",
+      "B": "Destekleme",
+      "C": "Köprü kurma",
+      "D": "Okul temelli planlama",
       "E": "Ön değerlendirme"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Zenginleştirme, akranlarına göre daha ileri düzeyde olan öğrenciler için tasarlanmış, öğretim programının ötesinde genişletilmiş ve derinlemesine öğrenme fırsatları sağlayan stratejidir.",
     "source": {
       "kind": "generated",
@@ -1203,11 +1203,11 @@
     "options": {
       "A": "Zenginleştirme",
       "B": "Yansıtma",
-      "C": "Destekleme",
-      "D": "Ön değerlendirme",
-      "E": "Program dışı etkinlik"
+      "C": "Ön değerlendirme",
+      "D": "Program dışı etkinlik",
+      "E": "Destekleme"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Destekleme, öğrenme sürecinde daha fazla zaman ve tekrara ihtiyaç duyan öğrenciler için içerik, süreç, ürün ve öğrenme ortamındaki uyarlamaları kapsar; bu durum öğrenme becerilerinin düşük olduğu anlamına gelmez.",
     "source": {
       "kind": "generated",
@@ -1250,10 +1250,10 @@
       "A": "Kapsamlı gelişimsel rehberlik",
       "B": "Zenginleştirme",
       "C": "Hayat boyu öğrenme",
-      "D": "Sosyal sorumluluk programı",
-      "E": "Okul temelli planlama"
+      "D": "Okul temelli planlama",
+      "E": "Sosyal sorumluluk programı"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Program dışı etkinlikler sosyal sorumluluk ve hayat boyu öğrenme olmak üzere iki boyutta ele alınır; öğrencilerin toplumsal sorunlara çözüm üretmesine katkı sağlayan proje ve faaliyetler sosyal sorumluluk programına girer.",
     "source": {
       "kind": "generated",
@@ -1270,13 +1270,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir lisede öğrenciler, sanatsal etkinlikler ve spor gibi ilgi duydukları alanlarda çalışmalar yapmakta; böylece öğrenmeyi öğrenme, liderlik, kariyer gelişimi ve inisiyatif alma konularında deneyim kazanmaktadır. Okul, öğrencilere sınıfın dışına uzanan bir öğrenme sevgisi kazandırmayı hedeflemektedir.\n\nBu çalışmalar program dışı etkinliklerin hangi boyutuna örnektir?",
     "options": {
-      "A": "Hayat boyu öğrenme",
-      "B": "Okul temelli planlama",
-      "C": "Farklılaştırma",
-      "D": "Öğretmen yansıtmaları",
-      "E": "Sosyal sorumluluk programı"
+      "A": "Okul temelli planlama",
+      "B": "Farklılaştırma",
+      "C": "Öğretmen yansıtmaları",
+      "D": "Sosyal sorumluluk programı",
+      "E": "Hayat boyu öğrenme"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Hayat boyu öğrenme etkinlikleri, öğrencilerin öğrenmeyi öğrenme, liderlik, kariyer gelişimi ve inisiyatif alma konularında deneyim kazanmalarını sağlar ve sınıfın dışına uzanan bir öğrenme sevgisi kazandırmayı amaçlar.",
     "source": {
       "kind": "generated",
@@ -1296,10 +1296,10 @@
       "A": "Danışan merkezli model",
       "B": "Özellik-faktör modeli",
       "C": "Krize müdahale modeli",
-      "D": "Tedavi edici rehberlik modeli",
-      "E": "Gelişimsel rehberlik modeli"
+      "D": "Gelişimsel rehberlik modeli",
+      "E": "Tedavi edici rehberlik modeli"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Model kapsamında rehberlik ve psikolojik danışma hizmetleri gelişimsel rehberlik modeli temelinde, Kapsamlı Gelişimsel Rehberlik Programı olarak yürütülür.",
     "source": {
       "kind": "generated",
@@ -1316,13 +1316,13 @@
     "konu": "maarif_modeli",
     "stem": "Öğretmen Selçuk Bey, dönem sonunda kendi öğretim sürecini gözden geçirmek için günlük tutmuş, öz değerlendirme formu doldurmuş ve zümre öğretmenleriyle görüşmüştür. Amacı hem kendisinin hem de öğretim programının güçlü ve iyileştirilmesi gereken yönlerini belirlemektir.\n\nSelçuk Bey'in bu çalışması modelde aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Öğretmen yansıtması",
-      "B": "Sosyal sorumluluk programı",
-      "C": "Okul temelli planlama",
-      "D": "Öğrenme kanıtı",
+      "A": "Sosyal sorumluluk programı",
+      "B": "Okul temelli planlama",
+      "C": "Öğrenme kanıtı",
+      "D": "Öğretmen yansıtması",
       "E": "Ön değerlendirme"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Yansıtmanın temel amacı öğretmen ve öğretimin gelişimini desteklemektir; öğretmenler yansıtma yoluyla kendilerinin ve öğretim programlarının güçlü ve iyileştirilmesi gereken yönlerini değerlendirir.",
     "source": {
       "kind": "generated",
@@ -1340,12 +1340,12 @@
     "stem": "Bir ildeki programı değerlendirme toplantısında, yeni öğretim programlarının neden geliştirildiği tartışılmaktadır. Yapılan ihtiyaç analizinde mevcut programların öğrenciler üzerindeki yüküne ilişkin önemli bir sonuç elde edilmiş ve bu sonuç program geliştirme çalışmalarına temel gerekçe oluşturmuştur.\n\nİhtiyaç analizinin bu temel sonucu aşağıdakilerden hangisidir?",
     "options": {
       "A": "Ders saatlerinin çok kısa olduğu ve konuların işlenmesine yetmediği",
-      "B": "Öğretmenlerin mevcut programı uygulamak istemediği ve değişiklik talep ettiği",
-      "C": "Mevcut öğretim programında değerlere ve becerilere yer verilmediği ve bunların eklenmesi gerektiği",
-      "D": "Mevcut öğretim programının içerik bakımından yetersiz kaldığı ve konuların güncel olmadığı",
-      "E": "Mevcut öğretim programının bilişsel yükünün öğrenciler açısından ağır olduğu"
+      "B": "Mevcut öğretim programının bilişsel yükünün öğrenciler açısından ağır olduğu",
+      "C": "Öğretmenlerin mevcut programı uygulamak istemediği ve değişiklik talep ettiği",
+      "D": "Mevcut öğretim programında değerlere ve becerilere yer verilmediği ve bunların eklenmesi gerektiği",
+      "E": "Mevcut öğretim programının içerik bakımından yetersiz kaldığı ve konuların güncel olmadığı"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Yapılan ihtiyaç analizi sonucunda mevcut öğretim programının bilişsel yükünün öğrenciler açısından ağır olduğu tespit edilmiş ve bu durum program geliştirme çalışmalarına temel gerekçe oluşturmuştur.",
     "source": {
       "kind": "generated",
@@ -1385,13 +1385,13 @@
     "konu": "maarif_modeli",
     "stem": "Bir ortaokul öğrencisi Selin, sınıfta karşılaştığı bir sorunu arkadaşlarının denediği yollardan farklı iki üç bakış açısıyla ele almış, daha önce kimsenin düşünmediği bir çözüm önerisi geliştirmiş ve bunu uygulayarak sonuca ulaşmıştır. Öğretmenleri, Selin'in bu davranışını öğrenci profili çerçevesinde değerlendirmektedir.\n\nSelin'in gösterdiği bu özellik, Türkiye Yüzyılı Maarif Modeli'ndeki öğrenci profillerinden hangisine karşılık gelir?",
     "options": {
-      "A": "Yaratıcı",
-      "B": "Esnek",
-      "C": "İş birliği yapan",
-      "D": "Hayal ve hedefleri olan",
+      "A": "Esnek",
+      "B": "İş birliği yapan",
+      "C": "Hayal ve hedefleri olan",
+      "D": "Yaratıcı",
       "E": "Çalışkan"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Yaratıcı özelliği; yeni fikirler üretme konusunda yetenekli olmayı, sorunları farklı temel yaklaşımlardan ele almayı ve yenilikçi çözümler geliştirmeyi ifade eder.",
     "source": {
       "kind": "generated",
@@ -1408,13 +1408,13 @@
     "konu": "maarif_modeli",
     "stem": "Okul kulübü çalışmasında öğrenciler bir proje konusu seçmeye çalışırken kimse ilk adımı atmak istememiş; Ali ise gerekli olduğunu görünce fikir üreterek ortama çıkıp önce görev dağılımını önermiş, çalışmayı başlatmış ve işlerin yönlendirilmesinde liderlik yapmıştır. Öğretmenleri Ali'nin bu davranışını Maarif Modeli'ndeki profil özellikleriyle ilişkilendirmektedir.\n\nAli'nin davranışı Maarif Modeli'ndeki hangi özellikle en uygun biçimde eşleşir?",
     "options": {
-      "A": "Seçici",
-      "B": "Meraklı",
-      "C": "Ölçülü",
-      "D": "İnisiyatif alan",
+      "A": "İnisiyatif alan",
+      "B": "Seçici",
+      "C": "Meraklı",
+      "D": "Ölçülü",
       "E": "Zarif"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "İnisiyatif alan: Kendi başına hareket etme yeteneğine sahiptir, fikir üretebilir; işlerin başlatılması ve yönlendirilmesi konusunda liderlik yapar. (Cesaretli profil boyutu)",
     "source": {
       "kind": "generated",
@@ -1466,6 +1466,52 @@
       "kind": "generated",
       "styleRef": "AGS_URETIM_KURALLARI",
       "legislationRef": "Maarif Modeli: farklılaştırma ve kapsayıcı eğitim"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-mrf-065",
+    "ders": "egitim_bilimleri",
+    "konu": "maarif_modeli",
+    "stem": "Altıncı sınıf öğrencisi Elif, sınavdan düşük not aldığında öfkelenip arkadaşlarına bağırmak yerine bir süre derin nefes alarak sakinleşmiş, ardından çalışma planını gözden geçirip hedefini yeniden belirlemiştir. Öğretmenleri, Elif'in duygularını ve davranışlarını yönetebildiğini belirtmiştir.\n\nElif'in sergilediği bu beceri, Türkiye Yüzyılı Maarif Modeli'ndeki benlik becerilerinden hangisidir?",
+    "options": {
+      "A": "Kendini düzenleme (öz düzenleme)",
+      "B": "İletişim",
+      "C": "Kendini tanıma (öz farkındalık)",
+      "D": "Sosyal farkındalık",
+      "E": "Kendine uyarlama (öz yansıtma)"
+    },
+    "answer": "A",
+    "solution": "Maarif Modeli'nde benlik becerileri kendini tanıma (öz farkındalık), kendini düzenleme (öz düzenleme) ve kendine uyarlama (öz yansıtma) becerileridir; duygu ve davranışları yönetmek kendini düzenlemedir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Maarif Modeli: sosyal-duygusal öğrenme becerileri (benlik)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-mrf-066",
+    "ders": "egitim_bilimleri",
+    "konu": "maarif_modeli",
+    "stem": "Bir sınıfta öğrenciler grup çalışması yaparken görev paylaşımı yapmış, birbirlerini dinleyerek ortak bir karar almış ve grup arkadaşlarının duygularını dikkate alarak çatışmaları çözmüştür. Öğretmen bu davranışların hem iletişimi hem de iş birliğini geliştirdiğini belirtmiştir.\n\nÖğrencilerin gösterdiği bu beceriler Maarif Modeli'ndeki sosyal-duygusal öğrenme becerilerinin hangi bileşenine aittir?",
+    "options": {
+      "A": "Benlik becerileri",
+      "B": "Fiziksel beceriler",
+      "C": "Sosyal yaşam becerileri",
+      "D": "Sistem düşüncesi becerileri",
+      "E": "Erdem-değer-eylem çerçevesi"
+    },
+    "answer": "C",
+    "solution": "Maarif Modeli'nde sosyal-duygusal öğrenme becerilerinin ikinci bileşeni sosyal yaşam becerileridir ve iletişim, iş birliği ve sosyal farkındalığı kapsar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Maarif Modeli: sosyal yaşam becerileri"
     },
     "validYear": 2026,
     "difficulty": "medium",

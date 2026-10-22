@@ -29,12 +29,12 @@
     "stem": "Okul psikolojik danışmanı Ahmet Bey, yakın zamanda annesini kaybeden ve yaşadığı yas nedeniyle derslerine odaklanamayan Elif'le haftada bir kez bire bir görüşmektedir. Görüşmelerde Elif'in duygularını ifade etmesine, anlamasına ve başa çıkma yollarını bulmasına yardımcı olmaktadır.\n\nAhmet Bey'in yürüttüğü bu çalışma aşağıdakilerden hangisidir?",
     "options": {
       "A": "Bilgi verme hizmeti",
-      "B": "Psikolojik danışma",
-      "C": "Yerleştirme hizmeti",
-      "D": "Sınıf rehberliği",
+      "B": "Yerleştirme hizmeti",
+      "C": "Sınıf rehberliği",
+      "D": "Psikolojik danışma",
       "E": "Rehberlik hizmeti"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Psikolojik danışma, eğitimli bir danışmanın danışanla kurduğu yardım ilişkisi içinde bireyin sorununu anlamasına ve başa çıkmasına yardım eden, genellikle bire bir yürütülen bir süreçtir.",
     "source": {
       "kind": "generated",
@@ -74,13 +74,13 @@
     "konu": "rehberlik",
     "stem": "Sınıf öğretmeni, sürekli derse geç gelen Kaan'ı zorla rehber servisine göndermiştir. Kaan, rehber öğretmenin odasında hiç konuşmamakta ve görüşmeden bir sonuç çıkmamaktadır. Rehber öğretmen, bireyin kendi isteğiyle gelmediği sürece yardımın etkili olmadığını belirtmiştir.\n\nBu durum hangi rehberlik ilkesine işaret etmektedir?",
     "options": {
-      "A": "Gönüllülük",
-      "B": "Süreklilik",
-      "C": "Bilgi verme",
-      "D": "Bireyi kabul",
-      "E": "Gizlilik"
+      "A": "Süreklilik",
+      "B": "Bilgi verme",
+      "C": "Bireyi kabul",
+      "D": "Gizlilik",
+      "E": "Gönüllülük"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Gönüllülük ilkesi, danışma ve rehberlik hizmetlerinden yararlanmanın bireyin kendi isteğine bağlı olmasını gerektirir; zorla getirilen birey yardımdan yeterince yararlanamaz.",
     "source": {
       "kind": "generated",
@@ -99,11 +99,11 @@
     "options": {
       "A": "Gizlilik",
       "B": "Gönüllülük",
-      "C": "Süreklilik",
-      "D": "Bireysel farklılıklar",
-      "E": "Bireyi kabul etme"
+      "C": "Bireyi kabul etme",
+      "D": "Süreklilik",
+      "E": "Bireysel farklılıklar"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Bireyi kabul ilkesi, bireyin değer ve davranışlarına bakılmaksızın olduğu gibi kabul edilmesini, yargılanmamasını ve saygı görmesini gerektirir.",
     "source": {
       "kind": "generated",
@@ -146,10 +146,10 @@
       "A": "Gizlilik",
       "B": "Gönüllülük",
       "C": "Bireyi kabul",
-      "D": "Süreklilik",
-      "E": "Bireyin kendi kararını vermesi"
+      "D": "Bireyin kendi kararını vermesi",
+      "E": "Süreklilik"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Süreklilik ilkesi, rehberlik hizmetlerinin bireyin yaşamı boyunca, kesintisiz olarak sürdürülmesini gerektirir.",
     "source": {
       "kind": "generated",
@@ -189,13 +189,13 @@
     "konu": "rehberlik",
     "stem": "Rehber öğretmen Banu Hanım, 11. sınıf öğrencilerine meslek gruplarını, bu mesleklerin gerektirdiği özellikleri, eğitim yollarını ve iş olanaklarını tanıtan bir meslek günü düzenlemiş; öğrencilerin ilgi envanteri sonuçlarına göre uygun meslek alanlarını konuşmuştur. Etkinlik sonunda öğrenciler hangi meslek alanlarını araştıracaklarına karar vermiştir.\n\nBu çalışma rehberliğin hangi hizmet alanına girer?",
     "options": {
-      "A": "Kişisel-sosyal rehberlik",
-      "B": "Aile rehberliği",
-      "C": "Eğitsel rehberlik",
-      "D": "Sağlık rehberliği",
-      "E": "Mesleki rehberlik"
+      "A": "Mesleki rehberlik",
+      "B": "Kişisel-sosyal rehberlik",
+      "C": "Aile rehberliği",
+      "D": "Eğitsel rehberlik",
+      "E": "Sağlık rehberliği"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Mesleki rehberlik, bireylerin kendilerini ve meslekleri tanıyarak ilgi, yetenek ve değerlerine uygun meslek seçmelerine ve mesleğe hazırlanmalarına yardım eder.",
     "source": {
       "kind": "generated",
@@ -212,13 +212,13 @@
     "konu": "rehberlik",
     "stem": "Okul danışmanı Mert Bey, sınıfında arkadaşlık kurmakta zorlanan ve öfke patlamaları yaşayan öğrencilere duygu düzenleme, iletişim becerileri ve çatışma çözme konularında bir grup çalışması yürütmektedir. Çalışma ders başarısına değil, öğrencilerin ilişkilerine odaklanmaktadır. Çalışma sekiz haftalık bir programla haftada bir oturum biçiminde yürütülmektedir.\n\nBu çalışma rehberliğin hangi hizmet alanına girer?",
     "options": {
-      "A": "Kişisel-sosyal rehberlik",
-      "B": "Mesleki rehberlik alanı",
-      "C": "Aile rehberliği alanı",
+      "A": "Mesleki rehberlik alanı",
+      "B": "Aile rehberliği alanı",
+      "C": "Kişisel-sosyal rehberlik",
       "D": "Sağlık rehberliği alanı",
       "E": "Eğitsel rehberlik alanı"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Kişisel-sosyal rehberlik, bireyin kendini tanıması, duygularını yönetmesi, sağlıklı ilişkiler kurması ve toplumsal uyum becerileri kazanmasına yardım eder.",
     "source": {
       "kind": "generated",
@@ -235,13 +235,13 @@
     "konu": "rehberlik",
     "stem": "Rehber öğretmen Fatma Hanım, yeni okula başlayan 5. sınıf öğrencilerine okulun kurallarını, öğretmenlerini, kantin ve kütüphane gibi olanaklarını tanıtan bir oryantasyon programı düzenlemiştir. Öğrencilerden okula ilişkin beklentilerini de yazmalarını istemiştir. Program, okulun ilk haftasında bütün 5. sınıf şubelerinde uygulanmıştır.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
     "options": {
-      "A": "Bilgi verme",
-      "B": "Psikolojik danışma",
-      "C": "Yöneltme",
+      "A": "Psikolojik danışma",
+      "B": "Yöneltme",
+      "C": "Bilgi verme",
       "D": "Bireyi tanıma",
       "E": "İzleme"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Bilgi verme hizmeti, bireyin kararlarını daha sağlıklı verebilmesi için gerekli eğitsel, mesleki ve kişisel bilgilerin sunulmasıdır; oryantasyon programları bunun örneğidir.",
     "source": {
       "kind": "generated",
@@ -258,13 +258,13 @@
     "konu": "rehberlik",
     "stem": "Rehber öğretmen Ali Bey, öğrencilerin ilgi envanteri sonuçlarını, notlarını ve öğretmen görüşlerini bir araya getirerek her öğrenci için bir bireysel dosya oluşturmuş; bu dosyalara dayanarak öğrencilerin güçlü ve gelişime açık yönlerini belirlemiştir. Dosyalar yalnızca rehberlik servisinde ve izinle erişilebilen bir yerde saklanmaktadır.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
     "options": {
-      "A": "Bilgi verme çalışması",
-      "B": "Yerleştirme çalışması",
-      "C": "Bireyi tanıma",
+      "A": "Bireyi tanıma",
+      "B": "Bilgi verme çalışması",
+      "C": "Yerleştirme çalışması",
       "D": "İzleme çalışması",
       "E": "Yöneltme çalışması"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Bireyi tanıma hizmeti, öğrencinin ilgi, yetenek, kişilik, başarı ve çevresine ilişkin bilgilerin test ve test dışı tekniklerle toplanıp değerlendirilmesidir.",
     "source": {
       "kind": "generated",
@@ -282,12 +282,12 @@
     "stem": "Rehber öğretmen Ece Hanım, ilgi ve yetenek testleri sonuçlarına göre fen alanında başarılı olan bir öğrenciye bu alanda eğitim veren fen lisesini önermiş, sonuçları öğrenci ve velisiyle konuşarak onu bu okul türüne doğru yönlendirmiştir.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
     "options": {
       "A": "Yerleştirme",
-      "B": "İzleme",
-      "C": "Yöneltme",
+      "B": "Yöneltme",
+      "C": "İzleme",
       "D": "Bilgi verme",
       "E": "Bireyi tanıma"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Yöneltme hizmetinde bireyin ilgi, yetenek ve başarısına uygun okul, program ya da meslek alanına yönelmesine yardım edilir; seçim bireye aittir.",
     "source": {
       "kind": "generated",
@@ -304,13 +304,13 @@
     "konu": "rehberlik",
     "stem": "Okul danışmanı Zafer Bey, mezun olan öğrencilerine uygun bir meslek edinme kursuna ya da işe girmeleri için gerekli işlemleri yapmalarına yardım etmekte; iş yerleriyle iletişim kurarak öğrencilerin staj ve işe yerleşme sürecini kolaylaştırmaktadır.\n\nBu çalışma rehberlik hizmet türlerinden hangisine örnektir?",
     "options": {
-      "A": "Bireyi tanıma",
-      "B": "İzleme",
-      "C": "Bilgi verme",
-      "D": "Yerleştirme",
+      "A": "Yerleştirme",
+      "B": "Bireyi tanıma",
+      "C": "İzleme",
+      "D": "Bilgi verme",
       "E": "Yöneltme"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Yerleştirme hizmeti, bireyin okul, kurs, staj ya da işe girişini kolaylaştıran ve uygun ortama yerleşmesine yardım eden çalışmalardır.",
     "source": {
       "kind": "generated",
@@ -352,11 +352,11 @@
     "options": {
       "A": "Denetleyici rol",
       "B": "Düzeltici rol",
-      "C": "Önleyici rol",
-      "D": "Yargılayıcı rol",
-      "E": "Tedavi edici rol"
+      "C": "Yargılayıcı rol",
+      "D": "Tedavi edici rol",
+      "E": "Önleyici rol"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Önleyici rol, sorunlar ortaya çıkmadan önce risk faktörlerini azaltmayı ve koruyucu becerileri geliştirmeyi amaçlar; düzeltici rol ise ortaya çıkmış sorunlara yöneliktir.",
     "source": {
       "kind": "generated",
@@ -373,13 +373,13 @@
     "konu": "rehberlik",
     "stem": "Rehber öğretmen Yeliz Hanım, bir öğrencinin ders sırasında ve teneffüslerde arkadaşlarıyla nasıl iletişim kurduğunu, dikkat süresini ve davranışlarını gerçek ortamında, öğrenci farkında olmadan belirli bir süre boyunca izleyip kaydetmiştir. Gözlem sonuçlarını daha sonra öğrenciyle yapacağı görüşmede kullanmayı planlamaktadır.\n\nYeliz Hanım hangi bireyi tanıma tekniğini kullanmıştır?",
     "options": {
-      "A": "Gözlem",
-      "B": "Görüşme",
+      "A": "Görüşme",
+      "B": "Gözlem",
       "C": "Anket",
       "D": "Sosyometri",
       "E": "Olay incelemesi"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Gözlem, bireyin davranışlarının doğal ortamında planlı ve sistematik biçimde izlenip kaydedilmesidir.",
     "source": {
       "kind": "generated",
@@ -466,12 +466,12 @@
     "stem": "Rehber öğretmen Gönül Hanım, öğrencilerinin yıllar boyunca aldığı notları, devam durumunu, sağlık bilgilerini, test sonuçlarını, öğretmen görüşlerini ve ailesine ilişkin bilgilerini tek bir dosyada derleyerek yeni sınıf öğretmenlerinin öğrenciyi tanımasına yardım etmektedir. Dosya, öğrenci okul değiştirdiğinde yeni okula iletilmektedir.\n\nBu dosya aşağıdakilerden hangisidir?",
     "options": {
       "A": "Sosyogram",
-      "B": "Kümülatif dosya",
-      "C": "Anekdot kaydı",
-      "D": "Portfolyo",
-      "E": "Başarı ölçeği"
+      "B": "Anekdot kaydı",
+      "C": "Portfolyo",
+      "D": "Başarı ölçeği",
+      "E": "Kümülatif dosya"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Kümülatif dosya, öğrencinin farklı kaynaklardan toplanan sağlık, başarı, devam, test sonuçları ve gözlem bilgilerini zaman içinde biriktirerek barındıran bireyi tanıma kaydıdır.",
     "source": {
       "kind": "generated",
@@ -581,12 +581,12 @@
     "stem": "Rehber öğretmen Cenk Bey, öğrencilere “Genellikle arkadaşlarımla rahatça konuşurum, kalabalık ortamlarda enerjik hissederim” gibi ifadeleri kendi durumlarına uyup uymadığına göre işaretlettirmiş; amacı, bireylerin kişilik özelliklerini ve tipik davranış örüntülerini belirlemektir. Ölçekte doğru ya da yanlış yanıt bulunmamaktadır.\n\nCenk Bey hangi bireyi tanıma aracını kullanmıştır?",
     "options": {
       "A": "Başarı testi",
-      "B": "Sosyometri",
-      "C": "Kişilik envanteri",
+      "B": "Kişilik envanteri",
+      "C": "Sosyometri",
       "D": "Zekâ testi",
       "E": "İlgi envanteri"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Kişilik envanteri, bireyin tipik davranış, tutum ve duygusal eğilimlerini kendi bildirimlerine dayanarak belirleyen bir ölçme aracıdır; doğru ya da yanlış yanıtı yoktur.",
     "source": {
       "kind": "generated",
@@ -606,10 +606,10 @@
       "A": "Gözlem",
       "B": "Görüşme",
       "C": "Anket",
-      "D": "Olay incelemesi",
-      "E": "Sosyometri"
+      "D": "Sosyometri",
+      "E": "Olay incelemesi"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Sosyometri, grup üyelerinin birbirini seçme ve reddetme durumlarını ölçerek grup içi ilişkileri sosyogramla gösteren bir tekniktir.",
     "source": {
       "kind": "generated",
@@ -626,13 +626,13 @@
     "konu": "rehberlik",
     "stem": "Psikolojik danışman Hülya Hanım, danışanı Ali'nin ne anlattığına bakmaksızın ona içtenlikle, yargılamadan ve koşulsuz olarak değer vermekte; Ali'nin duygu ve düşüncelerini onun gözüyle anlamaya çalışmakta ve ilişkide gerçek, tutarlı biçimde davranmaktadır. Ali, bu ortamda kendini savunma gereği duymamakta ve duygularını rahatça dile getirmektedir.\n\nHülya Hanım hangi kuramı temel almaktadır?",
     "options": {
-      "A": "Danışan merkezli yaklaşım",
-      "B": "Psikanalitik yaklaşım",
-      "C": "Davranışçı yaklaşım",
+      "A": "Psikanalitik yaklaşım",
+      "B": "Davranışçı yaklaşım",
+      "C": "Danışan merkezli yaklaşım",
       "D": "Akılcı duygusal davranışçı terapi",
       "E": "Gerçeklik terapisi"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Rogers'ın danışan merkezli yaklaşımında danışman koşulsuz olumlu kabul, empati ve tutarlılık (kendisi olma) koşullarını sağlar; değişim bu ilişki içinde danışanın kendisinden gelir.",
     "source": {
       "kind": "generated",
@@ -650,12 +650,12 @@
     "stem": "Psikolojik danışman Mert Bey, danışan Elif'in anlattığı duyguları ona yansıtmakta, “Anladığım kadarıyla çok yalnız ve değersiz hissediyorsun” diyerek Elif'in dünyasını onun bakış açısından kavradığını göstermektedir. Danışman duyguları yorumlamamakta, öğüt vermemektedir. Elif, anlaşıldığını hissettiğinde duygularını daha derinlemesine paylaşmaya başlamıştır.\n\nMert Bey'in kullandığı bu danışmanlık özelliği aşağıdakilerden hangisidir?",
     "options": {
       "A": "Yüzleştirme",
-      "B": "Empati",
-      "C": "Öğüt verme",
-      "D": "Yorumlama",
+      "B": "Öğüt verme",
+      "C": "Yorumlama",
+      "D": "Empati",
       "E": "Sempati"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Empati, danışanın duygu ve düşüncelerini onun bakış açısından anlama ve bu anlayışı ona iletme becerisidir; sempati ise acıma ve duygu ortaklığıdır.",
     "source": {
       "kind": "generated",
@@ -675,10 +675,10 @@
       "A": "Boş sandalye tekniği",
       "B": "Model alma",
       "C": "ABC modeli",
-      "D": "Serbest çağrışım",
-      "E": "Sistematik duyarsızlaştırma"
+      "D": "Sistematik duyarsızlaştırma",
+      "E": "Serbest çağrışım"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Serbest çağrışım, danışanın aklına gelen her şeyi sansürsüz söylemesi yoluyla bilinçdışı çatışmaların açığa çıkarılmasını amaçlayan psikanalitik bir tekniktir.",
     "source": {
       "kind": "generated",
@@ -697,11 +697,11 @@
     "options": {
       "A": "Rüya analizi",
       "B": "Serbest çağrışım",
-      "C": "Aktarım",
-      "D": "Savunma mekanizması",
-      "E": "Direnç"
+      "C": "Savunma mekanizması",
+      "D": "Direnç",
+      "E": "Aktarım"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Aktarım (transferans), danışanın geçmişteki önemli kişilere (anne, baba gibi) ait duygu ve tutumlarını danışmana yansıtmasıdır.",
     "source": {
       "kind": "generated",
@@ -718,13 +718,13 @@
     "konu": "rehberlik",
     "stem": "Davranışçı yaklaşımla çalışan danışman Cenk Bey, asansörden korkan danışanına önce gevşeme egzersizleri öğretmiş, ardından korkunun en az olduğu durumdan (asansörün yanında durmak) en çok olduğu duruma (asansöre binmek) kadar bir korku sıralaması oluşturmuş; danışan gevşemişken bu durumları sırayla hayal etmiştir.\n\nCenk Bey hangi tekniği kullanmaktadır?",
     "options": {
-      "A": "Boş sandalye uygulaması",
-      "B": "Yüzleştirme tekniği",
-      "C": "Serbest çağrışım tekniği",
-      "D": "Sistematik duyarsızlaştırma",
+      "A": "Sistematik duyarsızlaştırma",
+      "B": "Boş sandalye uygulaması",
+      "C": "Yüzleştirme tekniği",
+      "D": "Serbest çağrışım tekniği",
       "E": "ABC modeli uygulaması"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Sistematik duyarsızlaştırma (Wolpe), gevşeme eşliğinde korku hiyerarşisindeki durumların kademeli olarak hayal edilmesiyle fobilerin giderilmesine yönelik davranışçı tekniktir.",
     "source": {
       "kind": "generated",
@@ -743,11 +743,11 @@
     "options": {
       "A": "Danışan merkezli yaklaşım",
       "B": "Psikanalitik yaklaşım",
-      "C": "Gestalt terapisi",
-      "D": "Akılcı duygusal davranışçı terapi",
+      "C": "Akılcı duygusal davranışçı terapi",
+      "D": "Gestalt terapisi",
       "E": "Gerçeklik terapisi"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Ellis'in akılcı duygusal davranışçı terapisinde duygusal sorunların kaynağı olaylar değil, olaylara ilişkin mantıksız inançlardır (ABC modeli); terapi bu inançları sorgulamayı amaçlar.",
     "source": {
       "kind": "generated",
@@ -766,11 +766,11 @@
     "options": {
       "A": "Gerçeklik terapisi",
       "B": "Gestalt terapisi",
-      "C": "Bilişsel terapi",
-      "D": "Psikanalitik yaklaşım",
-      "E": "Danışan merkezli yaklaşım"
+      "C": "Psikanalitik yaklaşım",
+      "D": "Danışan merkezli yaklaşım",
+      "E": "Bilişsel terapi"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Beck'in bilişsel terapisi, duygusal sorunlara yol açan otomatik olumsuz düşünceleri ve bilişsel çarpıtmaları belirleyip daha gerçekçi düşüncelerle değiştirmeyi hedefler.",
     "source": {
       "kind": "generated",
@@ -788,12 +788,12 @@
     "stem": "Gestalt yaklaşımıyla çalışan danışman Okan Bey, danışanından geçmişte yaşadığı bir olayı anlatmak yerine, şu anda neler hissettiğini, bedeninde ne fark ettiğini “şimdi ve burada” anlatmasını istemiştir. Ardından boş bir sandalyeye karşı konuşmasını önermiştir.\n\nBu uygulamalar hangi kuramın temel ilke ve tekniklerindendir?",
     "options": {
       "A": "Davranışçı yaklaşım",
-      "B": "Danışan merkezli yaklaşım",
-      "C": "Psikanalitik yaklaşım",
-      "D": "Gestalt terapisi",
+      "B": "Gestalt terapisi",
+      "C": "Danışan merkezli yaklaşım",
+      "D": "Psikanalitik yaklaşım",
       "E": "Bilişsel terapi"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Perls'in Gestalt terapisi, şimdi ve burada farkındalığı ve boş sandalye gibi deneyimsel teknikleri vurgular.",
     "source": {
       "kind": "generated",
@@ -813,10 +813,10 @@
       "A": "Psikanaliz",
       "B": "Gestalt terapisi",
       "C": "Davranışçı terapi",
-      "D": "Danışan merkezli yaklaşım",
-      "E": "Bireysel psikoloji"
+      "D": "Bireysel psikoloji",
+      "E": "Danışan merkezli yaklaşım"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Adler'in bireysel psikolojisinde aşağılık duygusu, telafi, yaşam tarzı ve toplumsal ilgi temel kavramlardır.",
     "source": {
       "kind": "generated",
@@ -834,12 +834,12 @@
     "stem": "Danışman Barış Bey, danışanına “Ne yaptın? Bu davranış sana yarar sağladı mı? Daha iyi bir plan nasıl olabilir?” sorularını yöneltmekte; danışanın davranışlarının sorumluluğunu üstlenmesini ve geleceğe dönük bir plan yapmasını desteklemektedir. Danışanın geçmişini kurcalamamaktadır. Görüşmeler sırasında danışan davranışlarını değerlendirmek ve yeni bir plan yapmak için cesaretlendirilmektedir.\n\nBarış Bey hangi yaklaşımı kullanmaktadır?",
     "options": {
       "A": "Danışan merkezli yaklaşım",
-      "B": "Gerçeklik terapisi",
-      "C": "Gestalt terapisi",
-      "D": "Bilişsel terapi",
-      "E": "Psikanaliz"
+      "B": "Gestalt terapisi",
+      "C": "Bilişsel terapi",
+      "D": "Psikanaliz",
+      "E": "Gerçeklik terapisi"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Glasser'ın gerçeklik terapisi şimdiki davranışa, sorumluluğa ve plan yapmaya odaklanır; geçmişi kurcalamaz.",
     "source": {
       "kind": "generated",
@@ -859,10 +859,10 @@
       "A": "Psikanaliz",
       "B": "Gerçeklik terapisi",
       "C": "Akılcı duygusal davranışçı terapi",
-      "D": "Anlam terapisi",
-      "E": "Gestalt terapisi"
+      "D": "Gestalt terapisi",
+      "E": "Anlam terapisi"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Frankl'ın anlam terapisi (logoterapi), yaşamın anlamını bulmayı insanın temel güdüsü sayan varoluşçu bir yaklaşımdır.",
     "source": {
       "kind": "generated",
@@ -880,12 +880,12 @@
     "stem": "Davranışçı yaklaşıma dayanan danışman Hasan Bey, utangaç bir öğrenciye sınıf önünde konuşma becerisi kazandırmak için, bu beceriyi başarıyla gösteren bir akranını izletmiş, sonra öğrencinin aynı davranışı denemesini sağlamış ve denemesini ödüllendirmiştir. Hasan Bey öğrencinin her adımda gösterdiği ilerlemeyi de hemen övgüyle pekiştirmiştir.\n\nHasan Bey hangi tekniği kullanmaktadır?",
     "options": {
       "A": "Boş sandalye tekniği",
-      "B": "ABC modeli",
-      "C": "Sistematik duyarsızlaştırma",
-      "D": "Serbest çağrışım",
-      "E": "Model alma"
+      "B": "Model alma",
+      "C": "ABC modeli",
+      "D": "Sistematik duyarsızlaştırma",
+      "E": "Serbest çağrışım"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Model alma, bireyin istenen davranışı gösteren bir modeli gözleyerek öğrenmesine dayanan, sosyal öğrenme kuramından beslenen davranışçı bir tekniktir.",
     "source": {
       "kind": "generated",
@@ -902,13 +902,13 @@
     "konu": "rehberlik",
     "stem": "Psikolojik danışman Ceren Hanım, ilk oturumda danışanı Mert'le güven ilişkisi kurmak için onu karşılamış, gizlilik ve sınırları açıklamış, Mert'in kendini rahat hissetmesi için sıcak ve ilgili bir tutum sergilemiştir. Henüz sorunun ayrıntılarına inilmemiştir. Danışman bu oturumda danışanı hakkında herhangi bir değerlendirme ya da tanı koymamıştır.\n\nCeren Hanım danışma sürecinin hangi aşamasındadır?",
     "options": {
-      "A": "Sonlandırma",
-      "B": "İzleme",
-      "C": "İlişki kurma",
+      "A": "İlişki kurma",
+      "B": "Sonlandırma",
+      "C": "İzleme",
       "D": "Hedef belirleme",
       "E": "Müdahale"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Danışma sürecinin ilk aşaması, danışan ile danışman arasında güven ve çalışma ilişkisinin kurulmasıdır.",
     "source": {
       "kind": "generated",
@@ -926,12 +926,12 @@
     "stem": "Danışman Murat Bey ile danışan Elif birlikte oturup görüşmelerin sonunda ulaşmak istedikleri durumu, örneğin Elif'in sınav kaygısını yönetebilmesini, ölçülebilir ve gerçekçi biçimde belirlemişler; bu amaçlara ulaşmak için hangi yolların izleneceğini konuşmuşlardır. Hedefler yazılı olarak kaydedilmiş ve her oturumda yeniden gözden geçirilmiştir.\n\nBu çalışma danışma sürecinin hangi aşamasıdır?",
     "options": {
       "A": "İlişki kurma",
-      "B": "Hedef belirleme",
-      "C": "İzleme",
+      "B": "İzleme",
+      "C": "Hedef belirleme",
       "D": "Sonlandırma",
       "E": "Sorunu tanımlama"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Hedef belirleme aşamasında danışman ve danışan ulaşılmak istenen amaçları somut ve gerçekçi biçimde birlikte belirler.",
     "source": {
       "kind": "generated",
@@ -948,13 +948,13 @@
     "konu": "rehberlik",
     "stem": "Altı oturumun sonunda Elif'in sınav kaygısı belirgin biçimde azalmış, belirlenen hedeflere ulaşılmıştır. Danışman, süreci birlikte değerlendirmiş, kazanımları özetlemiş ve gelecekte yeniden gerek duyarsa başvurabileceğini belirtip yardım ilişkisini kapatmıştır. Danışman Elif'e gerekli olursa tekrar başvurabileceğini söylemiş ve süreci birlikte tamamlamışlardır.\n\nBu çalışma danışma sürecinin hangi aşamasıdır?",
     "options": {
-      "A": "Sonlandırma",
-      "B": "İlişki kurma",
-      "C": "Sorunu tanımlama",
+      "A": "İlişki kurma",
+      "B": "Sorunu tanımlama",
+      "C": "Sonlandırma",
       "D": "Hedef belirleme",
       "E": "Müdahale"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Sonlandırma aşamasında hedeflere ulaşılıp ulaşılmadığı değerlendirilir, kazanımlar özetlenir ve yardım ilişkisi planlı biçimde sona erdirilir.",
     "source": {
       "kind": "generated",
@@ -994,13 +994,13 @@
     "konu": "rehberlik",
     "stem": "Holland'ın kuramına göre rehber öğretmen Selçuk Bey, öğrencisinin ilgilerine bakarak onun soyut düşünmeyi, araştırma yapmayı ve problem çözmeyi sevdiğini, bilim ve matematik alanlarına ilgi duyduğunu belirlemiş ve onu araştırıcı bir kişilik tipi olarak değerlendirmiştir.\n\nHolland'ın altı kişilik tipinden hangisi bu öğrenciye uygundur?",
     "options": {
-      "A": "Araştırıcı",
-      "B": "Geleneksel",
-      "C": "Sanatsal",
-      "D": "Sosyal",
-      "E": "Gerçekçi"
+      "A": "Geleneksel",
+      "B": "Sanatsal",
+      "C": "Sosyal",
+      "D": "Gerçekçi",
+      "E": "Araştırıcı"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Holland'ın araştırıcı tipi, bilimsel ve matematiksel etkinlikleri, problem çözmeyi ve soyut düşünmeyi tercih eder.",
     "source": {
       "kind": "generated",
@@ -1017,13 +1017,13 @@
     "konu": "rehberlik",
     "stem": "Holland'ın kuramına göre rehber öğretmen Ayşe Hanım, öğrencisi Elif'in resim, müzik ve yazı yazma gibi yaratıcı etkinlikleri sevdiğini, kuralların kısıtlamasını sevmediğini ve kendini sanat yoluyla ifade etmeyi tercih ettiğini gözlemlemiştir. Elif ayrıca birçok yaratıcı yarışmaya katılmakta ve ödüller almaktadır.\n\nHolland'ın altı kişilik tipinden hangisi bu öğrenciye uygundur?",
     "options": {
-      "A": "Sanatsal",
-      "B": "Girişimci",
-      "C": "Gerçekçi",
+      "A": "Girişimci",
+      "B": "Gerçekçi",
+      "C": "Sanatsal",
       "D": "Sosyal",
       "E": "Araştırıcı"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Holland'ın sanatsal tipi, yaratıcılığı, özgün ifadeyi ve esnek yapıları tercih eder.",
     "source": {
       "kind": "generated",
@@ -1063,13 +1063,13 @@
     "konu": "rehberlik",
     "stem": "Holland'ın kuramına göre rehber öğretmen Cem Bey, öğrencisi Barış'ın düzen ve ayrıntıya dikkat ettiğini, kayıt tutmayı, veri düzenlemeyi ve kuralları takip etmeyi sevdiğini, belirsiz ve esnek durumlardan rahatsız olduğunu gözlemlemiştir. Barış ayrıca bu özelliklerini ders çalışırken de sürekli olarak göstermektedir.\n\nHolland'ın altı kişilik tipinden hangisi bu öğrenciye uygundur?",
     "options": {
-      "A": "Sanatsal",
-      "B": "Geleneksel",
+      "A": "Geleneksel",
+      "B": "Sanatsal",
       "C": "Girişimci",
       "D": "Gerçekçi",
       "E": "Sosyal"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Holland'ın geleneksel tipi, düzenli, ayrıntılı ve kurallara dayalı işleri, kayıt tutma ve veri düzenleme gibi faaliyetleri tercih eder.",
     "source": {
       "kind": "generated",
@@ -1086,13 +1086,13 @@
     "konu": "rehberlik",
     "stem": "Super'in yaşam boyu gelişim kuramına göre on beş ile yirmi dört yaş arasındaki Okan, okulda, gönüllü çalışmalarda ve hobilerinde farklı rolleri denemekte, ilgilerini ve yeteneklerini keşfetmekte ve mesleki tercihlerini belirginleştirmeye başlamaktadır. Okan ayrıca yeni mesleklerle ilgili bilgi toplamak için staj olanaklarını da araştırmaktadır.\n\nOkan Super'in hangi mesleki gelişim evresindedir?",
     "options": {
-      "A": "Büyüme",
-      "B": "Keşif",
+      "A": "Keşif",
+      "B": "Büyüme",
       "C": "Sürdürme",
       "D": "Gerileme",
       "E": "Yerleşme"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Super'in beş evresinden keşif evresi (yaklaşık 15-24 yaş), bireyin ilgi ve yeteneklerini keşfettiği ve mesleki tercihlerini belirginleştirdiği dönemdir.",
     "source": {
       "kind": "generated",
@@ -1111,11 +1111,11 @@
     "options": {
       "A": "Yerleşme dönemi",
       "B": "Keşif dönemi",
-      "C": "Gerçekçi dönem",
-      "D": "Geçici dönem",
-      "E": "Fantezi dönemi"
+      "C": "Fantezi dönemi",
+      "D": "Gerçekçi dönem",
+      "E": "Geçici dönem"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Ginzberg'in fantezi döneminde (yaklaşık 11 yaşına kadar) çocuk meslek seçimini hayal gücüne dayandırır; geçici dönemde ilgi ve yetenekleri, gerçekçi dönemde olanakları dikkate almaya başlar.",
     "source": {
       "kind": "generated",
@@ -1156,12 +1156,12 @@
     "stem": "Sınıf öğretmeni Aylin Hanım, öğrencisi Deniz'in birkaç hafta boyunca ağlama nöbetleri geçirdiğini, arkadaşlarından uzaklaştığını ve notlarının belirgin biçimde düştüğünü fark etmiştir. Bu sorunu kendi başına çözemeyeceğini düşünerek durumu okul rehber öğretmenine iletmiş ve öğrencinin rehber servisine yönlendirilmesini sağlamıştır.\n\nAylin Hanım'ın bu uygulaması aşağıdakilerden hangisidir?",
     "options": {
       "A": "Yerleştirme",
-      "B": "Yöneltme",
-      "C": "Bilgi verme",
-      "D": "İzleme",
-      "E": "Sevk"
+      "B": "Sevk",
+      "C": "Yöneltme",
+      "D": "Bilgi verme",
+      "E": "İzleme"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Sevk (referral), öğretmenin kendi uzmanlık alanı dışında gördüğü bir sorunu ilgili uzmana (rehber öğretmen, RAM, sağlık kuruluşu) yönlendirmesidir.",
     "source": {
       "kind": "generated",
@@ -1201,13 +1201,13 @@
     "konu": "rehberlik",
     "stem": "Danışman Barış Bey, danışanı lise öğrencisi Kaan'ın yakın zamanda kendine zarar vermeyi planladığını ve bunun ayrıntılı bir planını yaptığını öğrenmiştir. Kaan, bu bilgiyi kimseyle paylaşmaması için danışmandan söz almak istemiştir. Barış Bey ilk görüşmede gizlilik ve sınırlarını Kaan'a daha önce açıklamıştır.\n\nBarış Bey'in etik açıdan yapması gereken aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Kaan'a söz verip durumu kimseye bildirmeden görüşmeleri sürdürmek",
-      "B": "Görüşmeyi hemen sonlandırıp bilgiyi dosyaya hiç kaydetmemek",
-      "C": "Bu durumu fark etmeyip görüşmeye aynı biçimde devam etmek",
-      "D": "Gizlilik ilkesinin sınırını açıklayıp ilgili kişileri bilgilendirmek",
+      "A": "Gizlilik ilkesinin sınırını açıklayıp ilgili kişileri bilgilendirmek",
+      "B": "Kaan'a söz verip durumu kimseye bildirmeden görüşmeleri sürdürmek",
+      "C": "Görüşmeyi hemen sonlandırıp bilgiyi dosyaya hiç kaydetmemek",
+      "D": "Bu durumu fark etmeyip görüşmeye aynı biçimde devam etmek",
       "E": "Bilgiyi Kaan'ın arkadaşlarıyla paylaşıp onlardan destek istemek"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Danışanın kendine veya başkasına zarar verme riski varsa gizlilik ilkesi sınırlanır; danışman, danışanı bu konuda bilgilendirip ilgili kişilere (aile, yönetim, uzmanlar) bildirmekle yükümlüdür.",
     "source": {
       "kind": "generated",
@@ -1226,11 +1226,11 @@
     "options": {
       "A": "Denetim",
       "B": "Psikolojik danışma",
-      "C": "Sınıf rehberliği",
-      "D": "Sevk",
+      "C": "Sevk",
+      "D": "Sınıf rehberliği",
       "E": "Yerleştirme"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Sınıf rehber öğretmeni, sınıfın rehberlik etkinliklerini yürütür, öğrencileri izler ve gerektiğinde okul rehber öğretmeniyle işbirliği yaparak sevk eder.",
     "source": {
       "kind": "generated",
@@ -1271,12 +1271,12 @@
     "stem": "Rehber öğretmen Mert Bey, bir öğrencinin velisini okula çağırarak çocuğunun yaşadığı uyum sorununu, nedenlerini ve evde ailenin yapabileceği destekleyici davranışları konuşmuş; ailenin görüş ve gözlemlerini de dinleyerek ortak bir çalışma planı yapmıştır.\n\nMert Bey'in bu çalışması rehberliğin hangi boyutuyla ilgilidir?",
     "options": {
       "A": "Testle ölçme çalışması",
-      "B": "Bilgi verme hizmeti",
-      "C": "Yerleştirme hizmeti",
-      "D": "Okul denetimi çalışması",
-      "E": "Okul-aile işbirliği"
+      "B": "Okul-aile işbirliği",
+      "C": "Bilgi verme hizmeti",
+      "D": "Yerleştirme hizmeti",
+      "E": "Okul denetimi çalışması"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Okul-aile işbirliği, öğrencinin gelişimini desteklemek için okul ile ailenin bilgi paylaşarak ortak çalışmasıdır; rehberlik hizmetlerinin etkililiğini artırır.",
     "source": {
       "kind": "generated",
@@ -1295,11 +1295,11 @@
     "options": {
       "A": "Yalnızca sorunlu öğrencilere yönelik tedavi edici program",
       "B": "Denetim ve ceza odaklı program",
-      "C": "İhtiyaca dayalı gelişimsel rehberlik programı",
-      "D": "Yalnızca mezun öğrencilere yönelik program",
-      "E": "Merkezden gelen sabit program"
+      "C": "Yalnızca mezun öğrencilere yönelik program",
+      "D": "Merkezden gelen sabit program",
+      "E": "İhtiyaca dayalı gelişimsel rehberlik programı"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Gelişimsel rehberlik programları tüm öğrencilerin ihtiyaçlarına dayalı olarak planlanır, uygulanır ve değerlendirilir.",
     "source": {
       "kind": "generated",
@@ -1316,13 +1316,13 @@
     "konu": "rehberlik",
     "stem": "Büyük bir deprem sonrasında okulun rehberlik servisi, öğrencilerin ve ailelerin yaşadığı korku ve kayıplarla başa çıkmaları için hemen grup görüşmeleri yapmış, öğrencilere güvende olduklarını hissettirmiş ve ağır etkilenenleri ruh sağlığı uzmanlarına yönlendirmiştir. Servis çalışmalarını deprem sonrası ilk haftalarda yoğun biçimde sürdürmüştür.\n\nBu çalışma rehberliğin hangi boyutuna örnektir?",
     "options": {
-      "A": "Kriz müdahalesi",
-      "B": "Eğitsel rehberlik",
+      "A": "Eğitsel rehberlik",
+      "B": "Kriz müdahalesi",
       "C": "Önleyici çalışma",
       "D": "Yerleştirme",
       "E": "Mesleki rehberlik"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Kriz müdahalesi, ani ve travmatik olaylar sonrasında bireylerin başa çıkmalarına yardım eden, kısa süreli ve acil destek çalışmalarıdır.",
     "source": {
       "kind": "generated",
@@ -1362,13 +1362,13 @@
     "konu": "rehberlik",
     "stem": "Okula yeni başlayan ve evinden ilk kez ayrılan bir öğrenci, uyum sorunu yaşamaktadır. Rehber öğretmen, sorun büyümeden önce öğrenciyle görüşüp okul tanıtımı yaparak, yeni arkadaşlıklar kurmasına yardım etmiş ve öğrencinin sınıf öğretmeniyle iş birliğini sağlamıştır.\n\nBu çalışma rehberliğin hangi hizmet türüne en yakındır?",
     "options": {
-      "A": "Yerleştirme ve iş bulma çalışması",
-      "B": "Oryantasyon ve uyum çalışması",
+      "A": "Oryantasyon ve uyum çalışması",
+      "B": "Yerleştirme ve iş bulma çalışması",
       "C": "Psikolojik test uygulama çalışması",
       "D": "Sevk ve yönlendirme çalışması",
       "E": "Yöneltme ve karar çalışması"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Oryantasyon, bireyin yeni bir ortama (okul, sınıf) uyumunu kolaylaştıran bilgi verme ve destek çalışmalarıdır.",
     "source": {
       "kind": "generated",
@@ -1386,12 +1386,12 @@
     "stem": "Rehber öğretmen Nilgün Hanım, son iki ayda sık sık okula gelmeyen Cem'i bütüncül değerlendirmek için ailesiyle görüşmüş, sağlık geçmişini incelemiş, sınıf öğretmeninden akademik başarısını öğrenmiş, arkadaş ilişkilerini gözlemlemiş ve bu bilgileri tek bir dosyada toplamıştır.\n\nNilgün Hanım'ın kullandığı bireyi tanıma tekniği aşağıdakilerden hangisidir?",
     "options": {
       "A": "Anket",
-      "B": "Olgu incelemesi",
-      "C": "Sosyometri",
-      "D": "Gözlem formu",
+      "B": "Sosyometri",
+      "C": "Gözlem formu",
+      "D": "Olgu incelemesi",
       "E": "Otobiyografi"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Bir bireyin durumunu farklı kaynaklardan ve tekniklerle toplanan bilgilerle bütüncül inceleyen teknik olgu incelemesidir (vaka çalışması).",
     "source": {
       "kind": "generated",
@@ -1431,13 +1431,13 @@
     "konu": "rehberlik",
     "stem": "Bir okulda rehberlik servisi, yeni eğitim-öğretim yılı için gelişimsel rehberlik programı hazırlayacaktır. Ekip, programı yazarken önce öğrencilerin, velilerin ve öğretmenlerin neye gereksinim duyduğunu anketlerle belirlemek, ardından hedefleri ve etkinlikleri planlamak istemektedir. Çalışma, okul müdürünün de onayıyla başlatılmıştır.\n\nBu planlamada programın hazırlanmasındaki ilk basamak aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Sonuçların değerlendirilmesi",
-      "B": "İhtiyaçların belirlenmesi",
+      "A": "İhtiyaçların belirlenmesi",
+      "B": "Sonuçların değerlendirilmesi",
       "C": "Hedeflerin yazılması",
       "D": "Etkinliklerin uygulanması",
       "E": "Kaynakların sağlanması"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Okul rehberlik programı önce ihtiyaç belirlemeyle başlar; ardından hedefler, etkinlikler, uygulama ve değerlendirme gelir.",
     "source": {
       "kind": "generated",
@@ -1455,12 +1455,12 @@
     "stem": "Psikolojik danışman, danışanını koşulsuz kabul etmekte, onun duygularını anlamaya çalışıp empatiyle yansıtmakta, kendisine karşı içten ve tutarlı davranmaktadır. Çözümü danışana vermemekte, danışanın kendi çözümünü bulabileceğine inanmaktadır. Görüşmeler haftada bir kez, sakin ve güvenli bir odada yürütülmektedir.\n\nDanışmanın bu yaklaşımı aşağıdaki kuramcılardan hangisine aittir?",
     "options": {
       "A": "Williamson",
-      "B": "Beck",
-      "C": "Ellis",
-      "D": "Perls",
-      "E": "Rogers"
+      "B": "Rogers",
+      "C": "Beck",
+      "D": "Ellis",
+      "E": "Perls"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Rogers'ın danışan merkezli yaklaşımında danışman koşulsuz kabul, empati ve kendisi olma koşullarını sağlar; çözümü danışan bulur.",
     "source": {
       "kind": "generated",
@@ -1480,10 +1480,10 @@
       "A": "Danışan merkezli yaklaşım",
       "B": "Özellik-faktör yaklaşımı",
       "C": "Gerçeklik terapisi",
-      "D": "Gestalt terapisi",
-      "E": "Akılcı duygusal davranış terapisi"
+      "D": "Akılcı duygusal davranış terapisi",
+      "E": "Gestalt terapisi"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Ellis'in akılcı duygusal davranış terapisi, duyguların olayın kendisinden değil o olaya ilişkin inançlardan doğduğunu varsayar (A-B-C modeli) ve mantıksız inançları tartışır.",
     "source": {
       "kind": "generated",
@@ -1501,12 +1501,12 @@
     "stem": "Bir psikolojik danışman, meslek seçecek lise öğrencisinin yetenek, ilgi ve kişilik testlerini incelemiş; öğrencinin özelliklerini farklı mesleklerin gerektirdiği özelliklerle eşleştirmiş ve en uygun mesleklere yönlendirmiştir. Süreç boyunca öğrencinin duygusal çatışmaları değil ölçülebilir özellikleri esas alınmıştır.\n\nDanışmanın izlediği yaklaşım aşağıdakilerden hangisidir?",
     "options": {
       "A": "Gestalt yaklaşımı",
-      "B": "Özellik-faktör yaklaşımı",
-      "C": "Danışan merkezli yaklaşım",
+      "B": "Danışan merkezli yaklaşım",
+      "C": "Özellik-faktör yaklaşımı",
       "D": "Gelişimsel yaklaşım",
       "E": "Akılcı duygusal davranış terapisi"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Parsons ve Williamson'ın özellik-faktör yaklaşımı, bireyin özelliklerini testlerle belirleyip mesleklerin gerektirdiği özelliklerle eşleştirmeyi esas alır.",
     "source": {
       "kind": "generated",
@@ -1549,15 +1549,107 @@
       "A": "Super'in yaşam boyu gelişim kuramı",
       "B": "Parsons'ın üç aşamalı modeli",
       "C": "Ginzberg'in gelişim kuramı",
-      "D": "Roe'nin ihtiyaç kuramı",
-      "E": "Holland'ın kişilik tipleri kuramı"
+      "D": "Holland'ın kişilik tipleri kuramı",
+      "E": "Roe'nin ihtiyaç kuramı"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Holland, bireylerin altı kişilik tipinden (gerçekçi, araştırıcı, sanatçı, sosyal, girişimci, geleneksel) birine daha yakın olduğunu ve uyumlu iş ortamının doyumu artırdığını savunur.",
     "source": {
       "kind": "generated",
       "styleRef": "AGS_URETIM_KURALLARI",
       "legislationRef": "Mesleki gelişim kuramları: Holland"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-069",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Rehber öğretmen, yeni gelen bir öğrenciyi tanımak amacıyla ondan ailesini, çocukluğunu, ilgi alanlarını, yaşadığı önemli olayları ve gelecek planlarını kendi sözcükleriyle ayrıntılı biçimde yazmasını istemiştir. Yazılanlar öğrencinin bireysel dosyasına eklenecek ve ilerideki görüşmelerde öğrenciyi daha yakından tanımak için kullanılacaktır.\n\nRehber öğretmenin kullandığı bireyi tanıma tekniği aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Anekdot kaydı",
+      "B": "Otobiyografi",
+      "C": "Görüşme",
+      "D": "Sosyometri",
+      "E": "Gözlem"
+    },
+    "answer": "B",
+    "solution": "Otobiyografi, bireyin kendi yaşam öyküsünü yazılı olarak anlattığı, bireyin kendini nasıl gördüğünü ve önemli yaşantılarını ortaya koyan bir bireyi tanıma tekniğidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: otobiyografi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-070",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Sınıf rehber öğretmeni, teneffüste bir öğrencinin arkadaşının elinden oyuncağı alıp sınıf kapısına doğru koştuğunu görmüş; olayın tarihini, yerini ve öğrencinin tam olarak ne yaptığını hiçbir yorum eklemeden kısa bir not olarak kaydetmiştir. Notu öğrencinin dosyasına koymuştur.\n\nÖğretmenin kullandığı kayıt türü aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Olay (vaka) incelemesi",
+      "B": "Anekdot kaydı",
+      "C": "Sosyometri",
+      "D": "Derecelendirme ölçeği",
+      "E": "Kümülatif kayıt"
+    },
+    "answer": "B",
+    "solution": "Anekdot kaydı, öğrencinin önemli bir davranışının yorum katmadan, tarih ve yer belirtilerek kısaca yazıya geçirilmesidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Bireyi tanıma: anekdot kaydı"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-071",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikolojik danışman, bir öğrencinin arkadaşlarıyla sürekli tartıştığını, öfkesini kontrol etmekte zorlandığını ve kendini ifade etmekte güçlük çektiğini görmüştür. Öğrencinin kendini tanımasına, duygularını yönetmesine ve sağlıklı ilişkiler kurmasına yardımcı olacak çalışmalar planlamıştır.\n\nDanışmanın yürüttüğü bu çalışmalar rehberliğin hangi hizmet alanına girer?",
+    "options": {
+      "A": "Mesleki rehberlik",
+      "B": "Bireysel danışma",
+      "C": "Grup rehberliği",
+      "D": "Kişisel (sosyal) rehberlik",
+      "E": "Eğitsel rehberlik"
+    },
+    "answer": "D",
+    "solution": "Kişisel-sosyal rehberlik, bireyin kendini tanıması, duygularını yönetmesi ve sosyal ilişkilerinde uyum sağlamasına yönelik yardım hizmetidir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rehberlik hizmet alanları: kişisel-sosyal"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-reh-072",
+    "ders": "egitim_bilimleri",
+    "konu": "rehberlik",
+    "stem": "Psikolojik danışman, danışanını yargılamadan olduğu gibi kabul etmekte, onu anladığını gösteren yansıtmalar yapmakta ve çözümü danışanın kendi içinden bulacağına inanarak yönlendirici öneriler vermemektedir. Danışanın kendini gerçekleştirme eğilimine güvenmekte ve görüşmelerde danışanın kendi duygularını rahatça ifade etmesine fırsat tanımaktadır.\n\nDanışmanın benimsediği kuramsal yaklaşım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Akılcı duygusal davranış terapisi",
+      "B": "Davranışçı yaklaşım",
+      "C": "Psikanalitik yaklaşım",
+      "D": "Gerçeklik terapisi",
+      "E": "Danışan merkezli yaklaşım"
+    },
+    "answer": "E",
+    "solution": "Rogers'ın danışan merkezli yaklaşımında danışman koşulsuz olumlu kabul, empati ve tutarlılık sunar; danışanın kendini gerçekleştirme eğilimine güvenerek yönlendirmeden destekler.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Rogers: danışan merkezli yaklaşım"
     },
     "validYear": 2026,
     "difficulty": "medium",

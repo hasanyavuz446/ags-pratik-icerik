@@ -8,10 +8,10 @@
       "A": "Boş program",
       "B": "Gizli program",
       "C": "Örtük program",
-      "D": "Eş-program",
-      "E": "Açık program"
+      "D": "Açık program",
+      "E": "Eş-program"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Resmî olarak yazılı, hedefleri, içeriği, yöntemi ve değerlendirmesi belirlenmiş programa açık (resmî) program denir.",
     "source": {
       "kind": "generated",
@@ -28,13 +28,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir okulda kurallar yazılı olarak belirlenmemiş olmasına rağmen yöneticilerin öğrencilere yaklaşımı, sınıfların fiziksel düzeni, öğretmenlerin ödül ve ceza anlayışı ve okulun gelenekleri öğrencilerin tutum, değer ve davranışlarını etkilemektedir. Bu etkiler resmî programda yer almamaktadır.\n\nBu durum program türlerinden hangisine örnektir?",
     "options": {
-      "A": "Örtük program",
-      "B": "Çekirdek program",
+      "A": "Çekirdek program",
+      "B": "Örtük program",
       "C": "Açık program",
       "D": "Eş-program",
       "E": "Boş program"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Örtük program, resmî programda yer almayan ancak okul yaşantısı, ilişkiler ve kültür yoluyla öğrencilere kazandırılan tutum, değer ve davranışlardır.",
     "source": {
       "kind": "generated",
@@ -52,12 +52,12 @@
     "stem": "Eisner, okulların hangi bilgi ve becerileri öğrenciye öğretmediğinin de bir program etkisi yarattığını belirtmiştir. Örneğin bir ilkokul programında bilgisayarla programlama, medya okuryazarlığı ve finansal okuryazarlık hiç yer almamakta, bu nedenle öğrenciler bu alanlarda hiçbir beceri geliştirememektedir.\n\nProgramda yer almayan bu alanlar program türlerinden hangisiyle ifade edilir?",
     "options": {
       "A": "Açık program",
-      "B": "Boş program",
-      "C": "Örtük program",
+      "B": "Örtük program",
+      "C": "Boş program",
       "D": "Eş-program",
       "E": "Çekirdek program"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Eisner'a göre boş (null) program, okulun öğretmediği, programda yer vermediği ve bu yüzden öğrencilerin yoksun kaldığı bilgi, beceri ve bakış açılarıdır.",
     "source": {
       "kind": "generated",
@@ -76,11 +76,11 @@
     "options": {
       "A": "Gizli program",
       "B": "Açık program",
-      "C": "Eş-program",
-      "D": "Boş program",
-      "E": "Çekirdek program"
+      "C": "Boş program",
+      "D": "Çekirdek program",
+      "E": "Eş-program"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Eş-program, derslerin dışında, okul yönetiminin planladığı kulüp, gezi, yarışma ve sosyal etkinliklerin tümüdür.",
     "source": {
       "kind": "generated",
@@ -97,13 +97,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir okul müdürü, öğrencilerin okul başarısındaki gerilemenin nedenini ararken yalnızca resmî programa değil; öğretmenlerin ders anlatım biçimi, sınıf içi iletişim ve okul iklimi gibi, programın yazılı olmayan yönlerine de bakılması gerektiğini belirtmiştir.\n\nMüdürün bakış açısı program kavramının hangi boyutuna işaret etmektedir?",
     "options": {
-      "A": "Yaşantı olarak program anlayışına",
-      "B": "Ders programı çizelgesi olarak program anlayışına",
-      "C": "Ders kitabı olarak program anlayışına",
+      "A": "Ders programı çizelgesi olarak program anlayışına",
+      "B": "Ders kitabı olarak program anlayışına",
+      "C": "Yaşantı olarak program anlayışına",
       "D": "Hedefler listesi olarak program anlayışına",
       "E": "Yazılı belge olarak program anlayışına"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Geniş anlamda program, yalnızca yazılı belge değil, okulun planlı ve plansız olarak öğrenciye sağladığı bütün öğrenme yaşantılarıdır.",
     "source": {
       "kind": "generated",
@@ -121,12 +121,12 @@
     "stem": "Millî Eğitim Bakanlığı, bir ünite için “öğrenci, cümledeki ögeleri bulur” biçiminde ifade edilen ölçülebilir öğrenme çıktılarını yazılı olarak belirlemiş; öğretmenlerden bu çıktılara göre ders planlamasını ve değerlendirme yapmasını istemiştir. Bu çıktılar öğretmenlerin ders planlarına yazılacak ve dönem sonunda öğrencilerin başarısı bunlara göre değerlendirilecektir.\n\nBu ifadeler programın hangi öğesini oluşturur?",
     "options": {
       "A": "Eğitim durumu",
-      "B": "İçerik",
-      "C": "Sınama durumu",
-      "D": "Ders programı",
-      "E": "Hedef"
+      "B": "Hedef",
+      "C": "İçerik",
+      "D": "Sınama durumu",
+      "E": "Ders programı"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Programın hedef öğesi, öğrenciye kazandırılması istenen bilgi, beceri ve tutumlardır; günümüzde kazanım olarak da adlandırılır.",
     "source": {
       "kind": "generated",
@@ -144,12 +144,12 @@
     "stem": "Bir fen bilimleri programında “hücre” üniteleri için önerilen konular, kavramlar, olgular ve ilkeler (hücre zarı, çekirdek, organeller, bölünme) ayrıntılı biçimde sıralanmış ve hangi konunun hangi sırayla işleneceği belirlenmiştir. Konuların ayrıntıları öğretmenlerin ders planlarına yansıtılacak, ders kitapları da bu sıralamaya göre hazırlanacaktır.\n\nBu bölüm programın hangi öğesidir?",
     "options": {
       "A": "Sınama durumu",
-      "B": "Hedef",
-      "C": "Eğitim durumu",
-      "D": "İçerik",
+      "B": "İçerik",
+      "C": "Hedef",
+      "D": "Eğitim durumu",
       "E": "Kazanım"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "İçerik, hedeflere ulaşmak için seçilen ve düzenlenen konu, kavram, olgu, ilke ve becerilerdir.",
     "source": {
       "kind": "generated",
@@ -167,12 +167,12 @@
     "stem": "Öğretmen Aylin Hanım, “hücre” ünitesinde öğrencilerin hedeflenen davranışları kazanması için mikroskop gözlemi, grup çalışması, model yapma ve tartışma etkinliklerini planlamıştır. Bu etkinlikler öğrencilerin ünitede öğreneceği yaşantıları oluşturmaktadır. Öğretmen bu etkinlikleri öğrencilerin ilgi düzeylerini ve sınıfın olanaklarını gözeterek bir süre planlamış ve etkinlik sırasında öğrencilere rehberlik etmiştir.\n\nBu bölüm programın hangi öğesidir?",
     "options": {
       "A": "Hedef",
-      "B": "Eğitim durumu",
-      "C": "Sınama durumu",
+      "B": "Sınama durumu",
+      "C": "Eğitim durumu",
       "D": "Program geliştirme",
       "E": "İçerik"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Eğitim durumları, hedefe ulaşmak için öğrenciye sağlanan öğrenme-öğretme yaşantıları, yöntem, teknik ve etkinliklerdir.",
     "source": {
       "kind": "generated",
@@ -190,12 +190,12 @@
     "stem": "Ünite sonunda Aylin Hanım, öğrencilerin hedeflenen davranışları kazanıp kazanmadığını belirlemek için bir yazılı sınav, bir performans görevi ve bir portfolyo kullanmıştır. Sonuçlara göre programda eksik görülen noktalar belirlenmiştir. Aylin Hanım ayrıca öğrencilere sonuçlarını kendi ürünleriyle karşılaştırma olanağı da vermiştir.\n\nBu bölüm programın hangi öğesidir?",
     "options": {
       "A": "Eğitim durumu",
-      "B": "Sınama durumu",
-      "C": "Program uyarlama",
+      "B": "Program uyarlama",
+      "C": "Sınama durumu",
       "D": "Hedef",
       "E": "İçerik"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Sınama durumu, hedeflenen davranışların ne ölçüde kazanıldığını belirleyen ölçme ve değerlendirme süreçleridir.",
     "source": {
       "kind": "generated",
@@ -212,13 +212,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir ülkede eğitim programlarının hazırlanması sırasında “İnsan nasıl bir varlıktır? Hangi bilgi doğrudur? Okulda hangi değerler kazandırılmalıdır?” gibi sorulara verilen yanıtlar belirleyici olmaktadır. Programın amaçları bu temel görüşlere dayandırılmaktadır. Program hazırlama komisyonları toplantılarında bu sorulara verilen yanıtları tartışmakta ve karar vermektedir.\n\nBu çalışma programın hangi temeline dayanır?",
     "options": {
-      "A": "Sosyolojik temel",
-      "B": "Ekonomik temel",
-      "C": "Felsefi temel",
+      "A": "Felsefi temel",
+      "B": "Sosyolojik temel",
+      "C": "Ekonomik temel",
       "D": "Psikolojik temel",
       "E": "Hukuki temel"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Programın felsefi temeli; bilginin doğası, insan, değer ve toplum anlayışına ilişkin görüşlerin eğitimin amaç ve içeriğini belirlemesidir.",
     "source": {
       "kind": "generated",
@@ -281,13 +281,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir meslek lisesinin bilişim alanı programı hazırlanırken, sektörde son beş yılda en çok aranan yazılım becerileri, işgücü piyasasının nitelikli eleman ihtiyacı ve mezunların istihdam olanakları dikkate alınmış; bu doğrultuda programa yazılım geliştirme dersleri eklenmiştir.\n\nBu karar programın hangi temeline dayanır?",
     "options": {
-      "A": "Sosyolojik temel",
-      "B": "Ekonomik temel",
+      "A": "Ekonomik temel",
+      "B": "Sosyolojik temel",
       "C": "Tarihî temel",
       "D": "Felsefi temel",
       "E": "Psikolojik temel"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Programın ekonomik temeli; ülkenin işgücü ihtiyacı, üretim yapısı, meslek ve istihdam eğilimleri ile kaynaklarının eğitim programına yansımasıdır.",
     "source": {
       "kind": "generated",
@@ -307,10 +307,10 @@
       "A": "Felsefi temel",
       "B": "Psikolojik temel",
       "C": "Sosyolojik temel",
-      "D": "Ekonomik temel",
-      "E": "Hukuki temel"
+      "D": "Hukuki temel",
+      "E": "Ekonomik temel"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Programın hukuki temeli; anayasa, kanun, yönetmelik ve ulusal eğitim politikalarının program kararlarını sınırlaması ve yönlendirmesidir.",
     "source": {
       "kind": "generated",
@@ -327,13 +327,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir ülke yeni tarih programını hazırlarken önceki dönemlerde uygulanan programlarda hangi konuların başarılı olduğunu, hangi yaklaşımların neden terk edildiğini ve geçmişteki eğitim reformlarının sonuçlarını incelemiş; bunlardan yararlanarak yeni programın taslağını oluşturmuştur. Ekip ayrıca bu incelemelerin sonuçlarını bir rapor hâlinde program komisyonuna sunmuştur.\n\nBu çalışma programın hangi temeline dayanır?",
     "options": {
-      "A": "Tarihî temel",
-      "B": "Felsefi temel",
-      "C": "Ekonomik temel",
+      "A": "Felsefi temel",
+      "B": "Ekonomik temel",
+      "C": "Tarihî temel",
       "D": "Sosyolojik temel",
       "E": "Hukuki temel"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Programın tarihî temeli; eğitim sisteminin geçmişi, geçmişte uygulanan programlar ve bunların sonuçlarından yararlanılmasıdır.",
     "source": {
       "kind": "generated",
@@ -350,13 +350,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir okul, öğrencilerin evlerinde ve çevrelerinde yoğun biçimde kullandıkları dijital araçlara uygun olarak programın ders ve etkinlik tasarımını yenilemiş; sosyal ağlarda doğru bilgiye ulaşma ve güvenli davranma becerisini programa eklemiştir. Okul çevresindeki aileler değişikliği olumlu karşılamıştır.\n\nBu karar öncelikle programın hangi temeliyle ilgilidir?",
     "options": {
-      "A": "Psikolojik temel",
-      "B": "Hukuki temel",
-      "C": "Felsefi temel",
-      "D": "Tarihî temel",
-      "E": "Sosyolojik temel"
+      "A": "Sosyolojik temel",
+      "B": "Psikolojik temel",
+      "C": "Hukuki temel",
+      "D": "Felsefi temel",
+      "E": "Tarihî temel"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Toplumsal değişme ve toplumun yaşam biçimindeki dönüşümün programa yansıtılması, programın sosyolojik temeliyle ilgilidir.",
     "source": {
       "kind": "generated",
@@ -374,12 +374,12 @@
     "stem": "Program geliştirme ekibi, bir ünitede öğrencilerin ilgi duyduğu konuları belirlemek amacıyla anket yapmış; öğrencilerin dikkat süreleri, öğrenme stilleri ve gelişim özellikleri doğrultusunda etkinlikleri kısa bölümlere ayırmıştır. Ekip aynı zamanda öğrenme kuramlarına dayanan öneriler hazırlamıştır.\n\nBu uygulama programın hangi temelinin öncelikli olarak dikkate alındığını gösterir?",
     "options": {
       "A": "Sosyolojik temelin",
-      "B": "Psikolojik temelin",
-      "C": "Tarihî temelin",
-      "D": "Ekonomik temelin",
-      "E": "Felsefi temelin"
+      "B": "Tarihî temelin",
+      "C": "Ekonomik temelin",
+      "D": "Felsefi temelin",
+      "E": "Psikolojik temelin"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Öğrencilerin ilgi, gelişim düzeyi, dikkat süresi ve öğrenme biçimlerini dikkate almak programın psikolojik temelinin gereğidir.",
     "source": {
       "kind": "generated",
@@ -396,13 +396,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir program geliştirme uzmanı, program çalışmalarına “Okulun ulaşmaya çalışacağı amaçlar nelerdir? Bu amaçlara ulaşmak için hangi öğrenme yaşantıları sağlanmalıdır? Bu yaşantılar nasıl düzenlenmelidir? Amaçlara ulaşılıp ulaşılmadığı nasıl değerlendirilecektir?” biçiminde dört soruyla başlamaktadır. Uzman bu sorulara verdiği yanıtlara göre çalışmasını sırasıyla ilerletmekte ve her aşamada sonuçları bir sonrakine temel yapmaktadır.\n\nUzmanın izlediği model aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Walker modeli",
-      "B": "Taba modeli",
-      "C": "Tyler modeli",
+      "A": "Tyler modeli",
+      "B": "Walker modeli",
+      "C": "Taba modeli",
       "D": "CIPP modeli",
       "E": "Wheeler modeli"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Tyler'ın amaç merkezli (doğrusal) modeli, amaçlar, eğitim yaşantıları, yaşantıların düzenlenmesi ve değerlendirme olmak üzere dört temel soruya dayanır.",
     "source": {
       "kind": "generated",
@@ -443,12 +443,12 @@
     "stem": "Bir okuldaki öğretmenler, programı merkezden gelen bir belge olarak uygulamak yerine önce kendi sınıflarındaki öğrenci ihtiyaçlarını belirlemiş, ardından amaçları, içeriği, yaşantıları ve değerlendirme araçlarını kendileri seçip düzenlemişlerdir. Süreç, sınıf düzeyindeki deneyimlerden genel çerçeveye doğru ilerlemiştir.\n\nBu yaklaşım hangi modele örnektir?",
     "options": {
       "A": "Tyler modeli",
-      "B": "Taba modeli",
-      "C": "Wheeler modeli",
-      "D": "CIPP modeli",
-      "E": "Eisner modeli"
+      "B": "Wheeler modeli",
+      "C": "CIPP modeli",
+      "D": "Eisner modeli",
+      "E": "Taba modeli"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Taba modeli, programın öğretmenlerin katılımıyla ihtiyaçların belirlenmesinden başlayarak sınıf düzeyinden genele doğru (tümevarımsal, tabandan yukarı) geliştirilmesini önerir.",
     "source": {
       "kind": "generated",
@@ -465,13 +465,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir ülkede program geliştirme uzmanları, amaçlar ile içerik ve değerlendirme arasındaki ilişkileri yeniden gözden geçirmek için sürekli bir döngü kurmuş; değerlendirme sonuçlarına göre yeniden amaçlara dönülmekte, böylece programın sürekli geliştirilmesi sağlanmaktadır. Uzmanlar bu döngüyü her yıl yeniden başlatmakta ve süreçte hiçbir aşama kesin ve son kabul edilmemektedir.\n\nBu yaklaşım hangi modelin özelliğidir?",
     "options": {
-      "A": "Kerr modeli",
-      "B": "CIPP modeli",
-      "C": "Tyler modeli",
-      "D": "Wheeler modeli",
+      "A": "Wheeler modeli",
+      "B": "Kerr modeli",
+      "C": "CIPP modeli",
+      "D": "Tyler modeli",
       "E": "Taba modeli"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Wheeler modeli döngüseldir: değerlendirme sonuçları yeniden amaçlara dönerek programın sürekli geliştirilmesini sağlar.",
     "source": {
       "kind": "generated",
@@ -489,12 +489,12 @@
     "stem": "Bir il millî eğitim müdürlüğü, yeni bir okuma programını uygulamaya koymadan önce okullardaki mevcut durumu incelemiş, öğrencilerin okuma düzeylerini ve okul ihtiyaçlarını belirlemiş, programın hangi amaçlarla geliştirileceğine karar vermiştir. Çalışmaya yerel öğretmenler, okul yöneticileri ve veli temsilcileri de katılmıştır.\n\nBu çalışma Stufflebeam'ın CIPP modelinde hangi türe girer?",
     "options": {
       "A": "Ürün değerlendirmesi",
-      "B": "Girdi değerlendirmesi",
-      "C": "Bağlam değerlendirmesi",
+      "B": "Bağlam değerlendirmesi",
+      "C": "Girdi değerlendirmesi",
       "D": "Süreç değerlendirmesi",
       "E": "Kazanım değerlendirmesi"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "CIPP modelinde bağlam değerlendirmesi, ihtiyaçları, sorunları ve fırsatları belirleyerek programın amaçlarını saptar.",
     "source": {
       "kind": "generated",
@@ -514,10 +514,10 @@
       "A": "Bağlam değerlendirmesi",
       "B": "Ürün değerlendirmesi",
       "C": "Kazanım değerlendirmesi",
-      "D": "Süreç değerlendirmesi",
-      "E": "Girdi değerlendirmesi"
+      "D": "Girdi değerlendirmesi",
+      "E": "Süreç değerlendirmesi"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "CIPP modelinde girdi değerlendirmesi, amaçlara ulaşmak için gerekli kaynakları, planları ve stratejileri inceler ve en uygun seçeneği belirler.",
     "source": {
       "kind": "generated",
@@ -535,12 +535,12 @@
     "stem": "Okuma programı uygulanmaya başladıktan sonra değerlendirme ekibi okulları ziyaret etmiş, dersleri gözlemlemiş, öğretmen görüşmeleri yapmış ve programın planlandığı gibi uygulanıp uygulanmadığını, aksayan noktaları izlemiştir. Ekip ayrıca öğretmenlerle yapılan görüşmelerin sonuçlarını bir rapor hâlinde müdürlüğe iletmiştir.\n\nBu çalışma Stufflebeam'ın CIPP modelinde hangi türe girer?",
     "options": {
       "A": "Ürün değerlendirmesi",
-      "B": "Bağlam değerlendirmesi",
-      "C": "Kazanım değerlendirmesi",
-      "D": "Girdi değerlendirmesi",
-      "E": "Süreç değerlendirmesi"
+      "B": "Süreç değerlendirmesi",
+      "C": "Bağlam değerlendirmesi",
+      "D": "Kazanım değerlendirmesi",
+      "E": "Girdi değerlendirmesi"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "CIPP modelinde süreç değerlendirmesi, programın uygulanış sürecini izler, aksaklıkları belirler ve düzeltici karar verilmesini sağlar.",
     "source": {
       "kind": "generated",
@@ -559,11 +559,11 @@
     "options": {
       "A": "Bağlam değerlendirmesi",
       "B": "Kaynak değerlendirmesi",
-      "C": "Girdi değerlendirmesi",
-      "D": "Ürün değerlendirmesi",
+      "C": "Ürün değerlendirmesi",
+      "D": "Girdi değerlendirmesi",
       "E": "Süreç değerlendirmesi"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "CIPP modelinde ürün değerlendirmesi, programın sonuçlarını ve amaçlara ulaşma düzeyini inceler; sürdürme, değiştirme veya sonlandırma kararına temel oluşturur.",
     "source": {
       "kind": "generated",
@@ -581,12 +581,12 @@
     "stem": "Bir lisede bilgiler fizik, kimya, biyoloji, matematik ve tarih gibi birbirinden ayrı derslere bölünmüş; her ders kendi içeriğine, kendi öğretmenine ve kendi sınav sistemine sahiptir. Dersler arasındaki bağlantı ayrıca kurulmamaktadır. Öğretmenler farklı alanlardan oldukları için ders planlarını birbirinden bağımsız hazırlamaktadır.\n\nBu program tasarımı aşağıdakilerden hangisidir?",
     "options": {
       "A": "İlişkilendirilmiş program",
-      "B": "Geniş alanlar programı",
-      "C": "Konu merkezli program",
+      "B": "Konu merkezli program",
+      "C": "Geniş alanlar programı",
       "D": "Öğrenci merkezli program",
       "E": "Çekirdek program"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Konu merkezli programda bilgi disiplinlere ayrılır ve her ders ayrı ayrı öğretilir.",
     "source": {
       "kind": "generated",
@@ -606,10 +606,10 @@
       "A": "Çekirdek program",
       "B": "Konu merkezli program",
       "C": "Öğrenci merkezli program",
-      "D": "İlişkilendirilmiş program",
-      "E": "Geniş alanlar programı"
+      "D": "Geniş alanlar programı",
+      "E": "İlişkilendirilmiş program"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "İlişkilendirilmiş programda dersler ayrı kalır, ancak aralarındaki ilgili konular eşzamanlı ve bağlantılı olarak işlenir.",
     "source": {
       "kind": "generated",
@@ -649,13 +649,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir okulda “çevre kirliliği” gibi günlük yaşamdan ve toplumsal sorunlardan seçilen bir sorun etrafında fen, matematik, sosyal bilgiler ve Türkçe konuları birleştirilmiş; öğrenciler sorunun nedenlerini ve çözümlerini araştırarak ihtiyaç duydukça bu derslerin bilgilerini kullanmaktadır. Öğretmenler ortak bir çalışma takvimi hazırlamış, ders saatlerini birbirine bağlayarak proje süresince birlikte hareket etmiştir.\n\nBu program tasarımı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Çekirdek program",
-      "B": "Konu merkezli program",
-      "C": "İlişkilendirilmiş program",
-      "D": "Geniş alanlar programı",
-      "E": "Sarmal program"
+      "A": "Konu merkezli program",
+      "B": "İlişkilendirilmiş program",
+      "C": "Geniş alanlar programı",
+      "D": "Sarmal program",
+      "E": "Çekirdek program"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Çekirdek programda dersler, ortak yaşam sorunları veya toplumsal problemler çevresinde birleştirilerek öğretilir.",
     "source": {
       "kind": "generated",
@@ -673,12 +673,12 @@
     "stem": "Bir ilkokul öğretmeni, yıllık planı hazırlarken öğrencilerin ilgi ve ihtiyaçlarını esas almış; öğrencilerin seçtiği konular, onların sorduğu sorular ve doğrudan yaşadıkları deneyimler programın merkezinde yer almıştır. Öğretmen yalnızca rehberlik etmektedir. Öğretmen konuları ve etkinlikleri öğrencilerle birlikte seçmekte, plan sınıfın ihtiyacına göre sürekli değişmektedir.\n\nBu program tasarımı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Çekirdek program",
-      "B": "İlişkilendirilmiş program",
-      "C": "Konu merkezli program",
-      "D": "Geniş alanlar programı",
-      "E": "Öğrenci merkezli program"
+      "B": "Öğrenci merkezli program",
+      "C": "İlişkilendirilmiş program",
+      "D": "Konu merkezli program",
+      "E": "Geniş alanlar programı"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Öğrenci merkezli programda öğrencinin ilgi, ihtiyaç ve yaşantıları programın temel çıkış noktasıdır; öğretmen rehberdir.",
     "source": {
       "kind": "generated",
@@ -695,13 +695,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir okulun matematik programında “kesir” kavramı 2. sınıfta somut nesnelerle, 4. sınıfta sayı doğrusuyla, 6. sınıfta işlemlerle, 8. sınıfta cebirsel ifadelerle yeniden ele alınmakta; her seferinde kavramın kapsamı ve derinliği artırılmaktadır. Program, öğrencilerin önceki yıllarda öğrendiklerini unutmamasını ve bilgilerini derinleştirmesini hedeflemektedir.\n\nBu düzenleme aşağıdaki yaklaşımlardan hangisidir?",
     "options": {
-      "A": "Sarmal program",
-      "B": "Geniş alanlar programı",
-      "C": "Konu merkezli program",
-      "D": "Çekirdek program",
+      "A": "Geniş alanlar programı",
+      "B": "Konu merkezli program",
+      "C": "Çekirdek program",
+      "D": "Sarmal program",
       "E": "Doğrusal program"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Bruner'ın sarmal programı, aynı temel kavramların farklı düzeylerde, giderek artan derinlik ve karmaşıklıkta yeniden ele alınmasıdır.",
     "source": {
       "kind": "generated",
@@ -743,11 +743,11 @@
     "options": {
       "A": "Kapsam",
       "B": "Ardışıklık",
-      "C": "Süreklilik",
-      "D": "Denge",
+      "C": "Denge",
+      "D": "Süreklilik",
       "E": "Bütünlük"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Süreklilik, belirli bir kavram, ilke veya becerinin program boyunca tekrarlanarak vurgulanmasıdır.",
     "source": {
       "kind": "generated",
@@ -765,12 +765,12 @@
     "stem": "Bir okul, Türkçe programında okuma, yazma, dinleme ve konuşma becerilerinin her birine ne kadar yer verileceğini, hangi dil bilgisi konularının hangi sınıf düzeyinde ne kadar derinlikte öğretileceğini ayrıntılı biçimde belirlemiştir. Bu karar, program komisyonunun hazırladığı çerçeve belgesiyle bütün sınıf düzeylerine duyurulmuştur.\n\nBu düzenleme ilkesi aşağıdakilerden hangisidir?",
     "options": {
       "A": "Bütünlük",
-      "B": "Süreklilik",
-      "C": "Ardışıklık",
-      "D": "Kapsam",
+      "B": "Kapsam",
+      "C": "Süreklilik",
+      "D": "Ardışıklık",
       "E": "Sarmallık"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Kapsam, programın içerdiği konuların genişliğini ve derinliğini, yani neyin ne kadar öğretileceğini belirler.",
     "source": {
       "kind": "generated",
@@ -811,12 +811,12 @@
     "stem": "Bir ortaokul programında fen, matematik, sosyal bilgiler, sanat ve beden eğitimi derslerine haftalık toplam ders saati içinde birbirine yakın ağırlıklar verilmiş; hiçbir alan öteki alanlar aleyhine fazla yer kaplamamaktadır. Bu dağılım, her öğrencinin kendi yeteneklerini geliştirebileceği bir ortam yaratmak amacıyla yapılmıştır.\n\nBu düzenleme ilkesi aşağıdakilerden hangisidir?",
     "options": {
       "A": "Bütünlük",
-      "B": "Denge",
-      "C": "Ardışıklık",
-      "D": "Kapsam",
+      "B": "Ardışıklık",
+      "C": "Kapsam",
+      "D": "Denge",
       "E": "Süreklilik"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Denge ilkesi, program alanlarına (bilgi, beceri, tutum; farklı dersler) orantılı ağırlık verilmesidir.",
     "source": {
       "kind": "generated",
@@ -834,12 +834,12 @@
     "stem": "Bir okulun program geliştirme komisyonu, dokuzuncu sınıf fizik dersi ile dokuzuncu sınıf kimya dersinde ortak kavramlar olan “enerji” ve “madde” konularını aynı hafta içinde işlenecek şekilde planlamış ve öğretmenlere ortak ders örneği hazırlatmıştır. Böylece öğrenciler iki derste aynı kavramı bir bütün olarak öğrenebilmektedir.\n\nKomisyonun yaptığı bu düzenleme programın hangi boyutuyla ilgilidir?",
     "options": {
       "A": "Dikey düzenleme",
-      "B": "Mantıksal düzenleme",
-      "C": "Doğrusal düzenleme",
-      "D": "Sarmal düzenleme",
-      "E": "Yatay düzenleme"
+      "B": "Yatay düzenleme",
+      "C": "Mantıksal düzenleme",
+      "D": "Doğrusal düzenleme",
+      "E": "Sarmal düzenleme"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Yatay düzenleme, aynı düzeydeki farklı derslerin içerik ve etkinliklerinin eşgüdümüdür; dikey düzenleme ise aynı alandaki konuların sınıf düzeyleri boyunca sıralanmasıdır.",
     "source": {
       "kind": "generated",
@@ -856,13 +856,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Fen bilgisi öğretmeni Selçuk Bey, ünite sonunda öğrencilerden hücre organellerinin adlarını, görevlerini ve konumlarını ezberlediği biçimiyle yazmalarını istemiştir. Sorular yalnızca öğrencinin öğrendiği bilgiyi olduğu gibi hatırlayıp hatırlamadığını yoklamaktadır. Bu sorulara öğrenciler cevaplarını kısa ve net olarak kâğıda yazmıştır.\n\nBu soruların ölçtüğü basamak Bloom'un (1956) bilişsel alan taksonomisinde aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Bilgi",
-      "B": "Sentez",
+      "A": "Sentez",
+      "B": "Bilgi",
       "C": "Analiz",
       "D": "Kavrama",
       "E": "Uygulama"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Bilgi basamağı, daha önce öğrenilen bilginin olduğu gibi hatırlanmasıdır; ezber, tanım ve kavram adları bu düzeye girer.",
     "source": {
       "kind": "generated",
@@ -879,13 +879,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Matematik öğretmeni Ayla Hanım, öğrencilerden daha önce öğrendikleri yüzde hesaplama kuralını daha önce görmedikleri bir indirim problemi üzerinde kullanmalarını istemiştir. Öğrenciler bilinen kuralı yeni bir duruma aktarıp problemi çözmektedir. Öğrenciler problemi çözerken kural dışında yeni bir yöntem geliştirmemiş, bilinen kuralı doğrudan kullanmıştır.\n\nBu soru Bloom'un (1956) bilişsel alan taksonomisinde hangi basamağı ölçer?",
     "options": {
-      "A": "Uygulama",
-      "B": "Analiz",
-      "C": "Kavrama",
-      "D": "Değerlendirme",
+      "A": "Analiz",
+      "B": "Kavrama",
+      "C": "Değerlendirme",
+      "D": "Uygulama",
       "E": "Sentez"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Uygulama basamağı, öğrenilen kural, ilke ve yöntemlerin yeni ve somut durumlarda kullanılmasıdır.",
     "source": {
       "kind": "generated",
@@ -902,13 +902,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Tarih öğretmeni Orhan Bey, öğrencilere iki farklı kaynaktaki olay anlatımını vermiş; öğrencilerden bu iki anlatımı karşılaştırmalarını, aralarındaki farkları ve benzerlikleri bulmalarını ve bu farkların olası nedenlerini açıklamalarını istemiştir. Öğrenciler karşılaştırmalarını tablo hâlinde göstermiş ve sonuçlarını sınıfta paylaşmıştır.\n\nBu soru Bloom'un (1956) bilişsel alan taksonomisinde hangi basamağı ölçer?",
     "options": {
-      "A": "Uygulama",
-      "B": "Bilgi",
-      "C": "Analiz",
+      "A": "Analiz",
+      "B": "Uygulama",
+      "C": "Bilgi",
       "D": "Değerlendirme",
       "E": "Sentez"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Analiz basamağı, bütünü parçalarına ayırma, parçalar arasındaki ilişkileri ve örgütlenme ilkelerini bulma becerisidir.",
     "source": {
       "kind": "generated",
@@ -927,11 +927,11 @@
     "options": {
       "A": "Kavrama",
       "B": "Uygulama",
-      "C": "Sentez",
-      "D": "Analiz",
-      "E": "Değerlendirme"
+      "C": "Analiz",
+      "D": "Değerlendirme",
+      "E": "Sentez"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Sentez basamağı, parçaları birleştirerek yeni ve özgün bir bütün (ürün, plan, çözüm) oluşturma becerisidir; revize taksonomide yaratma olarak adlandırılır.",
     "source": {
       "kind": "generated",
@@ -973,11 +973,11 @@
     "options": {
       "A": "Psikomotor alan",
       "B": "Sosyal alan",
-      "C": "Duyuşsal alan",
-      "D": "Estetik alan",
+      "C": "Estetik alan",
+      "D": "Duyuşsal alan",
       "E": "Bilişsel alan"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Duyuşsal alan hedefleri; ilgi, tutum, değer, duygu ve inanç gibi, bilgiden çok bireyin duygusal yönelimlerini kapsayan hedeflerdir.",
     "source": {
       "kind": "generated",
@@ -996,11 +996,11 @@
     "options": {
       "A": "Alma ve dikkat etme",
       "B": "Değerleri örgütleme",
-      "C": "Kişilik haline getirme",
-      "D": "Değer verme ve benimseme",
-      "E": "Tepkide bulunma ve katılma"
+      "C": "Değer verme ve benimseme",
+      "D": "Tepkide bulunma ve katılma",
+      "E": "Kişilik haline getirme"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Duyuşsal alanın en üst basamağı olan kişilik hâline getirmede değer, bireyin yaşam biçimini ve kişiliğini şekillendirir.",
     "source": {
       "kind": "generated",
@@ -1019,11 +1019,11 @@
     "options": {
       "A": "Genel hedefler",
       "B": "Bilişsel hedefler",
-      "C": "Özel hedefler",
-      "D": "İfade edici hedefler",
+      "C": "İfade edici hedefler",
+      "D": "Özel hedefler",
       "E": "Davranışsal hedefler"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Eisner'a göre ifade edici hedefler, öğrenci için karşılaşılacak yaşantıyı belirler ancak sonucu önceden kesin olarak tanımlamaz; davranışsal hedefler ise ölçülebilir sonucu belirtir.",
     "source": {
       "kind": "generated",
@@ -1041,12 +1041,12 @@
     "stem": "Bir il millî eğitim müdürlüğü, yeni programın uygulanması sürerken öğretmenlerden dönüt toplamakta, programın aksayan yönlerini belirleyip uygulama sırasında düzeltmeler yapmaktadır. Amaç, program tamamlanmadan önce programı geliştirmektir. Müdürlük yaptığı değişiklikleri ilgili okullara bir sonraki ayda duyurmaktadır.\n\nBu değerlendirme türü aşağıdakilerden hangisidir?",
     "options": {
       "A": "Tanılayıcı program değerlendirmesi",
-      "B": "Amaçtan bağımsız program değerlendirmesi",
-      "C": "Toplam program değerlendirmesi",
-      "D": "Yönlendirici program değerlendirmesi",
-      "E": "Biçimlendirici program değerlendirmesi"
+      "B": "Biçimlendirici program değerlendirmesi",
+      "C": "Amaçtan bağımsız program değerlendirmesi",
+      "D": "Toplam program değerlendirmesi",
+      "E": "Yönlendirici program değerlendirmesi"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Biçimlendirici program değerlendirmesi, program geliştirilirken veya uygulanırken yapılan, programı iyileştirmeye yönelik değerlendirmedir; toplam değerlendirme ise programın sonunda genel yargıya varır.",
     "source": {
       "kind": "generated",
@@ -1065,11 +1065,11 @@
     "options": {
       "A": "Toplam değerlendirme",
       "B": "CIPP değerlendirmesi",
-      "C": "Amaçtan bağımsız değerlendirme",
-      "D": "Biçimlendirici değerlendirme",
-      "E": "Tyler değerlendirmesi"
+      "C": "Biçimlendirici değerlendirme",
+      "D": "Tyler değerlendirmesi",
+      "E": "Amaçtan bağımsız değerlendirme"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Scriven'in amaçtan bağımsız (goal-free) değerlendirmesinde değerlendirici, programın amaçlarına bakmaksızın gerçek etkilerini, planlanmayan sonuçlar da dahil, inceler.",
     "source": {
       "kind": "generated",
@@ -1086,13 +1086,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir ülke yeni bir fen programını geliştirmeden önce okullardaki öğrenme düzeylerini, öğretmenlerin hizmet içi eğitim ihtiyaçlarını ve öğrenci başarısı üzerindeki sorunları incelemiş; bu bulgulara dayanarak programın hangi alanlarda yenilenmesi gerektiğini belirlemiştir. Çalışma sonuçları, program geliştirme komisyonuna bir rapor olarak iletilmiştir.\n\nBu çalışma program geliştirme sürecinin hangi basamağıdır?",
     "options": {
-      "A": "Program uygulama",
-      "B": "Program uyarlama",
-      "C": "İhtiyaç analizi",
+      "A": "İhtiyaç analizi",
+      "B": "Program uygulama",
+      "C": "Program uyarlama",
       "D": "Program değerlendirme",
       "E": "Program izleme"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Program geliştirmede ihtiyaç analizi, mevcut durumu ve eksiklikleri belirleyerek programın hangi doğrultuda geliştirileceğine dair veri sağlar.",
     "source": {
       "kind": "generated",
@@ -1110,12 +1110,12 @@
     "stem": "Bir okulda program geliştirme çalışmalarına katılan öğretmenler, çalışmanın ilk adımı olarak öğrencilerin, velilerin ve toplumun eğitimden beklentilerini; mevcut programın eksiklerini ve sınıflardaki sorunları anket ve görüşmelerle araştırmış, bu veriler üzerine çalışmanın temelini kurmuşlardır.\n\nBu çalışma Taba modelinde programın geliştirilmesinin hangi basamağıdır?",
     "options": {
       "A": "Değerlendirme",
-      "B": "İhtiyaçların belirlenmesi",
-      "C": "Öğrenme yaşantılarının seçilmesi",
+      "B": "Öğrenme yaşantılarının seçilmesi",
+      "C": "İhtiyaçların belirlenmesi",
       "D": "İçeriğin seçilmesi",
       "E": "Amaçların belirlenmesi"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Taba modelinin yedi basamağı sırasıyla ihtiyaçların belirlenmesi, amaçların belirlenmesi, içeriğin seçilmesi ve düzenlenmesi, öğrenme yaşantılarının seçilmesi ve düzenlenmesi ile değerlendirmedir; süreç ihtiyaçların belirlenmesiyle başlar.",
     "source": {
       "kind": "generated",
@@ -1132,13 +1132,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Bir il millî eğitim müdürlüğü, başka bir ülkede başarılı olan fen programını olduğu gibi kullanmak yerine, ilin öğrenci düzeyine, okul olanaklarına ve yerel ihtiyaçlarına uygun olarak içeriği ve etkinlikleri değiştirerek kendi koşullarına göre yeniden düzenlemiştir.\n\nMüdürlüğün yaptığı bu çalışma aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Program değerlendirme",
-      "B": "Program izleme",
-      "C": "Program tasarımı",
-      "D": "Program uyarlama",
+      "A": "Program uyarlama",
+      "B": "Program değerlendirme",
+      "C": "Program izleme",
+      "D": "Program tasarımı",
       "E": "Program uygulama"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Program uyarlama, var olan bir programın farklı bir ortam, düzey veya ihtiyaçlara göre değiştirilerek yeniden düzenlenmesidir.",
     "source": {
       "kind": "generated",
@@ -1156,12 +1156,12 @@
     "stem": "Türkçe öğretmeni Gülden Hanım, öğrencilerden okudukları öykünün ana düşüncesini ve olay örgüsünü kendi cümleleriyle özetlemelerini ve öykünün neden böyle bittiğini açıklamalarını istemiştir. Öğrenciler yeni bir durum bulmak ya da bilgiyi parçalarına ayırmak zorunda değildir.\n\nBu etkinlik Bloom'un (1956) bilişsel alan taksonomisinde hangi basamağı ölçer?",
     "options": {
       "A": "Sentez",
-      "B": "Kavrama",
-      "C": "Bilgi",
+      "B": "Bilgi",
+      "C": "Kavrama",
       "D": "Analiz",
       "E": "Uygulama"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Kavrama basamağı, öğrenilen bilginin anlamının kavranması, kendi sözcükleriyle ifade edilmesi, özetlenmesi ve yorumlanmasıdır.",
     "source": {
       "kind": "generated",
@@ -1227,10 +1227,10 @@
       "A": "Değerleri örgütleme",
       "B": "Alma ve dikkat etme",
       "C": "Tepkide bulunma ve katılma",
-      "D": "Değer verme ve benimseme",
-      "E": "Kişilik haline getirme"
+      "D": "Kişilik haline getirme",
+      "E": "Değer verme ve benimseme"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Değer verme basamağında birey bir nesne, olay veya davranışa değer atfeder, bu değeri tutarlı biçimde benimser ve savunur; örgütleme ise değerlerin sistem hâlinde düzenlenmesidir.",
     "source": {
       "kind": "generated",
@@ -1248,12 +1248,12 @@
     "stem": "Bir okulun yönetici ve öğretmenleri, resmî programda hiçbir yere yazılmamış olmasına rağmen öğrencilere sürekli “Başarının tek yolu rekabet etmektir” mesajını veren ödül ve sıralama uygulamalarını yıllardır sürdürmektedir. Öğrenciler zamanla işbirliği yerine bireysel rekabeti benimsemiştir.\n\nBu etki program türlerinden hangisiyle açıklanır?",
     "options": {
       "A": "Eş-program",
-      "B": "Örtük program",
-      "C": "Boş program",
+      "B": "Boş program",
+      "C": "Örtük program",
       "D": "Çekirdek program",
       "E": "Açık program"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Örtük program, yazılı olmadığı hâlde okul uygulamaları, ödül-ceza sistemleri ve ilişkiler aracılığıyla öğrencilere kazandırılan tutum ve değerleri kapsar.",
     "source": {
       "kind": "generated",
@@ -1270,13 +1270,13 @@
     "konu": "program_okuryazarligi",
     "stem": "Anderson ve Krathwohl'un revize ettiği bilişsel alan taksonomisinde, Bloom'un sentez basamağının yerini alan ve en üst düzeyde yer alan basamak aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Yaratma",
-      "B": "Hatırlama",
-      "C": "Çözümleme",
-      "D": "Anlama",
+      "A": "Hatırlama",
+      "B": "Çözümleme",
+      "C": "Anlama",
+      "D": "Yaratma",
       "E": "Uygulama"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Revize taksonomide basamaklar hatırlama, anlama, uygulama, çözümleme, değerlendirme ve yaratmadır; sentez basamağının yerini yaratma almıştır.",
     "source": {
       "kind": "generated",
@@ -1388,10 +1388,10 @@
       "A": "Çekirdek program",
       "B": "Öğrenci merkezli program",
       "C": "Bütünleştirilmiş program",
-      "D": "Konu (disiplin) merkezli program",
-      "E": "Problem merkezli program"
+      "D": "Problem merkezli program",
+      "E": "Konu (disiplin) merkezli program"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Bilgiyi disiplin sınırları içinde ayrı derslere bölerek düzenleyen programlar konu (disiplin) merkezli programdır.",
     "source": {
       "kind": "generated",
@@ -1432,12 +1432,12 @@
     "stem": "Öğretmen Merve Hanım, öğrencileriyle birlikte okul bahçesindeki çevre kirliliği sorununu seçmiş; öğrenciler sorunu araştırıp nedenlerini belirlemiş, çözüm önerileri geliştirmiş ve belediyeye sunum yapmıştır. Dersin içeriği, ders kitabındaki konulardan çok toplumda yaşanan gerçek bir soruna göre şekillenmiştir.\n\nBu çalışma hangi program türüne uygundur?",
     "options": {
       "A": "Konu merkezli program",
-      "B": "Gizli program",
-      "C": "Sarmal program",
-      "D": "Çekirdek program",
-      "E": "Problem merkezli program"
+      "B": "Problem merkezli program",
+      "C": "Gizli program",
+      "D": "Sarmal program",
+      "E": "Çekirdek program"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "İçeriğin disiplin konularından çok bireyin ve toplumun gerçek sorunları çevresinde düzenlendiği programlar problem merkezli programdır.",
     "source": {
       "kind": "generated",
@@ -1455,12 +1455,12 @@
     "stem": "İlkokuldan liseye uzanan matematik programında “olasılık” konusu, ilkokulda gündelik örneklerle, ortaokulda deneysel çalışmalarla, lisede ise formüller ve ispatlarla yeniden ele alınmakta; her düzeyde aynı konuya dönülmekte ancak derinlik ve soyutluk düzeyi artırılmaktadır. Programın her düzeyinde konu aynı adla anılmaktadır.\n\nBu düzenleme hangi program ilkesine dayanır?",
     "options": {
       "A": "Modüler düzenleme",
-      "B": "Sarmal (spiral) düzenleme",
-      "C": "Çekirdek düzenleme",
+      "B": "Çekirdek düzenleme",
+      "C": "Sarmal (spiral) düzenleme",
       "D": "Konu merkezli düzenleme",
       "E": "Doğrusal (lineer) düzenleme"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Aynı konunun üst düzeylerde artan derinlik ve karmaşıklıkla yeniden ele alınması sarmal (spiral) program düzenlemesidir (Bruner).",
     "source": {
       "kind": "generated",
@@ -1492,6 +1492,98 @@
     },
     "validYear": 2026,
     "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-prg-066",
+    "ders": "egitim_bilimleri",
+    "konu": "program_okuryazarligi",
+    "stem": "Tarıma dayalı bir ilçedeki ortaokul, öğretmenlerin, velilerin ve yerel kurumların katılımıyla bölgenin ihtiyaçlarını belirlemiş ve bu ihtiyaçlara göre “Bölgemizde Tarım ve Çevre” adlı bir seçmeli ders programı geliştirmiştir. Program, okulun olanaklarına ve öğrencilerin ilgilerine göre uygulanmaktadır.\n\nBu çalışma aşağıdakilerden hangisine örnektir?",
+    "options": {
+      "A": "Çekirdek program",
+      "B": "Merkeziyetçi program geliştirme",
+      "C": "Konu merkezli program",
+      "D": "Okul temelli program geliştirme",
+      "E": "Gizli program"
+    },
+    "answer": "D",
+    "solution": "Okul temelli program geliştirmede program, okulun ve çevrenin ihtiyaçlarına göre okuldaki öğretmen, veli ve yerel paydaşların katılımıyla geliştirilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Okul temelli program geliştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-prg-067",
+    "ders": "egitim_bilimleri",
+    "konu": "program_okuryazarligi",
+    "stem": "Bir okuldaki öğretmenler, önce öğrencilerin ve toplumun ihtiyaçlarını belirlemiş, ardından küçük birim denemeleri geliştirip sınıflarında uygulamış, sonuçlara göre birimleri düzenlemiştir. En son deneme sonuçlarından hareketle bütün programı oluşturmuşlardır. Program geliştirme çalışması öğretmenlerin içinde yer aldığı tabandan yukarıya doğru ilerlemiştir.\n\nBu çalışmada izlenen model aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tyler modeli",
+      "B": "Saylor-Alexander modeli",
+      "C": "Taba modeli",
+      "D": "Oliva modeli",
+      "E": "Wheeler modeli"
+    },
+    "answer": "C",
+    "solution": "Hilda Taba, program geliştirmede öğretmenlerin sürece katıldığı, önce birimlerin denenip sonra genel programın oluşturulduğu tabandan tavana bir yaklaşım önermiştir; Tyler modeli ise yukarıdan aşağı doğrusal bir modeldir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Program geliştirme: Taba modeli"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-prg-068",
+    "ders": "egitim_bilimleri",
+    "konu": "program_okuryazarligi",
+    "stem": "Bir eğitim değerlendirme ekibi, yeni bir okuma programını değerlendirirken önce programın okulun ve öğrencilerin ihtiyaçlarına uygun olup olmadığını, sonra program için ayrılan kaynak ve personelin yeterliliğini, ardından uygulama sürecindeki aksaklıkları ve son olarak öğrencilerin ulaştığı sonuçları incelemiştir.\n\nEkibin kullandığı program değerlendirme modeli aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Stake'in yüz modeli",
+      "B": "Tyler'ın hedefe dayalı modeli",
+      "C": "Eisner'in eleştirel modeli",
+      "D": "Scriven'in hedeften bağımsız modeli",
+      "E": "Stufflebeam'in CIPP modeli"
+    },
+    "answer": "E",
+    "solution": "CIPP modeli programı bağlam, girdi, süreç ve ürün olmak üzere dört boyutta değerlendirir ve karar vericilere bilgi sağlamayı amaçlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Program değerlendirme: CIPP"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-prg-069",
+    "ders": "egitim_bilimleri",
+    "konu": "program_okuryazarligi",
+    "stem": "Bir lisede okul müdürü, öğrencilerin medya okuryazarlığı ve sanat eğitimi konularında bilgi ve becerilerinin yetersiz olduğunu görmüştür. İnceleme sonucunda bu alanların hiçbir dersin içeriğinde yer almadığı, yani okulda hiç öğretilmediği anlaşılmıştır. Müdür, bu eksikliğin öğrencilere zarar verdiğini düşünmektedir.\n\nBu durum Eisner'e göre hangi program türüne örnektir?",
+    "options": {
+      "A": "Ders dışı etkinlik programı",
+      "B": "Ortak program",
+      "C": "Boş (null) program",
+      "D": "Gizli program",
+      "E": "Açık (resmî) program"
+    },
+    "answer": "C",
+    "solution": "Eisner'e göre boş (null) program, okulda hiç öğretilmeyen ya da dışarıda bırakılan içeriktir; bu eksiklik de öğrencilerin düşünme ve seçenekleri sınırlayabilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Eisner: açık, örtük ve boş program"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
     "mockExamId": null
   }
 ]

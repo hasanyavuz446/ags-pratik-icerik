@@ -6,12 +6,12 @@
     "stem": "Sosyal bilgiler öğretmeni Cemal Bey, ders sırasında konuşan Ali'yi sakin ama kararlı bir tavırla uyarmıştır. Ali'yi uyardığı anda, konuşmakta olan diğer öğrenciler de sustu ve toparlandı; üstelik henüz uyarılmamış olan öğrencilerin dikkati de derse döndü.\n\nBu durum Kounin'in hangi kavramıyla açıklanır?",
     "options": {
       "A": "Her yerde olma",
-      "B": "Çakışma",
-      "C": "Doygunluk",
-      "D": "Dalgalanma etkisi",
+      "B": "Dalgalanma etkisi",
+      "C": "Çakışma",
+      "D": "Doygunluk",
       "E": "Grup uyarma"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Kounin'e göre bir öğrencinin davranışına yapılan müdahale, doğrudan müdahale edilmeyen diğer öğrencilerin davranışlarını da etkiler; buna dalgalanma etkisi denir.",
     "source": {
       "kind": "generated",
@@ -28,13 +28,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Edebiyat öğretmeni Hülya Hanım, tahtaya yazı yazarken sınıfa arkasını dönmüş olmasına rağmen arka sıradaki Murat'ın kâğıt fırlatan arkadaşını doğru tespit etmiş ve tam zamanında uyarmıştır. Öğrenciler öğretmenin sınıfta olup biten her şeyin farkında olduğunu düşünmektedir.\n\nHülya Hanım'ın bu özelliği Kounin'in hangi kavramıyla ifade edilir?",
     "options": {
-      "A": "Her yerde olma",
-      "B": "Dalgalanma etkisi",
-      "C": "Akıcılık",
-      "D": "Çakışma",
-      "E": "Doygunluk"
+      "A": "Dalgalanma etkisi",
+      "B": "Akıcılık",
+      "C": "Çakışma",
+      "D": "Doygunluk",
+      "E": "Her yerde olma"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Her yerde olma (withitness), öğretmenin sınıfta olup biteni sürekli fark ettiğini öğrencilere hissettirmesi ve doğru öğrenciye zamanında müdahale etmesidir.",
     "source": {
       "kind": "generated",
@@ -51,13 +51,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Fen bilgisi öğretmeni Selim Bey, bir grup öğrenciye deney düzeneğinin nasıl kurulacağını anlatırken diğer masada oyalanmaya başlayan öğrencileri fark etmiş, anlatmayı kesmeden o masaya doğru bakıp kısa bir işaretle uyarmış ve anlatımına aynı anda devam etmiştir.\n\nSelim Bey'in bu davranışı Kounin'in hangi kavramına örnektir?",
     "options": {
-      "A": "Dalgalanma etkisi",
-      "B": "Doygunluk",
-      "C": "Grup uyarma",
-      "D": "Her yerde olma",
-      "E": "Çakışma"
+      "A": "Çakışma",
+      "B": "Dalgalanma etkisi",
+      "C": "Doygunluk",
+      "D": "Grup uyarma",
+      "E": "Her yerde olma"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Çakışmada (overlapping) öğretmen, bir etkinlikle ilgilenirken aynı anda başka bir davranışı fark edip ana etkinliği bölmeden müdahale eder.",
     "source": {
       "kind": "generated",
@@ -74,13 +74,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Matematik öğretmeni Tuğba Hanım, bir etkinlikten diğerine geçerken öğrencileri bekletmemekte, gereksiz ayrıntılarla zaman kaybetmemekte ve derse hızlı, kesintisiz bir tempo kazandırmaktadır. Öğrenciler hangi etkinliğin ne zaman biteceğini bilmekte, geçişlerde dağılmamaktadır. Sınıf, bu tempo sayesinde dersin sonunda planlanan tüm etkinlikleri tamamlamaktadır.\n\nTuğba Hanım'ın bu uygulaması Kounin'in hangi kavramlarıyla ilişkilidir?",
     "options": {
-      "A": "Doygunluk",
-      "B": "Grup uyarma",
-      "C": "Çakışma",
-      "D": "Akıcılık ve süreklilik",
+      "A": "Akıcılık ve süreklilik",
+      "B": "Doygunluk",
+      "C": "Grup uyarma",
+      "D": "Çakışma",
       "E": "Dalgalanma etkisi"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Kounin'e göre derste kesintisiz akış, etkinlikler arasında yumuşak geçiş ve tempo (momentum) sağlamak, davranış sorunlarını önlemenin önemli koşuludur.",
     "source": {
       "kind": "generated",
@@ -99,11 +99,11 @@
     "options": {
       "A": "Her yerde olma",
       "B": "Dalgalanma etkisi",
-      "C": "Grup uyarma",
-      "D": "Çakışma",
-      "E": "Doygunluk"
+      "C": "Çakışma",
+      "D": "Doygunluk",
+      "E": "Grup uyarma"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Grup uyarma (group alerting), öğretmenin tüm sınıfın dikkatini canlı tutması, öğrencilerin her an soru sorulabileceğini bilerek hazır beklemesini sağlamasıdır.",
     "source": {
       "kind": "generated",
@@ -121,12 +121,12 @@
     "stem": "Matematik öğretmeni Orhan Bey, öğrencilere aynı tür çarpma problemlerini bir saat boyunca aralıksız çözdürmüştür. Dersin ikinci yarısında öğrencilerin sıkıldığı, dikkatlerinin dağıldığı, bir kısmının konuşmaya ve oyalanmaya başladığı görülmüştür. Öğretmen etkinliği değiştirmeyi ve konuya çeşitlilik katmayı düşünmemiştir. Öğrencilerin yarısı zamanla tahtaya bakmayı bırakmıştır.\n\nBu durum Kounin'in hangi kavramıyla açıklanır?",
     "options": {
       "A": "Grup uyarma",
-      "B": "Doygunluk",
-      "C": "Her yerde olma",
-      "D": "Çakışma",
-      "E": "Dalgalanma etkisi"
+      "B": "Her yerde olma",
+      "C": "Çakışma",
+      "D": "Dalgalanma etkisi",
+      "E": "Doygunluk"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Doygunluk, aynı etkinliğin çok uzun sürdürülmesi nedeniyle öğrencilerin sıkılması ve ilgisini kaybetmesidir; çeşitlilik ve ilerleme hissi bu sorunu önler.",
     "source": {
       "kind": "generated",
@@ -146,10 +146,10 @@
       "A": "Demokratik disiplin",
       "B": "Gerçeklik terapisi",
       "C": "Öğretmen etkinlik eğitimi",
-      "D": "Uyumlu iletişim",
-      "E": "Atılgan (kararlı) disiplin"
+      "D": "Atılgan (kararlı) disiplin",
+      "E": "Uyumlu iletişim"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Canter'in atılgan disiplin modelinde öğretmen, kuralları ve sonuçlarını açıkça belirler ve kararlılıkla uygular; öğretmen de öğrenci de haklara sahiptir.",
     "source": {
       "kind": "generated",
@@ -168,11 +168,11 @@
     "options": {
       "A": "Ginott",
       "B": "Gordon",
-      "C": "Canter",
-      "D": "Glasser",
-      "E": "Dreikurs"
+      "C": "Glasser",
+      "D": "Dreikurs",
+      "E": "Canter"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Canter'in atılgan disiplin modeli, öğretmenin kendi ihtiyaçlarını açıkça belirtmesi, kuralları net koyması ve sonuçları tutarlı uygulamasına dayanır.",
     "source": {
       "kind": "generated",
@@ -235,13 +235,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Sınıf öğretmeni Rukiye Hanım, her hafta cuma günü ilk ders saatinde bütün öğrencilerin katıldığı bir sınıf toplantısı yapmakta; sınıfın sorunlarını ortaklaşa konuşmakta, çözüm önerilerini öğrencilerle birlikte belirlemekte ve alınan kararları birlikte uygulamaktadır.\n\nRukiye Hanım'ın bu uygulaması hangi model tarafından önerilmiştir?",
     "options": {
-      "A": "Glasser",
-      "B": "Skinner",
+      "A": "Skinner",
+      "B": "Glasser",
       "C": "Canter",
       "D": "Kounin",
       "E": "Gordon"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Glasser, sınıf toplantılarını öğrencilerin sorun çözmeye katılımını ve sorumluluk duygusunu artıran bir araç olarak önerir.",
     "source": {
       "kind": "generated",
@@ -258,13 +258,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Öğretmen Kadir Bey, sınıfta gürültü olduğunda “Hep siz böylesiniz, hiç dinlemiyorsunuz!” demek yerine “Gürültü olunca anlattıklarımı duyamıyorsunuz ve bu beni üzüyor” demektedir. Böylece öğrencinin kişiliğini suçlamadan davranışın kendisi üzerindeki etkisini ifade etmektedir. Öğrencilerden bazıları Kadir Bey'in bu ifadesinden sonra sustuklarını belirtmiştir.\n\nKadir Bey'in bu iletişim biçimi aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Ben dili",
-      "B": "Sen dili",
-      "C": "Yönlendirme",
-      "D": "Yargılama",
+      "A": "Sen dili",
+      "B": "Yönlendirme",
+      "C": "Yargılama",
+      "D": "Ben dili",
       "E": "Aktif dinleme"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Gordon'a göre ben dili; davranışı, bu davranışın öğretmen üzerindeki somut etkisini ve duyguyu yargılamadan ifade eder. Sen dili ise suçlayıcıdır.",
     "source": {
       "kind": "generated",
@@ -283,11 +283,11 @@
     "options": {
       "A": "Öğüt verme",
       "B": "Yönlendirme",
-      "C": "Kayıpsız yöntem",
-      "D": "Ben dili",
-      "E": "Aktif dinleme"
+      "C": "Aktif dinleme",
+      "D": "Kayıpsız yöntem",
+      "E": "Ben dili"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Aktif dinlemede dinleyici, konuşanın duygu ve mesajını kendi sözcükleriyle yansıtarak anladığını gösterir; yargılamaz ve öğüt vermez.",
     "source": {
       "kind": "generated",
@@ -305,12 +305,12 @@
     "stem": "Öğretmen Burcu Hanım, bir öğrencinin ailesindeki sorunlar nedeniyle üzgün olduğunu fark etmiştir. Öğrencinin bu durumu dersi engellememektedir; ancak aynı sınıfta başka bir öğrencinin sürekli konuşması öğretmenin ders anlatmasını engellemektedir. Burcu Hanım ilk durumda dinleyici, ikinci durumda ise sorunu doğrudan ele almaktadır.\n\nBurcu Hanım'ın ayrım yapmasında Gordon'un hangi kavramı rol oynamaktadır?",
     "options": {
       "A": "Kayıpsız yöntem",
-      "B": "Problem sahipliği",
-      "C": "Doygunluk",
-      "D": "Atılgan disiplin",
+      "B": "Doygunluk",
+      "C": "Atılgan disiplin",
+      "D": "Problem sahipliği",
       "E": "Dalgalanma etkisi"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Gordon'a göre problem, kime ait olduğuna göre ayrılır: davranış öğretmenin ihtiyacını engelliyorsa problem öğretmenindir; öğrencinin kendi ihtiyacı etkileniyorsa problem öğrencinindir.",
     "source": {
       "kind": "generated",
@@ -327,13 +327,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Sınıfta sürekli yüksek sesle konuşan öğrencilerle öğretmeni Kemal Bey birlikte oturup sorunu ele almışlar, karşılıklı ihtiyaçlarını paylaşmışlar ve her iki tarafın da kabul edebileceği bir çözüm üretmişlerdir. Çözümde kimse kendini yenilmiş hissetmemiş, kural birlikte belirlenmiştir.\n\nKemal Bey'in uyguladığı bu yöntem aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Kayıpsız yöntem",
-      "B": "Davranış değiştirme",
+      "A": "Davranış değiştirme",
+      "B": "Kayıpsız yöntem",
       "C": "Gerçeklik terapisi",
       "D": "Planlı görmezden gelme",
       "E": "Atılgan disiplin"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Gordon'un kayıpsız yönteminde taraflar ihtiyaçlarını paylaşarak birlikte çözüm üretir ve karar verir; ne öğretmen ne de öğrenci kaybeder.",
     "source": {
       "kind": "generated",
@@ -352,11 +352,11 @@
     "options": {
       "A": "Canter'in atılgan disiplini",
       "B": "Glasser'ın gerçeklik terapisi",
-      "C": "Ginott'un uyumlu iletişim anlayışı",
-      "D": "Kounin'in her yerde olma kavramı",
-      "E": "Skinner'ın davranış değiştirme anlayışı"
+      "C": "Kounin'in her yerde olma kavramı",
+      "D": "Skinner'ın davranış değiştirme anlayışı",
+      "E": "Ginott'un uyumlu iletişim anlayışı"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Ginott'a göre öğretmen, öğrencinin kişiliğini değil davranışını ele alır; etiketleme, alay ve suçlamadan kaçınır ve duygularını uyumlu biçimde ifade eder.",
     "source": {
       "kind": "generated",
@@ -373,13 +373,13 @@
     "konu": "sinif_yonetimi",
     "stem": "İlkokul öğrencisi Berk, ders sırasında sürekli komik sesler çıkarmakta, öğretmen ona baktığında geçici olarak durmakta, ilgi azalınca yeniden başlamaktadır. Öğretmeni onunla konuştuğunda, görmezden gelindiğinde ya da uyarıldığında davranışı geçici olarak değişmektedir. Berk bu davranışı özellikle öğretmen başka bir öğrenciyle ilgilenirken sergilemektedir.\n\nDreikurs'a göre Berk'in yanlış davranışının amacı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "İntikam alma",
-      "B": "Dikkat çekme",
+      "A": "Dikkat çekme",
+      "B": "İntikam alma",
       "C": "Bağımsızlık kazanma",
       "D": "Yetersizlik gösterme",
       "E": "Güç mücadelesi"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Dreikurs'a göre çocuğun yanlış davranışının ilk amacı dikkat çekmektir; dikkat gelince davranış geçici durur, sonra yeniden başlar.",
     "source": {
       "kind": "generated",
@@ -420,12 +420,12 @@
     "stem": "Öğretmeni tarafından birçok kez sınıfın önünde aşağılanan Mert, bir gün öğretmenin masasına küfürlü bir not bırakmış, öğretmenin eşyalarına zarar vermiş ve “Bunu hak ettin” demiştir. Davranışlarıyla öğretmeni kırmak ve ona zarar vermek istemektedir.\n\nDreikurs'a göre Mert'in yanlış davranışının amacı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Güç mücadelesi",
-      "B": "İntikam alma",
-      "C": "Bağımsızlık kazanma",
+      "B": "Bağımsızlık kazanma",
+      "C": "İntikam alma",
       "D": "Yetersizlik gösterme",
       "E": "Dikkat çekme"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Dreikurs'a göre güç mücadelesinde de kendini yaralanmış hisseden çocuk, başkalarına zarar vererek intikam almaya çalışır.",
     "source": {
       "kind": "generated",
@@ -445,10 +445,10 @@
       "A": "Güç mücadelesi",
       "B": "İntikam alma",
       "C": "Dikkat çekme",
-      "D": "Bağımsızlık kazanma",
-      "E": "Yetersizlik gösterme"
+      "D": "Yetersizlik gösterme",
+      "E": "Bağımsızlık kazanma"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Dreikurs'a göre diğer amaçlarda başarısız olan ve umudunu yitiren çocuk, yetersizlik göstererek yardım ve beklentiden uzak kalmaya çalışır.",
     "source": {
       "kind": "generated",
@@ -490,11 +490,11 @@
     "options": {
       "A": "Yakınlık kontrolü",
       "B": "Planlı görmezden gelme",
-      "C": "Jeton ekonomisi",
-      "D": "Mola",
-      "E": "Davranış sözleşmesi"
+      "C": "Mola",
+      "D": "Davranış sözleşmesi",
+      "E": "Jeton ekonomisi"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Jeton ekonomisinde istendik davranışlar jetonla pekiştirilir; biriken jetonlar daha sonra gerçek ödüllerle değiştirilir.",
     "source": {
       "kind": "generated",
@@ -512,12 +512,12 @@
     "stem": "Sınıf öğretmeni Gökhan Bey, sınav haftasında öğrencilerin kopya çekmesini önlemek ve herkesin tahtayı görmesini sağlamak amacıyla sıraları sütunlar ve satırlar halinde, hepsi tahtaya bakacak biçimde dizmiştir. Öğrenciler bireysel çalışacak, öğretmen sınıfı tek bakışta kontrol edebilecektir. Bu düzende öğrenciler birbirlerinin yanıtlarını göremez, birbirleriyle konuşmaları da güçleşir.\n\nBu düzen aşağıdakilerden hangisidir?",
     "options": {
       "A": "Yarım daire düzeni",
-      "B": "Sıralı düzen",
-      "C": "Balık kılçığı düzeni",
-      "D": "Küme düzeni",
+      "B": "Balık kılçığı düzeni",
+      "C": "Küme düzeni",
+      "D": "Sıralı düzen",
       "E": "U düzeni"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Sıralı düzende tüm sıralar tahtaya dönüktür; bireysel çalışma ve sınavlar için uygundur ancak grup etkileşimini sınırlar.",
     "source": {
       "kind": "generated",
@@ -534,13 +534,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Fen bilimleri öğretmeni Derya Hanım, öğrencilerin bir araştırma projesinde dörder kişilik gruplar halinde çalışması için sıraları gruplar halinde yan yana getirmiştir. Öğrenciler birbirleriyle yüz yüze konuşabilmekte, malzemeleri paylaşabilmektedir. Öğretmen masaları kullanarak sınıfın ortasında dolaşabileceği geçiş alanları da bırakmıştır. Gruplar etkinlik sırasında birbirini rahatça duyabilmektedir.\n\nBu düzen aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Küme düzeni",
-      "B": "U düzeni",
-      "C": "Yarım daire düzeni",
-      "D": "Sıralı düzen",
-      "E": "Tiyatro düzeni"
+      "A": "U düzeni",
+      "B": "Yarım daire düzeni",
+      "C": "Sıralı düzen",
+      "D": "Tiyatro düzeni",
+      "E": "Küme düzeni"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Küme düzeni, işbirlikli öğrenme ve grup çalışmaları için öğrencilerin birbirleriyle etkileşebileceği biçimde masaların gruplandırılmasıdır.",
     "source": {
       "kind": "generated",
@@ -558,12 +558,12 @@
     "stem": "Edebiyat öğretmeni Ayla Hanım, sınıf tartışmaları sırasında bütün öğrencilerin birbirini görebilmesini, öğretmenin de sınıfın içine girerek her öğrenciye kolayca ulaşabilmesini sağlamak için sıraları “U” harfi biçiminde dizmiştir. Sıralar sınıfın ortasında bir boşluk bırakacak biçimde, tahtanın karşısında açık bir uç kalacak şekilde yerleştirilmiştir. Böylece tahta ve ortak çalışma alanı da herkesin görüş alanında kalmaktadır.\n\nAyla Hanım hangi düzeni uygulamıştır?",
     "options": {
       "A": "Bireysel masa düzeni",
-      "B": "U düzeni",
-      "C": "Küme düzeni",
+      "B": "Küme düzeni",
+      "C": "U düzeni",
       "D": "Yarım daire düzeni",
       "E": "Sıralı düzen"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "U düzeni, öğrencilerin birbirini ve öğretmeni görmesini sağladığı için tartışma, etkileşim ve öğretmenin öğrencilere ulaşması açısından uygundur.",
     "source": {
       "kind": "generated",
@@ -582,11 +582,11 @@
     "options": {
       "A": "Öğretmen-veli iletişimi",
       "B": "Sınıf kurallarının belirlenmesi",
-      "C": "Zaman yönetimi",
-      "D": "Fiziksel ortamın düzenlenmesi",
+      "C": "Fiziksel ortamın düzenlenmesi",
+      "D": "Zaman yönetimi",
       "E": "Sosyometrik değerlendirme"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Sınıf yönetiminin önleyici boyutlarından biri fiziksel ortamın düzenlenmesidir: yerleşim, geçiş alanları, materyallere erişim ve etkinlik köşeleri.",
     "source": {
       "kind": "generated",
@@ -604,12 +604,12 @@
     "stem": "Okul müdürü, bir günlük ders programında Türkçe dersi için 40 dakika ayırmıştır. Ancak derse başlamadan önce yoklama, ödev toplama ve malzeme dağıtımı 10 dakika, ders sonunda toplanma ve çanta hazırlığı 5 dakika sürmüş; öğrenciler gerçekte yaklaşık 25 dakika etkinliğe katılmıştır.\n\nProgramda Türkçe dersi için ayrılan 40 dakika hangi zaman türüdür?",
     "options": {
       "A": "Geçiş ve bekleme zamanı",
-      "B": "Esneklik ve boş zaman",
-      "C": "Akademik öğrenme zamanı",
-      "D": "Kullanılan katılım zamanı",
-      "E": "Ayrılan ders zamanı"
+      "B": "Ayrılan ders zamanı",
+      "C": "Esneklik ve boş zaman",
+      "D": "Akademik öğrenme zamanı",
+      "E": "Kullanılan katılım zamanı"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Ayrılan zaman, ders programında bir derse ayrılan toplam süredir; kullanılan zaman, öğrencilerin etkinliğe fiilen katıldığı süredir.",
     "source": {
       "kind": "generated",
@@ -651,11 +651,11 @@
     "options": {
       "A": "Kullanılan katılım zamanı",
       "B": "Geçiş ve bekleme zamanı",
-      "C": "Ayrılan ders zamanı",
-      "D": "Sınav ve yoklama zamanı",
-      "E": "Akademik öğrenme zamanı"
+      "C": "Akademik öğrenme zamanı",
+      "D": "Ayrılan ders zamanı",
+      "E": "Sınav ve yoklama zamanı"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Akademik öğrenme zamanı, öğrencinin uygun düzeyde zorlukta bir göreve başarıyla katıldığı sürelerdir; öğrenme için en değerli zaman türüdür.",
     "source": {
       "kind": "generated",
@@ -674,11 +674,11 @@
     "options": {
       "A": "Öğrenci devamsızlığını",
       "B": "Fiziksel ortam sorununu",
-      "C": "Sınıf mevcudunun fazlalığını",
-      "D": "Geçiş sürelerindeki zaman kaybını",
+      "C": "Geçiş sürelerindeki zaman kaybını",
+      "D": "Sınıf mevcudunun fazlalığını",
       "E": "Ders içeriğinin ağırlığını"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Etkinlikler arasındaki geçişler, planlanmadığında önemli zaman kaybına yol açar; rutinler ve önceden hazırlık bu kaybı azaltır.",
     "source": {
       "kind": "generated",
@@ -695,13 +695,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Öğretmen Hakan Bey, öğrencilerin sorularına yanıt verirken göz teması kurmakta, onlara doğru eğilmekte, başını hafifçe sallayarak dinlemekte ve sakin bir ses tonu kullanmaktadır. Öğrenciler kendilerini rahat ifade edebildikleri bir iklim oluştuğunu söylemektedir.\n\nHakan Bey'in bu davranışları hangi iletişim türüne örnektir?",
     "options": {
-      "A": "Sözel olmayan iletişim",
-      "B": "Toplu iletişim",
-      "C": "Resmî iletişim",
-      "D": "Dolaylı iletişim",
+      "A": "Toplu iletişim",
+      "B": "Resmî iletişim",
+      "C": "Dolaylı iletişim",
+      "D": "Sözel olmayan iletişim",
       "E": "Yazılı iletişim"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Göz teması, beden duruşu, jest, mimik ve ses tonu sözel olmayan iletişim araçlarıdır; öğretmenin sözel mesajını destekler veya zayıflatır.",
     "source": {
       "kind": "generated",
@@ -720,11 +720,11 @@
     "options": {
       "A": "Yargılama",
       "B": "Sempati",
-      "C": "Empati",
-      "D": "Yönlendirme",
+      "C": "Yönlendirme",
+      "D": "Empati",
       "E": "Öğüt verme"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Empati, bireyin başkasının duygularını onun bakış açısından anlaması ve bunu ona iletmesidir; sempati ise acıma ve duygu ortaklığıdır.",
     "source": {
       "kind": "generated",
@@ -766,11 +766,11 @@
     "options": {
       "A": "Genel övgü",
       "B": "Yargılayıcı geri bildirim",
-      "C": "Betimleyici geri bildirim",
-      "D": "Cezalandırıcı dönüt",
-      "E": "Dolaylı pekiştirme"
+      "C": "Cezalandırıcı dönüt",
+      "D": "Dolaylı pekiştirme",
+      "E": "Betimleyici geri bildirim"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Betimleyici geri bildirim, öğrenciye davranışın veya ürünün somut yönlerini belirterek neyin iyi olduğunu ve nasıl geliştirilebileceğini söyler; genel övgüden daha yararlıdır.",
     "source": {
       "kind": "generated",
@@ -788,12 +788,12 @@
     "stem": "İlkokul öğretmeni Nurcan Hanım, derse katılmak için sürekli hafif sesle masaya vuran Ozan'ın bu davranışının dikkat çekme amacı taşıdığını anlamış; Ozan'ın davranışına tepki vermemiş, bilerek yok sayarak dersine devam etmiştir. Birkaç gün içinde davranışın sıklığı belirgin biçimde azalmıştır.\n\nNurcan Hanım hangi tekniği uygulamıştır?",
     "options": {
       "A": "Davranış sözleşmesi",
-      "B": "Planlı görmezden gelme",
-      "C": "Mola",
-      "D": "Yakınlık kontrolü",
+      "B": "Mola",
+      "C": "Yakınlık kontrolü",
+      "D": "Planlı görmezden gelme",
       "E": "Yeniden yönlendirme"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Planlı görmezden gelme, dikkat çekmek amacıyla yapılan küçük, tehlikesiz davranışlara bilinçli olarak tepki vermeyerek davranışın sönmesini sağlamaktır.",
     "source": {
       "kind": "generated",
@@ -811,12 +811,12 @@
     "stem": "Tarih öğretmeni Murat Bey, ders anlatırken arka sırada yan yana oturup konuşmaya başlayan iki öğrencinin bulunduğu sıraya doğru dersi anlatmaya devam ederek yürümüş, öğrencilerin yanında durmuş ve konuşmayı hiç kesmemiştir. Öğrenciler konuşmalarını durdurmuş ve derse dönmüştür.\n\nMurat Bey hangi tekniği uygulamıştır?",
     "options": {
       "A": "Mola",
-      "B": "Jeton ekonomisi",
-      "C": "Planlı görmezden gelme",
-      "D": "Davranış sözleşmesi",
-      "E": "Yakınlık kontrolü"
+      "B": "Yakınlık kontrolü",
+      "C": "Jeton ekonomisi",
+      "D": "Planlı görmezden gelme",
+      "E": "Davranış sözleşmesi"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Yakınlık kontrolünde öğretmen, problem davranış gösteren öğrenciye fiziksel olarak yaklaşarak dersi bölmeden davranışı durdurur.",
     "source": {
       "kind": "generated",
@@ -834,12 +834,12 @@
     "stem": "Öğretmen Aysun Hanım, ders sırasında kâğıt uçak yapmaya başlayan Cem'e kelime kullanmadan sadece dik bir bakış atmış ve parmağını dudaklarına götürmüştür. Cem hemen uçağı bırakmış ve derse dönmüştür. Ders akışı hiç aksamamıştır. Aysun Hanım öğrenciyle hiçbir şekilde konuşmamış ve öğrencinin yerinden kalkması gerekmemiştir.\n\nAysun Hanım hangi müdahale biçimini kullanmıştır?",
     "options": {
       "A": "Davranış sözleşmesi",
-      "B": "Planlı görmezden gelme",
-      "C": "Sözel olmayan işaret",
+      "B": "Sözel olmayan işaret",
+      "C": "Planlı görmezden gelme",
       "D": "Mola",
       "E": "Bireysel görüşme"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Bakış, jest ve işaretle yapılan sözel olmayan uyarı, dersi kesmeden ve öğrenciyi utandırmadan davranışı durdurmanın en az müdahaleci yoludur.",
     "source": {
       "kind": "generated",
@@ -856,13 +856,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Okul öncesi öğretmeni Selvi Hanım, arkadaşına vurarak oyuncağını almaya çalışan Kaan'ı birkaç dakikalığına sınıfın sessiz bir köşesine götürmüş, orada oturtmuş ve sakinleştikten sonra gruba dönmesini sağlamıştır. Bu sürede Kaan'a ilgi ve oyun fırsatı verilmemiştir. Kaan bir süre sonra kendi isteğiyle gruba katılmış ve oyuncaklarını paylaşabileceğini söylemiştir.\n\nSelvi Hanım hangi tekniği kullanmıştır?",
     "options": {
-      "A": "Davranış sözleşmesi",
-      "B": "Yakınlık kontrolü",
-      "C": "Jeton ekonomisi",
-      "D": "Mola",
+      "A": "Mola",
+      "B": "Davranış sözleşmesi",
+      "C": "Yakınlık kontrolü",
+      "D": "Jeton ekonomisi",
       "E": "Planlı görmezden gelme"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Mola (time-out), istenmeyen davranış sonrası öğrencinin kısa süreliğine pekiştirici ortamdan uzaklaştırılmasıdır; ikinci tip ceza olarak da değerlendirilir.",
     "source": {
       "kind": "generated",
@@ -879,13 +879,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Öğretmen Hasan Bey, derslerde sürekli ödevini getirmeyen Burak'la birlikte oturup “Hafta içinde ödevini zamanında getirirsen cuma günü resim saatinde istediğin etkinliği seçebileceksin” şeklinde yazılı bir anlaşma hazırlamış; her ikisi de bu kâğıdı imzalamıştır. Anlaşmada ödülün ne zaman verileceği ve davranışın nasıl izleneceği de ayrıntılı olarak yazılmıştır.\n\nHasan Bey hangi tekniği kullanmıştır?",
     "options": {
-      "A": "Planlı görmezden gelme",
-      "B": "Jeton ekonomisi",
-      "C": "Yakınlık kontrolü",
-      "D": "Mola",
-      "E": "Davranış sözleşmesi"
+      "A": "Davranış sözleşmesi",
+      "B": "Planlı görmezden gelme",
+      "C": "Jeton ekonomisi",
+      "D": "Yakınlık kontrolü",
+      "E": "Mola"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Davranış sözleşmesi; hedef davranışı, ölçütü ve ödülü öğretmen ile öğrencinin yazılı olarak belirlediği, tarafların imzaladığı bir düzenlemedir.",
     "source": {
       "kind": "generated",
@@ -925,13 +925,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Ders sırasında defalarca uyarılmasına rağmen aynı davranışı sürdüren Selin'le öğretmeni Eda Hanım, ders bitiminde sınıf dışında ve sakin bir ortamda bire bir görüşmüştür. Selin'e davranışının nedenini sormuş, sınıfa etkisini anlatmış ve birlikte bir çözüm yolu aramıştır.\n\nEda Hanım hangi tekniği kullanmıştır?",
     "options": {
-      "A": "Bireysel görüşme",
-      "B": "Jeton ekonomisi",
-      "C": "Sınıf toplantısı",
-      "D": "Mola",
-      "E": "Planlı görmezden gelme"
+      "A": "Jeton ekonomisi",
+      "B": "Sınıf toplantısı",
+      "C": "Mola",
+      "D": "Planlı görmezden gelme",
+      "E": "Bireysel görüşme"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Bireysel görüşme, öğrencinin davranışını sınıfın önünde değil özel ve sakin bir ortamda ele alıp nedeni birlikte araştırmayı ve çözüm üretmeyi sağlar.",
     "source": {
       "kind": "generated",
@@ -949,12 +949,12 @@
     "stem": "Öğretmen Banu Hanım, sınıf kurallarını dönemin ilk haftasında öğrencilerle birlikte belirlemiştir. Kurallar beş maddeden oluşmakta, “Koşma” yerine “Koridorda yürü”, “Bağırma” yerine “Sakin ses tonuyla konuş” gibi olumlu cümlelerle yazılmıştır ve sınıf duvarına asılmıştır.\n\nBanu Hanım'ın bu uygulaması etkili sınıf kurallarının hangi özelliğini yansıtır?",
     "options": {
       "A": "Kuralların çok sayıda ve ayrıntılı olması",
-      "B": "Olumlu ifade edilmesi ve öğrencilerle birlikte belirlenmesi",
-      "C": "Öğretmenin tek başına ve değişmez biçimde koyması",
+      "B": "Öğretmenin tek başına ve değişmez biçimde koyması",
+      "C": "Olumlu ifade edilmesi ve öğrencilerle birlikte belirlenmesi",
       "D": "Her ders için ayrı ve farklı kurallar konması",
       "E": "Cezai yaptırımların ağır ve caydırıcı olması"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Etkili sınıf kuralları az sayıda, olumlu ifade edilmiş, açık, tutarlı ve mümkünse öğrencilerin katılımıyla belirlenmiş kurallardır.",
     "source": {
       "kind": "generated",
@@ -973,11 +973,11 @@
     "options": {
       "A": "Düzeltici müdahale yaparak sorunları çözmek",
       "B": "Öğrenci başarısını sınavla ölçmek",
-      "C": "Önleyici yönetim için rutinler oluşturmak",
-      "D": "Disiplin cezası vermek için kayıt tutmak",
+      "C": "Disiplin cezası vermek için kayıt tutmak",
+      "D": "Önleyici yönetim için rutinler oluşturmak",
       "E": "Aile ile düzenli iletişim kurmak"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Rutinler, günlük işlerin belirli ve öğrenilmiş biçimde yürütülmesini sağlayarak sorunları oluşmadan önlemeyi (önleyici sınıf yönetimi) destekler.",
     "source": {
       "kind": "generated",
@@ -995,12 +995,12 @@
     "stem": "Fen lisesinde görev yapan öğretmen Ahmet Bey, alanında çok bilgili olması, öğrencilerin sorularına doğru ve ayrıntılı yanıtlar vermesi nedeniyle öğrenciler tarafından büyük saygı görmekte ve söylediklerine uyulmaktadır. Öğrenciler onun yetkisinden çok bilgisine güvenmektedir.\n\nAhmet Bey'in öğrenciler üzerindeki gücü French ve Raven'in hangi türüdür?",
     "options": {
       "A": "Karizmatik güç",
-      "B": "Uzmanlık gücü",
-      "C": "Zorlayıcı güç",
-      "D": "Yasal güç",
+      "B": "Zorlayıcı güç",
+      "C": "Yasal güç",
+      "D": "Uzmanlık gücü",
       "E": "Ödüllendirme gücü"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Uzmanlık gücü, kişinin bilgi, beceri ve uzmanlığına duyulan güvenden kaynaklanır; öğretmenin alanındaki yeterliği öğrencilerin onu dinlemesini sağlar.",
     "source": {
       "kind": "generated",
@@ -1040,13 +1040,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Sınıf öğretmeni Kemal Bey'in öğrencileri onun sözünü, öğretmen olarak görevinden doğan resmî yetkisine ve okul kurallarına dayanarak dinlemektedir. Öğrenciler, öğretmenin sınıfı yönetme ve kurallar koyma hakkına sahip olduğunu kabul etmektedir.\n\nKemal Bey'in öğrenciler üzerindeki gücü French ve Raven'in hangi türüdür?",
     "options": {
-      "A": "Karizmatik güç",
-      "B": "Zorlayıcı güç",
-      "C": "Ödüllendirme gücü",
-      "D": "Yasal (meşru) güç",
+      "A": "Yasal (meşru) güç",
+      "B": "Karizmatik güç",
+      "C": "Zorlayıcı güç",
+      "D": "Ödüllendirme gücü",
       "E": "Uzmanlık gücü"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Yasal (meşru) güç, kişinin makam ve rolünden doğan resmî yetkisine dayanır; öğretmen olmak sınıfı yönetme yetkisi verir.",
     "source": {
       "kind": "generated",
@@ -1063,13 +1063,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Öğretmen Selçuk Bey, sınıfta ne yapılacağına, nasıl çalışılacağına ve kimin hangi görevi alacağına tek başına karar vermektedir. Öğrencilerden görüş almamakta, kararlarını gerekçelendirmemekte ve öğrencilerin katılımını sınırlamaktadır. Sınıf, öğretmen varken sessiz, yokken ise dağınıktır.\n\nSelçuk Bey'in sınıf yönetimi stili, Lewin'in sınıflamasına göre aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Otokratik liderlik",
-      "B": "Kayıpsız liderlik",
-      "C": "Demokratik liderlik",
+      "A": "Kayıpsız liderlik",
+      "B": "Demokratik liderlik",
+      "C": "Otokratik liderlik",
       "D": "Dönüşümcü liderlik",
       "E": "Serbest bırakan liderlik"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Lewin'in sınıflamasında otokratik liderlikte kararlar tek kişi tarafından alınır, üyelerin katılımı sınırlıdır; öğretmen yokken disiplin ve verimlilik düşer.",
     "source": {
       "kind": "generated",
@@ -1087,12 +1087,12 @@
     "stem": "Sınıf öğretmeni Derya Hanım, çalışma planını öğrencilerle birlikte yapmakta, görüşlerini almakta, kararları gerekçeleriyle birlikte açıklamakta ve öğrencilerin sorumluluk üstlenmesini desteklemektedir. Sınıfta öğretmen yokken de çalışma devam etmektedir. Öğrenciler ayrıca sınıf düzenine ilişkin önerilerini serbestçe dile getirmektedir.\n\nDerya Hanım'ın sınıf yönetimi stili, Lewin'in sınıflamasına göre aşağıdakilerden hangisidir?",
     "options": {
       "A": "Otokratik liderlik",
-      "B": "Kayıpsız liderlik",
-      "C": "Atılgan liderlik",
-      "D": "Demokratik liderlik",
+      "B": "Demokratik liderlik",
+      "C": "Kayıpsız liderlik",
+      "D": "Atılgan liderlik",
       "E": "Serbest bırakan liderlik"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Demokratik liderlikte kararlar grupla birlikte alınır, üyelerin katılımı desteklenir; öğretmen yokken bile çalışmanın sürmesi en olumlu sonuçlardan biridir.",
     "source": {
       "kind": "generated",
@@ -1135,10 +1135,10 @@
       "A": "Ceza",
       "B": "Jeton ekonomisi",
       "C": "Ödül",
-      "D": "Mantıksal sonuç",
-      "E": "Doğal sonuç"
+      "D": "Doğal sonuç",
+      "E": "Mantıksal sonuç"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Dreikurs'a göre mantıksal sonuç, davranışla ilişkili, öğretmen tarafından düzenlenen, makul ve saygılı bir sonuçtur; doğal sonuç ise müdahale olmadan kendiliğinden ortaya çıkan sonuçtur.",
     "source": {
       "kind": "generated",
@@ -1156,12 +1156,12 @@
     "stem": "Sınıf rehber öğretmeni Gizem Hanım, öğrencilerden “Hangi arkadaşınla ders çalışmak istersin?” gibi sorulara yazılı yanıt vermelerini istemiş, yanıtlardan sınıfta kimin kimi seçtiğini, kimin kimse tarafından seçilmediğini gösteren bir şema çıkarmıştır. Çıkan şemada bazı öğrencilerin çok sayıda, bazılarının ise hiç seçim almadığı görülmüştür.\n\nGizem Hanım'ın kullandığı bu araç aşağıdakilerden hangisidir?",
     "options": {
       "A": "Derecelendirme ölçeği",
-      "B": "Olay kaydı",
-      "C": "Sosyometri",
+      "B": "Sosyometri",
+      "C": "Olay kaydı",
       "D": "Anekdot kaydı",
       "E": "Gözlem formu"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Sosyometri (Moreno), grup üyelerinin birbirini seçme ve reddetme durumlarını ölçerek grup içi ilişkileri sosyogramla gösteren bir tekniktir.",
     "source": {
       "kind": "generated",
@@ -1179,12 +1179,12 @@
     "stem": "Gizem Hanım'ın hazırladığı sosyogramda sınıftaki öğrencilerden Ece'yi diğer öğrencilerin büyük bölümü arkadaşı olarak seçmiştir. Ece sınıfın en çok seçilen, en çok sevilen öğrencisidir. Ece aynı zamanda sınıfın çoğu tarafından karşılıklı olarak da seçilmekte, hiç reddedilmemektedir. Sınıf öğretmeni bu durumdan memnundur.\n\nSosyometride Ece gibi öğrenciler için hangi terim kullanılır?",
     "options": {
       "A": "Karşılıklı seçilen",
-      "B": "İhmal edilen",
-      "C": "Yalıtılmış",
-      "D": "Reddedilen",
-      "E": "Yıldız"
+      "B": "Yıldız",
+      "C": "İhmal edilen",
+      "D": "Yalıtılmış",
+      "E": "Reddedilen"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Sosyometride çok sayıda seçim alan kişiye yıldız denir; hiç seçilmeyen öğrenci ihmal edilen (yalıtılmış), reddedilen ise çok sayıda olumsuz seçim alan kişidir.",
     "source": {
       "kind": "generated",
@@ -1202,12 +1202,12 @@
     "stem": "Sınıf rehber öğretmeni Gizem Hanım'ın uyguladığı sosyometri sonucunda Kemal, hiçbir öğrenci tarafından birlikte çalışmak için seçilmemiş; üstelik birçok öğrenci Kemal'i açıkça birlikte çalışmak istemediği öğrenci olarak belirtmiştir. Öğretmen bu öğrenciyle yakından ilgilenmeyi planlamaktadır.\n\nSosyometride Kemal gibi öğrenciler için hangi terim kullanılır?",
     "options": {
       "A": "Lider",
-      "B": "Reddedilen",
-      "C": "İhmal edilen",
+      "B": "İhmal edilen",
+      "C": "Reddedilen",
       "D": "Yıldız",
       "E": "Karşılıklı seçilen"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Sosyometride çok sayıda olumsuz seçim alan (açıkça istenmeyen) öğrenciye reddedilen denir; hiç seçim almayan ancak reddedilmeyen öğrenci ise ihmal edilen (yalıtılmış) öğrencidir.",
     "source": {
       "kind": "generated",
@@ -1316,13 +1316,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Sınıf yönetiminde, davranış sorunlarını henüz ortaya çıkmadan önlemeye yönelik planlı çalışmalar (kurallar, rutinler, fiziksel düzen) hangi yaklaşım içinde değerlendirilir?",
     "options": {
-      "A": "Dolaylı sınıf yönetimi",
-      "B": "Düzeltici sınıf yönetimi",
-      "C": "Cezalandırıcı sınıf yönetimi",
-      "D": "Tepkisel sınıf yönetimi",
-      "E": "Önleyici sınıf yönetimi"
+      "A": "Önleyici sınıf yönetimi",
+      "B": "Dolaylı sınıf yönetimi",
+      "C": "Düzeltici sınıf yönetimi",
+      "D": "Cezalandırıcı sınıf yönetimi",
+      "E": "Tepkisel sınıf yönetimi"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Önleyici (proaktif) sınıf yönetimi, sorunlar oluşmadan önce kural, rutin, fiziksel düzen ve iyi ders planlamasıyla önlem almayı esas alır; düzeltici yönetim ise sorun oluştuktan sonra müdahaleyi içerir.",
     "source": {
       "kind": "generated",
@@ -1340,12 +1340,12 @@
     "stem": "Öğretmenin öğrenciye sözel bir uyarı yapmadan yalnızca bakışıyla uyarması, aşağıdaki sınıf yönetimi müdahalelerinden hangisinin en az müdahaleci biçimidir?",
     "options": {
       "A": "Davranış sözleşmesi",
-      "B": "Mola",
-      "C": "Sözel uyarı",
-      "D": "Sözel olmayan işaret",
+      "B": "Sözel olmayan işaret",
+      "C": "Mola",
+      "D": "Sözel uyarı",
       "E": "Bireysel görüşme"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Kısa bakış, jest veya yakınlaşma gibi sözel olmayan işaretler, dersi kesmeden ve öğrenciyi sınıfın önünde utandırmadan davranışı durdurmanın en az müdahaleci biçimidir.",
     "source": {
       "kind": "generated",
@@ -1362,13 +1362,13 @@
     "konu": "sinif_yonetimi",
     "stem": "Sınıf yönetiminde “Ben dili” ile “Sen dili” arasındaki temel fark aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Ben dili davranışın etkisini yargılamadan ifade eder; sen dili suçlayıcıdır",
-      "B": "İkisi de öğrencinin kişiliğini değerlendiren ifade biçimleridir",
-      "C": "Ben dili öğretmenlere, sen dili öğrencilere özgü bir anlatım biçimidir",
+      "A": "İkisi de öğrencinin kişiliğini değerlendiren ifade biçimleridir",
+      "B": "Ben dili öğretmenlere, sen dili öğrencilere özgü bir anlatım biçimidir",
+      "C": "Ben dili davranışın etkisini yargılamadan ifade eder; sen dili suçlayıcıdır",
       "D": "Ben dili suçlayıcı ve emredici, sen dili destekleyici bir anlatımdır",
       "E": "Ben dili sözel anlatımdır; sen dili ise sözel olmayan anlatımdır"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Ben dili, davranışın sonucunda öğretmenin hissettiği duyguyu ve etkiyi yargılamadan ifade eder; sen dili ise karşıdakini suçlayan ve etiketleyen bir ifadedir.",
     "source": {
       "kind": "generated",
@@ -1386,12 +1386,12 @@
     "stem": "Bir ilkokulda öğretmen Sevgi Hanım'ın sınıfında öğrenciler birbirlerine ve öğretmenlerine saygı göstermekte, hatalarından korkmadan fikirlerini paylaşmakta, kendilerini güvende ve değerli hissetmektedir. Öğrenciler arasındaki ilişkiler sıcak, ders ortamı destekleyici ve olumludur. Öğretmen bu ortamı yıl boyunca sürdürmeye çalışmaktadır.\n\nSınıfın bu özelliği aşağıdakilerden hangisidir?",
     "options": {
       "A": "Fiziksel düzen",
-      "B": "Sınıf kuralları",
-      "C": "Sınıf düzeni",
-      "D": "Zaman yönetimi",
-      "E": "Sınıf iklimi"
+      "B": "Sınıf iklimi",
+      "C": "Sınıf kuralları",
+      "D": "Sınıf düzeni",
+      "E": "Zaman yönetimi"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Sınıftaki öğrenci-öğrenci ve öğrenci-öğretmen ilişkilerinin duygusal ve sosyal havasına sınıf iklimi denir; olumlu iklim güven, saygı ve destekle oluşur.",
     "source": {
       "kind": "generated",
@@ -1420,6 +1420,98 @@
       "kind": "generated",
       "styleRef": "AGS_URETIM_KURALLARI",
       "legislationRef": "Dreikurs: yanlış davranışın amaçları"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-063",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Sınıf öğretmeni, yoklama ve ödev toplama gibi rutinleri hızlı yapmakta, etkinlikler arasındaki geçişleri kısa tutmakta, dersi zamanında başlatıp zamanında bitirmektedir. Araç gereçleri önceden hazırlamakta ve öğrencilere kendi sorumluluklarını bildiren net yönergeler vermektedir. Öğretmenin amacı, boşa harcanan süreyi azaltmaktır.\n\nÖğretmenin bu uygulamaları aşağıdakilerden hangisini artırmaya yöneliktir?",
+    "options": {
+      "A": "Öğretmen merkezli disiplini",
+      "B": "Velilerin okula katılımını",
+      "C": "Sınıf mevcudunu",
+      "D": "Dışsal pekiştireç sayısını",
+      "E": "Akademik öğrenme zamanını"
+    },
+    "answer": "E",
+    "solution": "Etkili zaman yönetimi, ayrılan zaman içinde öğrencilerin gerçekten öğrenmeye ayırdığı süreyi, yani akademik öğrenme zamanını artırır; geçişlerin kısa tutulması ve hazırlık bunun için kullanılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıfta zaman yönetimi"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-064",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğretmen Hülya Hanım, sınıfta istenen davranışı gösteren öğrencileri hemen sözlü olarak takdir etmekte, küçük sınıf kurallarını ihlal eden davranışları ise görmezden gelmektedir. Zamanla öğrencilerin takdir alan davranışları sıklaştırdığını, görmezden gelinen davranışların ise azaldığını fark etmiştir.\n\nÖğretmenin kullandığı yaklaşım aşağıdakilerden hangisinin görüşlerine dayanır?",
+    "options": {
+      "A": "Kounin'in akıcılık yaklaşımı",
+      "B": "Gordon'un öğretmen etkililiği",
+      "C": "Dreikurs'un demokratik yaklaşımı",
+      "D": "Glasser'in gerçeklik terapisi",
+      "E": "Skinner'ın davranışçı yaklaşımı"
+    },
+    "answer": "E",
+    "solution": "Skinner'a göre davranışlar sonuçlarıyla şekillenir; istenen davranışın pekiştirilmesi sıklığını artırır, pekiştirilmeyen davranış zamanla söner.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sınıf yönetimi: Skinner"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-065",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğrenci Kaan, arkadaşıyla kavga edince öfkeyle sınıfa dönmüş ve “Hep beni suçluyorlar, hiç kimse beni anlamıyor!” demiştir. Öğretmen konuşmayı kesmeden dinlemiş, ardından “Haksızlığa uğradığını düşünüyorsun ve bu seni çok kızdırmış gibi görünüyor” diyerek Kaan'ın duygusunu kendi sözleriyle yansıtmıştır.\n\nÖğretmenin kullandığı iletişim becerisi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Aktif dinleme",
+      "B": "Sen dili",
+      "C": "Yönlendirme",
+      "D": "Öğüt verme",
+      "E": "Ben dili"
+    },
+    "answer": "A",
+    "solution": "Aktif dinlemede dinleyen, konuşanın duygu ve düşüncesini yargılamadan kendi sözcükleriyle geri yansıtır; böylece anlaşıldığını hissettirir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gordon: aktif dinleme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-syn-066",
+    "ders": "egitim_bilimleri",
+    "konu": "sinif_yonetimi",
+    "stem": "Öğrenci Defne, sınav kaygısı yüzünden geceleri uyuyamadığını öğretmenine anlatırken öğretmen sözünü keserek “Üzülme, bunların hiçbiri önemli değil, zamanla geçer gider” demiştir. Defne, öğretmeninin kendisini dinlemediğini ve duygusunu önemsemediğini düşünerek konuşmayı bırakmış, ertesi gün sınıfta suskun kalmıştır.\n\nÖğretmenin bu davranışı Gordon'un tanımladığı iletişim engellerinden hangisine örnektir?",
+    "options": {
+      "A": "Yatıştırma ve teselli etme",
+      "B": "Duygu yansıtma",
+      "C": "Ben dili kullanma",
+      "D": "Açık uçlu soru sorma",
+      "E": "Aktif dinleme"
+    },
+    "answer": "A",
+    "solution": "Gordon'a göre “üzülme, geçer gider” gibi sözler, öğrencinin duygusunu küçümseyerek yatıştırmaya çalışmak olup iletişimi kesen engellerden biridir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Gordon: iletişim engelleri"
     },
     "validYear": 2026,
     "difficulty": "medium",

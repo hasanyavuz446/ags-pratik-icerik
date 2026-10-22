@@ -5,13 +5,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Okul müdürü, öğrencileri sınıf şubelerine göre A, B, C ve D şubesi olarak kodlamış; ayrıca öğrencilerin forma numaralarını kaydetmiştir. Bu kodlar yalnızca öğrencileri birbirinden ayırmak için kullanılmakta, büyüklük veya sıra bilgisi taşımamaktadır. Kodlama, okul bilgi sistemine girilirken veri tabanında kolaylık sağlamak amacıyla yapılmıştır.\n\nBu kodlamada kullanılan ölçme düzeyi aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Eşit aralıklı",
-      "B": "Sınıflama",
+      "A": "Sınıflama",
+      "B": "Eşit aralıklı",
       "C": "Eşit oranlı",
       "D": "Sıralama",
       "E": "Orantılı"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Sınıflama (nominal) düzeyinde sayı ya da kodlar yalnızca nesneleri sınıflara ayırır; büyüklük, sıra veya aralık bilgisi taşımaz.",
     "source": {
       "kind": "generated",
@@ -28,13 +28,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Okul satranç turnuvasında oyuncular birinci, ikinci ve üçüncü olarak sıralanmış; ancak birinci ile ikinci arasındaki puan farkının, ikinci ile üçüncü arasındaki farkla aynı olup olmadığı bilinmemektedir. Sıralama yalnızca hangisinin daha iyi olduğunu göstermektedir. Turnuva sonuçları okul panosunda yalnızca sıralama biçiminde ilan edilmiştir.\n\nBu verilerin ölçme düzeyi aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Sıralama",
-      "B": "Sınıflama",
-      "C": "Eşit aralıklı",
-      "D": "Eşit oranlı",
-      "E": "Kategorik"
+      "A": "Sınıflama",
+      "B": "Eşit aralıklı",
+      "C": "Eşit oranlı",
+      "D": "Kategorik",
+      "E": "Sıralama"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Sıralama (ordinal) düzeyinde nesneler büyüklüğe göre sıralanır; ancak sıralar arasındaki farkların eşit olduğu varsayılamaz.",
     "source": {
       "kind": "generated",
@@ -52,12 +52,12 @@
     "stem": "Bir öğretmen, matematik sınavında 0 puan alan öğrencinin matematik bilgisinin tamamen yok olduğunu söylemenin doğru olmadığını; 80 puan alan öğrencinin 40 puan alan öğrenciden “iki kat daha bilgili” sayılamayacağını belirtmektedir. Buna karşılık puanlar arasındaki farkların eşit olduğunu kabul etmektedir.\n\nBu özellikler hangi ölçme düzeyine aittir?",
     "options": {
       "A": "Sınıflama ölçeği",
-      "B": "Betimsel ölçek",
-      "C": "Eşit aralıklı",
+      "B": "Eşit aralıklı",
+      "C": "Betimsel ölçek",
       "D": "Eşit oranlı ölçek",
       "E": "Sıralama ölçeği"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Eşit aralıklı ölçekte ardışık birimler arasındaki farklar eşittir, ancak gerçek (mutlak) sıfır noktası yoktur; bu nedenle oran kurulamaz. Sınav puanları bu düzeye örnektir.",
     "source": {
       "kind": "generated",
@@ -99,11 +99,11 @@
     "options": {
       "A": "Orantılı",
       "B": "Sıralama",
-      "C": "Sınıflama",
-      "D": "Eşit aralıklı",
-      "E": "Eşit oranlı"
+      "C": "Eşit aralıklı",
+      "D": "Eşit oranlı",
+      "E": "Sınıflama"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Sınıflama düzeyinde yalnızca aynı veya farklı olma durumu belirlenebilir; sıralama, fark ve oran karşılaştırması yapılamaz.",
     "source": {
       "kind": "generated",
@@ -122,11 +122,11 @@
     "options": {
       "A": "Değerlendirme — ölçme",
       "B": "Ölçme — test",
-      "C": "Ölçme — değerlendirme",
-      "D": "Test — ölçme",
+      "C": "Test — ölçme",
+      "D": "Ölçme — değerlendirme",
       "E": "Değerlendirme — test"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Ölçme, bir özelliğin sayısal olarak belirlenmesidir (72 puan). Değerlendirme ise ölçüm sonucunun bir ölçütle karşılaştırılarak değer yargısına dönüştürülmesidir (yeterli).",
     "source": {
       "kind": "generated",
@@ -145,11 +145,11 @@
     "options": {
       "A": "Kullanışlılık",
       "B": "Ayırt edicilik",
-      "C": "Güçlük",
-      "D": "Ölçme hatası",
+      "C": "Ölçme hatası",
+      "D": "Güçlük",
       "E": "Geçerlik"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Ölçme sonucu gerçek puan ile hata puanının toplamıdır; öğrencinin anlık durumu gibi etkenler tesadüfî ölçme hatasına yol açar ve güvenirliği düşürür.",
     "source": {
       "kind": "generated",
@@ -214,11 +214,11 @@
     "options": {
       "A": "Kapsam geçerliği",
       "B": "Güvenirlik",
-      "C": "Görünüş geçerliği",
-      "D": "Ölçüt geçerliği",
-      "E": "Yapı geçerliği"
+      "C": "Yapı geçerliği",
+      "D": "Görünüş geçerliği",
+      "E": "Ölçüt geçerliği"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Yapı geçerliği, testin ölçmek istediği kuramsal yapıyı (örn. yaratıcılık, zekâ) gerçekten ölçüp ölçmediğini inceler; faktör analizi başlıca yöntemlerden biridir.",
     "source": {
       "kind": "generated",
@@ -235,13 +235,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Bir üniversite, giriş sınavında yüksek puan alan adayların birinci yıl sonundaki akademik başarılarının da yüksek olup olmadığını inceleyerek, giriş sınavının gelecekteki üniversite başarısını ne ölçüde yordadığını belirlemeye çalışmaktadır. İnceleme, sınavı kazanıp aynı yıl kayıt yaptıran yüzlerce öğrencinin verileriyle yapılmaktadır.\n\nBu çalışma hangi geçerlik türüne yöneliktir?",
     "options": {
-      "A": "Yordama geçerliği",
-      "B": "Kapsam geçerliği",
+      "A": "Kapsam geçerliği",
+      "B": "Yordama geçerliği",
       "C": "Tutarlılık güvenirliği",
       "D": "Görünüş geçerliği",
       "E": "Yapı geçerliği"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Yordama geçerliği, test puanlarının gelecekteki bir ölçütü (örn. üniversite başarısı) ne ölçüde tahmin ettiğini gösteren ölçüt geçerliği türüdür.",
     "source": {
       "kind": "generated",
@@ -259,12 +259,12 @@
     "stem": "Bir öğretmen, geliştirdiği okuma testini aynı sınıfa iki hafta ara ile iki kez uygulamış; öğrencilerin iki uygulamadaki puanları arasındaki korelasyon katsayısını hesaplamıştır. Amaç, testin zaman içinde ne kadar kararlı sonuç verdiğini görmektir. Aradaki sürede öğrencilere bu testle ilgili herhangi bir ek öğretim yapılmamıştır.\n\nÖğretmen hangi güvenirlik yöntemini kullanmıştır?",
     "options": {
       "A": "Eşdeğer formlar yöntemi",
-      "B": "Cronbach alfa yöntemi",
-      "C": "KR-20 yöntemi",
-      "D": "Test-tekrar test",
+      "B": "Test-tekrar test",
+      "C": "Cronbach alfa yöntemi",
+      "D": "KR-20 yöntemi",
       "E": "Yarıya bölme yöntemi"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Test-tekrar test yönteminde aynı test aynı gruba iki kez uygulanır; iki puan dizisi arasındaki korelasyon kararlılık güvenirliğini verir.",
     "source": {
       "kind": "generated",
@@ -283,11 +283,11 @@
     "options": {
       "A": "KR-20 yöntemi",
       "B": "Yarıya bölme yöntemi",
-      "C": "Test-tekrar test yöntemi",
-      "D": "Cronbach alfa yöntemi",
-      "E": "Eşdeğer formlar yöntemi"
+      "C": "Eşdeğer formlar yöntemi",
+      "D": "Test-tekrar test yöntemi",
+      "E": "Cronbach alfa yöntemi"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Eşdeğer (paralel) formlar yönteminde iki benzer form aynı gruba uygulanır; formlar arasındaki korelasyon güvenirliği verir.",
     "source": {
       "kind": "generated",
@@ -307,10 +307,10 @@
       "A": "Kararlılık güvenirliği",
       "B": "Yordama güvenirliği",
       "C": "Kapsam güvenirliği",
-      "D": "İç tutarlık",
-      "E": "Eşdeğerlik güvenirliği"
+      "D": "Eşdeğerlik güvenirliği",
+      "E": "İç tutarlık"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "KR-20 ve Cronbach alfa, testin tek uygulamasıyla maddelerin birbiriyle tutarlılığını gösteren iç tutarlık güvenirlik katsayılarıdır.",
     "source": {
       "kind": "generated",
@@ -328,12 +328,12 @@
     "stem": "Bir öğretmen, 40 maddelik testi bir kez uygulamış ve test maddelerini tek numaralı maddeler ile çift numaralı maddeler olmak üzere iki yarıya bölmüştür. Her öğrencinin iki yarıdaki puanları arasındaki korelasyonu hesaplamış, ardından testin tamamına genelleme için Spearman-Brown düzeltmesi uygulamıştır.\n\nÖğretmen hangi güvenirlik yöntemini kullanmıştır?",
     "options": {
       "A": "Madde analizi yöntemi",
-      "B": "Yarıya bölme yöntemi",
-      "C": "Puanlayıcılar arası yöntem",
-      "D": "Test-tekrar test yöntemi",
+      "B": "Puanlayıcılar arası yöntem",
+      "C": "Test-tekrar test yöntemi",
+      "D": "Yarıya bölme yöntemi",
       "E": "Eşdeğer formlar yöntemi"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Yarıya bölme yönteminde test tek uygulamayla iki yarıya ayrılır; yarılar arasındaki korelasyon Spearman-Brown formülüyle testin tamamı için düzeltilir.",
     "source": {
       "kind": "generated",
@@ -350,13 +350,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Bir okul müdürü, yeni hazırlanan sosyal bilgiler sınavının sorularını inceleyip “Bu test sosyal bilgiler öğrenmesini ölçüyor gibi görünüyor” sonucuna ulaşmıştır. Müdür, soruların biçimine ve konusuna bakarak yüzeysel bir değerlendirme yapmakta, istatistiksel bir analiz yapmamaktadır.\n\nMüdürün yaptığı değerlendirme hangi geçerlik türüyle ilgilidir?",
     "options": {
-      "A": "Tutarlılık güvenirliği",
-      "B": "Yordama geçerliği",
-      "C": "Kapsam geçerliği",
-      "D": "Yapı geçerliği",
-      "E": "Görünüş geçerliği"
+      "A": "Görünüş geçerliği",
+      "B": "Tutarlılık güvenirliği",
+      "C": "Yordama geçerliği",
+      "D": "Kapsam geçerliği",
+      "E": "Yapı geçerliği"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Görünüş geçerliği, testin ilk bakışta ölçmek istediği özelliği ölçüyor gibi görünmesidir; uzmanlara veya kullanıcıların yüzeysel değerlendirmesine dayanır, istatistiksel bir kanıt sunmaz.",
     "source": {
       "kind": "generated",
@@ -373,13 +373,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Bir testin güvenilir ama geçersiz olması mümkün müdür?",
     "options": {
-      "A": "Mümkündür; güvenirlik geçerliğin gerek koşuludur, yeter koşulu değildir",
-      "B": "Mümkün değildir; güvenilir bir test aynı zamanda geçerli de olur",
-      "C": "Mümkün değildir; geçerlik güvenirliği zorunlu olarak gerektirir",
-      "D": "Mümkündür; ancak bu durum sözel testlerde görülen bir istisnadır",
+      "A": "Mümkün değildir; güvenilir bir test aynı zamanda geçerli de olur",
+      "B": "Mümkün değildir; geçerlik güvenirliği zorunlu olarak gerektirir",
+      "C": "Mümkündür; ancak bu durum sözel testlerde görülen bir istisnadır",
+      "D": "Mümkündür; güvenirlik geçerliğin gerek koşuludur, yeter koşulu değildir",
       "E": "Mümkündür; ancak bu durum kısa testlerde görülen bir istisnadır"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Bir test tutarlı sonuç verirken (güvenilir) ölçmek istediği özelliği ölçmüyor olabilir (geçersiz). Güvenirlik geçerliğin gerek koşuludur, yeter koşulu değildir.",
     "source": {
       "kind": "generated",
@@ -420,12 +420,12 @@
     "stem": "Aynı testin aynı maddesinde, 20 kişilik üst gruptan 16 öğrenci, 20 kişilik alt gruptan 8 öğrenci maddeyi doğru yanıtlamıştır. Öğretmen, bu maddenin yüksek puanlı ve düşük puanlı öğrencileri ne kadar ayırdığını belirlemek istemektedir.\n\nMaddenin ayırt edicilik indeksi (D) kaçtır? (D = (ÜG − AG) / n)",
     "options": {
       "A": "0,20",
-      "B": "0,60",
-      "C": "0,40",
+      "B": "0,40",
+      "C": "0,60",
       "D": "1,00",
       "E": "0,80"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "D = (16 − 8) / 20 = 8 / 20 = 0,40. Bu değer maddenin üst ve alt grubu iyi ayırdığını gösterir. 0,60 değeri güçlük indeksidir; ayırt edicilik ile güçlük karıştırılmamalıdır.",
     "source": {
       "kind": "generated",
@@ -443,12 +443,12 @@
     "stem": "Bir fen testinin bir maddesini 50 öğrenci yanıtlamış ve 45'i doğru cevap vermiştir. Öğretmen, maddenin güçlük indeksinin 0,90 olduğunu hesaplamıştır; bu madde testteki öğrencilerin çok büyük bölümü tarafından kolaylıkla yanıtlanmaktadır. Bu maddeyi doğru yanıtlayanların büyük bölümü hem üst hem alt gruptaki öğrencilerden oluşmuştur.\n\nGüçlük indeksi 0,90 olan madde için aşağıdakilerden hangisi söylenebilir?",
     "options": {
       "A": "Madde geçersizdir",
-      "B": "Madde çok kolaydır",
-      "C": "Madde orta güçlüktedir",
-      "D": "Madde yüksek düzeyde ayırt edicidir",
-      "E": "Madde çok zordur"
+      "B": "Madde orta güçlüktedir",
+      "C": "Madde yüksek düzeyde ayırt edicidir",
+      "D": "Madde çok zordur",
+      "E": "Madde çok kolaydır"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Güçlük indeksi (p) maddeyi doğru yanıtlayanların oranıdır; p 0,90 ise madde çok kolaydır, p değeri küçüldükçe madde zorlaşır.",
     "source": {
       "kind": "generated",
@@ -465,13 +465,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Bir testteki maddenin analizi sonucunda, düşük puanlı alt grup öğrencilerinin maddeyi doğru yanıtlama oranı, yüksek puanlı üst grup öğrencilerinden daha yüksek çıkmıştır. Ayırt edicilik indeksi −0,25 olarak hesaplanmıştır. Madde, testin geri kalan maddeleriyle birlikte aynı gruba aynı gün uygulanmıştır.\n\nBu madde için aşağıdakilerden hangisi doğrudur?",
     "options": {
-      "A": "Madde çok iyi ayırt edicidir ve olduğu gibi korunmalıdır",
-      "B": "Madde sorunludur; düzeltilmeli ya da çıkarılmalıdır",
+      "A": "Madde sorunludur; düzeltilmeli ya da çıkarılmalıdır",
+      "B": "Madde çok iyi ayırt edicidir ve olduğu gibi korunmalıdır",
       "C": "Madde yüksek geçerlikli olduğu için korunmalıdır",
       "D": "Madde güvenilirdir ve testte korunmalıdır",
       "E": "Madde çok kolaydır, bu nedenle testte korunmalıdır"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Negatif ayırt edicilik, üst grubun alt gruptan daha az doğru yaptığını gösterir; madde yanıltıcıdır veya yanlış anahtarlanmıştır ve düzeltilmeli ya da çıkarılmalıdır.",
     "source": {
       "kind": "generated",
@@ -488,13 +488,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Beş seçenekli bir çoktan seçmeli maddenin çeldirici analizinde, B ve C şıklarını çok sayıda öğrenci işaretlemiş; ancak E şıkkını 100 öğrenciden hiçbiri işaretlememiştir. Doğru cevap D şıkkıdır ve alt gruptaki öğrencilerin çoğu A ve B şıklarını seçmiştir.\n\nE şıkkı için aşağıdakilerden hangisi söylenebilir?",
     "options": {
-      "A": "İşlevsiz çeldiricidir ve yeniden yazılmalıdır",
-      "B": "Güçlük indeksi yüksek bir seçenek olarak korunmalıdır",
-      "C": "Çok iyi bir çeldiricidir ve olduğu gibi korunmalıdır",
-      "D": "Maddenin doğru cevabıdır ve anahtarda işaretlenmelidir",
+      "A": "Güçlük indeksi yüksek bir seçenek olarak korunmalıdır",
+      "B": "Çok iyi bir çeldiricidir ve olduğu gibi korunmalıdır",
+      "C": "Maddenin doğru cevabıdır ve anahtarda işaretlenmelidir",
+      "D": "İşlevsiz çeldiricidir ve yeniden yazılmalıdır",
       "E": "Ayırt ediciliği yüksek bir çeldiricidir ve korunmalıdır"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Hiçbir öğrencinin seçmediği çeldirici işlevsizdir; çeldirici gibi görünmez. Etkili çeldiricileri özellikle alt grup öğrencileri seçmelidir.",
     "source": {
       "kind": "generated",
@@ -580,13 +580,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Beş seçenekli ve 40 soruluk bir sınavda her yanlış cevap, doğru cevap sayısından dörtte bir oranında puan düşürmektedir. Öğrenci Mert sınavda 28 soruyu doğru, 8 soruyu yanlış yanıtlamış ve 4 soruyu boş bırakmıştır.\n\nMert'in net sayısı kaçtır? (net = doğru − yanlış / (şık sayısı − 1))",
     "options": {
-      "A": "28",
-      "B": "26",
+      "A": "26",
+      "B": "28",
       "C": "22",
       "D": "20",
       "E": "24"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Net = 28 − 8 / (5 − 1) = 28 − 2 = 26. Boş sorular neti etkilemez. 20 değeri yanlışların tamamının düşülmesiyle, 24 ise boşların yanlış sayılmasıyla bulunur.",
     "source": {
       "kind": "generated",
@@ -604,12 +604,12 @@
     "stem": "Öğretmen Selim Bey, kavramlar ile bu kavramların tanımlarını, yan yana iki sütun hâlinde sunmuş ve öğrencilerden her kavramı ilgili tanımla birleştirmelerini istemiştir. Sütunlardan birinde yedi, diğerinde beş öğe bulunmaktadır. Öğrenciler eşleştirmeyi yazılı olarak yapmış, bazı seçenekler ise hiç kullanılmayacak biçimde hazırlanmıştır.\n\nBu madde türü aşağıdakilerden hangisidir?",
     "options": {
       "A": "Boşluk doldurma",
-      "B": "Eşleştirme",
-      "C": "Uzun yanıtlı",
+      "B": "Uzun yanıtlı",
+      "C": "Eşleştirme",
       "D": "Kısa cevaplı",
       "E": "Doğru-yanlış"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Eşleştirme maddelerinde iki sütundaki öğeler (örn. kavram-tanım) birbiriyle eşleştirilir; seçenek sayısını fazla tutmak şans başarısını azaltır.",
     "source": {
       "kind": "generated",
@@ -626,13 +626,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Edebiyat öğretmeni Zehra Hanım, öğrencilerinden “Cumhuriyet dönemi romanında köy gerçekçiliğinin ortaya çıkışını örneklerle tartışan bir yazı yazınız” demiştir. Öğrencilerden kendi cümleleriyle düzenli bir metin yazmaları beklenmekte; yanıtlar öğretmen tarafından okunarak puanlanmaktadır. Öğretmen yazıları değerlendirirken önceden hazırlanmış bir yönerge kullanmaktadır.\n\nBu madde türünün en önemli sınırlılığı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Tek bir doğru cevabın bulunması ve puanlamanın kolay olması",
-      "B": "Şans başarısının yüksek olması ve tahminle yanıtlanabilmesi",
-      "C": "Kısa sürede çok sayıda soru sorulabilmesi",
-      "D": "Üst düzey düşünme becerilerini ölçememesi",
-      "E": "Puanlamanın öznel olması ve güvenirliğin düşmesi"
+      "A": "Puanlamanın öznel olması ve güvenirliğin düşmesi",
+      "B": "Tek bir doğru cevabın bulunması ve puanlamanın kolay olması",
+      "C": "Şans başarısının yüksek olması ve tahminle yanıtlanabilmesi",
+      "D": "Kısa sürede çok sayıda soru sorulabilmesi",
+      "E": "Üst düzey düşünme becerilerini ölçememesi"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Uzun yanıtlı (kompozisyon) maddeler üst düzey becerileri ölçebilir, ancak puanlayıcı öznelliği nedeniyle güvenirlik düşüktür ve puanlaması zaman alır.",
     "source": {
       "kind": "generated",
@@ -649,13 +649,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Öğretmen Ahmet Bey, iki farklı öğretmenin aynı kompozisyon kâğıdını okuyup puanladığını fark etmiştir. Birinci öğretmen 85, ikinci öğretmen 60 vermiştir; ancak her ikisi de aynı yönergeyi kullanmıştır. Fark, öğretmenlerin bireysel yargılarından kaynaklanmıştır. Ahmet Bey iki öğretmenin kâğıtlara ayrı ayrı baktığını, birbirlerinin puanını görmediğini de belirtmiştir.\n\nÖlçmedeki bu sorun hangi kavramla ilgilidir?",
     "options": {
-      "A": "Puanlayıcılar arası güvenirlik",
-      "B": "Ayırt edicilik indeksi değeri",
-      "C": "Kullanışlılık ölçütü değeri",
+      "A": "Ayırt edicilik indeksi değeri",
+      "B": "Kullanışlılık ölçütü değeri",
+      "C": "Puanlayıcılar arası güvenirlik",
       "D": "Madde güçlük indeksi değeri",
       "E": "Kapsam geçerliği ve madde dengesi"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Puanlayıcılar arası güvenirlik, farklı puanlayıcıların aynı yanıta benzer puanlar vermesidir; analitik rubrik kullanımı bu tutarlılığı artırır.",
     "source": {
       "kind": "generated",
@@ -674,11 +674,11 @@
     "options": {
       "A": "Cömertlik hatası",
       "B": "Tutarlılık hatası",
-      "C": "Halo (hâle) etkisi",
-      "D": "Mantık hatası",
-      "E": "Merkezi eğilim hatası"
+      "C": "Mantık hatası",
+      "D": "Merkezi eğilim hatası",
+      "E": "Halo (hâle) etkisi"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Halo etkisinde puanlayıcı, öğrencinin önceki başarısı veya genel izlenimi nedeniyle tek tek yanıtları gerçekte olduğundan daha olumlu (veya olumsuz) değerlendirir.",
     "source": {
       "kind": "generated",
@@ -695,13 +695,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Okul öncesi öğretmeni Nilgün Hanım, çocukların resim çalışmalarını beş basamaklı ölçekle değerlendirirken ölçeğin her iki ucunu da kullanmaktan çekinmiş; hemen her çocuğa 3 puan vermiştir. Hiçbir çocuğu çok başarılı ya da çok başarısız saymamıştır.\n\nNilgün Hanım'ın bu eğilimi aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Halo etkisi ve izlenim hatası",
-      "B": "Katılık ve sertlik hatası",
-      "C": "Cömertlik ve yumuşaklık hatası",
-      "D": "Merkezi eğilim hatası",
+      "A": "Merkezi eğilim hatası",
+      "B": "Halo etkisi ve izlenim hatası",
+      "C": "Katılık ve sertlik hatası",
+      "D": "Cömertlik ve yumuşaklık hatası",
       "E": "Mantık ve çıkarım hatası"
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Merkezi eğilim hatasında puanlayıcı ölçeğin uçlarını kullanmaktan kaçınır ve tüm değerlendirmeleri orta puanlarda toplar.",
     "source": {
       "kind": "generated",
@@ -721,10 +721,10 @@
       "A": "Anekdot kaydı",
       "B": "Kontrol listesi",
       "C": "Portfolyo",
-      "D": "Bütüncül rubrik",
-      "E": "Analitik rubrik"
+      "D": "Analitik rubrik",
+      "E": "Bütüncül rubrik"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Analitik rubrikte performans ayrı ölçütler üzerinden ayrı ayrı puanlanır; bütüncül rubrikte ise performans tek bir genel puanla değerlendirilir.",
     "source": {
       "kind": "generated",
@@ -742,12 +742,12 @@
     "stem": "Bir ortaokul fen öğretmeni, yıl sonu sınavını hazırlamadan önce hangi kazanımdan kaç soru soracağını, her sorunun hangi bilişsel düzeyde olacağını (bilgi, kavrama, uygulama gibi) gösteren bir tablo hazırlamıştır. Böylece soruları bu plana göre yazmıştır. Tablo öğretmen kurulunda incelenmiş ve soruların planlanan dağılıma uygunluğu denetlenmiştir.\n\nBu tablo aşağıdakilerden hangisidir?",
     "options": {
       "A": "Madde analizi tablosu",
-      "B": "Rubrik",
-      "C": "Belirtke tablosu",
+      "B": "Belirtke tablosu",
+      "C": "Rubrik",
       "D": "Sosyogram",
       "E": "Kontrol listesi"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Belirtke tablosu, testin kazanımlara ve bilişsel düzeylere göre soru dağılımını gösteren plandır; kapsam geçerliğini sağlamanın temel aracıdır.",
     "source": {
       "kind": "generated",
@@ -766,11 +766,11 @@
     "options": {
       "A": "Madde kökünün açık ve anlaşılır olması",
       "B": "Seçeneklerin dilbilgisi açısından köke uygun olması",
-      "C": "Doğru seçeneğin diğerlerinden belirgin uzun olması",
-      "D": "Seçeneklerin benzer uzunlukta olması",
-      "E": "Çeldiricilerin ilk bakışta yanlış görünmemesi"
+      "C": "Seçeneklerin benzer uzunlukta olması",
+      "D": "Çeldiricilerin ilk bakışta yanlış görünmemesi",
+      "E": "Doğru seçeneğin diğerlerinden belirgin uzun olması"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "İyi bir çoktan seçmeli maddede doğru seçenek biçim ve uzunluk açısından ipucu vermemelidir; çeldiriciler makul ve seçenekler benzer uzunlukta olmalıdır.",
     "source": {
       "kind": "generated",
@@ -811,12 +811,12 @@
     "stem": "Fen bilgisi öğretmeni Orhan Bey, öğrencilerinden okul çevresindeki bir derenin kirlilik düzeyini ölçmelerini, veriyi tablo hâlinde düzenlemelerini, sonuçları sınıfta sunmalarını ve çözüm önerisi geliştirmelerini istemiştir. Bu çalışmada bilgi ve becerilerini gerçek bir durumda kullanmaktadırlar. Çalışma, öğrencilerin sınıf dışında grup hâlinde yürüttükleri uzun süreli bir etkinliktir.\n\nBu uygulama aşağıdakilerden hangisidir?",
     "options": {
       "A": "Boşluk doldurma testi",
-      "B": "Performans görevi",
-      "C": "Eşleştirme testi",
+      "B": "Eşleştirme testi",
+      "C": "Performans görevi",
       "D": "Kısa cevaplı test",
       "E": "Doğru-yanlış testi"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Performans görevinde öğrenciler öğrendikleri bilgi ve becerileri gerçek yaşam durumlarına benzer bir görev içinde kullanır; ürün veya süreç değerlendirilir.",
     "source": {
       "kind": "generated",
@@ -879,13 +879,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Öğretmen Kaan Bey, sınıfta önemli bir olay yaşandığında (örneğin bir öğrencinin arkadaşına yardım etmesi) olayın tarihini, yerini ve ayrıntılarını yorum katmadan kısa bir notla kaydetmektedir. Bu notlar dönem sonunda öğrencinin davranış gelişimini değerlendirmek için kullanılacaktır.\n\nKaan Bey hangi aracı kullanmaktadır?",
     "options": {
-      "A": "Kontrol listesi",
-      "B": "Rubrik",
-      "C": "Anekdot kaydı",
+      "A": "Anekdot kaydı",
+      "B": "Kontrol listesi",
+      "C": "Rubrik",
       "D": "Portfolyo",
       "E": "Derecelendirme ölçeği"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Anekdot kaydı, öğretmenin önemli bir olayı serbest biçimde, yorumdan ayrı olarak kısa notlarla kaydettiği gözlem aracıdır.",
     "source": {
       "kind": "generated",
@@ -904,11 +904,11 @@
     "options": {
       "A": "Toplam değerlendirme",
       "B": "Bağıl değerlendirme",
-      "C": "Öz değerlendirme",
-      "D": "Tanılayıcı değerlendirme",
+      "C": "Tanılayıcı değerlendirme",
+      "D": "Öz değerlendirme",
       "E": "Akran değerlendirme"
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Öz değerlendirmede öğrenci, kendi çalışma ve gelişimini ölçütlere göre değerlendirir; bu yaklaşım öğrenmenin sorumluluğunu almayı destekler.",
     "source": {
       "kind": "generated",
@@ -949,12 +949,12 @@
     "stem": "Bir öğretmen, bir performans ödevinin başarı düzeylerini “çok iyi, iyi, orta, geliştirilmeli” olarak adlandırmış; her düzey için öğrencinin ne yapmış olması gerektiğini açıkça tanımlamış ve bu tabloyu ödevi vermeden önce öğrencilerle paylaşmıştır. Öğrenciler bu tabloya göre kendi çalışmalarını yazmadan önce de değerlendirme fırsatı bulmuştur.\n\nÖğretmenin hazırladığı bu tablo aşağıdakilerden hangisidir?",
     "options": {
       "A": "Kontrol listesi",
-      "B": "Sosyogram",
-      "C": "Belirtke tablosu",
-      "D": "Rubrik",
+      "B": "Rubrik",
+      "C": "Sosyogram",
+      "D": "Belirtke tablosu",
       "E": "Anekdot kaydı"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Rubrik, performans düzeylerinin ölçütlerle ayrıntılı olarak tanımlandığı puanlama aracıdır; öğrenciyle önceden paylaşılması beklentileri açıklığa kavuşturur.",
     "source": {
       "kind": "generated",
@@ -974,10 +974,10 @@
       "A": "Bağıl değerlendirme",
       "B": "Çoktan seçmeli test uygulaması",
       "C": "Norm dayanaklı değerlendirme",
-      "D": "Yansıtıcı alternatif değerlendirme",
-      "E": "Not verici toplam değerlendirme uygulaması"
+      "D": "Not verici toplam değerlendirme uygulaması",
+      "E": "Yansıtıcı alternatif değerlendirme"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Öğrenci günlüğü, öğrencinin kendi öğrenmesini yansıtmasına ve gelişimini izlemesine olanak veren alternatif (yansıtıcı) değerlendirme araçlarından biridir.",
     "source": {
       "kind": "generated",
@@ -995,12 +995,12 @@
     "stem": "Öğretmen Selma Hanım, yeni ünitenin başında öğrencilerin bu üniteye hazır olup olmadığını, önceki ünitelerden hangi bilgi ve becerileri öğrenemediklerini belirlemek için kısa bir sınav yapmıştır. Sonuçlara göre ünitenin başlangıcını planlayacaktır. Sınavın sonuçları öğrencilerin notlarına katılmayacak, yalnızca öğretimi planlamak için kullanılacaktır.\n\nBu değerlendirme türü aşağıdakilerden hangisidir?",
     "options": {
       "A": "Biçimlendirici değerlendirme",
-      "B": "Tanılayıcı değerlendirme",
-      "C": "Toplam değerlendirme",
-      "D": "Düzey belirleyici değerlendirme",
+      "B": "Toplam değerlendirme",
+      "C": "Düzey belirleyici değerlendirme",
+      "D": "Tanılayıcı değerlendirme",
       "E": "Bağıl değerlendirme"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Tanılayıcı (diagnostik) değerlendirme, öğretime başlamadan önce öğrencilerin hazırbulunuşluğunu, ön bilgilerini ve eksiklerini belirlemek için yapılır.",
     "source": {
       "kind": "generated",
@@ -1040,13 +1040,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Okulda dönem sonunda uygulanan ve öğrencilerin dönem boyunca öğrendiklerini topluca ölçen yazılı sınav sonuçları, öğrencilerin karne notlarını belirlemek ve sınıf geçip geçmeyeceğine karar vermek için kullanılmaktadır. Sınav sonuçları velilere gönderilen karne belgelerinde de yer almaktadır.\n\nBu değerlendirme türü aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Düzey belirleyici değerlendirme",
-      "B": "Yönlendirici değerlendirme",
-      "C": "Biçimlendirici süreç değerlendirmesi",
-      "D": "Tanılayıcı değerlendirme",
-      "E": "Öz değerlendirme"
+      "A": "Yönlendirici değerlendirme",
+      "B": "Biçimlendirici süreç değerlendirmesi",
+      "C": "Tanılayıcı değerlendirme",
+      "D": "Öz değerlendirme",
+      "E": "Düzey belirleyici değerlendirme"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Düzey belirleyici değerlendirme, öğretim sürecinin sonunda öğrencilerin öğrenme düzeyini belirlemek ve not vermek amacıyla yapılır.",
     "source": {
       "kind": "generated",
@@ -1063,13 +1063,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Okuldaki bir öğretmen, sınıfın başarı ortalaması 55 olduğunda 70 alan öğrenciyi “çok başarılı”, ortalama 85 olduğunda aynı 70 puanı alan öğrenciyi “başarısız” saymaktadır. Öğrencinin başarısı, sınıfın genel ortalamasıyla karşılaştırılarak yorumlanmaktadır. Bu yaklaşım, aynı bilgi düzeyindeki öğrencilerin farklı sınıflarda farklı değerlendirilmesine yol açabilmektedir.\n\nBu değerlendirme yaklaşımı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Bağıl değerlendirme",
-      "B": "Mutlak değerlendirme",
-      "C": "Tanılayıcı değerlendirme",
-      "D": "Biçimlendirici değerlendirme",
+      "A": "Mutlak değerlendirme",
+      "B": "Tanılayıcı değerlendirme",
+      "C": "Biçimlendirici değerlendirme",
+      "D": "Bağıl değerlendirme",
       "E": "Öz değerlendirme"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Bağıl değerlendirmede öğrencinin başarısı, ait olduğu grubun ortalaması ve dağılımına göre yorumlanır; aynı puan farklı gruplarda farklı anlam taşır.",
     "source": {
       "kind": "generated",
@@ -1087,12 +1087,12 @@
     "stem": "Bir okulda ehliyet sınavı benzeri bir beceri testinde adaylardan, önceden belirlenmiş becerilerin en az yüzde seksenini göstermeleri beklenmektedir. Kaç kişinin sınava girdiğine ve diğer adayların nasıl performans sergilediğine bakılmaksızın, bu ölçütü karşılayan herkes başarılı sayılmaktadır.\n\nBu değerlendirme yaklaşımı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Tanılayıcı değerlendirme",
-      "B": "Yönlendirici değerlendirme",
-      "C": "Norm dayanaklı bağıl değerlendirme",
-      "D": "Öz değerlendirme",
-      "E": "Ölçüt dayanaklı değerlendirme"
+      "B": "Ölçüt dayanaklı değerlendirme",
+      "C": "Yönlendirici değerlendirme",
+      "D": "Norm dayanaklı bağıl değerlendirme",
+      "E": "Öz değerlendirme"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Ölçüt dayanaklı değerlendirmede başarı, öğrencinin önceden belirlenmiş bir yeterlik ölçütünü karşılayıp karşılamadığına göre belirlenir; diğer bireylerin performansı belirleyici değildir.",
     "source": {
       "kind": "generated",
@@ -1109,13 +1109,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Yedi öğrencinin katıldığı küçük bir sınavda öğrencilerin puanları 20, 40, 40, 60, 70, 80 ve 90 olarak kaydedilmiştir. Öğretmen, sınıf başarısının tek bir değerle özetlenmesinde en uygun olabilecek merkezî eğilim ölçülerinden ortanca (medyan) değeri bulmak istemektedir.\n\nBu dağılımın ortancası kaçtır?",
     "options": {
-      "A": "40",
-      "B": "20",
-      "C": "60",
+      "A": "60",
+      "B": "40",
+      "C": "20",
       "D": "70",
       "E": "57"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Puanlar küçükten büyüğe sıralandığında 7 puanın ortasındaki (4.) değer 60'tır. 40 modu, yaklaşık 57 ise aritmetik ortalamayı verir.",
     "source": {
       "kind": "generated",
@@ -1132,13 +1132,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Bir öğretmen, sekiz öğrencinin bir ödevde yaptığı yanlış sayılarını 5, 7, 7, 8, 9, 7, 10 ve 5 olarak not etmiştir. Öğretmen en sık görülen yanlış sayısını belirlemek amacıyla dağılımın modunu bulmak istemektedir. Öğretmen sayıların dağılımını incelemek için önce küçükten büyüğe sıralama yapmayı da düşünmektedir.\n\nBu dağılımın modu kaçtır?",
     "options": {
-      "A": "7",
-      "B": "10",
-      "C": "9",
-      "D": "5",
+      "A": "10",
+      "B": "9",
+      "C": "5",
+      "D": "7",
       "E": "8"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Mod, dağılımda en çok tekrar eden değerdir; 7 değeri üç kez, 5 değeri iki kez görülmüştür.",
     "source": {
       "kind": "generated",
@@ -1157,11 +1157,11 @@
     "options": {
       "A": "Negatif (sola) çarpık",
       "B": "Normal",
-      "C": "Simetrik",
-      "D": "Çift tepeli",
-      "E": "Pozitif (sağa) çarpık"
+      "C": "Pozitif (sağa) çarpık",
+      "D": "Simetrik",
+      "E": "Çift tepeli"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Aritmetik ortalama ortancadan büyükse dağılım pozitif (sağa) çarpıktır; puanlar düşük değerlerde yığılmıştır ve sınav öğrenciler için genellikle zor geçmiştir.",
     "source": {
       "kind": "generated",
@@ -1178,13 +1178,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Bir sınavda sınıfın en yüksek puanı 92, en düşük puanı 38 olarak kaydedilmiştir. Öğretmen, puan dağılımının yayılımını en basit ölçüyle, yani en büyük puan ile en küçük puan arasındaki farkla (ranj) ifade etmek istemektedir. Öğretmen bu değeri, dağılımın yayılımı hakkında hızlı bir fikir edinmek amacıyla hesaplamak istemektedir.\n\nBu dağılımın ranjı kaçtır?",
     "options": {
-      "A": "54",
-      "B": "38",
+      "A": "38",
+      "B": "54",
       "C": "65",
       "D": "92",
       "E": "130"
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "Ranj (değişim aralığı), en büyük puan ile en küçük puan arasındaki farktır: 92 − 38 = 54.",
     "source": {
       "kind": "generated",
@@ -1225,12 +1225,12 @@
     "stem": "Bir sınavda sınıf ortalaması 40, standart sapma 5 bulunmuştur. Öğretmen puanları 100 üzerinden yeniden ölçeklemek için her öğrencinin puanını 2 ile çarpmıştır. Ölçekleme öğretmenler kurulunun kararıyla yapılmış ve bütün sınıflara aynı biçimde uygulanmıştır.\n\nYeni puanların ortalaması ve standart sapması sırasıyla kaç olur?",
     "options": {
       "A": "40 — 10",
-      "B": "45 — 10",
-      "C": "80 — 5",
-      "D": "80 — 10",
+      "B": "80 — 10",
+      "C": "45 — 10",
+      "D": "80 — 5",
       "E": "42 — 7"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Her puan sabit bir sayıyla çarpılırsa hem ortalama hem standart sapma o sayıyla çarpılır: ortalama 40 × 2 = 80, standart sapma 5 × 2 = 10.",
     "source": {
       "kind": "generated",
@@ -1272,11 +1272,11 @@
     "options": {
       "A": "12",
       "B": "−1,5",
-      "C": "1,5",
-      "D": "−0,5",
-      "E": "0,5"
+      "C": "−0,5",
+      "D": "0,5",
+      "E": "1,5"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "z = (X − ortalama) / standart sapma = (72 − 60) / 8 = 1,5. Deniz'in puanı ortalamanın 1,5 standart sapma üstündedir; −1,5 işaret hatasıdır, 12 ise yalnızca puan farkıdır.",
     "source": {
       "kind": "generated",
@@ -1364,11 +1364,11 @@
     "options": {
       "A": "Orta düzeyde pozitif ilişki",
       "B": "İlişki yoktur",
-      "C": "Yüksek düzeyde pozitif ilişki",
-      "D": "Düşük düzeyde negatif ilişki",
-      "E": "Yüksek düzeyde negatif ilişki"
+      "C": "Yüksek düzeyde negatif ilişki",
+      "D": "Yüksek düzeyde pozitif ilişki",
+      "E": "Düşük düzeyde negatif ilişki"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Korelasyon katsayısı −1 ile +1 arasında değer alır; işaret ilişkinin yönünü, mutlak değer gücünü gösterir. −0,85 yüksek düzeyde negatif ilişkidir: biri arttıkça diğeri azalır.",
     "source": {
       "kind": "generated",
@@ -1385,13 +1385,13 @@
     "konu": "olcme_degerlendirme",
     "stem": "Bir matematik sınavında sınıf ortalaması 60, standart sapma 5 olarak hesaplanmıştır. Sınavdan 70 puan alan Ece, başarısının sınıfa göre konumunu öğrenmek istemektedir. Öğretmen ham puanı standart puana çevirerek Ece'nin ortalamanın kaç standart sapma üzerinde olduğunu bulacaktır.\n\nEce'nin z puanı kaçtır?",
     "options": {
-      "A": "1",
-      "B": "2",
+      "A": "2",
+      "B": "1",
       "C": "1,5",
       "D": "0,5",
       "E": "10"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "z = (X − ortalama) ÷ standart sapma = (70 − 60) ÷ 5 = 2. Ece ortalamanın 2 standart sapma üzerindedir.",
     "source": {
       "kind": "generated",
@@ -1433,11 +1433,11 @@
     "options": {
       "A": "Selin grupta 85. sırada yer almıştır",
       "B": "Grubun %85'i Selin'den daha yüksek puan almıştır",
-      "C": "Selin'in puanı sınav ortalamasının %85'idir",
-      "D": "Selin soruların %85'ini doğru yanıtlamıştır",
-      "E": "Grubun yaklaşık %85'i Selin'den daha düşük puan almıştır"
+      "C": "Grubun yaklaşık %85'i Selin'den daha düşük puan almıştır",
+      "D": "Selin'in puanı sınav ortalamasının %85'idir",
+      "E": "Selin soruların %85'ini doğru yanıtlamıştır"
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Yüzdelik sıra, bir puanın altında kalan (ya da ona eşit olan) öğrencilerin yüzdesidir; Selin'in yüzdelik sırası 85 ise grubun yaklaşık %85'i ondan düşük puan almıştır.",
     "source": {
       "kind": "generated",
@@ -1455,12 +1455,12 @@
     "stem": "Bir üniversite hazırlık sınavının puan dağılımı incelenmiştir. Aritmetik ortalama 62, ortanca (medyan) 55 ve tepe değer (mod) 48 olarak bulunmuştur. Birkaç öğrencinin çok yüksek puan aldığı, öğrencilerin çoğunun ise düşük puanlarda toplandığı görülmekte, kurul bu durumu raporuna yazmak istemektedir.\n\nBu dağılımın biçimi aşağıdakilerden hangisidir?",
     "options": {
       "A": "Normal",
-      "B": "Negatif çarpık",
-      "C": "Çift tepeli",
-      "D": "Simetrik",
-      "E": "Pozitif çarpık"
+      "B": "Pozitif çarpık",
+      "C": "Negatif çarpık",
+      "D": "Çift tepeli",
+      "E": "Simetrik"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Ortalama > ortanca > mod ise dağılım sağa (pozitif) çarpıktır: puanlar düşük değerlerde yığılmış, uç yüksek değerler ortalamayı yukarı çekmiştir.",
     "source": {
       "kind": "generated",
@@ -1478,12 +1478,12 @@
     "stem": "Bir araştırmacı, öğrencilerin okula yönelik tutumunu ölçmek için “Okula gitmeyi severim” gibi ifadelerin yer aldığı bir form hazırlamıştır. Her ifade için öğrenciler “Tamamen katılıyorum, Katılıyorum, Kararsızım, Katılmıyorum, Hiç katılmıyorum” seçeneklerinden birini işaretlemekte, yanıtlar daha sonra bilgisayarda puanlanmaktadır.\n\nBu ölçme aracı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Kontrol listesi",
-      "B": "Likert tipi tutum ölçeği",
-      "C": "Başarı testi",
+      "B": "Başarı testi",
+      "C": "Likert tipi tutum ölçeği",
       "D": "Sosyometri",
       "E": "Gözlem formu"
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Bir ifadeye katılma derecesini çok basamaklı (genellikle beş) seçenekle belirleten ölçekler Likert tipi tutum ölçeğidir.",
     "source": {
       "kind": "generated",
@@ -1501,12 +1501,12 @@
     "stem": "Bir Türkçe öğretmeni, öğrencilerinden iki farklı gazete haberinin aynı olayı nasıl sunduğunu karşılaştırmalarını, ortak ve farklı yönlerini belirleyip bunları tablo hâlinde göstermelerini istemiştir. Öğretmen, bu soruyla öğrencilerin bilgiyi parçalarına ayırıp aralarındaki ilişkiyi ortaya koyma düzeyini ölçmek istemektedir.\n\nBu soru Bloom taksonomisinin bilişsel alanında hangi basamağı ölçer?",
     "options": {
       "A": "Kavrama",
-      "B": "Sentez",
-      "C": "Uygulama",
-      "D": "Analiz",
+      "B": "Analiz",
+      "C": "Sentez",
+      "D": "Uygulama",
       "E": "Değerlendirme"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Bir bütünü parçalarına ayırma, parçalar arasındaki ilişkileri ve ortak/farklı yönleri belirleme analiz basamağıdır; kavrama bilgiyi yorumlamayı, sentez ise parçaları birleştirip yeni bir bütün oluşturmayı gerektirir.",
     "source": {
       "kind": "generated",
@@ -1523,18 +1523,110 @@
     "konu": "olcme_degerlendirme",
     "stem": "Bir üniversitede öğretim elemanları, ders çıktılarını Anderson ve Krathwohl'ün 2001'de gözden geçirdiği Bloom taksonomisine göre yazmaktadır. Taksonomide bilişsel süreç boyutunun basamakları hatırlama, anlama, uygulama, analiz, değerlendirme ve bir başka basamaktan oluşmakta; öğretim elemanları programı en üst basamağa göre tasarlamak istemektedir.\n\nGözden geçirilmiş taksonomide bilişsel süreç boyutunun en üst basamağı aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Yaratma",
-      "B": "Uygulama",
-      "C": "Analiz",
+      "A": "Uygulama",
+      "B": "Analiz",
+      "C": "Yaratma",
       "D": "Değerlendirme",
       "E": "Anlama"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Gözden geçirilmiş Bloom taksonomisinde basamaklar hatırlama, anlama, uygulama, analiz, değerlendirme ve yaratmadır; yaratma en üst düzeydir (özgün taksonomide en üst basamak değerlendirmeydi).",
     "source": {
       "kind": "generated",
       "styleRef": "AGS_URETIM_KURALLARI",
       "legislationRef": "Bloom taksonomisi: gözden geçirilmiş basamaklar"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-olc-068",
+    "ders": "egitim_bilimleri",
+    "konu": "olcme_degerlendirme",
+    "stem": "Bir sınavın standart sapması 10, güvenirlik katsayısı 0,91 olarak hesaplanmıştır. Sınav komisyonu, öğrencilerin gerçek puanlarının hangi aralıkta değişebileceğini belirlemek için bu testin ölçmenin standart hatasını bulmak istemektedir.\n\nÖlçmenin standart hatası kaçtır? (Standart hata = standart sapma × √(1 − güvenirlik))",
+    "options": {
+      "A": "0,3",
+      "B": "9,1",
+      "C": "3",
+      "D": "0,9",
+      "E": "4,1"
+    },
+    "answer": "C",
+    "solution": "Standart hata = 10 × √(1 − 0,91) = 10 × √0,09 = 10 × 0,3 = 3'tür. Güvenirlik arttıkça standart hata azalır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Ölçmenin standart hatası"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-olc-069",
+    "ders": "egitim_bilimleri",
+    "konu": "olcme_degerlendirme",
+    "stem": "Bir araştırmacı, 9., 10., 11. ve 12. sınıflarda toplam 2000 öğrencinin bulunduğu bir lisenin öğrencilerine bir tutum ölçeği uygulayacaktır. Sınıf düzeylerindeki öğrenci sayıları farklı olduğundan her sınıf düzeyinden, o düzeyin evrendeki oranına uygun sayıda öğrenciyi rastgele seçmiştir.\n\nAraştırmacının kullandığı örnekleme yöntemi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Tabakalı örnekleme",
+      "B": "Küme örnekleme",
+      "C": "Basit rastgele örnekleme",
+      "D": "Sistematik örnekleme",
+      "E": "Amaçlı örnekleme"
+    },
+    "answer": "A",
+    "solution": "Tabakalı örneklemede evren, ilgili özelliğe (burada sınıf düzeyi) göre alt gruplara ayrılır ve her gruptan evrendeki oranına uygun sayıda birim seçilir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Evren-örneklem: tabakalı örnekleme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-olc-070",
+    "ders": "egitim_bilimleri",
+    "konu": "olcme_degerlendirme",
+    "stem": "Bir üniversitenin giriş sınavı puanları ile aynı öğrencilerin ilk yıl sonundaki not ortalamaları karşılaştırılmış; sınavda yüksek puan alan öğrencilerin bir yıl sonra da yüksek not ortalamasına sahip olduğu, iki değişken arasında yüksek olumlu ilişki bulunduğu görülmüştür.\n\nBu çalışma, giriş sınavının hangi geçerlik türüne ilişkin kanıt sağlamaktadır?",
+    "options": {
+      "A": "Görünüş geçerliği",
+      "B": "Yapı geçerliği",
+      "C": "Kapsam geçerliği",
+      "D": "Eş zamanlı geçerlik",
+      "E": "Yordama geçerliği"
+    },
+    "answer": "E",
+    "solution": "Ölçüt geçerliğinin bir türü olan yordama geçerliği, test puanının ileride ortaya çıkacak bir ölçütü (burada bir yıl sonraki başarıyı) ne kadar öngördüğünü gösterir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Geçerlik: yordama geçerliği"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-egt-olc-071",
+    "ders": "egitim_bilimleri",
+    "konu": "olcme_degerlendirme",
+    "stem": "Bir öğretmen, doğru için 1, yanlış için 0 puan verilen 40 maddelik bir testin güvenirliğini tek uygulamayla belirlemek istemektedir. Testteki her maddeyi ayrı bir ölçme gibi ele alarak maddeler arasındaki iç tutarlığı hesaplayacak bir yöntem kullanmak istemektedir.\n\nÖğretmen aşağıdakilerden hangisini kullanmalıdır?",
+    "options": {
+      "A": "Kapsam geçerliği katsayısını",
+      "B": "Ayırt edicilik indeksini",
+      "C": "Eşdeğer formlar yöntemini",
+      "D": "Test-tekrar test yöntemini",
+      "E": "Kuder-Richardson 20 (KR-20) formülünü"
+    },
+    "answer": "E",
+    "solution": "KR-20, ikili (0–1) puanlanan maddelerden oluşan testlerde tek uygulamayla iç tutarlık güvenirliğini hesaplar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Güvenirlik: KR-20"
     },
     "validYear": 2026,
     "difficulty": "hard",
