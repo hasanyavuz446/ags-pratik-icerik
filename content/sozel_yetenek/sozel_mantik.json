@@ -1378,5 +1378,120 @@
     "validYear": 2026,
     "difficulty": "easy",
     "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-061",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir hastanede şu bilgiler bilinmektedir:\n\n• Bütün hemşireler nöbet tutar.\n• Nöbet tutanların bir kısmı gece vardiyasında çalışır.\n• Hiçbir stajyer nöbet tutmaz.\n\nBuna göre aşağıdakilerden hangileri kesinlikle doğrudur?\n\nI. Hiçbir hemşire stajyer değildir.\n\nII. Bazı hemşireler gece vardiyasında çalışır.\n\nIII. Bazı stajyerler gece vardiyasında çalışmaz.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "A",
+    "solution": "Hemşireler nöbet tutar, stajyerler tutmaz; bu yüzden hiçbir hemşire stajyer değildir (I). II ve III öncüllerden zorunlu olarak çıkmaz.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-062",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir spor kulübüyle ilgili şunlar bilinmektedir:\n\n• Bazı sporcular öğrencidir.\n• Bütün öğrenciler gençtir.\n• Hiçbir genç emekli değildir.\n\nBuna göre aşağıdakilerden hangileri kesinlikle doğrudur?\n\nI. Bazı sporcular gençtir.\n\nII. Emekli olmayan bazı sporcular vardır.\n\nIII. Bütün sporcular gençtir.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "B",
+    "solution": "Öğrenci olan sporcular gençtir (I) ve gençler emekli olmadığından bu sporcular emekli değildir (II). Bütün sporcuların genç olması gerekmez (III).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-063",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir ulaşım dersinde şu bilgiler verilmiştir:\n\n• Hiçbir uçak denizde yüzmez.\n• Bütün gemiler denizde yüzer.\n• Bazı araçlar uçaktır.\n\nBuna göre aşağıdakilerden hangileri kesinlikle doğrudur?\n\nI. Hiçbir gemi uçak değildir.\n\nII. Bütün araçlar uçaktır.\n\nIII. Gemi olmayan bazı araçlar vardır.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "C",
+    "solution": "Gemiler yüzer, uçaklar yüzmez; hiçbir gemi uçak değildir (I). Uçak olan araçlar gemi olamaz, böylece gemi olmayan araçlar vardır (III). Bütün araçların uçak olması gerekmez (II).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-064",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir derneğin kurultayı ile ilgili şu bilgiler bilinmektedir:\n\n• Bütün üyeler kurultaya katılır.\n• Kurultaya katılanların bir kısmı gözlemcidir.\n• Hiçbir gözlemci oy kullanmaz.\n\nBuna göre aşağıdakilerden hangileri kesinlikle doğrudur?\n\nI. Bazı üyeler gözlemcidir.\n\nII. Kurultaya katılan ve oy kullanmayan bazı kişiler vardır.\n\nIII. Oy kullanan hiç kimse gözlemci değildir.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "D",
+    "solution": "Gözlemciler kurultaya katılır ve oy kullanmaz (II); oy kullananlar bu yüzden gözlemci olamaz (III). Gözlemcilerin üye olması gerekmez (I).",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-man-065",
+    "ders": "sozel_yetenek",
+    "konu": "sozel_mantik",
+    "stem": "Bir restoranla ilgili şunlar bilinmektedir:\n\n• Bütün aşçılar mutfakta çalışır.\n• Mutfakta çalışan hiç kimse dışarıda yemek yemez.\n• Bazı aşçılar şeftir.\n\nBuna göre aşağıdakilerden hangileri kesinlikle doğrudur?\n\nI. Hiçbir aşçı dışarıda yemek yemez.\n\nII. Mutfakta çalışan bazı kişiler şeftir.\n\nIII. Dışarıda yemek yiyen hiç kimse aşçı değildir.",
+    "options": {
+      "A": "Yalnız I",
+      "B": "I ve II",
+      "C": "I ve III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "answer": "E",
+    "solution": "Aşçılar mutfakta çalışır ve mutfakta çalışanlar dışarıda yemek yemez; bu nedenle I ve III doğrudur. Şef olan aşçılar mutfakta çalıştığı için II de doğrudur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Sözel mantık: niceleyicili önermeler (öncüllü)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
   }
 ]

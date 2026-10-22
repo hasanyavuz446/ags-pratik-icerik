@@ -5,13 +5,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Ancak bu bağı kurmak, çocuğa kitap almakla tek başına mümkün olmaz. (II) Okuma alışkanlığı, çocukluk yıllarında kazanıldığında ömür boyu sürer. (III) Böylece okuma, çocuğun gözünde bir ödev değil, isteyerek yaptığı bir etkinlik hâline gelir. (IV) Bu alışkanlığı edinen çocuklar, kitaplarla kurdukları bağı yetişkinlikte de korur. (V) Bunun için ailenin de okuyan bir örnek olması ve evde okumaya ayrılmış sessiz bir köşenin bulunması gerekir.",
     "options": {
-      "A": "II - IV - I - V - III",
-      "B": "IV - II - I - V - III",
-      "C": "IV - I - V - III - II",
-      "D": "III - V - I - IV - II",
-      "E": "II - IV - I - III - V"
+      "A": "IV - II - I - V - III",
+      "B": "IV - I - V - III - II",
+      "C": "III - V - I - IV - II",
+      "D": "II - IV - I - III - V",
+      "E": "II - IV - I - V - III"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Zincir: “okuma alışkanlığı” → “Bu alışkanlığı” → “bu bağı” → “Bunun için” → “Böylece”.",
     "source": {
       "kind": "generated",
@@ -52,12 +52,12 @@
     "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Alınacak önlemler, bu araştırmaların sonuçlarına göre belirlenecektir. (II) Dolayısıyla arı sayısındaki azalma, bal üretimini olduğu kadar tarımsal verimi de tehlikeye atar. (III) Bu sayede meyve ve sebze türlerinin büyük bölümünün üretimi mümkün olur. (IV) Bilim insanları bu nedenle arıların neden azaldığını araştırmakta, ilaçlı tarımın etkisini incelemektedir. (V) Arılar, çiçekten çiçeğe konarak bitkilerin döllenmesine yardımcı olan canlılardır.",
     "options": {
       "A": "III - II - IV - I - V",
-      "B": "V - III - II - I - IV",
-      "C": "V - III - II - IV - I",
+      "B": "V - III - II - IV - I",
+      "C": "V - III - II - I - IV",
       "D": "III - V - II - IV - I",
       "E": "I - IV - II - III - V"
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Zincir: “döllenme” → “Bu sayede” → “Dolayısıyla … azalma” → “bu nedenle … araştırmakta” → “bu araştırmaların”.",
     "source": {
       "kind": "generated",
@@ -122,11 +122,11 @@
     "options": {
       "A": "V - II - IV - I - III",
       "B": "V - IV - I - III - II",
-      "C": "II - V - IV - I - III",
-      "D": "III - I - IV - V - II",
-      "E": "II - V - IV - III - I"
+      "C": "III - I - IV - V - II",
+      "D": "II - V - IV - III - I",
+      "E": "II - V - IV - I - III"
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Zincir: “dinleme becerisi” → “dinleme becerisi gelişen” → “bu dikkatin” → “Bu çok yönlü katkı” → “Bizim okullarımızda da”.",
     "source": {
       "kind": "generated",
@@ -144,12 +144,12 @@
     "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu uzun yolculuk sırasında onlara rehberlik eden başlıca etkenlerden biri güneşin ve yıldızların konumudur. (II) Bu buluş, canlıların yön bulma yeteneğine ilişkin bilgilerimizi önemli ölçüde genişletmiştir. (III) Bilim insanları bu doğal pusulanın nasıl çalıştığını anlamak için kuşların beyinlerini incelemiştir. (IV) Göçmen kuşlar, mevsim değişimiyle birlikte binlerce kilometre uzağa uçar. (V) İncelemeler sonucunda kuşların yerküremizin manyetik alanını da algılayabildiği ortaya çıkmıştır.",
     "options": {
       "A": "II - V - III - I - IV",
-      "B": "IV - I - III - V - II",
-      "C": "I - IV - III - V - II",
-      "D": "I - III - V - II - IV",
+      "B": "I - IV - III - V - II",
+      "C": "I - III - V - II - IV",
+      "D": "IV - I - III - V - II",
       "E": "IV - I - III - II - V"
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Zincir: “uçar” → “Bu uzun yolculuk” → “bu doğal pusulanın” → “İncelemeler sonucunda” → “Bu buluş”.",
     "source": {
       "kind": "generated",
@@ -166,13 +166,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu yüzden gönderilmeden önce her iletinin bir kez daha okunması yararlı olur. (II) Elektronik posta, yazışma biçimimizi kökten değiştirmiştir. (III) Özensiz yazılmış bir ileti ise karşı tarafta yanlış bir izlenim bırakabilir. (IV) Eskiden birkaç gün süren bir mektup alışverişi, artık birkaç saniyede tamamlanabilmektedir. (V) Ancak bu hız, iletilerin özensiz ve düşünülmeden yazılmasına da yol açmaktadır.",
     "options": {
-      "A": "II - IV - V - III - I",
-      "B": "II - IV - V - I - III",
-      "C": "IV - V - III - I - II",
+      "A": "II - IV - V - I - III",
+      "B": "IV - V - III - I - II",
+      "C": "II - IV - V - III - I",
       "D": "IV - II - V - III - I",
       "E": "I - III - V - IV - II"
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Zincir: “yazışma biçimimiz” → “Eskiden … artık” → “bu hız” → “Özensiz yazılmış bir ileti” → “Bu yüzden”.",
     "source": {
       "kind": "generated",
@@ -189,13 +189,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Bu işleme geri dönüşüm denir ve doğal kaynakların korunmasına büyük katkı sağlar. (II) Bu tasarruf, aynı zamanda üretim sürecinde harcanan enerjinin azalmasıyla da sonuçlanır. (III) Enerjiden sağlanan bu kazanç göz önüne alındığında, atıkları ayırmak en basit çevre görevlerinden biri sayılmalıdır. (IV) Atıkların bir bölümü doğru ayrıştırıldığında yeniden değerlendirilebilir. (V) Örneğin bir ton kâğıdın geri dönüştürülmesi, çok sayıda ağacın kesilmesini önleyerek ciddi bir tasarruf sağlar.",
     "options": {
-      "A": "III - II - V - I - IV",
-      "B": "IV - I - V - III - II",
-      "C": "IV - I - V - II - III",
+      "A": "IV - I - V - II - III",
+      "B": "III - II - V - I - IV",
+      "C": "IV - I - V - III - II",
       "D": "I - IV - V - II - III",
       "E": "I - V - II - III - IV"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Zincir: “yeniden değerlendirilebilir” → “Bu işleme” → “Örneğin … tasarruf” → “Bu tasarruf … enerji” → “Enerjiden sağlanan bu kazanç”.",
     "source": {
       "kind": "generated",
@@ -212,13 +212,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralanırsa doğru sıralama hangisi olur?\n\n(I) Düzenli spor yapan bireylerde kalp ve damar hastalıkları daha seyrek görülür. (II) Güçlenen kalp, aynı miktardaki kanı daha az çalışarak vücuda pompalar. (III) Doktorlar bu sebeple haftada en az üç gün hareketli olmayı önerir. (IV) Bu durumun temel nedeni, egzersizin kalp kasını güçlendirmesidir. (V) Bu verimlilik, dinlenme sırasında nabzın düşük kalmasını sağlar.",
     "options": {
-      "A": "IV - I - II - V - III",
-      "B": "I - IV - II - V - III",
+      "A": "I - IV - II - V - III",
+      "B": "IV - I - II - V - III",
       "C": "I - IV - II - III - V",
       "D": "III - V - II - IV - I",
       "E": "IV - II - V - III - I"
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Zincir: “seyrek görülür” → “Bu durumun” → “Güçlenen kalp” → “Bu verimlilik” → “bu sebeple”.",
     "source": {
       "kind": "generated",
@@ -261,10 +261,10 @@
       "A": "III - V - I - II - IV",
       "B": "II - IV - I - V - III",
       "C": "V - III - I - IV - II",
-      "D": "III - V - I - IV - II",
-      "E": "V - I - IV - II - III"
+      "D": "V - I - IV - II - III",
+      "E": "III - V - I - IV - II"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Zincir: “kullanarak” → “Kullanma fırsatı” → “Bu hatalar” → “bu bilgiden” → “Sonuçta”.",
     "source": {
       "kind": "generated",
@@ -833,13 +833,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\nBirçok şehirde kütüphaneler, kitap ödünç vermenin ötesinde çeşitli etkinlikler düzenliyor. ( … ) Bu atölyelerde çocuklar hem eğleniyor hem de kitaplarla tanışıyor. Böylece okuma alışkanlığı erken yaşta kazanılıyor.",
     "options": {
-      "A": "Örneğin hafta sonları çocuklar için masal ve resim atölyeleri açılıyor.",
-      "B": "Kitap ödünç almak için bir üyelik kartı çıkarmak gerekiyor.",
-      "C": "Bazı kütüphanelerin binaları tarihî yapılar olarak korunuyor.",
-      "D": "Kütüphanelerde sessizlik kuralına uyulması isteniyor.",
-      "E": "Bu kurumlar genellikle sabah dokuzda kapılarını açıyor."
+      "A": "Kitap ödünç almak için bir üyelik kartı çıkarmak gerekiyor.",
+      "B": "Bazı kütüphanelerin binaları tarihî yapılar olarak korunuyor.",
+      "C": "Kütüphanelerde sessizlik kuralına uyulması isteniyor.",
+      "D": "Bu kurumlar genellikle sabah dokuzda kapılarını açıyor.",
+      "E": "Örneğin hafta sonları çocuklar için masal ve resim atölyeleri açılıyor."
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Sonraki cümledeki “Bu atölyelerde” ifadesi, boşluğa atölyelerden söz eden cümlenin gelmesini gerektirir.",
     "source": {
       "kind": "generated",
@@ -856,13 +856,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\n( … ) Bu bitkiler, kuraklığa dayanıklı olduğu için yarı kurak bölgelerde rahatça yetişir. Yetiştiricilik de bu bölgelerde yaşayanlara ek bir gelir sağlar.",
     "options": {
-      "A": "Gelir düzeyi arttıkça beslenme alışkanlıkları değişiyor.",
-      "B": "Köylerde yaşayan insanların sayısı her yıl azalıyor.",
-      "C": "Nohut ve mercimek gibi baklagiller, ülkemizde yaygın olarak ekilen bitkilerdir.",
+      "A": "Nohut ve mercimek gibi baklagiller, ülkemizde yaygın olarak ekilen bitkilerdir.",
+      "B": "Gelir düzeyi arttıkça beslenme alışkanlıkları değişiyor.",
+      "C": "Köylerde yaşayan insanların sayısı her yıl azalıyor.",
       "D": "Kuraklık, dünyanın birçok yerinde tarımı etkiliyor.",
       "E": "Yarı kurak bölgelerde yağış miktarı yıllara göre değişir."
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "“Bu bitkiler” göndermesi için ilk cümlede bitkilerin tanıtılması gerekir; diğer şıklarda bitki adı geçmez.",
     "source": {
       "kind": "generated",
@@ -881,11 +881,11 @@
     "options": {
       "A": "Bilet fiyatları kentten kente değişmektedir.",
       "B": "Filmlerin yapımında yüzlerce kişi görev alır.",
-      "C": "Nitekim ülkemizde çekilen birkaç film, uluslararası festivallerde ödül kazanmıştır.",
-      "D": "Film çekimleri çoğunlukla birkaç ay sürer.",
-      "E": "Birçok izleyici filmleri evde izlemeyi tercih ediyor."
+      "C": "Film çekimleri çoğunlukla birkaç ay sürer.",
+      "D": "Birçok izleyici filmleri evde izlemeyi tercih ediyor.",
+      "E": "Nitekim ülkemizde çekilen birkaç film, uluslararası festivallerde ödül kazanmıştır."
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "“Bu başarı” ifadesi, boşluğa bir başarıdan (ödül) söz eden cümlenin gelmesini gerektirir.",
     "source": {
       "kind": "generated",
@@ -905,10 +905,10 @@
       "A": "Gemilerin ana yapı malzemesi çoğunlukla meşe ağacıydı.",
       "B": "Limanlarda yapılan ticaret, kentlerin zenginleşmesini sağlardı.",
       "C": "Denizcilerin birçoğu yıllarca evlerinden uzak kalırdı.",
-      "D": "Uzun yolculuklarda en büyük sorun taze yiyecek bulmaktı.",
-      "E": "Gündüzleri güneşin, geceleri ise yıldızların konumuna bakarak rotalarını belirlerlerdi."
+      "D": "Gündüzleri güneşin, geceleri ise yıldızların konumuna bakarak rotalarını belirlerlerdi.",
+      "E": "Uzun yolculuklarda en büyük sorun taze yiyecek bulmaktı."
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "“Bunlara ek olarak” ifadesi, daha önce sayılmış yön bulma araçlarını (güneş, yıldız) gerektirir.",
     "source": {
       "kind": "generated",
@@ -927,11 +927,11 @@
     "options": {
       "A": "Ebeveynlerin ilk aylarda yeterince uyuyamaması olağandır.",
       "B": "Yeni doğan bebeklerin kemikleri henüz tam sertleşmemiştir.",
-      "C": "Konuşamadıkları için açlık, yorgunluk ya da rahatsızlık gibi ihtiyaçlarını ağlayarak bildirirler.",
-      "D": "Bebek bakımı konusunda birçok kitap yayımlanmıştır.",
+      "C": "Bebek bakımı konusunda birçok kitap yayımlanmıştır.",
+      "D": "Konuşamadıkları için açlık, yorgunluk ya da rahatsızlık gibi ihtiyaçlarını ağlayarak bildirirler.",
       "E": "Bebeklerin uyku düzeni yaşa göre değişir."
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "“Bu yüzden … ağlamasının” ifadesi, boşluğa bebeğin ağlayarak ihtiyaç bildirdiğini söyleyen cümlenin gelmesini gerektirir.",
     "source": {
       "kind": "generated",
@@ -950,11 +950,11 @@
     "options": {
       "A": "Bazı çiçekler ilkbaharda açar.",
       "B": "Bitkiler büyüyebilmek için su ve ışığa ihtiyaç duyar.",
-      "C": "Bahçecilik, yüzyıllardır sürdürülen bir uğraştır.",
-      "D": "İyi bir bahçıvan toprağın yapısını iyi tanımalıdır.",
-      "E": "Bahçıvanlar yeni bitki elde etmek için genellikle iki yöntemden yararlanır."
+      "C": "Bahçıvanlar yeni bitki elde etmek için genellikle iki yöntemden yararlanır.",
+      "D": "Bahçecilik, yüzyıllardır sürdürülen bir uğraştır.",
+      "E": "İyi bir bahçıvan toprağın yapısını iyi tanımalıdır."
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "“Bu iki yöntem” göndermesi, ilk cümlede iki yöntemden söz edilmesini gerektirir.",
     "source": {
       "kind": "generated",
@@ -971,13 +971,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
     "options": {
-      "A": "Şirket, bu yıl kârını yaklaşık yüzde on kadar artırdığını duyurdu.",
-      "B": "Kütüphane, hafta sonları da öğrencilere hizmet veriyor.",
+      "A": "Kütüphane, hafta sonları da öğrencilere hizmet veriyor.",
+      "B": "Şirket, bu yıl kârını yaklaşık yüzde on kadar artırdığını duyurdu.",
       "C": "Yarışmaya katılanlar arasında en genç yarışmacı on yedi yaşındaydı.",
       "D": "Eski mahallelerde komşuluk ilişkileri bugün de güçlüdür.",
       "E": "Bu proje, üç ay içinde tamamlanacak."
     },
-    "answer": "A",
+    "answer": "B",
     "solution": "“Yaklaşık” ve “kadar” sözcükleri aynı anlamı iki kez verir (gereksiz sözcük).",
     "source": {
       "kind": "generated",
@@ -1019,11 +1019,11 @@
     "options": {
       "A": "Öğretmen, ödevleri hafta başında topladı.",
       "B": "Çocuklar, yağmur dinince yeniden sokağa çıktı.",
-      "C": "Yeni açılan kafe öğrencilerin uğrak yeri oldu.",
-      "D": "Pazar yerinde taze meyve ve sebze satılıyordu.",
-      "E": "İki takımın oyuncuları, maçtan sonra karşılıklı birbirlerine sarıldı."
+      "C": "İki takımın oyuncuları, maçtan sonra karşılıklı birbirlerine sarıldı.",
+      "D": "Yeni açılan kafe öğrencilerin uğrak yeri oldu.",
+      "E": "Pazar yerinde taze meyve ve sebze satılıyordu."
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "“Karşılıklı” ve “birbirlerine” aynı karşılıklılık anlamını iki kez verir.",
     "source": {
       "kind": "generated",
@@ -1040,13 +1040,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdakilerden hangisinde, aynı anlamı taşıyan sözcüklerin birlikte kullanılması anlatımı bozmuştur?",
     "options": {
-      "A": "Bahçedeki güller bu yıl erken açtı.",
-      "B": "Yarın sabah erkenden yola çıkacağız.",
-      "C": "Toplantı salonunun kapısı kilitliydi.",
-      "D": "Merdivenlerden aşağı inerken ayağım takıldı.",
+      "A": "Merdivenlerden aşağı inerken ayağım takıldı.",
+      "B": "Bahçedeki güller bu yıl erken açtı.",
+      "C": "Yarın sabah erkenden yola çıkacağız.",
+      "D": "Toplantı salonunun kapısı kilitliydi.",
       "E": "Kardeşim bana güzel bir kitap hediye etti."
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "“İnmek” zaten aşağıya doğru hareketi anlatır; “aşağı” gereksizdir.",
     "source": {
       "kind": "generated",
@@ -1063,13 +1063,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki cümlelerin hangisinde öznenin kişisi ile yüklemin kişisi uyuşmamaktadır?",
     "options": {
-      "A": "Ben ve arkadaşlarım dün akşam sinemaya gitti.",
-      "B": "Annem ve babam bu yaz tatile çıkacak.",
-      "C": "Sen ve ben yarın erken kalkacağız.",
+      "A": "Annem ve babam bu yaz tatile çıkacak.",
+      "B": "Sen ve ben yarın erken kalkacağız.",
+      "C": "Ben ve arkadaşlarım dün akşam sinemaya gitti.",
       "D": "Siz ve arkadaşlarınız toplantıya katıldınız.",
       "E": "Kardeşimle ben dün akşam sinemaya gittik."
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Özne “ben ve arkadaşlarım” birinci çoğul kişidir; yüklem “gittik” olmalıdır.",
     "source": {
       "kind": "generated",
@@ -1088,11 +1088,11 @@
     "options": {
       "A": "Kardeşin ve sen akşam yemeğine kalın.",
       "B": "Ayşe ve ailesi bizimle birlikte tatile çıkacak.",
-      "C": "Ali ve Ayşe yarın bizimle yemeğe gelecek.",
-      "D": "Ben ve kardeşim yarın size gelip yardım edeceğiz.",
-      "E": "Sen ve kardeşin yarın bizimle yemeğe gelecekler."
+      "C": "Sen ve kardeşin yarın bizimle yemeğe gelecekler.",
+      "D": "Ali ve Ayşe yarın bizimle yemeğe gelecek.",
+      "E": "Ben ve kardeşim yarın size gelip yardım edeceğiz."
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Özne “sen ve kardeşin” ikinci çoğul kişidir; yüklem “geleceksiniz” olmalıdır.",
     "source": {
       "kind": "generated",
@@ -1112,10 +1112,10 @@
       "A": "Yıl boyunca nehrin su seviyesi sık sık değişir.",
       "B": "Bu bölgede yağışlar çoğunlukla kış aylarında görülür.",
       "C": "Yaz aylarında bölgeye birçok turist gelir.",
-      "D": "Bölge halkı geçimini daha çok tarımdan sağlar.",
-      "E": "Bu bölgeye yılda ortalama yaklaşık beş yüz milimetre yağış düşer."
+      "D": "Bu bölgeye yılda ortalama yaklaşık beş yüz milimetre yağış düşer.",
+      "E": "Bölge halkı geçimini daha çok tarımdan sağlar."
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "“Ortalama” ve “yaklaşık” sözcükleri birbirini karşılar; biri gereksizdir.",
     "source": {
       "kind": "generated",
@@ -1133,12 +1133,12 @@
     "stem": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu, gereksiz sözcük kullanımından kaynaklanmaktadır?",
     "options": {
       "A": "Bu kitap bana yeni bir bakış açısı kazandırdı.",
-      "B": "Yazar, romanını bir yılda tamamlamış.",
-      "C": "Kitap, birçok dile çevrilmiş.",
-      "D": "Bu kitap bana çok yararlı faydalar sağladı.",
+      "B": "Bu kitap bana çok yararlı faydalar sağladı.",
+      "C": "Yazar, romanını bir yılda tamamlamış.",
+      "D": "Kitap, birçok dile çevrilmiş.",
       "E": "Kitabın son bölümü beni çok etkiledi."
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "“Yararlı” ve “fayda” aynı anlamı taşır; birlikte kullanılması gereksiz tekrardır.",
     "source": {
       "kind": "generated",
@@ -1155,13 +1155,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
     "options": {
-      "A": "Pek çok öğrenci sınava hazırlanıyor.",
-      "B": "Herşey yolunda gittiği için çok mutluyuz.",
+      "A": "Herşey yolunda gittiği için çok mutluyuz.",
+      "B": "Pek çok öğrenci sınava hazırlanıyor.",
       "C": "Bu konuda birçok kişi aynı fikirde.",
       "D": "Bir şey söylemeden odadan çıktı.",
       "E": "Yarın sabah erkenden yola çıkacağız."
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "“Her şey” ayrı yazılır; “herşey” yanlıştır.",
     "source": {
       "kind": "generated",
@@ -1178,13 +1178,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki cümlelerden hangisi yazım bakımından yanlıştır?",
     "options": {
-      "A": "Yinede başarılı olacağına inanıyorum.",
-      "B": "Kimse bu soruyu çözemedi.",
-      "C": "Onu ben de çok severim.",
+      "A": "Kimse bu soruyu çözemedi.",
+      "B": "Onu ben de çok severim.",
+      "C": "Yinede başarılı olacağına inanıyorum.",
       "D": "Konuşmanın ardından salonda derin bir sessizlik oldu.",
       "E": "Yağmur yağdığı hâlde yine de dışarı çıktık."
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "“Yine de” bağlacı ayrı yazılır; “yinede” yanlıştır.",
     "source": {
       "kind": "generated",
@@ -1204,10 +1204,10 @@
       "A": "Sınavdan önce birkaç saat dinlendik.",
       "B": "Hiçbir şey beni bu kadar etkilememişti.",
       "C": "Birkaç gün sonra tatile çıkacağız.",
-      "D": "Bir kaç kişi kapının önünde bekliyordu.",
-      "E": "Her gün yarım saat yürüyüş yapıyorum."
+      "D": "Her gün yarım saat yürüyüş yapıyorum.",
+      "E": "Bir kaç kişi kapının önünde bekliyordu."
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "“Birkaç” bitişik yazılır; “bir kaç” yanlıştır.",
     "source": {
       "kind": "generated",
@@ -1250,10 +1250,10 @@
       "A": "Türkiye'nin başkenti Ankara'dır.",
       "B": "Ali, Ayşe'ye kitabı verdi.",
       "C": "Eskişehir'den gelen tren geç kaldı.",
-      "D": "Atatürk'ün sözleri bugün de yol gösteriyor.",
-      "E": "Ankara'lı arkadaşım yarın bize gelecek."
+      "D": "Ankara'lı arkadaşım yarın bize gelecek.",
+      "E": "Atatürk'ün sözleri bugün de yol gösteriyor."
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Yapım eki alan sözcüklerde (Ankaralı) kesme işareti kullanılmaz.",
     "source": {
       "kind": "generated",
@@ -1270,13 +1270,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı vardır?",
     "options": {
-      "A": "Dün akşam yemekte; çorba, pilav ve salata yedik.",
-      "B": "Kitabı okudum ama beğenmedim.",
-      "C": "Kardeşim, annem ve ben sofrayı hazırladık.",
-      "D": "Toplantıya şunlar katıldı: müdür, müdür yardımcısı ve öğretmenler.",
-      "E": "Neden geç kaldığını bana söyler misin?"
+      "A": "Kitabı okudum ama beğenmedim.",
+      "B": "Kardeşim, annem ve ben sofrayı hazırladık.",
+      "C": "Toplantıya şunlar katıldı: müdür, müdür yardımcısı ve öğretmenler.",
+      "D": "Neden geç kaldığını bana söyler misin?",
+      "E": "Dün akşam yemekte; çorba, pilav ve salata yedik."
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Cümlenin tümleci olan “yemekte” sözcüğünden sonra noktalı virgül konmaz; noktalı virgül burada yanlış kullanılmıştır.",
     "source": {
       "kind": "generated",
@@ -1316,13 +1316,13 @@
     "konu": "anlatimin_olusmasi",
     "stem": "Kentte yaşam hızlı akar; kırsalda ise saatler daha ağır işler. Kentte komşuluk ilişkileri zayıflarken köyde herkes birbirini tanır.\n\nBu parçada düşünceyi geliştirme yollarından hangisine başvurulmuştur?",
     "options": {
-      "A": "Tanımlama",
-      "B": "Tanık gösterme",
-      "C": "Karşılaştırma",
+      "A": "Karşılaştırma",
+      "B": "Tanımlama",
+      "C": "Tanık gösterme",
       "D": "Sayısal verilerden yararlanma",
       "E": "Örneklendirme"
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Kent ve köy yaşamı, benzerlik ve farklılıkları ortaya koyacak biçimde karşılaştırılmıştır.",
     "source": {
       "kind": "generated",
@@ -1363,12 +1363,12 @@
     "stem": "Okulumuzdaki 400 öğrencinin 260'ı servisle gelmektedir. Bu oran, öğrencilerin yarıdan fazlasının ulaşım için servise bağımlı olduğunu göstermektedir.\n\nBu parçada düşünceyi geliştirme yollarından hangisine başvurulmuştur?",
     "options": {
       "A": "Örneklendirme",
-      "B": "Tanımlama",
-      "C": "Karşılaştırma",
-      "D": "Tanık gösterme",
-      "E": "Sayısal verilerden yararlanma"
+      "B": "Sayısal verilerden yararlanma",
+      "C": "Tanımlama",
+      "D": "Karşılaştırma",
+      "E": "Tanık gösterme"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Yargı, öğrenci sayısı ve oranlar gibi sayısal verilerle desteklenmiştir.",
     "source": {
       "kind": "generated",
@@ -1377,6 +1377,374 @@
     },
     "validYear": 2026,
     "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-061",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde çatı uyumsuzluğundan kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": {
+      "A": "Hasta, doktor tarafından muayene edildi ve gerekli ilaçlar yazıldı.",
+      "B": "Kitaplar raflara yerleştirildi, sınıf düzenlendi ve ders zili çalındı.",
+      "C": "Yeni kütüphane geçen yıl hizmete açıldı ve öğrencilerden yoğun ilgi gördü.",
+      "D": "Öğretmenler kurulu toplandı, bütün öğrencilerin başarı durumunu değerlendirdi.",
+      "E": "Yarışmaya katılan öğrenciler jüri tarafından değerlendirildi ve ödüllerini verdiler."
+    },
+    "answer": "E",
+    "solution": "İlk yüklem edilgen (değerlendirildi), ikincisi etken (verdiler) olduğundan çatılar uyumsuzdur; öteki cümlelerde yüklemler çatı bakımından tutarlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (çatı uyumsuzluğu)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-062",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde karşılaştırma yapılırken bir anlatım bozukluğu yapılmıştır?",
+    "options": {
+      "A": "Bu yılın sınav soruları geçen yıldan daha zordu.",
+      "B": "Ankara'nın nüfusu İstanbul'unkinden çok daha azdır.",
+      "C": "Kardeşimin boyu benim boyumdan on santim daha uzundur.",
+      "D": "Bu yılın sınav soruları geçen yılınkilerden daha zordu.",
+      "E": "Bu bölgenin iklimi, komşu bölgenin iklimine göre daha ılımandır."
+    },
+    "answer": "A",
+    "solution": "Karşılaştırmada aynı türden varlıklar karşılaştırılır; “sorular” ile “geçen yıl” karşılaştırılamaz. Doğrusu “geçen yılınkilerden” olmalıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (karşılaştırma)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-063",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde nesne ile yüklemin uyuşmamasından doğan bir anlatım bozukluğu vardır?",
+    "options": {
+      "A": "Bu filmi hem izledim hem de arkadaşlarıma önerdim.",
+      "B": "Bu kitabı hem okudum hem de çok etkilendim.",
+      "C": "Bu şarkıyı hem dinledim hem de ezberledim.",
+      "D": "Bu resmi hem inceledim hem de çok sevdim.",
+      "E": "Bu kitabı hem okudum hem de çok beğendim."
+    },
+    "answer": "B",
+    "solution": "“Kitabı okudum” nesne ister; “etkilendim” ise “-den” (kitaptan) ayrılma durumu ister. Ortak “kitabı” nesnesi iki yüklemle uyuşmaz. Doğrusu: “Bu kitabı okudum ve çok etkilendim.” → “kitaptan çok etkilendim”.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (nesne-yüklem uyumsuzluğu)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-064",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde bir sözcük yanlış anlamda kullanılmıştır?",
+    "options": {
+      "A": "Kararsızlığı sayesinde bu fırsatı kaçırdı.",
+      "B": "Dikkatsizliği yüzünden sınavda birkaç soruyu yanlış yaptı.",
+      "C": "Yeterli hazırlık yapmadığı için sınavda zorlandı.",
+      "D": "Titiz çalışması sayesinde projeyi zamanında teslim etti.",
+      "E": "Yoğun trafik nedeniyle toplantıya biraz geç kaldı."
+    },
+    "answer": "A",
+    "solution": "“Sayesinde” olumlu sonuçlar için kullanılır; fırsatın kaçırılması olumsuz bir sonuçtur. Doğrusu “yüzünden” olmalıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (sözcüğün yanlış anlamda kullanılması)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-065",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisinde mantık hatası vardır?",
+    "options": {
+      "A": "Yağmur yağacağını duyunca şemsiyemi yanıma aldım.",
+      "B": "Yorgun olduğumdan akşam erkenden uyumaya karar verdim.",
+      "C": "Sınav yaklaştığı için dersime daha çok çalışmaya başladım.",
+      "D": "Hava çok sıcak olduğu için ceketimi alıp evden çıktım.",
+      "E": "Hava çok soğuk olduğu için ceketimi alıp evden çıktım."
+    },
+    "answer": "D",
+    "solution": "Sıcak havada insanın ceket alması beklenmez; neden ile sonuç arasında mantık uyumsuzluğu vardır. Öteki cümlelerde neden-sonuç ilişkisi tutarlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (mantık hatası)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-066",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde zaman bakımından bir anlatım bozukluğu vardır?",
+    "options": {
+      "A": "Geçen hafta okulumuza gelen konuk, öğrencilerle sohbet etti.",
+      "B": "Yarın okulumuza gelecek konuk, öğrencilerle sohbet edecek.",
+      "C": "Gelecek hafta okulumuza gelecek olan konuk, öğrencilerle sohbet edecek.",
+      "D": "Dün okulumuza gelen konuk, öğrencilerle uzun uzun sohbet etti.",
+      "E": "Gelecek hafta okulumuza gelen konuk, öğrencilerle sohbet etti."
+    },
+    "answer": "E",
+    "solution": "“Gelecek hafta” gelecek zamanı bildirirken “sohbet etti” geçmiş zamanlı bir yüklemdir; zaman bakımından uyumsuzluk vardır. Öteki cümlelerde zaman zarfı ile yüklem uyumludur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (zaman uyumsuzluğu)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-067",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde birbiriyle çelişen ifadeler yer almaktadır?",
+    "options": {
+      "A": "Bu sırrı kimseye söylememeye söz verdim.",
+      "B": "Çok az kişinin bildiği bu sır artık herkesin diline düştü.",
+      "C": "Hiç kimsenin bilmediği bu sırrı yalnızca birkaç kişi biliyor.",
+      "D": "Bu sırrı yalnızca yakın arkadaşlarım biliyor.",
+      "E": "Yıllardır saklanan bu sır sonunda ortaya çıktı."
+    },
+    "answer": "C",
+    "solution": "“Hiç kimsenin bilmediği” ile “birkaç kişi biliyor” ifadeleri birbirini yok eder. Öteki cümlelerde ifadeler tutarlıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (çelişki)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-068",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde anlam belirsizliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": {
+      "A": "Murat, Ali'yi çok sevdiği için ona hediye aldı.",
+      "B": "Ali, kardeşine aldığı hediyeyi Murat'a gösterdi.",
+      "C": "Murat, çok sevdiği arkadaşına doğum günü için hediye aldı.",
+      "D": "Murat, Ali'ye doğum gününde güzel bir kitap hediye etti.",
+      "E": "Murat, hediye aldığı arkadaşıyla bir akşam yemeğine çıktı."
+    },
+    "answer": "A",
+    "solution": "“Çok sevdiği” ifadesinin öznesi belli değildir: Murat'ın Ali'yi mi, Ali'nin Murat'ı mı sevdiği anlaşılamaz. Öteki cümlelerde özneler açıktır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (anlam belirsizliği)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-069",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi bakımından bir anlatım bozukluğu vardır?",
+    "options": {
+      "A": "Sınav kolay olduğu için çoğumuz yüksek puan aldı.",
+      "B": "Hazırlıklı olduğumuz için sınavdan memnun ayrıldık.",
+      "C": "Sınav kolay olduğu için hiçbirimiz tam puan alamadık.",
+      "D": "Sınav zor geçtiği için çoğumuz beklediğimiz puanı alamadık.",
+      "E": "Sınav kolay olduğu hâlde hiçbirimiz tam puan alamadık."
+    },
+    "answer": "C",
+    "solution": "Kolay bir sınavın sonucunda herkesin düşük puan alması beklenmez; “için” bağlacı yanlış kurulmuştur. Doğrusu “hâlde” ile bağlanmasıdır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: anlatım bozukluğu (bağlaç ve mantık)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-070",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde “de/da” bağlacının yazımında bir yanlışlık vardır?",
+    "options": {
+      "A": "Çocuk da sınıfta kaldı.",
+      "B": "Sen de bizimle gel.",
+      "C": "Gitti de dönmedi.",
+      "D": "Ali'de bizimle birlikte pikniğe gelecek.",
+      "E": "Bu kitap bende, o kitap sende kalsın."
+    },
+    "answer": "D",
+    "solution": "Bağlaç olan “de/da” ayrı yazılır; “Ali de bizimle gelecek” biçiminde olmalıdır. “Bende, sende” ise bulunma durumu eki olduğu için bitişik yazılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları (de/da)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-071",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde “ki” sözcüğü yanlış yazılmıştır?",
+    "options": {
+      "A": "Gördüm ki bu iş çok zor.",
+      "B": "Çünkü hava çok soğuktu.",
+      "C": "Sanki bütün dünya ona kızgındı.",
+      "D": "Belki yarın yağmur yağar.",
+      "E": "Madem ki sınava hazırlanmadın, endişelenmenin anlamı yok."
+    },
+    "answer": "E",
+    "solution": "“Mademki, belki, çünkü, sanki, oysaki” gibi sözcüklerdeki “ki” bitişik yazılır; bağlaç olan “ki” ise ayrı yazılır (“Gördüm ki”). “Madem ki” biçiminde ayrı yazım yanlıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları (ki)"
+    },
+    "validYear": 2026,
+    "difficulty": "hard",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-072",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde soru eki “mi” yanlış yazılmıştır?",
+    "options": {
+      "A": "Başarılı mıydı?",
+      "B": "Okula geldi mi?",
+      "C": "Yarın bizimle gelirmisin?",
+      "D": "Gelecek misin?",
+      "E": "Bugün hava güzel mi?"
+    },
+    "answer": "C",
+    "solution": "Soru eki “mi” kendinden önceki sözcükten ayrı yazılır; doğrusu “gelir misin?” biçimindedir. Öteki cümlelerde ek doğru yazılmıştır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları (soru eki)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-073",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde büyük harf kullanımı yönünden bir yanlışlık vardır?",
+    "options": {
+      "A": "Pazartesi günü İzmir'e gideceğiz.",
+      "B": "Doktor Ayşe Hanım yarın gelecek.",
+      "C": "Ağabeyim Türk Dil Kurumu'nda çalışıyor.",
+      "D": "Dedem, Kurtuluş Savaşı'nı anlatırken gözleri doldu.",
+      "E": "Her yıl Mayıs ayında Eskişehir'e gideriz."
+    },
+    "answer": "E",
+    "solution": "Ay ve gün adları özel ad olarak kullanılmadıkça küçük harfle başlar; “mayıs ayında” yazılmalıdır. Kuruluş, savaş ve kişi adları büyük harfle başlar.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları (büyük harf)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-074",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde birleşik yazılması gereken bir sözcük ayrı yazılmıştır?",
+    "options": {
+      "A": "Bu konuda bir çok kitap okudum.",
+      "B": "Hiçbir zaman pes etmemeliyiz.",
+      "C": "Her şey yolunda gidiyordu.",
+      "D": "Birkaç kişi toplantıya gelmedi.",
+      "E": "Bazı insanlar erken kalkmayı sever."
+    },
+    "answer": "A",
+    "solution": "“Birçok” bitişik yazılır; “bir çok” ayrı yazımı yanlıştır. “Hiçbir” ve “birkaç” bitişik, “her şey” ayrı yazılır.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları (birleşik sözcükler)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-075",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerden hangisinde ayrı yazılması gereken bir sözcük bitişik yazılmıştır?",
+    "options": {
+      "A": "Şimdilik hiçbir şey yapmak istemiyorum.",
+      "B": "Bu akşam eve geç geleceğim.",
+      "C": "Şuan çok yorgunum.",
+      "D": "Dün gece hiç uyuyamadım.",
+      "E": "O an ne yapacağımı bilemedim."
+    },
+    "answer": "C",
+    "solution": "“Şu an” ayrı yazılır; “şuan” biçimi yanlıştır. Öteki cümlelerde yazım kurallarına uyulmuştur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: yazım kuralları (ayrı yazılan sözcükler)"
+    },
+    "validYear": 2026,
+    "difficulty": "easy",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-anl-076",
+    "ders": "sozel_yetenek",
+    "konu": "anlatimin_olusmasi",
+    "stem": "Aşağıdaki cümlelerin hangisinde noktalama (soru işareti) yanlışı vardır?",
+    "options": {
+      "A": "Hava neden bu kadar soğuk?",
+      "B": "Ne zaman döneceğini bilmiyorum?",
+      "C": "Bu işi kim yaptı?",
+      "D": "Yarın okula kaçta gideceksin?",
+      "E": "Bana yardım eder misin?"
+    },
+    "answer": "B",
+    "solution": "Dolaylı soru cümlesi (“… bilmiyorum”) bildirme cümlesi olduğundan nokta ile biter; soru işareti yalnızca asıl soru cümlelerinin sonuna konur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Anlatımın oluşması: noktalama (soru işareti)"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
     "mockExamId": null
   }
 ]

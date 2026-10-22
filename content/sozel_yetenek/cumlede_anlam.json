@@ -5,13 +5,13 @@
     "konu": "cumlede_anlam",
     "stem": "‘Erkenden yola çıkarsan toplantıya yetişirsin.’ cümlesinde aşağıdaki anlam ilişkilerinden hangisi vardır?",
     "options": {
-      "A": "Koşul – sonuç",
-      "B": "Neden – sonuç",
-      "C": "Zıtlık (ödün)",
-      "D": "Karşılaştırma",
-      "E": "Amaç ve sonuç"
+      "A": "Neden – sonuç",
+      "B": "Zıtlık (ödün)",
+      "C": "Karşılaştırma",
+      "D": "Amaç ve sonuç",
+      "E": "Koşul – sonuç"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "‘-sa’ koşul eki bir şartı bildirir: yola erken çıkma, toplantıya yetişmenin koşuludur.",
     "source": {
       "kind": "generated",
@@ -29,12 +29,12 @@
     "stem": "‘Sağlığına kavuşmak için her sabah yürüyüş yapıyor.’ cümlesinde aşağıdaki anlam ilişkilerinden hangisi vardır?",
     "options": {
       "A": "Zıtlık (ödün)",
-      "B": "Neden – sonuç",
-      "C": "Koşul – sonuç",
-      "D": "Karşılaştırma",
-      "E": "Amaç ve sonuç"
+      "B": "Amaç ve sonuç",
+      "C": "Neden – sonuç",
+      "D": "Koşul – sonuç",
+      "E": "Karşılaştırma"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "‘İçin’ edatı yapılan işin amacını bildirir: yürüyüş, sağlığa kavuşmak amacıyla yapılmaktadır.",
     "source": {
       "kind": "generated",
@@ -75,12 +75,12 @@
     "stem": "‘Bu yılki hasat, geçen yıldakinden daha verimli geçti.’ cümlesinde aşağıdaki anlam ilişkilerinden hangisi vardır?",
     "options": {
       "A": "Zıtlık (ödün)",
-      "B": "Koşul – sonuç",
-      "C": "Amaç ve sonuç",
-      "D": "Karşılaştırma",
+      "B": "Karşılaştırma",
+      "C": "Koşul – sonuç",
+      "D": "Amaç ve sonuç",
       "E": "Neden – sonuç"
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "‘-den daha’ iki durumu verimlilik bakımından kıyaslar.",
     "source": {
       "kind": "generated",
@@ -97,13 +97,13 @@
     "konu": "cumlede_anlam",
     "stem": "‘Çok yorulmasına rağmen çalışmayı bırakmadı.’ cümlesinde aşağıdaki anlam ilişkilerinden hangisi vardır?",
     "options": {
-      "A": "Zıtlık (ödün)",
-      "B": "Amaç ve sonuç",
-      "C": "Karşılaştırma",
-      "D": "Neden – sonuç",
-      "E": "Koşul – sonuç"
+      "A": "Amaç ve sonuç",
+      "B": "Karşılaştırma",
+      "C": "Neden – sonuç",
+      "D": "Koşul – sonuç",
+      "E": "Zıtlık (ödün)"
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "‘Rağmen’ beklenenin tersine bir durumu bildirir: yorgunluk çalışmayı bırakma nedeni olmamıştır.",
     "source": {
       "kind": "generated",
@@ -121,12 +121,12 @@
     "stem": "‘Elektrikler kesildi; çünkü şiddetli bir fırtına çıkmıştı.’ cümlesinde aşağıdaki anlam ilişkilerinden hangisi vardır?",
     "options": {
       "A": "Karşılaştırma",
-      "B": "Amaç ve sonuç",
-      "C": "Zıtlık (ödün)",
-      "D": "Koşul – sonuç",
-      "E": "Neden – sonuç"
+      "B": "Neden – sonuç",
+      "C": "Amaç ve sonuç",
+      "D": "Zıtlık (ödün)",
+      "E": "Koşul – sonuç"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "‘Çünkü’ ile verilen fırtına, elektriklerin kesilmesinin nedenidir.",
     "source": {
       "kind": "generated",
@@ -146,10 +146,10 @@
       "A": "Karşılaştırma",
       "B": "Zıtlık (ödün)",
       "C": "Neden – sonuç",
-      "D": "Koşul – sonuç",
-      "E": "Amaç ve sonuç"
+      "D": "Amaç ve sonuç",
+      "E": "Koşul – sonuç"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Yeterince uyuma şartı gerçekleşmezse dikkat toplama sonucu gerçekleşmez; ‘-sa’ koşul bildirir.",
     "source": {
       "kind": "generated",
@@ -189,13 +189,13 @@
     "konu": "cumlede_anlam",
     "stem": "‘Hava soğuk olsa da çocuklar bahçede oynamaya devam etti.’ cümlesinde aşağıdaki anlam ilişkilerinden hangisi vardır?",
     "options": {
-      "A": "Zıtlık (ödün)",
-      "B": "Karşılaştırma",
-      "C": "Koşul – sonuç",
-      "D": "Neden – sonuç",
+      "A": "Karşılaştırma",
+      "B": "Koşul – sonuç",
+      "C": "Neden – sonuç",
+      "D": "Zıtlık (ödün)",
       "E": "Amaç ve sonuç"
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "‘-sa da’ kalıbı, soğuğa karşın oyunun sürdüğünü, yani beklenenin tersini bildirir.",
     "source": {
       "kind": "generated",
@@ -214,11 +214,11 @@
     "options": {
       "A": "Zıtlık (ödün)",
       "B": "Neden – sonuç",
-      "C": "Koşul – sonuç",
-      "D": "Karşılaştırma",
+      "C": "Karşılaştırma",
+      "D": "Koşul – sonuç",
       "E": "Amaç ve sonuç"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "‘Kadar’ ile iki kişi hız bakımından eşitlik yoluyla karşılaştırılmıştır.",
     "source": {
       "kind": "generated",
@@ -238,10 +238,10 @@
       "A": "Türkiye'nin başkenti Ankara'dır.",
       "B": "Ay, Dünya'nın doğal uydusudur.",
       "C": "Dünya, Güneş'in çevresindeki dolanımını yaklaşık üç yüz altmış beş günde tamamlar.",
-      "D": "Su, deniz seviyesinde yüz derecede kaynar.",
-      "E": "Bence sonbahar, yılın en güzel mevsimidir."
+      "D": "Bence sonbahar, yılın en güzel mevsimidir.",
+      "E": "Su, deniz seviyesinde yüz derecede kaynar."
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "‘Bence’ ve ‘en güzel’ kişisel beğeniyi bildirir; öteki cümleler doğrulanabilir bilgidir.",
     "source": {
       "kind": "generated",
@@ -260,11 +260,11 @@
     "options": {
       "A": "Türkiye'nin üç tarafı denizlerle çevrilidir.",
       "B": "Kâğıt, odundan elde edilen selülozdan üretilir.",
-      "C": "Bu şehrin sokakları gerçekten büyüleyici.",
-      "D": "İstanbul Boğazı, Karadeniz'i Marmara Denizi'ne bağlar.",
-      "E": "Erzurum, Doğu Anadolu Bölgesi'nde yer alır."
+      "C": "İstanbul Boğazı, Karadeniz'i Marmara Denizi'ne bağlar.",
+      "D": "Erzurum, Doğu Anadolu Bölgesi'nde yer alır.",
+      "E": "Bu şehrin sokakları gerçekten büyüleyici."
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "‘Büyüleyici’ kişiden kişiye değişen bir değerlendirmedir; öteki cümleler kanıtlanabilir bilgi verir.",
     "source": {
       "kind": "generated",
@@ -281,13 +281,13 @@
     "konu": "cumlede_anlam",
     "stem": "Aşağıdaki cümlelerin hangisi nesnel bir yargı bildirir?",
     "options": {
-      "A": "Deniz kenarında yaşamak, şehirde yaşamaktan çok daha huzurludur.",
-      "B": "Klasik müzik, bütün müzik türleri arasında en değerlisidir.",
-      "C": "Anadolu mutfağı, dünyanın en lezzetli mutfağıdır.",
-      "D": "Mevsimler, Dünya'nın eksen eğikliği nedeniyle oluşur.",
+      "A": "Mevsimler, Dünya'nın eksen eğikliği nedeniyle oluşur.",
+      "B": "Deniz kenarında yaşamak, şehirde yaşamaktan çok daha huzurludur.",
+      "C": "Klasik müzik, bütün müzik türleri arasında en değerlisidir.",
+      "D": "Anadolu mutfağı, dünyanın en lezzetli mutfağıdır.",
       "E": "Bu film, izlediğim en sıkıcı yapımlardan biriydi."
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Mevsimlerin oluşumu bilimsel olarak açıklanabilir; öteki cümleler kişisel değerlendirmedir.",
     "source": {
       "kind": "generated",
@@ -305,12 +305,12 @@
     "stem": "Aşağıdaki cümlelerden hangisi doğruluğu kanıtlanabilir bir bilgi içerir?",
     "options": {
       "A": "Bu film, izlediğim en sıkıcı yapımlardan biriydi.",
-      "B": "Ege Denizi, Türkiye'nin batısında bulunur.",
-      "C": "O konuşmacının sesi insanı derinden etkiliyor.",
-      "D": "Anadolu mutfağı, dünyanın en lezzetli mutfağıdır.",
-      "E": "Kitap kokusu, dünyanın en hoş kokusudur."
+      "B": "O konuşmacının sesi insanı derinden etkiliyor.",
+      "C": "Anadolu mutfağı, dünyanın en lezzetli mutfağıdır.",
+      "D": "Kitap kokusu, dünyanın en hoş kokusudur.",
+      "E": "Ege Denizi, Türkiye'nin batısında bulunur."
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Ege Denizi'nin konumu haritadan kanıtlanabilir; ötekiler duygu ve beğeniye dayanır.",
     "source": {
       "kind": "generated",
@@ -329,11 +329,11 @@
     "options": {
       "A": "Marmara Bölgesi, Türkiye'nin nüfusu en kalabalık bölgesidir.",
       "B": "Dünya, Güneş'in çevresinde döner.",
-      "C": "Fırat, Türkiye'de doğup Körfez'e dökülen bir nehirdir.",
-      "D": "İstanbul Boğazı, Karadeniz'i Marmara Denizi'ne bağlar.",
-      "E": "Bu film, izlediğim en sıkıcı yapımlardan biriydi."
+      "C": "Bu film, izlediğim en sıkıcı yapımlardan biriydi.",
+      "D": "Fırat, Türkiye'de doğup Körfez'e dökülen bir nehirdir.",
+      "E": "İstanbul Boğazı, Karadeniz'i Marmara Denizi'ne bağlar."
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "‘En sıkıcı’ söyleyenin kişisel yargısıdır; öteki cümleler gözlenebilir gerçekleri anlatır.",
     "source": {
       "kind": "generated",
@@ -397,12 +397,12 @@
     "stem": "Aşağıdaki cümlelerden hangisi ölçülebilir ya da gözlemlenebilir bir duruma dayanır?",
     "options": {
       "A": "O konuşmacının sesi insanı derinden etkiliyor.",
-      "B": "Bence sonbahar, yılın en güzel mevsimidir.",
-      "C": "Marmara Bölgesi nüfusça en kalabalık bölgedir.",
+      "B": "Marmara Bölgesi nüfusça en kalabalık bölgedir.",
+      "C": "Bence sonbahar, yılın en güzel mevsimidir.",
       "D": "Kitap kokusu, dünyanın en hoş kokusudur.",
       "E": "Bu şehrin sokakları gerçekten büyüleyici."
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Nüfus sayımla ölçülebilir; ötekiler duygusal ve kişisel yargılardır.",
     "source": {
       "kind": "generated",
@@ -419,13 +419,13 @@
     "konu": "cumlede_anlam",
     "stem": "Yıllardır aynı sokakta oturan Hatice Teyze, komşularının çocuklarını bile adlarıyla tanıyor.\n\nBu cümleden aşağıdakilerden hangisi çıkarılabilir?",
     "options": {
-      "A": "Sokaktaki bütün çocuklar Hatice Teyze'yi tanır.",
-      "B": "Hatice Teyze, çevresiyle yakın bir ilişki kurmuştur.",
+      "A": "Hatice Teyze, çevresiyle yakın bir ilişki kurmuştur.",
+      "B": "Sokaktaki bütün çocuklar Hatice Teyze'yi tanır.",
       "C": "Hatice Teyze'nin kendi çocuğu yoktur.",
       "D": "Hatice Teyze'nin komşuları sık sık taşınır.",
       "E": "Hatice Teyze çocuklarla ilgili bir meslekte çalışmıştır."
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Çocukları bile adıyla tanıması çevresiyle sıkı bağ kurduğunu gösterir; ötekiler cümlede yer almayan bilgilerdir.",
     "source": {
       "kind": "generated",
@@ -444,11 +444,11 @@
     "options": {
       "A": "Elif sınavda çok başarılı oldu.",
       "B": "Elif, derslerden sıkılarak okulu bırakmak istiyor.",
-      "C": "Elif, yeterince dinlenemediği için yorgundu.",
-      "D": "Elif'in öğretmeni dersi sıkıcı anlatıyordu.",
-      "E": "Elif her gece sabaha kadar çalışır."
+      "C": "Elif'in öğretmeni dersi sıkıcı anlatıyordu.",
+      "D": "Elif her gece sabaha kadar çalışır.",
+      "E": "Elif, yeterince dinlenemediği için yorgundu."
     },
-    "answer": "C",
+    "answer": "E",
     "solution": "Gece uyumadan çalışma ve esneme, yorgunluğu gösterir; ötekiler cümleden anlaşılmaz.",
     "source": {
       "kind": "generated",
@@ -465,13 +465,13 @@
     "konu": "cumlede_anlam",
     "stem": "Köyün çeşmesi kurudu, kuyular çekildi; çiftçiler bu yıl ekinlerini sulamak için komşu köye gitmek zorunda kalıyor.\n\nBu cümleden aşağıdakilerden hangisi çıkarılabilir?",
     "options": {
-      "A": "Köyde su sıkıntısı yaşanmaktadır.",
-      "B": "Komşu köyün bütün suları kurumuştur.",
-      "C": "Bu yıl bölgeye hiç yağmur yağmamıştır.",
-      "D": "Çiftçiler ekin ekmekten vazgeçmiştir.",
-      "E": "Köydeki kuyular yeni açılmıştır."
+      "A": "Komşu köyün bütün suları kurumuştur.",
+      "B": "Bu yıl bölgeye hiç yağmur yağmamıştır.",
+      "C": "Çiftçiler ekin ekmekten vazgeçmiştir.",
+      "D": "Köydeki kuyular yeni açılmıştır.",
+      "E": "Köyde su sıkıntısı yaşanmaktadır."
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Çeşme ve kuyuların kuruması ve su için başka köye gitme, su sıkıntısını gösterir.",
     "source": {
       "kind": "generated",
@@ -489,12 +489,12 @@
     "stem": "Kentin eski çarşısında dükkânların çoğu kepenk indirmiş; sokaklarda yalnızca bir iki esnaf kalmıştı.\n\nBu cümleden aşağıdakilerden hangisi çıkarılabilir?",
     "options": {
       "A": "Kentin nüfusu iki katına çıkmıştır.",
-      "B": "Eski çarşı yeni yıkılmıştır.",
-      "C": "Dükkân sahipleri zarar ettikleri için dava açmıştır.",
-      "D": "Eski çarşıdaki ticari hareket azalmıştır.",
+      "B": "Eski çarşıdaki ticari hareket azalmıştır.",
+      "C": "Eski çarşı yeni yıkılmıştır.",
+      "D": "Dükkân sahipleri zarar ettikleri için dava açmıştır.",
       "E": "Kentteki bütün esnaf başka şehre taşınmıştır."
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Kepenk indirmiş dükkânlar ve az esnaf, ticaretin azaldığını gösterir.",
     "source": {
       "kind": "generated",
@@ -514,10 +514,10 @@
       "A": "Kitap okuma oranı son yıllarda büyük ölçüde düşmüştür.",
       "B": "Kütüphaneler ödünç vermeyi bırakıp kitap satışına başlamıştır.",
       "C": "Kitap fiyatları son yıllarda her yıl yarı yarıya düşmüştür.",
-      "D": "Kütüphane üyelerinin sayısı hızla azalmaktadır.",
-      "E": "Bazı okurlar kitaba ücretsiz ulaşmayı tercih etmiş olabilir."
+      "D": "Bazı okurlar kitaba ücretsiz ulaşmayı tercih etmiş olabilir.",
+      "E": "Kütüphane üyelerinin sayısı hızla azalmaktadır."
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Ödünç alım artarken satın alım azalmıştır; bu durum ücretsiz erişime yönelişi düşündürür. Ötekiler cümleyle çelişir ya da ondan çıkmaz.",
     "source": {
       "kind": "generated",
@@ -535,12 +535,12 @@
     "stem": "Hocamız, derse geç gelenleri uyarmakla yetinmez, kapıda bekleyip nedenini de sorardı.\n\nBu cümleden aşağıdakilerden hangisi çıkarılabilir?",
     "options": {
       "A": "Geç kalan öğrenciler sınıfa alınmazdı.",
-      "B": "Öğretmen, geç kalma konusunda titizdi.",
-      "C": "Öğrenciler hocadan korktuğu için ders çalışırdı.",
-      "D": "Öğretmen derse hep geç gelirdi.",
-      "E": "Hocanın dersleri çok sıkıcıydı."
+      "B": "Öğrenciler hocadan korktuğu için ders çalışırdı.",
+      "C": "Öğretmen derse hep geç gelirdi.",
+      "D": "Hocanın dersleri çok sıkıcıydı.",
+      "E": "Öğretmen, geç kalma konusunda titizdi."
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Uyarmakla yetinmeyip nedenini sorması titizliğini gösterir.",
     "source": {
       "kind": "generated",
@@ -581,12 +581,12 @@
     "stem": "Bu mahallede inşaat başladığından beri hava kirliliği ölçüm cihazları rekor değerler gösteriyor.\n\nBu cümleden aşağıdakilerden hangisi çıkarılabilir?",
     "options": {
       "A": "Mahalle sakinleri kirlilik nedeniyle başka bölgelere göç etmiştir.",
-      "B": "İnşaat sona erdiğinde kirlilik tamamen ortadan kalkacaktır.",
-      "C": "İnşaat, hava kalitesini olumsuz etkilemiş görünmektedir.",
+      "B": "İnşaat, hava kalitesini olumsuz etkilemiş görünmektedir.",
+      "C": "İnşaat sona erdiğinde kirlilik tamamen ortadan kalkacaktır.",
       "D": "Ölçüm cihazları uzun süredir bozuk çalışmaktadır.",
       "E": "Mahallede inşaattan başka bir kirlilik kaynağı bulunmamaktadır."
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "İnşaatla birlikte yükselen ölçüm değerleri bir ilişkiyi düşündürür; ötekiler cümlenin söylemediği kesin yargılardır.",
     "source": {
       "kind": "generated",
@@ -605,11 +605,11 @@
     "options": {
       "A": "Yüz yüze görüşmeler eskisinden seyrektir.",
       "B": "Uzaktaki insanlarla iletişim kolaylaşmıştır.",
-      "C": "Teknoloji, mesafeleri kısaltmıştır.",
-      "D": "Teknolojinin iletişime hem olumlu hem olumsuz etkisi olmuştur.",
-      "E": "Teknoloji, insan ilişkilerini tamamen sona erdirmiştir."
+      "C": "Teknoloji, insan ilişkilerini tamamen sona erdirmiştir.",
+      "D": "Teknoloji, mesafeleri kısaltmıştır.",
+      "E": "Teknolojinin iletişime hem olumlu hem olumsuz etkisi olmuştur."
     },
-    "answer": "E",
+    "answer": "C",
     "solution": "Cümle yüz yüze görüşmenin azaldığını söyler, ilişkilerin bittiğini söylemez.",
     "source": {
       "kind": "generated",
@@ -626,13 +626,13 @@
     "konu": "cumlede_anlam",
     "stem": "Şehrin yeni parkı, çocuk oyun alanları ve yürüyüş yollarıyla her yaştan insana hitap edecek biçimde tasarlandı.\n\nBu cümleden aşağıdakilerden hangisi çıkarılamaz?",
     "options": {
-      "A": "Park, çocuklara özel olarak ayrılmıştır.",
-      "B": "Park, geniş bir kesime hizmet etmek üzere planlanmıştır.",
-      "C": "Parkta yürüyüş yolları vardır.",
+      "A": "Park, geniş bir kesime hizmet etmek üzere planlanmıştır.",
+      "B": "Parkta yürüyüş yolları vardır.",
+      "C": "Park, çocuklara özel olarak ayrılmıştır.",
       "D": "Park tasarlanırken farklı yaş grupları düşünülmüştür.",
       "E": "Parkta çocuklar için oyun alanı bulunur."
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Park her yaştan insan için tasarlanmıştır; yalnızca çocuklara ait olduğu söylenemez.",
     "source": {
       "kind": "generated",
@@ -649,13 +649,13 @@
     "konu": "cumlede_anlam",
     "stem": "Kitap fuarında bu yıl hem yerli hem yabancı yayınevleri yer aldı; ziyaretçi sayısı geçen yıla göre arttı.\n\nBu cümleden aşağıdakilerden hangisi çıkarılamaz?",
     "options": {
-      "A": "Fuar, yabancı yayınevleri yüzünden iptal edilmiştir.",
-      "B": "Fuar bu yıl yapılmış ve açılışı gerçekleşmiştir.",
-      "C": "Fuarda yerli yayınevleri de yer almıştır.",
-      "D": "Ziyaretçi sayısı bir önceki yıla göre artış göstermiştir.",
+      "A": "Fuar bu yıl yapılmış ve açılışı gerçekleşmiştir.",
+      "B": "Fuarda yerli yayınevleri de yer almıştır.",
+      "C": "Ziyaretçi sayısı bir önceki yıla göre artış göstermiştir.",
+      "D": "Fuar, yabancı yayınevleri yüzünden iptal edilmiştir.",
       "E": "Fuara yabancı yayınevleri de katılım göstermiştir."
     },
-    "answer": "A",
+    "answer": "D",
     "solution": "Fuar yapılmıştır; iptal edildiğine dair bir ipucu yoktur, aksine cümleyle çelişir.",
     "source": {
       "kind": "generated",
@@ -672,13 +672,13 @@
     "konu": "cumlede_anlam",
     "stem": "Dedem bahçesindeki ağaçları her yıl ilkbaharda budar, kışlık çiçekleri ise sonbaharda dikerdi.\n\nBu cümleden aşağıdakilerden hangisi çıkarılamaz?",
     "options": {
-      "A": "Ağaç budama ilkbahara denk gelirdi.",
-      "B": "Çiçekler sonbaharda dikilirdi.",
-      "C": "Dedem bahçe işlerini mevsimine göre yapardı.",
-      "D": "Dedem bahçeyle ilgilenmeyi sevmezdi.",
+      "A": "Dedem bahçeyle ilgilenmeyi sevmezdi.",
+      "B": "Ağaç budama ilkbahara denk gelirdi.",
+      "C": "Çiçekler sonbaharda dikilirdi.",
+      "D": "Dedem bahçe işlerini mevsimine göre yapardı.",
       "E": "Bahçede ağaçlar bulunmaktaydı."
     },
-    "answer": "D",
+    "answer": "A",
     "solution": "Mevsimine göre düzenli bahçe işi yapan biri için bahçeden hoşlanmadığı söylenemez.",
     "source": {
       "kind": "generated",
@@ -718,13 +718,13 @@
     "konu": "cumlede_anlam",
     "stem": "‘Çalışmayan öğrenci başarılı olamaz.’ cümlesiyle anlamca en yakın cümle aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Çalışan her öğrenci mutlaka başarılı olur.",
-      "B": "Başarılı öğrencilerin çoğu çalışmaz.",
-      "C": "Başarılı olmak için çalışmak gerekir.",
+      "A": "Başarılı olmak için çalışmak gerekir.",
+      "B": "Çalışan her öğrenci mutlaka başarılı olur.",
+      "C": "Başarılı öğrencilerin çoğu çalışmaz.",
       "D": "Öğrenci başarısı çalışmaya bağlı değildir.",
       "E": "Çalışmayan öğrenciler başarılı olur."
     },
-    "answer": "C",
+    "answer": "A",
     "solution": "Başarının çalışmaya bağlı olduğu iki cümlede de aynıdır; ötekiler yargıyı tersine çevirir ya da genişletir.",
     "source": {
       "kind": "generated",
@@ -764,13 +764,13 @@
     "konu": "cumlede_anlam",
     "stem": "‘Toplantıya katılmayan kimse kalmadı.’ cümlesiyle anlamca en yakın cümle aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Toplantıya herkes katılmış oldu.",
-      "B": "Toplantıya kimse katılmadı.",
-      "C": "Toplantıya katılanların sayısı belli değildi.",
+      "A": "Toplantıya kimse katılmadı.",
+      "B": "Toplantıya katılanların sayısı belli değildi.",
+      "C": "Toplantıya herkes katılmış oldu.",
       "D": "Toplantıya katılmayanlar azınlıktaydı.",
       "E": "Toplantıya birkaç kişi katıldı."
     },
-    "answer": "A",
+    "answer": "C",
     "solution": "Çifte olumsuzlama olumluya döner: katılmayan kalmadıysa herkes katılmıştır.",
     "source": {
       "kind": "generated",
@@ -787,13 +787,13 @@
     "konu": "cumlede_anlam",
     "stem": "‘Ahmet, ödevini bitirmeden dışarı çıkmadı.’ cümlesiyle anlamca en yakın cümle aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Ahmet ödevini bitirmek için dışarı çıktı.",
-      "B": "Ahmet önce ödevini bitirdi, sonra çıktı.",
+      "A": "Ahmet önce ödevini bitirdi, sonra çıktı.",
+      "B": "Ahmet ödevini bitirmek için dışarı çıktı.",
       "C": "Ahmet dışarı çıkıp ödevini sonra bitirdi.",
       "D": "Ahmet ödevini yapmadan dışarı çıktı.",
       "E": "Ahmet ödevini hiç bitirmedi."
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "Ödev bitmeden çıkmamak, önce bitirip sonra çıkmak demektir.",
     "source": {
       "kind": "generated",
@@ -810,13 +810,13 @@
     "konu": "cumlede_anlam",
     "stem": "Aşağıdaki cümlelerin hangisinde zaman bakımından bir çelişki vardır?",
     "options": {
-      "A": "Dün akşam ailemle birlikte sinemaya gittik.",
-      "B": "Yarın sabah erkenden okula gitmiştik.",
+      "A": "Yarın sabah erkenden okula gitmiştik.",
+      "B": "Dün akşam ailemle birlikte sinemaya gittik.",
       "C": "Haftaya yeni evimize taşınacağız.",
       "D": "Önümüzdeki ay sınav sonuçları açıklanacak.",
       "E": "Geçen yaz Karadeniz'de tatil yapmıştık."
     },
-    "answer": "B",
+    "answer": "A",
     "solution": "‘Yarın’ gelecek zamanı, ‘gitmiştik’ geçmişi bildirir; zaman anlamları çelişir.",
     "source": {
       "kind": "generated",
@@ -834,12 +834,12 @@
     "stem": "Aşağıdaki cümlelerin hangisinde neden-sonuç bakımından bir tutarsızlık vardır?",
     "options": {
       "A": "Yağmur çok şiddetli yağdığı için gezi ertelendi.",
-      "B": "Yolda yoğun trafik olduğu için toplantıya geç kaldı.",
-      "C": "Hasta olmadığı için doktora gitmek zorunda kaldı.",
+      "B": "Hasta olmadığı için doktora gitmek zorunda kaldı.",
+      "C": "Yolda yoğun trafik olduğu için toplantıya geç kaldı.",
       "D": "Dersi dinlemediği için konuyu anlayamadı.",
       "E": "Sınava iyi hazırlandığı için kaygı duymuyordu."
     },
-    "answer": "C",
+    "answer": "B",
     "solution": "Hasta olmamak, doktora gitmeyi zorunlu kılmaz; neden ile sonuç uyuşmamaktadır.",
     "source": {
       "kind": "generated",
@@ -879,13 +879,13 @@
     "konu": "cumlede_anlam",
     "stem": "Aşağıdaki cümlelerden hangisi anlamca tutarsızdır?",
     "options": {
-      "A": "Dağın zirvesinden vadiyi aşağıdan seyrettik.",
-      "B": "Vadide yürürken zirveyi gözümüzle aradık.",
-      "C": "Zirveye çıkınca manzara önümüzde açıldı.",
-      "D": "Vadinin dibinden zirveye doğru baktık.",
-      "E": "Dağın zirvesinden vadiyi yukarıdan seyrettik."
+      "A": "Vadide yürürken zirveyi gözümüzle aradık.",
+      "B": "Zirveye çıkınca manzara önümüzde açıldı.",
+      "C": "Vadinin dibinden zirveye doğru baktık.",
+      "D": "Dağın zirvesinden vadiyi yukarıdan seyrettik.",
+      "E": "Dağın zirvesinden vadiyi aşağıdan seyrettik."
     },
-    "answer": "A",
+    "answer": "E",
     "solution": "Zirvede olan biri vadiyi yukarıdan değil aşağıdan görür; ‘aşağıdan seyretmek’ anlamı bozar.",
     "source": {
       "kind": "generated",
@@ -904,11 +904,11 @@
     "options": {
       "A": "Uykusuz kaldığı için gün boyu bitkindi.",
       "B": "Yorgunluktan ayakta duramıyordu.",
-      "C": "Yorulmadığı hâlde bitkinlikten yere yığıldı.",
-      "D": "Koşuyu bitirdikten sonra dinlenmek için oturdu.",
+      "C": "Koşuyu bitirdikten sonra dinlenmek için oturdu.",
+      "D": "Yorulmadığı hâlde bitkinlikten yere yığıldı.",
       "E": "Çok yorulmasına karşın koşmaya devam etti."
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Hiç yorulmayan birinin bitkinlikten yığılması mantık bakımından çelişkilidir.",
     "source": {
       "kind": "generated",
@@ -926,12 +926,12 @@
     "stem": "Aşağıdaki cümlelerin hangisinde bir mantık hatası vardır?",
     "options": {
       "A": "Sınava girmeden önce konuları tekrar etti.",
-      "B": "Sınavı kazanmak için çok çalıştı, bu yüzden birinci oldu.",
-      "C": "Sınava hazırlanmadığı için sonuçtan memnun değildi.",
-      "D": "Ders çalışmadı, bu yüzden sınavda birinci oldu.",
+      "B": "Ders çalışmadı, bu yüzden sınavda birinci oldu.",
+      "C": "Sınavı kazanmak için çok çalıştı, bu yüzden birinci oldu.",
+      "D": "Sınava hazırlanmadığı için sonuçtan memnun değildi.",
       "E": "Çalışmalarının karşılığını sınavda aldı."
     },
-    "answer": "D",
+    "answer": "B",
     "solution": "Hiç çalışmamak birinciliğin nedeni olamaz; neden-sonuç ilişkisi mantıksızdır.",
     "source": {
       "kind": "generated",
@@ -972,12 +972,12 @@
     "stem": "Aşağıdaki cümlelerin hangisinde öğüt (öneri) bildirilmiştir?",
     "options": {
       "A": "Bu akşam şehrin kuzeyinde yağmur yağabilir.",
-      "B": "Sınavdan önce biraz dinlensen daha iyi olur.",
-      "C": "Bu belgeyi yarın öğleden önce teslim etmelisin.",
+      "B": "Bu belgeyi yarın öğleden önce teslim etmelisin.",
+      "C": "Sınavdan önce biraz dinlensen daha iyi olur.",
       "D": "Dün akşam arkadaşlarım yemeğe gelmediler.",
       "E": "Keşke sınav öncesinde daha çok çalışsaydım."
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "‘Dinlensen iyi olur’ karşıdakine yol gösterir; öteki cümleler olasılık, zorunluluk, pişmanlık ve bilgi bildirir.",
     "source": {
       "kind": "generated",
@@ -1064,12 +1064,12 @@
     "stem": "‘Sabah kalkıp çantasını aldı, kapıyı çekip merdivenlerden indi ve otobüs durağına yürüdü.’ cümlesi hangi anlatım biçimine örnektir?",
     "options": {
       "A": "Konuşma (diyalog)",
-      "B": "Öyküleme",
-      "C": "Tartışma",
-      "D": "Açıklama",
-      "E": "Betimleme"
+      "B": "Tartışma",
+      "C": "Açıklama",
+      "D": "Betimleme",
+      "E": "Öyküleme"
     },
-    "answer": "B",
+    "answer": "E",
     "solution": "Olaylar zaman sırasıyla art arda anlatıldığı için cümle öykülemedir.",
     "source": {
       "kind": "generated",
@@ -1089,10 +1089,10 @@
       "A": "Konuşma (diyalog)",
       "B": "Tartışma",
       "C": "Öyküleme",
-      "D": "Açıklama",
-      "E": "Betimleme"
+      "D": "Betimleme",
+      "E": "Açıklama"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Cümle bir varlığı duyulara hitap edecek biçimde gözde canlandırır; betimlemedir.",
     "source": {
       "kind": "generated",
@@ -1112,10 +1112,10 @@
       "A": "Tartışma",
       "B": "Konuşma (diyalog)",
       "C": "Betimleme",
-      "D": "Açıklama",
-      "E": "Öyküleme"
+      "D": "Öyküleme",
+      "E": "Açıklama"
     },
-    "answer": "D",
+    "answer": "E",
     "solution": "Bir kavram hakkında bilgi verildiği için cümle açıklama biçimindedir.",
     "source": {
       "kind": "generated",
@@ -1133,12 +1133,12 @@
     "stem": "‘Diyalog, iki ya da daha fazla kişi arasında geçen karşılıklı konuşmadır.’ cümlesinde hangi düşünceyi geliştirme yolundan yararlanılmıştır?",
     "options": {
       "A": "Karşılaştırma",
-      "B": "Örnekleme",
-      "C": "Tanık gösterme",
-      "D": "Sayısal veri",
-      "E": "Tanımlama"
+      "B": "Tanımlama",
+      "C": "Örnekleme",
+      "D": "Tanık gösterme",
+      "E": "Sayısal veri"
     },
-    "answer": "E",
+    "answer": "B",
     "solution": "Bir kavramın ‘…dır’ yargısıyla ne olduğunun anlatılması tanımlamadır.",
     "source": {
       "kind": "generated",
@@ -1180,11 +1180,11 @@
     "options": {
       "A": "Örnekleme",
       "B": "Tanımlama",
-      "C": "Karşılaştırma",
-      "D": "Tanık gösterme",
+      "C": "Tanık gösterme",
+      "D": "Karşılaştırma",
       "E": "Sayısal veri"
     },
-    "answer": "D",
+    "answer": "C",
     "solution": "Bir düşüncenin başka bir kişinin sözüne dayandırılması tanık göstermedir.",
     "source": {
       "kind": "generated",
@@ -1201,13 +1201,13 @@
     "konu": "cumlede_anlam",
     "stem": "‘Araştırmaya katılan yüz kişinin yetmiş beşi günde bir saatten fazla kitap okuduğunu söyledi.’ cümlesinde hangi düşünceyi geliştirme yolundan yararlanılmıştır?",
     "options": {
-      "A": "Örnekleme",
-      "B": "Tanık gösterme",
-      "C": "Tanımlama",
-      "D": "Karşılaştırma",
-      "E": "Sayısal veri"
+      "A": "Sayısal veri",
+      "B": "Örnekleme",
+      "C": "Tanık gösterme",
+      "D": "Tanımlama",
+      "E": "Karşılaştırma"
     },
-    "answer": "E",
+    "answer": "A",
     "solution": "Düşünce, araştırma sonucuna ait sayılarla desteklenmiştir.",
     "source": {
       "kind": "generated",
@@ -1250,10 +1250,10 @@
       "A": "Servis kaçta kalkıyor?",
       "B": "Bu belgeyi nereye teslim etmem gerekiyor?",
       "C": "Yarın hava nasıl olacak?",
-      "D": "Yeni müdür hangi okuldan geliyor?",
-      "E": "Bu kadar dürüst birine kim güvenmez ki?"
+      "D": "Bu kadar dürüst birine kim güvenmez ki?",
+      "E": "Yeni müdür hangi okuldan geliyor?"
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "‘Kim güvenmez ki?’ herkesin güveneceğini vurgular (retorik); ötekiler bilgi edinmek için sorulmuştur.",
     "source": {
       "kind": "generated",
@@ -1273,10 +1273,10 @@
       "A": "Kitabı masanın üzerine bırakıp çıktı.",
       "B": "En yakın arkadaşım sonunda gitti.",
       "C": "Çocuklar bahçede akşama kadar oynadı.",
-      "D": "Müdür, toplantıyı bir saat erken bitirdi.",
-      "E": "Gitti sonunda en yakın arkadaşım."
+      "D": "Gitti sonunda en yakın arkadaşım.",
+      "E": "Müdür, toplantıyı bir saat erken bitirdi."
     },
-    "answer": "E",
+    "answer": "D",
     "solution": "Yüklem ‘gitti’ cümlenin başındadır; ötekilerde yüklem sondadır.",
     "source": {
       "kind": "generated",
@@ -1386,12 +1386,12 @@
     "stem": "Aşağıdaki cümlelerin hangisinde benzetme sanatı kullanılmıştır?",
     "options": {
       "A": "Yarın okula gelirsen sana o kitabı getiririm mutlaka.",
-      "B": "Gözleri, sabaha karşı parlayan iki yıldız gibiydi.",
-      "C": "Bu konuyu size kaç kez hatırlatmam gerekiyor ki artık?",
+      "B": "Bu konuyu size kaç kez hatırlatmam gerekiyor ki artık?",
+      "C": "Gözleri, sabaha karşı parlayan iki yıldız gibiydi.",
       "D": "Çocuk, yorgunluktan öldüğünü söyleyerek koltuğa attı kendini.",
       "E": "Kapıyı çaldı ama içeriden hiçbir ses gelmedi bir süre."
     },
-    "answer": "B",
+    "answer": "C",
     "solution": "Benzetmede, aralarında benzerlik bulunan iki varlık gibi, sanki, kadar gibi sözcüklerle yan yana getirilir. “Gözleri, sabaha karşı parlayan iki yıldız gibiydi.” cümlesinde gözler, iki yıldıza benzetilmiştir; “…öldüğünü söyleyerek…” cümlesi abartı, “…kaç kez hatırlatmam gerekiyor ki artık?” cümlesi retorik soru içerir; öteki ikisinde söz sanatı yoktur.",
     "source": {
       "kind": "generated",
@@ -1410,11 +1410,11 @@
     "options": {
       "A": "Akşam eve gelince annem çorbayı ısıtıp sofrayı hazırladı.",
       "B": "Öğretmenimiz sınav sorularını tahtaya sırayla yazdı kâğıda.",
-      "C": "Sınavdan sonra öyle yoruldum ki ayaklarım beni taşıyamayacak sandım, öldüm gitti.",
-      "D": "Gelecek hafta okul gezisine kaç kişinin katılacağını sordular.",
+      "C": "Gelecek hafta okul gezisine kaç kişinin katılacağını sordular.",
+      "D": "Sınavdan sonra öyle yoruldum ki ayaklarım beni taşıyamayacak sandım, öldüm gitti.",
       "E": "Sınav salonuna girmeden önce kitabı son bir kez karıştırdım."
     },
-    "answer": "C",
+    "answer": "D",
     "solution": "Abartı, bir durumu olduğundan çok daha fazla ya da az göstererek anlatma sanatıdır. “Öldüm gitti” ifadesi yorgunluğu gerçekte olmayacak ölçüde büyütür; öteki cümleler olayları olduğu gibi anlatır.",
     "source": {
       "kind": "generated",
@@ -1432,17 +1432,63 @@
     "stem": "Aşağıdaki cümlelerin hangisinde kişileştirme (teşhis) sanatı kullanılmıştır?",
     "options": {
       "A": "Köy yolunun iki yanı uzun söğüt ağaçlarıyla çevriliydi.",
-      "B": "Rüzgâr, ağaçların dallarıyla bütün gece oyun oynadı.",
-      "C": "Sabah erkenden kalkıp yürüyüşe çıkmak çok iyi geliyor.",
-      "D": "Öğrenciler, öğretmenlerinin anlattığı konuyu not aldı.",
+      "B": "Sabah erkenden kalkıp yürüyüşe çıkmak çok iyi geliyor.",
+      "C": "Öğrenciler, öğretmenlerinin anlattığı konuyu not aldı.",
+      "D": "Rüzgâr, ağaçların dallarıyla bütün gece oyun oynadı.",
       "E": "Pazardan dört kilo domates ve iki kilo biber aldım."
     },
-    "answer": "B",
+    "answer": "D",
     "solution": "Kişileştirme (teşhis), insan olmayan varlıklara insana özgü davranışlar yüklemektir. “Rüzgârın oyun oynaması” rüzgârı insan gibi gösterir; öteki cümlelerde böyle bir aktarma yoktur.",
     "source": {
       "kind": "generated",
       "styleRef": "AGS_URETIM_KURALLARI",
       "legislationRef": "Söz sanatları: kişileştirme"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-cum-064",
+    "ders": "sozel_yetenek",
+    "konu": "cumlede_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde konuşturma (intak) sanatı kullanılmıştır?",
+    "options": {
+      "A": "Ağaç, yıllardır susan gövdesinden bize seslendi: “Beni kesmeyin, size gölge olurum.”",
+      "B": "Orman yangınında yüzlerce ağaç kül oldu gitti.",
+      "C": "Bahçedeki ağaçların yaprakları sonbaharda sararır.",
+      "D": "Yaşlı çınar, yüzyıllardır köyün meydanında sessizce durur.",
+      "E": "Çocuklar ağacın gölgesinde oturup ders çalıştı."
+    },
+    "answer": "A",
+    "solution": "Konuşturma, insan olmayan varlıkları konuşturmaktır. “Beni kesmeyin, size gölge olurum” sözleriyle ağaç konuşturulmuştur; öteki cümlelerde bir konuşma yoktur.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Söz sanatları: konuşturma"
+    },
+    "validYear": 2026,
+    "difficulty": "medium",
+    "mockExamId": null
+  },
+  {
+    "id": "ags-soz-cum-065",
+    "ders": "sozel_yetenek",
+    "konu": "cumlede_anlam",
+    "stem": "Aşağıdaki cümlelerin hangisinde birbirine zıt kavramlar yan yana getirilerek anlatım güçlendirilmiştir (tezat)?",
+    "options": {
+      "A": "Yüzünde derin bir yorgunluk vardı; gece boyunca hiç uyumamıştı.",
+      "B": "Yüzünde hem hüzün hem sevinç vardı; dudakları gülüyor, gözleri ağlıyordu.",
+      "C": "Gülümseyerek yaklaştı ve elini sıkıca tuttu.",
+      "D": "Onu gördüğüm gün hava çok güzeldi, yollar kalabalıktı.",
+      "E": "Öğleden sonra yağmur bir süre devam etti, sonra durdu."
+    },
+    "answer": "B",
+    "solution": "Tezat (karşıtlık), zıt anlamlı kavramların bir arada kullanılmasıdır; “gülüyor – ağlıyordu” ve “hüzün – sevinç” zıt kavramları bir arada verilmiştir.",
+    "source": {
+      "kind": "generated",
+      "styleRef": "AGS_URETIM_KURALLARI",
+      "legislationRef": "Söz sanatları: tezat"
     },
     "validYear": 2026,
     "difficulty": "medium",
